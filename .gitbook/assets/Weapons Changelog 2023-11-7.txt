@@ -1,0 +1,3492 @@
+======================================================================
+                  November 7th, 2023 - Weapon Changes
+======================================================================
+Summary of Changes:
+These consist of changes to almost all primary and secondary weapons for every class.
+
+There is much to discuss on every single change:
+What was the purpose?
+How does this affect class roles?
+Is this too OP?
+Is this too nerfed?
+What is the new overall dynamic?
+
+Originally, a 100+ page document was written covering everything, but that's been left out.
+What remains here are just the changes and reasons for specific weapon changes.
+These are some thoughts players may want to consider for themselves and discuss for future reference.
+
+This also produces the following average sustained DPS ranges (rounded to nearest 5th):
+* Class    - Primary - Secondary
+* Scout    - 150  - 130
+* Soldier  - 160  - 100
+* Pyro     - #N/A - 130
+* Demoman  - 135  - 70
+* Heavy    - 215  - 135
+* Engineer - 80   - 80
+* Medic    - 130  - #N/A
+* Sniper   - 150  - 160
+* Spy      - #N/A - 160
+
+The above values do include weapons that deal no damage.
+Average by using sum of max damage from either secondaries or primaries: ~147.
+Values provided below regarding a weapon's attack timings, damage values, or any attributes may differ in actual gaemplay.
+
+======================================================================
+                              Multiclass
+======================================================================
+
+=== **Shotgun** ===
+
+__All Attributes__:
++20% damage bonus
++200% clip size
++60% faster firing speed
+60% faster reload time
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 18 (Unchanged)
+• Ammo Carried: 200 (Unchanged)
+• Weapon Spread: 30:1 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.255 (from 0.195)
+• TEC: 4.59 (from 3.51)
+• Reload (First): 0.405 (Unchanged)
+• Reload (Consec.): 0.21 (Unchanged)
+• FRT: 3.975 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 72 (from 36)
+• Base Sustained DPS: 151.312 (from 86.572)
+• Base Nonstop DPS: 282.352 (from 184.615)
+
+**Func_Breakable**:
+• Base dmg: 36 (from 18)
+• Base Sustained DPS: 75.656 (from 43.286)
+• Base Nonstop DPS: 141.176 (from 92.307)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 4 (from 2)
+• Max dmg: 108 (from 54)
+• Max Sustained DPS: 226.97 (from 129.859)
+• Max Nonstop DPS: 423.529 (from 276.923)
+
+**Math_Counter**:
+• Base Sustained BPS: 2.102 (from 2.405)
+• Base Nonstop BPS: 3.921 (from 5.128)
+
+__Reasoning__:
+The stock Shotgun is pretty much the de-facto weapon used by new players or those overwhelmed by all the weapon changes. It also sets the precedent for pretty much all shotgun-esque weapons. This weapon's base DPS is around 150, which is a damage range all weapons will hover around. The fire rate has been lowered slightly to compensate for damage increases and as a nerf. This will make classes with shotguns slightly more reliant on their unique primary/secondary weapons for defense or support.
+
+----------------------------------------------------------------------
+
+=== **Reserve Shooter** ===
+
+__All Attributes__:
++20% damage bonus
++100% clip size
++55% faster firing speed
+40% more accurate
+60% faster reload time
+This weapon deploys 20% faster
+Mini-crits targets launched airborne by explosions, grapple hooks or rocket packs
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 12 (Unchanged)
+• Ammo Carried: 200 (Unchanged)
+• Weapon Spread: 50:1 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.285 (from 0.255)
+• TEC: 3.42 (from 3.06)
+• Reload (First): 0.405 (Unchanged)
+• Reload (Consec.): 0.21 (Unchanged)
+• FRT: 2.715 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 72 (Unchanged)
+• Base Sustained DPS: 140.83 (from 149.609)
+• Base Nonstop DPS: 252.631 (from 282.352)
+
+**Func_Breakable**:
+• Base dmg: 36 (Unchanged)
+• Base Sustained DPS: 70.415 (from 74.804)
+• Base Nonstop DPS: 126.315 (from 141.176)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 4 (Unchanged)
+• Max dmg: 108 (Unchanged)
+• Max Sustained DPS: 211.246 (from 224.415)
+• Max Nonstop DPS: 378.947 (from 423.529)
+
+**Math_Counter**:
+• Base Sustained BPS: 1.956 (from 2.078)
+• Base Nonstop BPS: 3.508 (from 3.921)
+
+__Reasoning__:
+Minor tweaks to make it have slightly less DPS than the stock Shotgun. Slightly slower firing speed should help emphasize it being less effective at sustaining a defense compared to Shotgun.
+
+----------------------------------------------------------------------
+
+=== **Panic Attack** ===
+
+__All Attributes__:
+-40% damage penalty
+25% damage vs players
++200% clip size
++80% faster firing speed
+100% less accurate
++50% bullets per shot
+Successive shots become less accurate
+40% faster reload time
+This weapon deploys 50% faster
+Fires a wide, fixed shot pattern
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 18 (Unchanged)
+• Ammo Carried: 200 (Unchanged)
+• Weapon Spread: 15:1 (from 30:1)
+
+__Timings (s)__:
+• Attack Interval: 0.135 (from 0.105)
+• TEC: 2.43 (from 1.89)
+• Reload (First): 0.6 (from 0.66)
+• Reload (Consec.): 0.3 (from 0.33)
+• FRT: 5.7 (from 6.27)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 54 (from 36)
+• Base Sustained DPS: 119.557 (from 79.411)
+• Base Nonstop DPS: 400 (from 342.857)
+
+**Func_Breakable**:
+• Base dmg: 27 (from 18)
+• Base Sustained DPS: 59.778 (from 39.705)
+• Base Nonstop DPS: 200 (from 171.428)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 3 (from 1)
+• Max dmg: 95 (from 54)
+• Max Sustained DPS: 210.331 (from 119.117)
+• Max Nonstop DPS: 703.703 (from 514.285)
+
+**Math_Counter**:
+• Base Sustained BPS: 2.214 (from 2.206)
+• Base Nonstop BPS: 7.407 (from 9.523)
+
+__Reasoning__:
+The Panic Attack has been adjusted quite a bit to raise its DPS. Among the multiclass shotguns, this one emphasizes inaccuracy as its advantage. The damage to players bonus was added to potentially create greater knockback with stray bullets. Its fire rate has been toned down to prevent it from outclassing the BPS of other weapons while under the effects of infinite ammo.
+
+----------------------------------------------------------------------
+
+=== **Pistol** ===
+
+__All Attributes__:
++20% damage bonus
++300% clip size
++33% faster firing speed
+50% more accurate
+50% slower reload time
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 48 (from 72)
+• Ammo Carried: 200 (Unchanged)
+• Weapon Spread: 100:1 (from 50:1)
+
+__Timings (s)__:
+• Attack Interval: 0.105 (Unchanged)
+• TEC: 5.04 (from 7.56)
+• FRT: 1.515 (from 1.485)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 18 (from 19.95)
+• Base Sustained DPS: 131.807 (from 158.805)
+• Base Nonstop DPS: 171.428 (from 190)
+
+**Func_Breakable**:
+• Base dmg: 9 (Unchanged)
+• Base Sustained DPS: 65.903 (from 71.641)
+• Base Nonstop DPS: 85.714 (Unchanged)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 10 (from 11)
+• Max dmg: 27 (from 30)
+• Max Sustained DPS: 197.711 (from 238.805)
+• Max Nonstop DPS: 257.142 (from 285.714)
+
+**Math_Counter**:
+• Base Sustained BPS: 7.322 (from 7.959)
+• Base Nonstop BPS: 9.523 (Unchanged)
+
+__Reasoning__:
+The Pistol serves as Scout and Engineer’s trusty follow-up weapon a majority of the time. In base TF2, if enemies are far away or low on health, they can quickly swap to this weapon in the hopes of more accurately putting a few shots in. It’s not meant to be stronger than a Shotgun, hence the damage nerf to 131.807 DPS. It’s also not meant to last forever, hence the clip reduction to 48 to produce a TEC time of 5.04 (66% of what it was prior) and an up-time downtime ratio of 3.326. What this weapon does now excel in is accuracy, which is emphasized by its decreased bullet spread to 100:1. This makes the Pistol even better for single-target stalling and for shooting at fast-moving or far-away bosses assuming one can track well.
+
+======================================================================
+                                Scout
+======================================================================
+
+=== **Scattergun** ===
+
+__All Attributes__:
++20% damage bonus
++200% clip size
++60% faster firing speed
+65% faster reload time
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 18 (Unchanged)
+• Ammo Carried: 200 (Unchanged)
+• Weapon Spread: 30:1 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.255 (Unchanged)
+• TEC: 4.59 (Unchanged)
+• Reload (First): 0.255 (Unchanged)
+• Reload (Consec.): 0.18 (Unchanged)
+• FRT: 3.315 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 72 (Unchanged)
+• Base Sustained DPS: 163.946 (Unchanged)
+• Base Nonstop DPS: 282.352 (Unchanged)
+
+**Func_Breakable**:
+• Base dmg: 72 (Unchanged)
+• Base Sustained DPS: 163.946 (Unchanged)
+• Base Nonstop DPS: 282.352 (Unchanged)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 4 (Unchanged)
+• Max dmg: 126 (Unchanged)
+• Max Sustained DPS: 286.906 (Unchanged)
+• Max Nonstop DPS: 494.117 (Unchanged)
+
+**Math_Counter**:
+• Base Sustained BPS: 2.276 (Unchanged)
+• Base Nonstop BPS: 3.921 (Unchanged)
+
+__Reasoning__:
+The Scattergun is the base for all Scout primaries. Notably, it is very similar to the proposed stock Shotgun albeit with a 5% faster reload time. It has kept its 65% faster reload time and clip size of 18, but now has a lessened +60% faster firing speed. The biggest change is the increased damage output.
+
+----------------------------------------------------------------------
+
+=== **Force-A-Nature** ===
+
+__All Attributes__:
+When weapon is active:
+Attrib_Scattergun_NoReloadSingle (Hidden)
+-15% damage penalty
+25% damage vs players
++100% clip size
++75% faster firing speed
+200% less accurate
++20% bullets per shot
+Successive shots become less accurate
+7.7% slower move speed on wearer
+25% slower reload time
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 12 (from 18)
+• Ammo Carried: 200 (Unchanged)
+• Weapon Spread: 10:1 (from 30:1)
+
+__Timings (s)__:
+• Attack Interval: 0.165 (Unchanged)
+• TEC: 1.98 (from 2.97)
+• Reload (First): 1.815 (from 2.325)
+• FRT: 1.815 (from 2.325)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 61.2 (from 30)
+• Base Sustained DPS: 193.517 (from 101.982)
+• Base Nonstop DPS: 370.909 (from 181.818)
+
+**Func_Breakable**:
+• Base dmg: 61.2 (from 30)
+• Base Sustained DPS: 193.517 (from 101.982)
+• Base Nonstop DPS: 370.909 (from 181.818)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 4 (from 2)
+• Max dmg: 122 (from 53)
+• Max Sustained DPS: 385.77 (from 180.169)
+• Max Nonstop DPS: 739.393 (from 321.212)
+
+**Math_Counter**:
+• Base Sustained BPS: 3.161 (from 3.399)
+• Base Nonstop BPS: 6.06 (Unchanged)
+
+__Reasoning__:
+The Force-A-Nature in base TF2 is a renowned weapon for its extremely fast shots and the “punchy” feeling it gives off. Added onto this is a knockback effect that impacts both the targeted player and the user allowing the latter an additional “jump” in the air. Unfortunately, this knockback effect has been disabled or altered in Zombie Escape such that it cannot be used to one’s advantage. So, rather than attempt to work into that, these changes aim to intensify the feeling of having an explosive, rapid-fire shotgun that lends itself well to defenses… at a cost.
+
+This weapon has been given back its +20% bullets per shot bonus, a -10% damage penalty, a clip size of 12, and an increased +25% reload time. This yields a TEC time of 1.98 seconds, a FRT of 1.68 seconds, and an uptime-downtime ratio of 1.318. This grants it 204.901 sustained DPS and a ridiculous 392.727 nonstop DPS. This weapon has also been given a +25% damage bonus to players allowing Scouts to potentially deal more knockback with any stray pellets.
+
+And there’s going to be a lot of stray pellets! Pushing more into the explosive aspect, this weapon has been modified to be 200% less accurate with an added flare of successive shots becoming less accurate. You will not hit anything unless you’re up close. The spread can help at a reasonable distance for hitting wider groups of zombies; but, for boss fights, this makes the weapon somewhat unreliable to use. You will need to be up close in front of bosses to land all pellets to take advantage of this weapon's particularly high DPS, which can be dangerous since you’ll also be moving a bit slower.
+
+Yes, there’s even a movement penalty! It’s a less intensified version of the previous one that applies a 7.5% speed penalty. The Scout will now move at:
+
+300 HU/s * 0.975 = 292.50 HU/s (Scout speed on maps with speed rescaling)
+292.50 HU/s * 0.925 => 270.50  HU/s (Scout speed with Force-A-Nature held out)
+
+400 HU/s (Scout speed on maps without speed rescaling)
+400 HU/s * 0.925 = 370 HU/s (Scout speed with Force-A-Nature held out)
+
+So, now you’ve got a weapon that gives you explosive power and defensive support at the cost of accuracy and movement. It’s a high-commitment weapon that encourages Scouts to be up close to push back zombies or dish out massive damage. Compared to the other scatterguns, this offers burst damage to bosses that get too close and serves as an emergency response to defenses about to be lost.
+
+----------------------------------------------------------------------
+
+=== **Shortstop** ===
+
+__All Attributes__:
+When weapon is active:
+Attrib_Scattergun_NoReloadSingle (Hidden)
+-22.5% damage penalty
+25% damage vs players
++200% clip size
++50% faster firing speed
++25% bullets per shot
+50% slower reload time (Hidden)
+20% increase in push force taken from damage (Hidden)
+Increase in push force taken from damage and airblast
+20% reduction in airblast vulnerability (Hidden)
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 12 (Unchanged)
+• Ammo Carried: 200 (Unchanged)
+• Weapon Spread: 50:1 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.18 (from 0.24)
+• TEC: 2.16 (from 2.88)
+• Reload (First): 1.53 (from 1.155)
+• FRT: 1.53 (from 1.155)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 46.5 (from 45)
+• Base Sustained DPS: 151.219 (from 133.828)
+• Base Nonstop DPS: 258.333 (from 187.5)
+
+**Func_Breakable**:
+• Base dmg: 46.5 (from 45)
+• Base Sustained DPS: 151.219 (from 133.828)
+• Base Nonstop DPS: 258.333 (from 187.5)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 7 (from 8)
+• Max dmg: 81 (from 83)
+• Max Sustained DPS: 263.414 (from 246.839)
+• Max Nonstop DPS: 450 (from 345.833)
+
+**Math_Counter**:
+• Base Sustained BPS: 3.251 (from 2.973)
+• Base Nonstop BPS: 5.555 (from 4.166)
+
+__Reasoning__:
+While this weapon is meant to be somewhat close to the Scattergun, its weapon stats differ significantly. This weapon, like in base TF2, fires much faster at an attack interval of 0.18 seconds. It also takes 2.16 seconds to empty the clip. Additionally, this weapon reloads its entire clip at once taking 1.53 seconds. This results in an 1.411 uptime-downtime ratio, which is a bit better than the Scattergun. But, its sustained and nonstop DPS are fairly lower as a result.
+
+Not many people use the Shortstop in general, so these changes make it something to consider in situations where players may need to accurately shoot down targets. This could be for single-target stalling against zombies, fast-moving bosses with smaller hitboxes, or far-away DPS checks. Pistols can, of course, serve this purpose, but Scouts may want to consider this weapon if running support items like the Mad Milk or Bonk! Atomic Punch.
+
+----------------------------------------------------------------------
+
+=== **Soda Popper** ===
+
+__All Attributes__:
+When weapon is active:
+Attrib_Scattergun_NoReloadSingle (Hidden)
+-30% damage penalty
+Critical damage is affected by range
++100% clip size
++75% faster firing speed
+50% slower reload time
+This weapon deploys 50% faster
+This weapon holsters 50% faster
+On Kill: 5.0 seconds of 100% critical chance
+Crits whenever it would normally mini-crit
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 12 (from 8)
+• Ammo Carried: 200 (Unchanged)
+• Weapon Spread: 30:1 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.165 (from 0.195)
+• TEC: 1.98 (from 1.56)
+• Reload (First): 2.175 (from 0.735)
+• FRT: 2.175 (from 0.735)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 42 (from 45)
+• Base Sustained DPS: 121.299 (from 156.862)
+• Base Nonstop DPS: 254.545 (from 230.769)
+
+**Func_Breakable**:
+• Base dmg: 42 (from 45)
+• Base Sustained DPS: 121.299 (from 156.862)
+• Base Nonstop DPS: 254.545 (from 230.769)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 2 (Unchanged)
+• Max dmg: 74 (from 79)
+• Max Sustained DPS: 213.718 (from 275.381)
+• Max Nonstop DPS: 448.484 (from 405.128)
+
+**Math_Counter**:
+• Base Sustained BPS: 2.887 (from 3.485)
+• Base Nonstop BPS: 6.06 (from 5.128)
+
+__Reasoning__:
+The Soda Popper in base TF2 is an interesting weapon for its Hype mechanic. After dealing enough damage, you can generate a Hype meter to gain multiple extra jumps for ridiculous mobility while fighting enemies. Of course, this mobility would be extremely overpowered or break entire sections of maps so it has been disabled. Instead, these changes sort of call back to the Soda Popper’s old mechanic relating to mini-crits by instead buffing them. 
+
+To fit in with the Crit-a-Cola design, the Soda Popper has been transformed into a synergistic weapon that now transforms minicrits into full crits with falloff. Even with the falloff, this makes it more effective at knocking back players from a distance. This also makes exterior sources of mini-crits even more powerful and weapons that you can equip to grant yourself mini-crits even more useful. This unique gimmick does come at the cost of the weapon’s DPS.
+
+This weapon does still have a wide bullet spread. To make use of it all, players might find themselves weaving in and out of a defense. To begin the chain of crits, players may push in to look for targets low on HP and pull out to carry out a stall at a safer distance with crits. There is also an interesting interplay with Sniper and Spy as these are the classes expected to kill off zombies. If they so choose, they can leave zombies at low enough health values for Soda Popper Scouts to finish off. They sacrifice the kill on their end to potentially buff the defense if you can use your weapon effectively.
+
+----------------------------------------------------------------------
+
+=== **Baby Face's Blaster** ===
+
+__All Attributes__:
+-10% damage penalty
++60% faster firing speed
+25% more accurate
+19.5% slower move speed on wearer
+65% faster reload time
+On Hit: Builds Boost
+Run speed increased with Boost
+Boost reduced on air jumps
+Boost reduced when hit
+Wearer never takes falling damage
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 6 (Unchanged)
+• Ammo Carried: 200 (Unchanged)
+• Weapon Spread: 40:1 (from 30:1)
+
+__Timings (s)__:
+• Attack Interval: 0.255 (from 0.195)
+• TEC: 1.53 (from 1.17)
+• Reload (First): 0.255 (Unchanged)
+• Reload (Consec.): 0.18 (Unchanged)
+• FRT: 1.155 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 54 (from 40.2)
+• Base Sustained DPS: 120.669 (from 103.741)
+• Base Nonstop DPS: 211.764 (from 206.153)
+
+**Func_Breakable**:
+• Base dmg: 54 (from 40.2)
+• Base Sustained DPS: 120.669 (from 103.741)
+• Base Nonstop DPS: 211.764 (from 206.153)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 3 (from 2)
+• Max dmg: 95 (from 70)
+• Max Sustained DPS: 212.29 (from 180.644)
+• Max Nonstop DPS: 372.549 (from 358.974)
+
+**Math_Counter**:
+• Base Sustained BPS: 2.234 (from 2.58)
+• Base Nonstop BPS: 3.921 (from 5.128)
+
+__Reasoning__:
+The Baby Face’s Blaster is a weapon primarily used by Scouts who want to go fast. At the sacrifice of its initial movement speed and clip size, this weapon boosts players to the fastest possible speed values among the classes. In Zombie Escape, speed is a very important element that can be extremely strong in certain maps. To keep things even, the movement speed penalty has been reduced to 19.5%. This allows the scout to move at the following speed values:
+
+300 HU/s × 0.975 = 292.50 HU/s (Scout speed on maps with speed nerf)
+292.50 HU/s × 0.805 = 235.4625 HU/s => *235.00 HU/s (Scout with no boost)
+235.4625 HU/s × 1.444 => *340.00 HU/s (Scout with full boost)
+
+400 HU/s (Scout speed on maps without speed nerf)
+400 HU/s × 0.805 = 322.0  HU/s (Scout with no boost)
+322.00 HU/s × 1.444 => *465 HU/s (Scout with full boost)
+
+*true values may differ slightly
+
+Also, because the speed increase can still be so large, this weapon damage output resides at the low-end among all the scatterguns.. As small compensation, this weapon has been made to be 25% more accurate to help Scouts build their speed through more consistent damage output. This can also help them land their shots on boss fights without having to get too close and potentially get damaged, reducing their boost. To further help maintain the boost, the user also does not receive fall damage.
+
+----------------------------------------------------------------------
+
+=== **Back Scatter** ===
+
+__All Attributes__:
+-10% damage penalty
++100% clip size
++50% faster firing speed
+100% less accurate
++50% bullets per shot
+60% faster reload time
+No random critical hits
+Mini-crits targets when fired at their back from close range
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 12 (Unchanged)
+• Ammo Carried: 200 (Unchanged)
+• Weapon Spread: 15:1 (from 20:1)
+
+__Timings (s)__:
+• Attack Interval: 0.315 (from 0.285)
+• TEC: 3.78 (from 3.42)
+• Reload (First): 0.285 (from 0.255)
+• Reload (Consec.): 0.21 (from 0.18)
+• FRT: 2.595 (from 2.235)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 81 (from 96)
+• Base Sustained DPS: 152.47 (from 203.713)
+• Base Nonstop DPS: 257.142 (from 336.842)
+
+**Func_Breakable**:
+• Base dmg: 81 (from 96)
+• Base Sustained DPS: 152.47 (from 203.713)
+• Base Nonstop DPS: 257.142 (from 336.842)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 3 (from 5)
+• Max dmg: 142 (from 168)
+• Max Sustained DPS: 267.293 (from 356.498)
+• Max Nonstop DPS: 450.793 (from 589.473)
+
+**Math_Counter**:
+• Base Sustained BPS: 1.881 (from 2.121)
+• Base Nonstop BPS: 3.174 (from 3.508)
+
+__Reasoning__:
+The Back Scatter in base TF2 is a weird weapon used by Scouts to mini-crit players from behind. It serves as a flanking tool, but many would find that to be a death sentence in Zombie Escape. Instead, this weapon plays on its streetsweeper shotgun design. It has twice the spread of the Scattergun and fires 15 pellets per shot making it a very strong defensive option but only up-close or in medium-range. However, this proposed version of the weapon has the smallest fire-rate bonus being tied with the Shortstop at a 50% faster firing rate. The reduced clip size and slower fire rate is in the hopes of deterring it from being too strong as a consistent, defensive weapon. At the cost of its defensive capability, the Back Scatter’s sustained DPS is at within lower-middle range at 152 sustained DPS.
+
+These changes are in the attempts of making the Back Scatter a more supportive scattergun. It currently excels as the highest-damaging, best-defending scattergun. To differentiate it from the Force-A-Nature, this weapon remains consistent with its lesser spread making it more reliable for defending at a reasonable distance. As for why a player would use this over the Scattergun, people should not understimate how strong stalling is. Due to the plugin, players shot at within a certain distance will immediately be brought to half-speed; ergo, more pellets and wider range equals more zombies potentially stalled. This can be extremely annoying on the zombie side and really is something that a single player should not be able to achieve, but it's an option nonetheless and non-exclusive to the Back Scatter. This weapon lets players fill this utility if they want to cover fallbacks at the cost of other attributes.
+
+----------------------------------------------------------------------
+
+=== **Winger** ===
+
+__All Attributes__:
++70% damage bonus
++50% clip size
++33% faster firing speed
+37.5% more accurate
+25% slower reload time
+This weapon deploys 25% faster
+This weapon holsters 25% faster
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 18 (from 36)
+• Ammo Carried: 200 (Unchanged)
+• Weapon Spread: 80:1 (from 50:1)
+
+__Timings (s)__:
+• Attack Interval: 0.105 (Unchanged)
+• TEC: 1.89 (from 3.78)
+• FRT: 1.26 (from 0.915)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 25.5 (from 19.95)
+• Base Sustained DPS: 145.714 (from 152.971)
+• Base Nonstop DPS: 242.857 (from 190)
+
+**Func_Breakable**:
+• Base dmg: 12 (from 9)
+• Base Sustained DPS: 68.571 (from 69.009)
+• Base Nonstop DPS: 114.285 (from 85.714)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 13 (from 11)
+• Max dmg: 38 (from 30)
+• Max Sustained DPS: 217.142 (from 230.031)
+• Max Nonstop DPS: 361.904 (from 285.714)
+
+**Math_Counter**:
+• Base Sustained BPS: 5.713 (from 7.667)
+• Base Nonstop BPS: 9.523 (Unchanged)
+
+__Reasoning__:
+The Winger is the more damaging variant among all the Pistols at the cost of clip size in base TF2. It also has a unique +25% jump height bonus, but it’s been removed in Zombie Escape to avoid exploiting most maps. In consolation, it’s been given a +25% faster weapon switch and a smaller bullet spread at 80:1. This is in the hopes of making it a faster and more effective response option as a weapon for single-target stalling or for fighting certain bosses. You can get up close with the pistol to stall and quickly swap to scatterguns if surrounded or vice versa when dealing with bosses that tend to run away. 
+
+When it comes to stats, people may immediately feel its reduced clip size to 18. This is still about 40% of the stock Pistol’s clip size of 48. It also has a 25% slower reload rate, which is faster than the Pistol and Pretty Boy’s Pocket Pistol. This produces a TEC time of 1.89, a FRT of 1.216, and results in an uptime-downtime ratio of 1.5. This is less than half that of the Pistol’s making the weapon switch even more necessary if caught out during its many downtimes. At the very least, this is the most damaging pistol at 145.714  sustained DPS.
+
+
+----------------------------------------------------------------------
+
+=== **Pretty Boy's Pocket Pistol** ===
+
+__All Attributes__:
+When weapon is active:
++10% damage bonus
++200% clip size
++45% faster firing speed
+17% more accurate
+50% slower reload time
+On Hit: Gain up to +3.0 health
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 36 (from 54)
+• Ammo Carried: 200 (Unchanged)
+• Weapon Spread: 60.24:1 (from 50:1)
+
+__Timings (s)__:
+• Attack Interval: 0.09 (from 0.105)
+• TEC: 3.24 (from 5.67)
+• FRT: 1.515 (from 1.485)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 16.5 (from 19.95)
+• Base Sustained DPS: 124.92 (from 150.566)
+• Base Nonstop DPS: 183.333 (from 190)
+
+**Func_Breakable**:
+• Base dmg: 8 (from 9)
+• Base Sustained DPS: 60.567 (from 67.924)
+• Base Nonstop DPS: 88.888 (from 85.714)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 9 (from 11)
+• Max dmg: 25 (from 30)
+• Max Sustained DPS: 189.273 (from 226.414)
+• Max Nonstop DPS: 277.777 (from 285.714)
+
+**Math_Counter**:
+• Base Sustained BPS: 7.57 (from 7.546)
+• Base Nonstop BPS: 11.111 (from 9.523)
+
+__Reasoning__:
+The Pretty Boy’s Pocket Pistol is a self-sustaining weapon for Scout at the cost of clip size. It still maintains its +3 HP on hit attribute and acts as the fastest firing secondary among all Scout pistols. With an infinite ammo item, it can reach the potential of miniguns with 11.111 nonstop BPS but will still remain strong without it at 7.57 sustained BPS. It has a clip size of 36, which is 75% that of the stock Pistol’s, and a much shorter TEC time of 3.24. Combined with its FRT of 1.515, it produces an uptime-downtime ratio of 2.138. So, at the cost of healing, this weapon has much more downtime than the Pistol and a sustained DPS at around 124.
+
+======================================================================
+                               Soldier
+======================================================================
+
+=== **Rocket Launcher** ===
+
+__All Attributes__:
++167% damage bonus
+-25% damage vs players
+25% faster reload time
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 4 (from 6)
+• Ammo Carried: 4 (from 6)
+
+__Projectile Info__:
+• Blast Radius: 146 (Unchanged)
+• Projectile Speed: 1100 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.81 (Unchanged)
+• TEC: 3.24 (from 4.86)
+• Reload (First): 0.69 (Unchanged)
+• Reload (Consec.): 0.6 (Unchanged)
+• FRT: 2.49 (from 3.69)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 240.3 (from 180)
+• Base Sustained DPS: 167.748 (from 126.315)
+• Base Nonstop DPS: 296.666 (from 222.222)
+
+**Func_Breakable**:
+• Base dmg: 300 (from 225)
+• Base Sustained DPS: 209.423 (from 157.894)
+• Base Nonstop DPS: 370.37 (from 277.777)
+
+**Base_Boss & Players**:
+• Min dmg (per Projectile): 67 (from 5)
+• Max dmg: 240 (from 135)
+• Max Sustained DPS: 167.539 (from 94.736)
+• Max Nonstop DPS: 296.296 (from 166.666)
+
+**Math_Counter**:
+• Base Sustained BPS: 0.697 (from 0.701)
+• Base Nonstop BPS: 1.234 (Unchanged)
+
+__Reasoning__:
+The Rocket Launcher is now around 170 DPS, which is slightly higher than the current proposed average of around 160 DPS. Changed "dmg penalty vs players" from -50% to -25% and removed clip size bonus.
+
+----------------------------------------------------------------------
+
+=== **Direct Hit** ===
+
+__All Attributes__:
++204% damage bonus
+-25% damage vs players
+25% faster reload time
+-70% explosion radius
++100% projectile speed
+Mini-crits targets launched airborne by explosions, grapple hooks or rocket packs
++100% damage to self
+-25.0 max health on wearer
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 4 (Unchanged)
+• Ammo Carried: 4 (Unchanged)
+
+__Projectile Info__:
+• Blast Radius: 43.8 (Unchanged)
+• Projectile Speed: 2200 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.81 (Unchanged)
+• TEC: 3.24 (Unchanged)
+• Reload (First): 0.69 (Unchanged)
+• Reload (Consec.): 0.6 (Unchanged)
+• FRT: 2.49 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 273.6 (from 301.5)
+• Base Sustained DPS: 190.994 (from 210.471)
+• Base Nonstop DPS: 337.777 (from 372.222)
+
+**Func_Breakable**:
+• Base dmg: 342 (from 376)
+• Base Sustained DPS: 238.743 (from 262.477)
+• Base Nonstop DPS: 422.222 (from 464.197)
+
+**Base_Boss & Players**:
+• Min dmg (per Projectile): 76 (from 159)
+• Max dmg: 274 (from 377)
+• Max Sustained DPS: 191.273 (from 263.176)
+• Max Nonstop DPS: 338.271 (from 465.432)
+
+**Math_Counter**:
+• Base Sustained BPS: 0.697 (Unchanged)
+• Base Nonstop BPS: 1.234 (Unchanged)
+
+__Reasoning__:
+The Direct Hit's damage output has been nerfed from +235% to +204% and its damage penalty vs players has been changed to just -25%. This reduces its DPS to 190. Additionally, the applied z velocity has been changed from -800 to -500. This does still allow players to intentionally die from using this weapon by spiking themselves and dying to fall damage, but it has been kept in regardless for the mechanic of spiking zombies down.
+
+----------------------------------------------------------------------
+
+=== **Black Box** ===
+
+__All Attributes__:
++144% damage bonus
+-25% damage vs players
+Gains a damage bonus as rage increases, up to 20%
+-25% clip size
+-15% slower firing speed
+25% faster reload time
+On Hit: Gain up to +20.0 health per attack
++50% buff duration
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 3 (from 4)
+• Ammo Carried: 3 (from 4)
+
+__Projectile Info__:
+• Blast Radius: 146 (Unchanged)
+• Projectile Speed: 1100 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.93 (from 0.81)
+• TEC: 2.79 (from 3.24)
+• Reload (First): 0.69 (Unchanged)
+• Reload (Consec.): 0.6 (Unchanged)
+• FRT: 1.89 (from 2.49)
+
+__Damage__:
+This weapon receives a 1.2 damage boost at full banner charge (from 1.4).
+
+**Func_Physbox**:
+• Base dmg: 219.6 (from 126)
+• Base Sustained DPS: 140.769 (from 87.957)
+• Base Sustained DPS (Full Rage): 168.923 (from 123.14)
+• Base Nonstop DPS: 236.129 (from 155.555)
+• Base Nonstop DPS (Full Rage): 283.355 (from 217.777)
+
+**Func_Breakable**:
+• Base dmg: 274 (from 157)
+• Base Sustained DPS: 175.64 (from 109.598)
+• Base Sustained DPS (Full Rage): 210.768 (from 153.437)
+• Base Nonstop DPS: 294.623 (from 193.827)
+• Base Nonstop DPS (Full Rage): 353.548 (from 271.358)
+
+**Base_Boss & Players**:
+• Min dmg (per Projectile): 61 (from 4)
+• Max dmg: 220 (from 95)
+• Max Sustained DPS: 141.025 (from 66.317)
+• Max Nonstop DPS: 236.559 (from 117.283)
+
+**Math_Counter**:
+• Base Sustained BPS: 0.64 (from 0.697)
+• Base Nonstop BPS: 1.075 (from 1.234)
+
+__Reasoning__:
+Black Box has been reworked to lessen supportive effects since it already has self-sustain. Without rage, it has around the same low-end DPS as the Liberty Launcher. With max rage, it has around the same DPS as the stock Rocket Launcher. The clip size penalty has also been brought back and the buff duration has been cut in half. This creates a dynamic with the Cow Mangler 5000 to be discussed later.
+
+----------------------------------------------------------------------
+
+=== **Rocket Jumper** ===
+
+__All Attributes__:
+When weapon is active:
++1500% damage bonus
+-25% damage vs players
+-75% clip size
+-650% slower firing speed
+20% slower move speed on wearer
+63% slower reload time
++25% explosion radius
+-75% projectile speed
+This weapon deploys -150% slower
+This weapon holsters 150% slower
+No random critical hits
++400% damage to self
+Wearer cannot carry the intelligence briefcase or PASS Time JACK
+On Hit: Slow target movement by 40% for 3.0s
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 1 (from 6)
+• Ammo Carried: 1 (from 6)
+
+__Projectile Info__:
+• Blast Radius: 182.5 (from 146)
+• Projectile Speed: 275 (from 1100)
+
+__Timings (s)__:
+• Attack Interval: 6 (from 0.81)
+• TEC: 6 (from 4.86)
+• Reload (First): 1.5 (from 0.93)
+• Reload (Consec.): 1.305 (from 0.81)
+• FRT: 1.5 (from 4.98)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 1440 (from 180)
+• Base Sustained DPS: 192 (from 109.755)
+• Base Nonstop DPS: 240 (from 222.222)
+
+**Func_Breakable**:
+• Base dmg: 1800 (from 225)
+• Base Sustained DPS: 240 (from 137.194)
+• Base Nonstop DPS: 300 (from 277.777)
+
+**Base_Boss & Players**:
+• Min dmg (per Projectile): 400 (from 5)
+• Max dmg: 1440 (from 135)
+• Max Sustained DPS: 192 (from 82.316)
+• Max Nonstop DPS: 240 (from 166.666)
+
+**Math_Counter**:
+• Base Sustained BPS: 0.132 (from 0.609)
+• Base Nonstop BPS: 0.166 (from 1.234)
+
+__Reasoning__:
+The Rocket Jumper in base TF2 is a weapon that allows players to rocket jump without self-inflicted blast damage at the cost of being able to damage enemy players. It’s a fun weapon used for new players to learn the mechanics of rocket jumping or for those already familiar to more easily cruise through maps. Since you cannot currently rocket jump in Zombie Escape, this weapon’s entire gimmick is gone. So, what can you do with this weapon? Well, you could make it a nuke. As in, ignore the -100% damage penalty and ignore the no-self inflicted blast damage taken bonus. Just make it a nuke that hurts the zombies and you.
+
+To create this monstrosity, this weapon was given a massive damage bonus and a clip size of 1. This can deal a maximum of 1440 damage on direct hit and will impact many more players with its 35% larger blast radius. However, with an attack interval of 6 seconds and a reload time of 1.5 seconds, you’ll only be able to fire this massive shot every 7.5 seconds or so. To make it even more comedically intimidating, the projectile speed has been reduced to 275. Most maps currently reduce players’ speeds to a range of 250 to 300, so zombies may find themselves being able dodge the rockets entirely or become too confused by what's happening and get hit anyways.
+
+But, what you won’t be able to outrun are your choices for using this weapon. This proposed Rocket Jumper comes with a 150% slower deploy and holster time penalty making it a weapon to commit to if you whip it out. If land a shot with this, you can reduce a hit zombies’ movement speed to a minimum of 240 HU/s for 3 seconds. With it active, your movement speed will also be reduced by 20% to produce the following:
+
+300 HU/s × 0.855 = 256.50 HU/s (Soldier speed on maps with speed rescaling)
+256.50 HU/s × 0.80 => *205.00 HU/s (Soldier speed with Rocket Jumper held out)
+
+240 HU/s (Soldier speed on maps without speed rescaling)
+240 HU/s × 0.80 = 192.00 HU/s (Soldier speed with Rocket Jumper held out)
+
+*true values may differ slightly
+
+Rather than take this weapon in the direction of a Rocket Launcher alternative, it has been extremified as a semi-joke weapon. This weapon will be slow to respond, slow to fire, slow to run with, and will slow zombies all at once. It will slowly deplete everyone's santiy as they watch volleys of Rocket Jumper missiles fly around doing who knows what.
+
+----------------------------------------------------------------------
+
+=== **Liberty Launcher** ===
+
+__All Attributes__:
++204% damage bonus
+-25% damage vs players
++25% clip size
+-15% slower firing speed
+25% slower reload time
++40% projectile speed
++15% rocket speed per point. On direct hits: rocket does maximum damage, stuns target, and blast radius increased +15% per point.
+-25% blast damage from rocket jumps
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 5 (from 7)
+• Ammo Carried: 5 (from 7)
+
+__Projectile Info__:
+• Blast Radius: 146 (Unchanged)
+• Projectile Speed: 1771 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.93 (Unchanged)
+• TEC: 4.65 (from 6.51)
+• Reload (First): 1.155 (Unchanged)
+• Reload (Consec.): 1.005 (Unchanged)
+• FRT: 5.175 (from 7.185)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 273.6 (from 135)
+• Base Sustained DPS: 139.236 (from 69.003)
+• Base Nonstop DPS: 294.193 (from 145.161)
+
+**Func_Breakable**:
+• Base dmg: 342 (from 168)
+• Base Sustained DPS: 174.045 (from 85.87)
+• Base Nonstop DPS: 367.741 (from 180.645)
+
+**Base_Boss & Players**:
+• Min dmg (per Projectile): 76 (from 4)
+• Max dmg: 274 (from 101)
+• Max Sustained DPS: 139.439 (from 51.624)
+• Max Nonstop DPS: 294.623 (from 108.602)
+
+**Math_Counter**:
+• Base Sustained BPS: 0.508 (from 0.511)
+• Base Nonstop BPS: 1.075 (Unchanged)
+
+__Reasoning__:
+Liberty Launcher has had its damage increased and clip size reduced.
+
+----------------------------------------------------------------------
+
+=== **Cow Mangler 5000** ===
+
+__All Attributes__:
+Does not require ammo
+Alt-Fire: A charged shot thatmini-crits players, sets them on fire, and disables buildings for 4 sec
+Deals only 20% damage to buildings
++159% damage bonus
+-50% damage vs players
+Gains a damage bonus as rage increases, up to 40%
+-15% slower firing speed
+No random critical hits
+Minicrits whenever it would normally crit
++100% buff duration
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 4 (Unchanged)
+• Ammo Carried: 4 (Unchanged)
+
+__Projectile Info__:
+• Blast Radius: 146 (Unchanged)
+• Projectile Speed: 1100 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.93 (from 1.005)
+• TEC: 3.72 (from 4.02)
+• Reload (First): 0.93 (from 0.375)
+• Reload (Consec.): 0.81 (from 0.33)
+• FRT: 3.36 (from 1.365)
+
+__Damage__:
+This weapon receives a 1.4 damage boost at full banner charge (from 1).
+
+**Func_Physbox**:
+• Base dmg: 233.1 (from 180)
+• Base Sustained DPS: 131.694 (from 133.704)
+• Base Sustained DPS (Full Rage): 184.372 (from 133.704)
+• Base Nonstop DPS: 250.645 (from 179.104)
+• Base Nonstop DPS (Full Rage): 350.903 (from 179.104)
+
+**Func_Breakable**:
+• Base dmg: 291 (from 225)
+• Base Sustained DPS: 164.406 (from 167.13)
+• Base Sustained DPS (Full Rage): 230.168 (from 167.13)
+• Base Nonstop DPS: 312.903 (from 223.88)
+• Base Nonstop DPS (Full Rage): 438.064 (from 223.88)
+
+**Base_Boss & Players**:
+• Min dmg (per Projectile): 7 (from 5)
+• Max dmg: 175 (from 135)
+• Max Sustained DPS: 98.87 (from 100.278)
+• Max Nonstop DPS: 188.172 (from 134.328)
+
+**Math_Counter**:
+• Base Sustained BPS: 0.564 (from 0.742)
+• Base Nonstop BPS: 1.075 (from 0.995)
+
+__Reasoning__:
+The Cow Mangler 5000 has been reworked to have the same effects as the Black Box but stronger. Much the weapon's original quirks are useless in ZE. Since players primarily use this to build rage for banners, it now emphasizes this role with a damage increase increased buff duration. 
+
+Without rage, it has around the same lowest-end DPS as the Air Strike. With max rage, it has around the same DPS as the Beggar's Bazooka. It has the old property of the Black Box for a 2x duration to banners.
+
+----------------------------------------------------------------------
+
+=== **Beggar's Bazooka** ===
+
+__All Attributes__:
+Hold Fire to load up to three rockets Release Fire to unleash the barrage
++100% damage bonus
+-25% damage vs players
+-25% clip size (Hidden)
+-25% slower firing speed
++70% faster firing speed (Hidden)
+30% slower reload time (Hidden)
+-20% explosion radius
+Overloading the chamber will cause a misfire
++1.5 degrees random projectile deviation
+No ammo from dispensers when active
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 3 (Unchanged)
+• Ammo Carried: 3 (Unchanged)
+
+__Projectile Info__:
+• Blast Radius: 116.8 (Unchanged)
+• Projectile Speed: 1100 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.3 (Unchanged)
+• TEC: 0.9 (Unchanged)
+• Reload (First): 0.705 (Unchanged)
+• Reload (Consec.): 0.705 (Unchanged)
+• FRT: 2.115 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 180 (Unchanged)
+• Base Sustained DPS: 179.104 (Unchanged)
+• Base Nonstop DPS: 179.104 (Unchanged)
+
+**Func_Breakable**:
+• Base dmg: 225 (Unchanged)
+• Base Sustained DPS: 223.88 (Unchanged)
+• Base Nonstop DPS: 223.88 (Unchanged)
+
+**Base_Boss & Players**:
+• Min dmg (per Projectile): 50 (from 5)
+• Max dmg: 180 (from 135)
+• Max Sustained DPS: 179.104 (from 134.328)
+• Max Nonstop DPS: 179.104 (from 134.328)
+
+**Math_Counter**:
+• Base Sustained BPS: 0.331 (Unchanged)
+• Base Nonstop BPS: 0.331 (Unchanged)
+
+__Reasoning__:
+Decreased damage but removed fire rate penalty.
+
+----------------------------------------------------------------------
+
+=== **Air Strike** ===
+
+__All Attributes__:
+Hold Fire to load up to three rockets Release Fire to unleash the barrage
++167% damage bonus
+-50% damage vs players
+Clip size increased on kill
++60% faster firing speed
+75% slower reload time
+-10% explosion radius
++40% projectile speed
++15% rocket speed per point. On direct hits: rocket does maximum damage, stuns target, and blast radius increased +15% per point.
+No ammo from dispensers when active
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 4 (from 8)
+• Max Clip Size: 8 (from 12)
+• Ammo Carried: 8 (from 12)
+
+__Projectile Info__:
+• Blast Radius: 131.4 (Unchanged)
+• Projectile Speed: 1771 (from 1100)
+
+__Timings (s)__:
+• Attack Interval: 0.33 (from 0.48)
+• TEC: 1.32 (from 3.84)
+• Max Clip TEC: 2.64 (from 5.76)
+• Reload (First): 1.5 (from 0.69)
+• Reload (Consec.): 1.5 (from 0.6)
+• FRT: 6 (from 4.89)
+• Max Clip FRT: 12 (from 7.29)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 240.3 (from 130.5)
+• Base Sustained DPS: 131.311 (from 120)
+• Base Nonstop DPS: 131.311 (from 271.875)
+
+**Func_Breakable**:
+• Base dmg: 300 (from 163)
+• Base Sustained DPS: 163.934 (from 149.884)
+• Base Nonstop DPS: 163.934 (from 339.583)
+
+**Base_Boss & Players**:
+• Min dmg (per Projectile): 7 (from 4)
+• Max dmg: 180 (from 98)
+• Max Sustained DPS: 98.36 (from 90.114)
+• Max Nonstop DPS: 98.36 (from 204.166)
+
+**Math_Counter**:
+• Base Sustained BPS: 0.068 (from 0.919)
+• Base Nonstop BPS: 0.068 (from 2.083)
+
+__Reasoning__:
+The Air Strike in base TF2 is a fun weapon that works in tandem with its clip size increase on kill to let you barrage enemies. Unfortunately, you can’t rocket jump as a human in Zombie Escape currently, so you won’t be able to take advantage of the increased firing speed hile doing so. Instead, this weapon facilitates a different niche of holding back zombies through Rocket Specialist as a Liberty Launcher and Beggar’s Bazooka hybrid. However, this utility comes at the cost of it being the lowest DPS rocket launcher at around 130 sustained and nonstop DPS.
+
+This weapon will initially start off with a clip size of 4. This alone should be enough to counter an Ubered zombie or two, however the downside of the longer reload time makes it less consistent throughout the duration of a defense. If you do happen to kill a zombie, the clip size increase will activate until it caps out at 8. Once you start reaching larger clip sizes, you will be able to load up your shots and fire them all off during more dangerous points of a defense. These can include tight fall backs or defenses in close quarters to zombie teleports. If you notice a zombie die, you should effectively be able to keep them in place until their Uber wears off.
+
+----------------------------------------------------------------------
+
+=== **Righteous Bison** ===
+
+__All Attributes__:
+Does not require ammo
+Projectile penetrates enemy targets
+Deals only 20% damage to buildings
+Projectile cannot be deflected
+130% damage vs players
++50% faster firing speed
+25% faster reload time
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 4 (Unchanged)
+
+__Projectile Info__:
+
+__Timings (s)__:
+• Attack Interval: 0.405 (from 0.81)
+• TEC: 1.62 (from 3.24)
+• Reload (First): 0.69 (from 0.93)
+• Reload (Consec.): 0.3 (from 0.405)
+• FRT: 1.59 (from 2.145)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 0 (Unchanged)
+• Base Sustained DPS: 0 (Unchanged)
+• Base Nonstop DPS: 0 (Unchanged)
+
+**Func_Breakable**:
+• Base dmg: 0 (Unchanged)
+• Base Sustained DPS: 0 (Unchanged)
+• Base Nonstop DPS: 0 (Unchanged)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 37 (from 11)
+• Max dmg: 50 (from 24)
+• Max Sustained DPS: 62.304 (from 17.826)
+• Max Nonstop DPS: 123.456 (from 29.629)
+
+**Math_Counter**:
+• Base Sustained BPS: 0 (Unchanged)
+• Base Nonstop BPS: 0 (Unchanged)
+
+__Reasoning__:
+Experimenting with changes that increase fire rate and damage output.
+
+======================================================================
+                                 Pyro
+======================================================================
+
+=== **Flare Gun** ===
+
+__All Attributes__:
++600% damage bonus
++775% clip size
++25% faster firing speed
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 140 (Unchanged)
+
+__Projectile Info__:
+• Projectile Speed: 2000 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 1.5 (from 0.6)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 210 (from 60)
+• Base Sustained DPS: 140 (from 100)
+• Base Nonstop DPS: 140 (from 100)
+
+**Func_Breakable**:
+• Base dmg: 105 (from 30)
+• Base Sustained DPS: 70 (from 50)
+• Base Nonstop DPS: 70 (from 50)
+
+**Base_Boss & Players**:
+• Max dmg: 210 (from 30)
+• Max Sustained DPS: 140 (from 50)
+• Max Nonstop DPS: 140 (from 50)
+
+**Math_Counter**:
+• Base Sustained BPS: 0.666 (from 1.666)
+• Base Nonstop BPS: 0.666 (from 1.666)
+
+__Reasoning__:
+The stock Flare Gun gives a general sense for the damage range and attack timings for the other flare guns. It has received a +600% damage bonus (from +100%) but has a lessened fire rate bonus of 25% (from 70%). This does leave it as the highest-damaging flare gun at 140 DPS. The intent is to make this weapon, and flare guns in general, viable for boss fights and still effective for boosting zombies. The lessened fire rate trades off defensive capability in favor of damage.
+
+There was a concern in regards to the Flare Gun matching the single-target DPS of Sniper towards players, which is initially around 540 if they headshot consistently. Considered adding minicrit vs burning to bring a flare's max damage from 630 down to 284. Ultimately, decided to not add it. Interestingly, this does make the Flare Gun function like a conditional sniper rifle in that it has essentially the same attack interval with its condition for increased damage being that the player is already burning. Unlike with the sniper rifles, the target won't be stunned by flare hits and will more than likely be launched backwards or into the air. This flare gun should match the base one: satisfying to land, rewarding on hit, and not spammable (at least to the degree to which fire rates have been increased for Zombie Escape). There are already other flares for that. So, this remains for high damage. A sniper rifle will also eventually greatly outscale this weapon in terms of damage the more zombies there are.
+
+----------------------------------------------------------------------
+
+=== **Detonator** ===
+
+__All Attributes__:
+Sets weapon mode #1.0 (Hidden)
++767% damage bonus
++775% clip size
++25% explosion radius
++50% damage to self
+100% minicrits vs burning players
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 140 (Unchanged)
+
+__Projectile Info__:
+• Blast Radius: 137.5 (from 110)
+• Projectile Speed: 2000 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 2.01 (from 1.005)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 260.1 (from 75)
+• Base Sustained DPS: 129.402 (from 74.626)
+• Base Nonstop DPS: 129.402 (from 74.626)
+
+**Func_Breakable**:
+• Base dmg: 130 (from 37)
+• Base Sustained DPS: 64.676 (from 36.815)
+• Base Nonstop DPS: 64.676 (from 36.815)
+
+**Base_Boss & Players**:
+• Max dmg: 260 (from 38)
+• Max Sustained DPS: 129.353 (from 37.81)
+• Max Nonstop DPS: 129.353 (from 37.81)
+
+**Math_Counter**:
+• Base Sustained BPS: 0.5 (from 1)
+• Base Nonstop BPS: 0.5 (from 1)
+
+__Reasoning__:
+The Detonator in base TF2 is a weapon enjoyed for its explosive flares. It was the original flare gun for Pyro's explosive jumps and just something they could use for area denial from a distance. In Zombie Escape, it functions similarly. It has been given a 25% explosion radius increase but does not feature the increased fire rate many other weapons exhibit since AOE stalling can already prove to be very strong. This also does apply -125 z velocity on hit to further assist in slowing down the momentum of zombies in certain sections. These changes are reminscent of the current Loose Cannon: slow fire rate but massive area denial.
+
+What it does not share is the massive potential damage to players or bosses. This weapon may have received a +767% damage bonus, but this keeps its DPS at around 130, which is less than the Flare Gun. Additionally, this may be harder to use than the Loose Cannon in some cases considering
+that flares will shatter upon impact with surfaces. This means you do need to time and positions shots well enough to capitalize on this weapon's utilities.
+
+----------------------------------------------------------------------
+
+=== **Manmelter** ===
+
+__All Attributes__:
+Sets weapon mode #2.0 (Hidden)
+Does not require ammo
++134% damage bonus
++775% clip size
++70% faster firing speed
++50% projectile speed
+No random critical hits
+Alt-Fire: Extinguish teammates to gain guaranteed critical hits
+Extinguishing teammates restores 20.0 health
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+
+__Projectile Info__:
+• Projectile Speed: 3000 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.6 (from 0.405)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 70.2 (from 30)
+• Base Sustained DPS: 117 (from 74.074)
+• Base Nonstop DPS: 117 (from 74.074)
+
+**Func_Breakable**:
+• Base dmg: 35 (from 15)
+• Base Sustained DPS: 58.333 (from 37.037)
+• Base Nonstop DPS: 58.333 (from 37.037)
+
+**Base_Boss & Players**:
+• Max dmg: 70 (from 30)
+• Max Sustained DPS: 116.666 (from 74.074)
+• Max Nonstop DPS: 116.666 (from 74.074)
+
+**Math_Counter**:
+• Base Sustained BPS: 1.666 (from 2.5)
+• Base Nonstop BPS: 1.666 (from 2.5)
+
+__Reasoning__:
+The Manmelter in base TF2 is probably among the most lesser-used Pyro secondaries. It does have unlimited ammo and a unique mechanic of being able to extinguish teammates while providing crits. Unfortunately, these two mechanics are either non-unique or relatively pointless in Zombie Escape. What this weapon works as instead is a rapid-fire, unlimited ammo, igniting Pistol - or something like that. It already has a fast fire rate, however it's been toned down from +80% to +70% with a damage bonus increase by +134%. This makes it such that its overall DPS is 117. Players can enjoy using this weapon for these weird quirks while having it remain somewhat viable during boss fights.
+
+----------------------------------------------------------------------
+
+=== **Scorch Shot** ===
+
+__All Attributes__:
++567% damage bonus
+-50% damage vs players
++775% clip size
+-75% explosion radius
++81.8% projectile speed
+100% minicrits vs burning players
+-100% self damage force
+100% damage bonus vs burning players
+-67% afterburn duration
++700% afterburn damage bonus
+On Hit: target is engulfed in flames
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 140 (Unchanged)
+
+__Projectile Info__:
+• Blast Radius: 36.5 (from 109.5)
+• Projectile Speed: 1999.8 (from 1100)
+
+__Timings (s)__:
+• Attack Interval: 2.01 (from 1.2)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 200.1 (from 90)
+• Base Sustained DPS: 99.552 (from 75)
+• Base Nonstop DPS: 99.552 (from 75)
+
+**Func_Breakable**:
+• Base dmg: 100 (from 45)
+• Base Sustained DPS: 49.751 (from 37.5)
+• Base Nonstop DPS: 49.751 (from 37.5)
+
+**Base_Boss & Players**:
+• Max dmg: 100 (from 23)
+• Max Sustained DPS: 49.751 (from 19.166)
+• Max Nonstop DPS: 49.751 (from 19.166)
+
+**Math_Counter**:
+• Base Sustained BPS: 0.5 (from 0.833)
+• Base Nonstop BPS: 0.5 (from 0.833)
+
+__Reasoning__:
+The Scorch Shot in base TF2 is a very controversial weapon. It's fairly easy to use much like the other flare guns but provides an extremely strong utility of area denial. Players hit by this get knocked back slightly, halting their momentum while the falling flare can explode and set nearby players on fire. This knock back can even be taken advantage of by the user to explosive jump. It was previously banned in Zombie Escape due the potential for extremely storng knock back, but has been added back under a rework. Instead, this weapon now fires a mini-rocket that can ignite zombies. The only thing that really hasn't changed - the one concern - is it's erratic boosting potential as it still launches hit zombies easily.
+
+These changes tweak the boosting by making it harder to achieve with a 75% smaller explosion radius (from 25%). Additionally, the fire rate has been returned to normal by removing the 40% fire rate bonus. If players want to crazily boost zombies, they can, just to a lesser degree and at smaller intervals. Due to the plugin, players launched will either be flung back and to the sides at ridiculous angles or find themselves flung directly upwards with little to no momentum to air strafe around and take advantage of it. A -250 z velocity applied on hit was considered as well, but went didn't want to detract from powerful boosting niche. There were also some instances of players being able to "rocket jump" with this weapon despite this mechanic being "disabled." As a precaution, this weapon has been given 0% self damage force with its dmg penalty vs players being reduced to 50% (from 75%).
+
+In regards to DPS, this weapon resides at the lowest end among all the flare guns at 100. This is due to it having a niche at easily boosting zombies and because rockets have further range than flares.
+
+======================================================================
+                               Demoman
+======================================================================
+
+=== **Grenade Launcher** ===
+
+__All Attributes__:
++210% damage bonus
+-55% damage vs players
+25% faster reload time
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 4 (Unchanged)
+• Ammo Carried: 200 (Unchanged)
+
+__Projectile Info__:
+• Blast Radius: 146 (Unchanged)
+• Projectile Speed: 1216.6 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.6 (Unchanged)
+• TEC: 2.4 (Unchanged)
+• Reload (First): 0.93 (from 0.63)
+• Reload (Consec.): 0.45 (from 0.3)
+• FRT: 2.28 (from 1.53)
+• Fuse Time: 2.31 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Max dmg (from Splash): 186 (from 60)
+• Max Sustained DPS: 158.974 (from 61.068)
+• Max Nonstop DPS: 310 (from 100)
+
+**Func_Breakable**:
+• Max dmg (from Splash): 232 (from 75)
+• Max Sustained DPS: 198.29 (from 76.335)
+• Max Nonstop DPS: 386.666 (from 125)
+
+**Base_Boss & Players**:
+• Max (Direct): 140 (from 100)
+• Max (Max Blast Distance from Direct): 70 (from 50)
+• Max (Min Blast Distance after Bounce): 84 (from 60)
+• Max (Max Blast Distance after Bounce): 42 (from 30)
+• Max Sustained DPS (Direct): 119.657 (from 101.78)
+• Max Sustained DPS (After Bounce): 71.794 (from 61.068)
+• Max Nonstop DPS (Direct): 233.333 (from 166.666)
+• Max Nonstop DPS (After Bounce): 140 (from 100)
+
+**Math_Counter**:
+• Base Sustained BPS: 119.657 (from 101.78)
+• Base Nonstop BPS: 233.333 (from 166.666)
+
+__Reasoning__:
+The Grenade Launcher is the base weapon for all Demoman primaries. Its damage and reload time have increased. However, now there is a damage vs players penalty applied.
+
+----------------------------------------------------------------------
+
+=== **Loch-n-Load** ===
+
+__All Attributes__:
+Launched bombs shatter on surfaces
++150% damage bonus
+-25% clip size
++75% faster firing speed
+-25% faster reload time
+-75% explosion radius
++50% projectile speed
+This weapon deploys 25% faster
+This weapon holsters 25% faster
++20% damage vs buildings
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 3 (from 4)
+• Ammo Carried: 200 (Unchanged)
+
+__Projectile Info__:
+• Blast Radius: 36.5 (from 14.6)
+• Projectile Speed: 1824.9 (from 1520.75)
+
+__Timings (s)__:
+• Attack Interval: 0.15 (from 0.45)
+• TEC: 0.45 (from 1.8)
+• Reload (First): 1.56 (from 0.63)
+• Reload (Consec.): 0.75 (from 0.3)
+• FRT: 3.06 (from 1.53)
+• Fuse Time: 2.31 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Max dmg (from Splash): 0 (Unchanged)
+• Max Sustained DPS: 0 (Unchanged)
+• Max Nonstop DPS: 0 (Unchanged)
+
+**Func_Breakable**:
+• Max dmg (from Splash): 0 (Unchanged)
+• Max Sustained DPS: 0 (Unchanged)
+• Max Nonstop DPS: 0 (Unchanged)
+
+**Base_Boss & Players**:
+• Max (Direct): 250 (from 100)
+• Max (Max Blast Distance from Direct): 125 (from 50)
+• Max (Min Blast Distance after Bounce): 0 (Unchanged)
+• Max (Max Blast Distance after Bounce): 0 (Unchanged)
+• Max Sustained DPS (Direct): 213.675 (from 120.12)
+• Max Sustained DPS (After Bounce): 0 (Unchanged)
+• Max Nonstop DPS (Direct): 1666.666 (from 222.222)
+• Max Nonstop DPS (After Bounce): 0 (Unchanged)
+
+**Math_Counter**:
+• Base Sustained BPS: 213.675 (from 120.12)
+• Base Nonstop BPS: 1666.666 (from 222.222)
+
+__Reasoning__:
+The Loch-n-Load now deals 250 damage on direct hit. Coupled with its now greatly increased firing speed, you can fire off 3 shots in quick succession for a burst of 750 damage. This is in consolation for the fact that you can't damage a majority of NPCs or bosses with this weapon.
+
+----------------------------------------------------------------------
+
+=== **Loose Cannon** ===
+
+__All Attributes__:
+Cannonballs have a fuse time of 1 second; fuses can be primed to explode earlier by holding down the fire key.
++540% damage bonus
+-62.5% damage vs players
+-75% slower firing speed
+-25% faster reload time
++25% explosion radius
++50% projectile speed
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 4 (from 6)
+• Ammo Carried: 200 (Unchanged)
+
+__Projectile Info__:
+• Blast Radius: 182.5 (from 219)
+• Projectile Speed: 1824.9 (from 2189.88)
+
+__Timings (s)__:
+• Attack Interval: 1.05 (Unchanged)
+• TEC: 4.2 (from 6.3)
+• Reload (First): 1.56 (from 0.93)
+• Reload (Consec.): 0.75 (from 0.45)
+• FRT: 3.81 (from 3.18)
+• Fuse Time: 1.005 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Max dmg (from Splash): 384 (from 390)
+• Max Sustained DPS: 191.76 (from 246.835)
+• Max Nonstop DPS: 365.714 (from 371.428)
+
+**Func_Breakable**:
+• Max dmg (from Splash): 480 (from 487)
+• Max Sustained DPS: 239.699 (from 308.227)
+• Max Nonstop DPS: 457.142 (from 463.809)
+
+**Base_Boss & Players**:
+• Max (Direct): 240 (from 390)
+• Max (Max Blast Distance from Direct): 120 (from 195)
+• Max (Min Blast Distance after Bounce): 144 (from 234)
+• Max (Max Blast Distance after Bounce): 72 (from 117)
+• Max Sustained DPS (Direct): 119.849 (from 246.835)
+• Max Sustained DPS (After Bounce): 71.909 (from 148.101)
+• Max Nonstop DPS (Direct): 228.571 (from 371.428)
+• Max Nonstop DPS (After Bounce): 137.142 (from 222.857)
+
+**Math_Counter**:
+• Base Sustained BPS: 119.849 (from 246.835)
+• Base Nonstop BPS: 228.571 (from 371.428)
+
+__Reasoning__:
+Retweaked to deal less damage with a lesser explosive radius.
+
+----------------------------------------------------------------------
+
+=== **Iron Bomber** ===
+
+__All Attributes__:
++210% damage bonus
+-55% damage vs players
+25% faster reload time
+-15% explosion radius
+-30% fuse time on grenades
+Grenades have very little bounce and roll
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 4 (Unchanged)
+• Ammo Carried: 200 (Unchanged)
+
+__Projectile Info__:
+• Blast Radius: 124.1 (Unchanged)
+• Projectile Speed: 1216.6 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.6 (Unchanged)
+• TEC: 2.4 (Unchanged)
+• Reload (First): 0.93 (from 0.63)
+• Reload (Consec.): 0.45 (from 0.3)
+• FRT: 2.28 (from 1.53)
+• Fuse Time: 1.62 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Max dmg (from Splash): 186 (from 60)
+• Max Sustained DPS: 158.974 (from 61.068)
+• Max Nonstop DPS: 310 (from 100)
+
+**Func_Breakable**:
+• Max dmg (from Splash): 232 (from 75)
+• Max Sustained DPS: 198.29 (from 76.335)
+• Max Nonstop DPS: 386.666 (from 125)
+
+**Base_Boss & Players**:
+• Max (Direct): 140 (from 100)
+• Max (Max Blast Distance from Direct): 70 (from 50)
+• Max (Min Blast Distance after Bounce): 84 (from 60)
+• Max (Max Blast Distance after Bounce): 42 (from 30)
+• Max Sustained DPS (Direct): 119.657 (from 101.78)
+• Max Sustained DPS (After Bounce): 71.794 (from 61.068)
+• Max Nonstop DPS (Direct): 233.333 (from 166.666)
+• Max Nonstop DPS (After Bounce): 140 (from 100)
+
+**Math_Counter**:
+• Base Sustained BPS: 119.657 (from 101.78)
+• Base Nonstop BPS: 233.333 (from 166.666)
+
+__Reasoning__:
+The Iron Bomber's damage and reload time have increased. However, now there is a damage vs players penalty applied.
+
+----------------------------------------------------------------------
+
+=== **Stickybomb Launcher** ===
+
+__All Attributes__:
++40% damage bonus
+-25% damage vs players
+25% faster reload time
+Up to +100% damage based on charge
+-2.0 max pipebombs out
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 8 (Unchanged)
+• Ammo Carried: 200 (Unchanged)
+• Max Stickies Out: 6 (from 8)
+
+__Projectile Info__:
+• Blast Radius: 146 (Unchanged)
+• Projectile Speed: 925.38 (Unchanged)
+• Projectile Speed (Max Charge): 2409.2 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.6 (Unchanged)
+• TEC: 4.8 (Unchanged)
+• Reload (First): 0.818 (from 0.545)
+• Reload (Consec.): 0.503 (from 0.335)
+• FRT: 4.395 (from 2.97)
+• Activation Time: 0.84 (Unchanged)
+• Max Charge Time: 4 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Max dmg (from Splash): 168 (from 120)
+• Max dmg (from Splash & Max Charge): 336 (from 120)
+• Base Sustained DPS: 60.902 (from 51.479)
+• Base Sustained DPS (Full Charge): 32.242 (from 13.626)
+• Base Nonstop DPS: 116.666 (from 83.333)
+
+**Func_Breakable**:
+• Max dmg (from Splash): 210 (from 150)
+• Max dmg (from Splash & Max Charge): 420 (from 150)
+• Base Sustained DPS: 76.128 (from 64.349)
+• Base Sustained DPS (Full Charge): 40.302 (from 17.033)
+• Base Nonstop DPS: 145.833 (from 104.166)
+
+**Base_Boss & Players**:
+• Min dmg (per Projectile): 47 (from 63)
+• Max dmg: 160 (from 144)
+• Max Sustained DPS: 58.002 (from 61.776)
+• Max Sustained DPS (Full Charge): 30.706 (from 16.352)
+• Max Nonstop DPS: 111.111 (from 100)
+
+**Math_Counter**:
+• Base Sustained BPS: 0.362 (from 0.428)
+• Base Sustained BPS (Full Charge): 0.095 (from 0.113)
+• Base Nonstop BPS: 0.694 (Unchanged)
+
+**Sticky Trap Damage**
+• func_physbox (No Charge): 1008 (from 960)
+• func_physbox (Full Charge): 2016 (from 960)
+• func_breakable (No Charge): 1260 (from 1200)
+• func_breakable (Full Charge): 2520 (from 1200)
+• base_boss & players (No Charge): 756 (from 960)
+• base_boss & players (Full Charge): 1512 (from 960)
+• base_boss & players (No Charge + Crits): 2268 (from 2880)
+• base_boss & players (Full Charge + Crits): 4536 (from 2880)
+
+__Reasoning__:
+The Stickybomb Launcher has received a bit of a weird retweak. It now has a +40% damage bonus, a -25% damage vs players penalty, and a +100% damage bonus when stickies are fully charged. This does not significantly raise DPS but does increase the damage of sticky traps if set up with fully-charged stickies. The fully charged bonus is a way for players to make more of an impact with sticky traps without having to greatly change the general damage modifiers. This is to mitigate worries over reaching the stun threshold too fast as it would still take time to charge higher-damaging stickies when they could have simply spammed stickies for greater damage output. This weapon also now only deploys 6 stickies as a precaution for potential Demoman stacks spamming stickies and causing complications. The damage bonuses do make it such that sticky traps deal more damage despite the lessened amount of stickies out.
+
+As an aside, it is currently difficult to raise the DPS of stickybomb launchers in general without making it significantly easier for them to reach the damage threshold to stun players. Of course, this could be fixed within the plugin, but these changes work on the idea of not modifying them unless absolutely necessary or if a majority of the playerbase sees this as an issue for themselves. You could also make the argument that a damage increase wouldn't really matter as, in some scenarios like close-quarters defenses, players will constantly be hit by stickies to reach that stun threshold right after stun immunity wears off. These are some things for players within the community to discuss down the line should they want greater dynamicism among Demo's stickybomb launchers.
+
+----------------------------------------------------------------------
+
+=== **Scottish Resistance** ===
+
+__All Attributes__:
++40% damage bonus
+-25% damage vs players
+25% faster reload time
+0.8 sec slower bomb arm time
+Up to +100% damage based on charge
++2.0 max pipebombs out
+Detonates stickybombs near the crosshair and directly under your feet
+Able to destroy enemy stickybombs
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 8 (Unchanged)
+• Ammo Carried: 200 (Unchanged)
+• Max Stickies Out: 10 (from 12)
+
+__Projectile Info__:
+• Blast Radius: 146 (Unchanged)
+• Projectile Speed: 925.38 (Unchanged)
+• Projectile Speed (Max Charge): 2409.2 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.6 (from 0.3)
+• TEC: 4.8 (from 2.4)
+• Reload (First): 0.818 (from 0.709)
+• Reload (Consec.): 0.503 (from 0.436)
+• FRT: 4.395 (from 3.87)
+• Activation Time: 1.635 (from 2.34)
+• Max Charge Time: 4 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Max dmg (from Splash): 168 (from 132)
+• Max dmg (from Splash & Max Charge): 336 (from 132)
+• Base Sustained DPS: 39.238 (from 19.138)
+• Base Sustained DPS (Full Charge): 28.131 (from 7.609)
+• Base Nonstop DPS: 75.167 (from 50)
+
+**Func_Breakable**:
+• Max dmg (from Splash): 210 (from 165)
+• Max dmg (from Splash & Max Charge): 420 (from 165)
+• Base Sustained DPS: 49.048 (from 23.923)
+• Base Sustained DPS (Full Charge): 35.163 (from 9.511)
+• Base Nonstop DPS: 93.959 (from 62.5)
+
+**Base_Boss & Players**:
+• Min dmg (per Projectile): 47 (from 70)
+• Max dmg: 160 (from 158)
+• Max Sustained DPS: 37.37 (from 22.908)
+• Max Sustained DPS (Full Charge): 26.791 (from 9.108)
+• Max Nonstop DPS: 71.588 (from 59.848)
+
+**Math_Counter**:
+• Base Sustained BPS: 0.233 (from 0.144)
+• Base Sustained BPS (Full Charge): 0.083 (from 0.057)
+• Base Nonstop BPS: 0.447 (from 0.378)
+
+**Sticky Trap Damage**
+• func_physbox (No Charge): 1680 (from 1584)
+• func_physbox (Full Charge): 3360 (from 1584)
+• func_breakable (No Charge): 2100 (from 1980)
+• func_breakable (Full Charge): 4200 (from 1980)
+• base_boss & players (No Charge): 1260 (from 1584)
+• base_boss & players (Full Charge): 2520 (from 1584)
+• base_boss & players (No Charge + Crits): 3780 (from 4752)
+• base_boss & players (Full Charge + Crits): 7560 (from 4752)
+
+__Reasoning__:
+Similar to Stickybomb Launcher changes. Max stickies out reduced to 10, reload time changed to be 25% faster (from 35%), and activation time changed back to default.
+
+----------------------------------------------------------------------
+
+=== **Sticky Jumper** ===
+
+__All Attributes__:
++515% damage bonus
+-25% damage vs players
+-87.5% clip size
+-1317% slower firing speed
+20% slower move speed on wearer
+37% slower reload time
++25% explosion radius
+1.15 sec slower bomb arm time
+This weapon deploys -150% slower
+This weapon holsters 150% slower
+Up to +205% damage based on charge
+-7.0 max pipebombs out
++400% damage to self
+On Hit: Slow target movement by 40% for 5.0s
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 1 (from 8)
+• Ammo Carried: 200 (Unchanged)
+• Max Stickies Out: 1 (from 2)
+
+__Projectile Info__:
+• Blast Radius: 182.5 (Unchanged)
+• Projectile Speed: 925.38 (Unchanged)
+• Projectile Speed (Max Charge): 2409.2 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 8.505 (from 0.6)
+• TEC: 8.505 (from 4.8)
+• Reload (First): 1.493 (from 0.436)
+• Reload (Consec.): 0.918 (from 0.268)
+• FRT: 1.5 (from 2.34)
+• Activation Time: 1.995 (from 0.84)
+• Max Charge Time: 4 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Max dmg (from Splash): 738 (from 90)
+• Max dmg (from Splash & Max Charge): 2250.9 (from 135)
+• Base Sustained DPS: 59.747 (from 42.016)
+• Base Sustained DPS (Full Charge): 131.96 (from 16.683)
+• Base Nonstop DPS: 70.285 (from 62.5)
+
+**Func_Breakable**:
+• Max dmg (from Splash): 922 (from 112)
+• Max dmg (from Splash & Max Charge): 2813 (from 168)
+• Base Sustained DPS: 74.685 (from 52.521)
+• Base Sustained DPS (Full Charge): 164.914 (from 20.761)
+• Base Nonstop DPS: 87.857 (from 78.125)
+
+**Base_Boss & Players**:
+• Min dmg (per Projectile): 205 (from 25)
+• Max dmg: 701 (from 86)
+• Max Sustained DPS: 56.751 (from 40.149)
+• Max Sustained DPS (Full Charge): 125.344 (from 15.941)
+• Max Nonstop DPS: 66.761 (from 59.722)
+
+**Math_Counter**:
+• Base Sustained BPS: 0.08 (from 0.466)
+• Base Sustained BPS (Full Charge): 0.057 (from 0.123)
+• Base Nonstop BPS: 0.095 (from 0.694)
+
+**Sticky Trap Damage**
+• func_physbox (No Charge): 738 (from 180)
+• func_physbox (Full Charge): 2250.9 (from 270)
+• func_breakable (No Charge): 922 (from 224)
+• func_breakable (Full Charge): 2813 (from 336)
+• base_boss & players (No Charge): 554 (from 136)
+• base_boss & players (Full Charge): 1690 (from 204)
+• base_boss & players (No Charge + Crits): 1662 (from 408)
+• base_boss & players (Full Charge + Crits): 5070 (from 612)
+
+__Reasoning__:
+The Sticky Jumper in base TF2 works similarly to the Rocket Jumper. It deals no damage to yourself or enemies, but it allows a player to become familiar with the mechanics of sticky jumping or use it to supplement other niche loadouts. In Zombie Escape, this weapon also subverts expectations by instead being able to deal massive damage to both enemeies and oneself. This weapon can now only lay out a single stickybomb that can deal around 550 damage at no charge, around 1690 damage at full charge, around 2200 damage at no charge with crits, and around 5070 damage at full charge with crits. However, understand that the attack cycle for this weapon is the slowest among all weapons at 12 seconds with no charge or 16 seconds using full charge. Addtiionally, it will take around 2 seconds for stickies to activate after firing. 
+
+Additionally featured on this weapon is a 150% slower deploy and holster time and a -20% movement penalty while held out.
+
+300 HU/s × 0.84 = 252.00 HU/s (Demoman speed on maps with speed rescaling)
+252.00 HU/s × 0.80 => *202.00 HU/s (Demoman speed with Sticky Jumper held out)
+
+280 HU/s (Demoman speed on maps without speed rescaling)
+280 HU/s × 0.80 = 224.00 HU/s (Demoman speed with Sticky Jumper held out)
+
+It's been observed that the current Sticky Jumper does not stun zombies, so there is no real tradeoff here for stun and damage. Instead, this applies a 5 second speed reduction to zombies (if zombies do wind up getting stunned, this will either be reduced or removed). In spite of not being able to lay out multiple stickies, this weapon still has the 2nd highest sticky trap damage. This makes this an easier weapon to utilize for setting up sticky traps on bosses but less strong as a defensive weapons throughout the duration of a map. Interestingly enough, this weapon should also have a DPS on par with pistols given that its around 130 DPS so long as players fully charge their shots. 
+
+----------------------------------------------------------------------
+
+=== **Quickiebomb Launcher** ===
+
+__All Attributes__:
++20% damage bonus
+-25% damage vs players
+-50% clip size
++40% faster firing speed
+25% faster reload time
+-15% explosion radius
+-0.2 sec faster bomb arm time
+Max charge time decreased by 70%
+Up to +200% damage based on charge
+-2.0 max pipebombs out
+Able to destroy enemy stickybombs
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 4 (from 6)
+• Ammo Carried: 200 (Unchanged)
+• Max Stickies Out: 6 (from 4)
+
+__Projectile Info__:
+• Blast Radius: 124.1 (Unchanged)
+• Projectile Speed: 930.88 (Unchanged)
+• Projectile Speed (Max Charge): 2409.2 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.36 (Unchanged)
+• TEC: 1.44 (from 2.16)
+• Reload (First): 0.818 (from 0.872)
+• Reload (Consec.): 0.503 (from 0.536)
+• FRT: 2.355 (from 3.585)
+• Activation Time: 0.645 (Unchanged)
+• Max Charge Time: 1.2 (from 0.84)
+
+__Damage__:
+**Func_Physbox**:
+• Max dmg (from Splash): 144 (from 114)
+• Max dmg (from Splash & Max Charge): 432 (from 114)
+• Base Sustained DPS: 54.368 (from 42.648)
+• Base Sustained DPS (Full Charge): 74.34 (from 23.23)
+• Base Nonstop DPS: 143.283 (from 113.432)
+
+**Func_Breakable**:
+• Max dmg (from Splash): 180 (from 142)
+• Max dmg (from Splash & Max Charge): 540 (from 142)
+• Base Sustained DPS: 67.96 (from 53.31)
+• Base Sustained DPS (Full Charge): 92.925 (from 28.936)
+• Base Nonstop DPS: 179.104 (from 141.791)
+
+**Base_Boss & Players**:
+• Min dmg (per Projectile): 40 (from 60)
+• Max dmg: 137 (Unchanged)
+• Max Sustained DPS: 51.725 (from 51.252)
+• Max Sustained DPS (Full Charge): 70.726 (from 27.917)
+• Max Nonstop DPS: 136.318 (Unchanged)
+
+**Math_Counter**:
+• Base Sustained BPS: 0.377 (from 0.374)
+• Base Sustained BPS (Full Charge): 0.171 (from 0.203)
+• Base Nonstop BPS: 0.995 (Unchanged)
+
+**Sticky Trap Damage**
+• func_physbox (No Charge): 864 (from 456)
+• func_physbox (Full Charge): 2592 (from 456)
+• func_breakable (No Charge): 1080 (from 568)
+• func_breakable (Full Charge): 3240 (from 568)
+• base_boss & players (No Charge): 648 (from 456)
+• base_boss & players (Full Charge): 1944 (from 456)
+• base_boss & players (No Charge + Crits): 1944 (from 1368)
+• base_boss & players (Full Charge + Crits): 5832 (from 1368)
+
+__Reasoning__:
+Similar to Stickybomb Launcher changes. Max stickies out reduced to 4 and charge time changed back to default value. Keeps same property of base Quickiebomb Launcher where charged stickybomb traps deal more damage than even the charged Stickybomb Launcher stickybomb traps.
+
+======================================================================
+                                Heavy
+======================================================================
+
+__Balancing Pathway__:
+1. Keep defensive strength of Heavy
+   => Class limit remain the same
+2. Nerf defensive strength of Heavy
+   => Allows its class limit to be increased
+
+----------------------------------------------------------------------
+
+=== **Family Business** ===
+
+__All Attributes__:
++10% damage bonus
++300% clip size
++65% faster firing speed
+50% more accurate
+50% faster reload time
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 24 (from 36)
+• Ammo Carried: 200 (Unchanged)
+• Weapon Spread: 60:1 (from 100:1)
+
+__Timings (s)__:
+• Attack Interval: 0.225 (from 0.255)
+• TEC: 5.4 (from 9.18)
+• Reload (First): 0.51 (Unchanged)
+• Reload (Consec.): 0.255 (Unchanged)
+• FRT: 6.375 (from 9.435)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 66 (from 60)
+• Base Sustained DPS: 134.522 (from 116.035)
+• Base Nonstop DPS: 293.333 (from 235.294)
+
+**Func_Breakable**:
+• Base dmg: 33 (from 30)
+• Base Sustained DPS: 67.26 (from 58.017)
+• Base Nonstop DPS: 146.666 (from 117.647)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 3 (Unchanged)
+• Max dmg: 99 (from 90)
+• Max Sustained DPS: 201.783 (from 174.053)
+• Max Nonstop DPS: 440 (from 352.941)
+
+**Math_Counter**:
+• Base Sustained BPS: 2.039 (from 1.934)
+• Base Nonstop BPS: 4.444 (from 3.921)
+
+__Reasoning__:
+The Family Business remains as Heavy's most accurate secondary. There is a rock-paper-scissors dynamic among general shotguns that trade off damage, accuracy, and horde-stoppability depending on their niche. The Family Business, being unique to the Heavy, retains its niche of emphasizing accuracy. Its DPS has been raised via a damage bonus and a firing speed increase to match the original faster fire rate relationship between the Shotgun and this weapon in base TF2. In compensation, the clip size and accuracy were decreased.
+
+----------------------------------------------------------------------
+
+=== **Minigun** ===
+
+__All Attributes__:
+-12.5% damage penalty
+25% damage vs players
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Ammo Carried: 140 (Unchanged)
+• Weapon Spread: 25:1 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.105 (Unchanged)
+• TEC: 91.923 (Unchanged)
+• FRT: 17.5 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 31.5 (from 36)
+• Base Sustained DPS: 251.335 (from 287.24)
+• Base Nonstop DPS: 300 (from 342.857)
+
+**Func_Breakable**:
+• Base dmg: 15 (from 18)
+• Base Sustained DPS: 119.683 (from 143.619)
+• Base Nonstop DPS: 142.857 (from 171.428)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 6 (from 5)
+• Max dmg: 55 (from 54)
+• Max Sustained DPS: 438.839 (from 430.86)
+• Max Nonstop DPS: 523.809 (from 514.285)
+
+**Math_Counter**:
+• Base Sustained BPS: 7.999 (Unchanged)
+• Base Nonstop BPS: 9.523 (Unchanged)
+
+__Reasoning__:
+These changes are primarily for minigun DPS rebalancing. The Minigun's DPS has been lowered significantly, which will be the trend for all of Heavy's primaries. These are to make way for buffs to the DPS of other weapons. To compensate, each minigun deals +25% damage to players, which actually just increases their damage falloff modifiers. This brings it within range of its old damage output to zombies and base_boss entities.
+
+----------------------------------------------------------------------
+
+=== **Natascha** ===
+
+__All Attributes__:
+Sets weapon mode #1.0 (Hidden)
+-62.5% damage penalty
+25% damage vs players
++25% faster firing speed
+25% less accurate
++50% bullets per shot
+30% slower spin up time
+-20% damage resistance when below 50% health and spun up
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Ammo Carried: 140 (Unchanged)
+• Weapon Spread: 20:1 (from 16.666:1)
+
+__Timings (s)__:
+• Attack Interval: 0.075 (Unchanged)
+• TEC: 26.251 (Unchanged)
+• FRT: 17.5 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 20.25 (from 25.2)
+• Base Sustained DPS: 160.459 (from 199.683)
+• Base Nonstop DPS: 270 (from 336)
+
+**Func_Breakable**:
+• Base dmg: 10 (from 12)
+• Base Sustained DPS: 79.239 (from 95.087)
+• Base Nonstop DPS: 133.333 (from 160)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 3 (Unchanged)
+• Max dmg: 35 (from 38)
+• Max Sustained DPS: 277.337 (from 301.109)
+• Max Nonstop DPS: 466.666 (from 506.666)
+
+**Math_Counter**:
+• Base Sustained BPS: 7.999 (Unchanged)
+• Base Nonstop BPS: 13.333 (Unchanged)
+
+__Reasoning__:
+The Natascha in base TF2 is a weapon used for its slowdown mechanic. At close ranges, it allows Heavies to essentially lock players in place or impair them enough such that they perish to the sustained fire. In Zombie Escape, players are already slowed down to some extent when shot at and the plugin currently being used interferes with its slowing mechanic. So, it plays a bit of a weirder role by being a high fire rate spray gun with its +25% firing speed bonus and -25% accuracy penalty that can help lock down wider areas of zombies for shortened amounts of time. 
+
+The increased fire rate and spin up time are unchanged but the damage has been reduced. Collectively, these reduce the Natascha's nonstop DPS to 270 and keep its BPS at 13.33, the second highest among all class weapons. However, without access to other sources of ammo regeneration, a Heavy will run out of ammo in approximately 26 seconds. This continues to emphasize the dynamic of a Natascha user working in tandem with Engineers to hold down a defense should they want to capitalize on the strengths of the weapon.
+
+----------------------------------------------------------------------
+
+=== **The Brass Beast** ===
+
+__All Attributes__:
+-12.5% damage penalty
+25% damage vs players
++10% faster firing speed
+50% slower spin up time
+-50% slower move speed while deployed
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Ammo Carried: 140 (Unchanged)
+• Weapon Spread: 25:1 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.09 (Unchanged)
+• TEC: 45.001 (Unchanged)
+• FRT: 17.5 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 31.5 (from 39.6)
+• Base Sustained DPS: 250.601 (from 315.041)
+• Base Nonstop DPS: 350 (from 440)
+
+**Func_Breakable**:
+• Base dmg: 15 (from 19)
+• Base Sustained DPS: 119.333 (from 151.156)
+• Base Nonstop DPS: 166.666 (from 211.111)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 6 (from 5)
+• Max dmg: 55 (from 59)
+• Max Sustained DPS: 437.558 (from 469.38)
+• Max Nonstop DPS: 611.111 (from 655.555)
+
+**Math_Counter**:
+• Base Sustained BPS: 7.999 (Unchanged)
+• Base Nonstop BPS: 11.111 (Unchanged)
+
+__Reasoning__:
+The Brass Beast is one of the best offensive and defensive weapons in Zombie Escape. As a big drawback, it has a long revv time and a hefty movement penalty while revv’d up. This makes it dangerous to use while dodging hazards or for retreating from defenses. It is a high-risk, high-reward weapon that is useful for players who understand the map and the flow of a defense.
+
+Unfortunately, this weapon also suffers the greatest decrease in damage among all the weapon changes as a result of balancing the DPS among all classes. It now deals 350 nonstop DPS but has been given a 25% damage bonus against players to keep its old defensive efficacy. In compensation, the Brass Beast’s damage resistance when spun-up at half health or lower has been raised to 50%. This makes it somewhat less punishing to run during boss fights or when assaulted by multiple mutations during defenses.
+
+----------------------------------------------------------------------
+
+=== **Tomislav** ===
+
+__All Attributes__:
+-15% damage penalty
+25% damage vs players
+-20% slower firing speed
+50% more accurate
+60% faster spin up time
+Silent Killer: No barrel spin sound
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Ammo Carried: 140 (Unchanged)
+• Weapon Spread: 50:1 (from 31.25:1)
+
+__Timings (s)__:
+• Attack Interval: 0.12 (from 0.135)
+• TEC: 420.42 (from #N/A)
+• FRT: 17.5 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 30.6 (from 36)
+• Base Sustained DPS: 244.664 (from 266.666)
+• Base Nonstop DPS: 255 (from 266.666)
+
+**Func_Breakable**:
+• Base dmg: 15 (from 18)
+• Base Sustained DPS: 119.933 (from 133.333)
+• Base Nonstop DPS: 125 (from 133.333)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 6 (from 5)
+• Max dmg: 54 (Unchanged)
+• Max Sustained DPS: 431.76 (from 400)
+• Max Nonstop DPS: 450 (from 400)
+
+**Math_Counter**:
+• Base Sustained BPS: 7.999 (from 7.407)
+• Base Nonstop BPS: 8.333 (from 7.407)
+
+__Reasoning__:
+The Tomislav in base TF2 is usually considered a good alternative to the stock Minigun for general use. The initial idea for this weapon in Zombie Escape was to make it more distinct with the addition of bullet penetration to coincide with its increased accuracy. Unfortunately, it doesn’t work as intended so this weapon remains unique for its high-accuracy and lower spin up time to react to immediate threats.
+
+----------------------------------------------------------------------
+
+=== **The Huo-Long Heater** ===
+
+__All Attributes__:
+-66.5% damage penalty
+25% damage vs players
++50% faster firing speed
+50% less accurate
++100% bullets per shot
+60% faster spin up time
+Consumes an additional 1.0 ammo per second while spun up
+Creates a ring of flames while spun up
+25% damage bonus vs burning players
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Ammo Carried: 140 (Unchanged)
+• Weapon Spread: 16.666:1 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.06 (from 0.075)
+• TEC: 14.483 (from 12.353)
+• FRT: 17.5 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 24.12 (from 21.6)
+• Base Sustained DPS: 178.897 (from 116.76)
+• Base Nonstop DPS: 402 (from 288)
+
+**Func_Breakable**:
+• Base dmg: 12 (from 10)
+• Base Sustained DPS: 89.003 (from 54.055)
+• Base Nonstop DPS: 200 (from 133.333)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 2 (Unchanged)
+• Max dmg: 42 (from 38)
+• Max Sustained DPS: 311.512 (from 205.412)
+• Max Nonstop DPS: 700 (from 506.666)
+
+**Math_Counter**:
+• Base Sustained BPS: 7.546 (from 5.517)
+• Base Nonstop BPS: 16.666 (from 13.333)
+
+__Reasoning__:
+Retweaking...
+
+======================================================================
+                               Engineer
+======================================================================
+
+=== **Frontier Justice** ===
+
+__All Attributes__:
++80% damage bonus
++50% clip size
++50% faster firing speed
+50% faster reload time
+No random critical hits
+Gain 2 revenge crits for each sentry kill and1 for each sentry assist when your sentry is destroyed.
+Revenge crits are lost on death
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 9 (from 12)
+• Ammo Carried: 32 (Unchanged)
+• Weapon Spread: 30:1 (from 42.857:1)
+
+__Timings (s)__:
+• Attack Interval: 0.315 (from 0.285)
+• TEC: 2.835 (from 3.42)
+• Reload (First): 0.51 (from 0.6)
+• Reload (Consec.): 0.255 (from 0.3)
+• FRT: 2.55 (from 3.9)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 108 (Unchanged)
+• Base Sustained DPS: 180.501 (from 177.049)
+• Base Nonstop DPS: 342.857 (from 378.947)
+
+**Func_Breakable**:
+• Base dmg: 54 (Unchanged)
+• Base Sustained DPS: 90.25 (from 88.524)
+• Base Nonstop DPS: 171.428 (from 189.473)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 6 (Unchanged)
+• Max dmg: 162 (Unchanged)
+• Max Sustained DPS: 270.751 (from 265.573)
+• Max Nonstop DPS: 514.285 (from 568.421)
+
+**Math_Counter**:
+• Base Sustained BPS: 1.671 (from 1.639)
+• Base Nonstop BPS: 3.174 (from 3.508)
+
+__Reasoning__:
+The Frontier Justice remains as Engineer's strongest primary. There is a rock-paper-scissors dynamic among general shotguns that trade off damage, accuracy, and horde-stoppability depending on their niche. The Frontier Justice, being unique to the Engineer, retains its niche of emphasizing damage. But now, it's at the cost of its clip size and firing speed.
+
+----------------------------------------------------------------------
+
+=== **The Widowmaker** ===
+
+__All Attributes__:
+-20% damage penalty
++40% faster firing speed
+35% more accurate
+Per Shot: -70.0 ammo
+On Hit: damage dealt is returned as ammo
+Uses metal for ammo
++-50% sentry firing speed
+50% increased damage to your sentry's target
+No reload necessary
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Ammo Carried: 140 (Unchanged)
+• Metal Carried: 140 (Unchanged)
+• Weapon Spread: 46.153:1 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.375 (Unchanged)
+• TEC: 0.75 (Unchanged)
+• FRT: 4.26 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 48 (Unchanged)
+• Base Sustained DPS: 19.161 (Unchanged)
+• Base Nonstop DPS: 128 (Unchanged)
+
+**Func_Breakable**:
+• Base dmg: 24 (Unchanged)
+• Base Sustained DPS: 9.58 (Unchanged)
+• Base Nonstop DPS: 64 (Unchanged)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 3 (Unchanged)
+• Max dmg: 72 (Unchanged)
+• Max Sustained DPS: 28.742 (Unchanged)
+• Max Nonstop DPS: 192 (Unchanged)
+
+**Math_Counter**:
+• Base Sustained BPS: 0.4 (Unchanged)
+• Base Nonstop BPS: 2.666 (Unchanged)
+
+__Reasoning__:
+Testing with removal of no ammo from dispensers while active.
+
+----------------------------------------------------------------------
+
+=== **The Rescue Ranger** ===
+
+__All Attributes__:
++50% damage bonus
+-34% clip size
++50% faster firing speed
+40% faster reload time
++50% Sentry Gun damage bonus
+Alt-Fire: Use 70.0 metal to pick up your targeted building from long range
+Self mark for death when hauling buildings
+Fires a special bolt that can repair friendly buildings
+4.0-to-1 health-to-metal ratio when repairing buildings
+Projectiles penetrate enemy players
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 4 (Unchanged)
+• Ammo Carried: 32 (Unchanged)
+• Metal Carried: 32 (Unchanged)
+
+__Projectile Info__:
+• Projectile Speed: 2400 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.315 (Unchanged)
+• TEC: 1.26 (Unchanged)
+• Reload (First): 0.6 (Unchanged)
+• Reload (Consec.): 0.3 (Unchanged)
+• FRT: 1.5 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 0 (Unchanged)
+• Base Sustained DPS: 0 (Unchanged)
+• Base Nonstop DPS: 0 (Unchanged)
+
+**Func_Breakable**:
+• Base dmg: 0 (Unchanged)
+• Base Sustained DPS: 0 (Unchanged)
+• Base Nonstop DPS: 0 (Unchanged)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 32 (from 21)
+• Max dmg: 90 (from 60)
+• Max Sustained DPS: 130.434 (from 86.956)
+• Max Nonstop DPS: 285.714 (from 190.476)
+
+**Math_Counter**:
+• Base Sustained BPS: 0 (Unchanged)
+• Base Nonstop BPS: 0 (Unchanged)
+
+__Reasoning__:
+Damage increased.
+
+----------------------------------------------------------------------
+
+=== **The Pomson 6000** ===
+
+__All Attributes__:
+Does not require ammo
+Projectile penetrates enemy targets
+Deals only 20% damage to buildings
+Projectile cannot be deflected
+-33% clip size
++25% faster firing speed
+Does not require ammo
++50% Sentry Gun damage bonus
+On Hit: Victim loses up to 10.0% Medigun charge
+On Hit: Victim loses up to 20.0% cloak
+On Hit: Slow target movement by 40% for 1.5s
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 4 (Unchanged)
+
+__Projectile Info__:
+• Projectile Speed: 1200 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.6 (from 1.2)
+• TEC: 2.4 (from 4.8)
+• Reload (First): 1.02 (from 0.51)
+• Reload (Consec.): 0.54 (from 0.27)
+• FRT: 2.64 (from 1.32)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 0 (Unchanged)
+• Base Sustained DPS: 0 (Unchanged)
+• Base Nonstop DPS: 0 (Unchanged)
+
+**Func_Breakable**:
+• Base dmg: 0 (Unchanged)
+• Base Sustained DPS: 0 (Unchanged)
+• Base Nonstop DPS: 0 (Unchanged)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 32 (from 8)
+• Max dmg: 72 (from 48)
+• Max Sustained DPS: 57.142 (from 31.372)
+• Max Nonstop DPS: 120 (from 40)
+
+**Math_Counter**:
+• Base Sustained BPS: 0 (Unchanged)
+• Base Nonstop BPS: 0 (Unchanged)
+
+__Reasoning__:
+Damage increased, fire rate increased, and reload rate decreased.
+
+----------------------------------------------------------------------
+
+=== **Short Circuit** ===
+
+__All Attributes__:
++215% damage bonus
++40% faster firing speed
+Per Shot: -5.0 ammo
+Uses metal for ammo
+No random critical hits
+Alt-Fire: Launches a projectile-consuming energy ball. Costs 65 metal.
+No reload necessary
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Metal Carried: 140 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.09 (from 0.15)
+• TEC: 5.085 (from 26.25)
+• FRT: 5 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 22.05 (from 7)
+• Base Sustained DPS: 123.532 (from 39.199)
+• Base Nonstop DPS: 245 (from 46.666)
+
+**Func_Breakable**:
+• Base dmg: 11 (from 3)
+• Base Sustained DPS: 61.626 (from 16.8)
+• Base Nonstop DPS: 122.222 (from 20)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 29 (from 9)
+• Max dmg: 33 (from 10)
+• Max Sustained DPS: 184.878 (from 55.999)
+• Max Nonstop DPS: 366.666 (from 66.666)
+
+**Math_Counter**:
+• Base Sustained BPS: 5.602 (from 5.599)
+• Base Nonstop BPS: 11.111 (from 6.666)
+
+__Reasoning__:
+The Short Circuit has been reworked a bit to make it a potential damage option for boss fights. It has been given a +215% damage bonus and a 40% faster fire rate. This weapon now depletes all metal reserves in around 5 seconds (from ~26 seconds) in conjunction with the server's metal regeneration rate (28 metal/s). This increased fire rate can make this weapon more viable as a burst weapon for immediate knockback, but less viable for any defensive purposes beyond that. This also addresses the issue of players being annoyed with the sound of the weapon being fired for so long, although you could argue this issue will become more prevalent by making this weapon decent enough to pick.
+
+======================================================================
+                                Medic
+======================================================================
+
+=== **Syringe Gun** ===
+
+__All Attributes__:
++150% damage bonus
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 40 (Unchanged)
+• Ammo Carried: 200 (Unchanged)
+
+__Projectile Info__:
+• Projectile Speed: 1000 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.105 (Unchanged)
+• TEC: 4.2 (Unchanged)
+• FRT: 1.305 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 25 (Unchanged)
+• Base Sustained DPS: 181.652 (Unchanged)
+• Base Nonstop DPS: 238.095 (Unchanged)
+
+**Func_Breakable**:
+• Base dmg: 12 (Unchanged)
+• Base Sustained DPS: 90.826 (Unchanged)
+• Base Nonstop DPS: 119.047 (Unchanged)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 13.2 (from -1.8)
+• Max dmg: 30 (from 15)
+• Max Sustained DPS: 108.991 (from 54.495)
+• Max Nonstop DPS: 142.857 (from 71.428)
+
+**Math_Counter**:
+• Base Sustained BPS: 7.263 (Unchanged)
+• Base Nonstop BPS: 9.52 (Unchanged)
+
+__Reasoning__:
+Removed damage penalty to players.
+
+----------------------------------------------------------------------
+
+=== **Blutsauger** ===
+
+__All Attributes__:
++175% damage bonus
+-25% clip size
+50% slower reload time
+On Hit: Gain up to +3.0 health
+-2.0 health regenerated per second on wearer
+Syringes deliver a highly concentrated dose of Mad Milk. Duration increases per hit to a max of 4 seconds.
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 30 (from 50)
+• Ammo Carried: 200 (Unchanged)
+
+__Projectile Info__:
+• Projectile Speed: 1000 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.105 (from 0.09)
+• TEC: 3.15 (from 4.5)
+• FRT: 1.965 (from 2.295)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 27.5 (from 21)
+• Base Sustained DPS: 161.289 (from 154.525)
+• Base Nonstop DPS: 261.904 (from 233.333)
+
+**Func_Breakable**:
+• Base dmg: 13 (from 10)
+• Base Sustained DPS: 80.644 (from 77.262)
+• Base Nonstop DPS: 130.952 (from 116.666)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 14.52 (from -2.562)
+• Max dmg: 33 (from 11.55)
+• Max Sustained DPS: 96.773 (from 42.494)
+• Max Nonstop DPS: 157.142 (from 64.166)
+
+**Math_Counter**:
+• Base Sustained BPS: 5.862 (from 7.357)
+• Base Nonstop BPS: 9.52 (from 11.11)
+
+__Reasoning__:
+The Blutsauger is probably the most common primary weapon used among Medics simply because it has been given attribute 484 - mad milk syringes. This allows them to switch focus from concentrated healing to team support as a defender and AOE healer solidifying it as a powerfully versatile weapon. 
+
+Without cutting too deep into the Blutsauger, it maintains the following stats. Its fire rate is the same, its clip size has decreased from 40 to 30, and its reload time penalty has decreased to 50%. This allows Medics to volley their shots for 3.15 seconds with a 1.965 second downtime to reload. Thus, this weapon has an uptime-downtime ratio of 1.603 - half that of the Syringe Gun at 3.218. This means it does have less uptime overall for sustained defending which helps emphasize that this is a supportive weapon. Given that its healing capability is so strong, it also has the lowest sustained DPS among all the needle guns at around 160.
+
+These proposed changes to the Blutsauger are to establish it as a burst heal weapon specifically for emergencies where the entire team needs to both heal and defend. It has the most amount of downtime among the needle guns because Medics are supposed to volley their shots and rely on their team for cover. Keeping its fast fire rate allows Medics to consistently set up the heal-on-hit effect and help supplement a defense. The clip size decrease both shortens the time for group healing and for defending. With these as nerfs, we can even decrease the reload penalty to make the Blutsauger comfortable to use.
+
+----------------------------------------------------------------------
+
+=== **Crusader's Crossbow** ===
+
+__All Attributes__:
+No headshots
++400% clip size
+-100% slower firing speed
+20% faster reload time
++50% heal rate
+25% Overheal build rate.
++50% ÜberCharge rate
+Projectiles penetrate enemy players
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 5 (from 3)
+• Ammo Carried: 150 (Unchanged)
+
+__Projectile Info__:
+• Projectile Speed: 2400 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.465 (from 0.69)
+• TEC: 2.325 (from 2.07)
+• FRT: 6 (from 2.925)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 0 (Unchanged)
+• Base Sustained DPS: 0 (Unchanged)
+• Base Nonstop DPS: 0 (Unchanged)
+
+**Func_Breakable**:
+• Base dmg: 0 (Unchanged)
+• Base Sustained DPS: 0 (Unchanged)
+• Base Nonstop DPS: 0 (Unchanged)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 37.5 (Unchanged)
+• Max dmg: 75 (Unchanged)
+• Max Sustained DPS: 22.522 (Unchanged)
+• Max Nonstop DPS: 80.645 (from 54.347)
+
+**Math_Counter**:
+• Base Sustained BPS: 0 (Unchanged)
+• Base Nonstop BPS: 0 (Unchanged)
+
+__Reasoning__:
+The Crusader’s Crossbow is a weapon used for burst healing teammates, particularly those out of range of the Medi Gun. It has previously been given an increased clip size and reload rate at the cost of its firing rate. These changes reflect more of the burst healing aspect by decreasing its firing rate penalty and increasing its reload rate. This burst effect also plays into its linear AOE stall making it more effective when unloaded all at once, such as for falling back on, but less consistent over the duration of a defense.
+
+Unfortunately, this weapon cannot deal damage to NPCs or bosses. To compensate for this, it has been given an additional supportive option of slowing enemies hit arrows to a minimum of 270 HU/s for 3 seconds. Although, this has proven to provide minimal benefit already depending on the map. This is mainly to follow the trend of piercing weapons providing a longer-lasting slow at the cost of their fire rate similar to the Ambassador.
+
+----------------------------------------------------------------------
+
+=== **Overdose** ===
+
+__All Attributes__:
+When weapon is active:
+Sets weapon mode #1.0 (Hidden)
++135% damage bonus
++10% faster firing speed
+11.5% slower move speed on wearer
+50% slower reload time
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Clip Size: 40 (from 50)
+• Ammo Carried: 200 (Unchanged)
+
+__Projectile Info__:
+• Projectile Speed: 1000 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.09 (from 0.105)
+• TEC: 3.6 (from 5.25)
+• FRT: 1.965 (from 1.635)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 23.5 (from 22.5)
+• Base Sustained DPS: 168.912 (from 163.398)
+• Base Nonstop DPS: 261.111 (from 214.285)
+
+**Func_Breakable**:
+• Base dmg: 11 (Unchanged)
+• Base Sustained DPS: 84.456 (from 81.698)
+• Base Nonstop DPS: 130.555 (from 107.142)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 12.408 (from 1.305)
+• Max dmg: 28.2 (from 16.425)
+• Max Sustained DPS: 101.347 (from 59.64)
+• Max Nonstop DPS: 156.666 (from 78.214)
+
+**Math_Counter**:
+• Base Sustained BPS: 7.187 (from 7.259)
+• Base Nonstop BPS: 11.11 (from 9.52)
+
+__Reasoning__:
+The Overdose is a weapon primarily used for the increased speed it can give its users based on their ÜberCharge level. In Zombie Escape, it’s a weapon that primarily plays into the interests of Medics wielding it by allowing them to outspeed Scouts and Spies when running for certain objectives or items. 
+
+Past changes have made this weapon into a sort of “burst” weapon, and these changes were based off of that. It maintains the standard clip size of 40 but has a 50% reload time increase and a 10% faster fire rate. This means that the Overdose will empty much, much faster. It will be up to the player to tap-fire to help sustain a defense or simply hold down their firing key for immediate suppression. In terms of DPS, the Overdose is at a middle-ground among the needle guns at 170 sustained DPS.
+
+The movement penalty was retweaked to provide the following speed values:
+
+300 HU/s × 0.9417 => 282.50 HU/s (Medic speed on maps with speed nerf)
+282.50 HU/s × 0.885 = 250.0125 HU/s => *250.00 HU/s (Medic speed with Overdose held out and no boost)
+250.0125 HU/s * 1.20 => *300.00 HU/s (Medic speed with Overdose held out and full boost)
+
+320 HU/s (Medic speed on maps without speed nerf)
+320 HU/s × 0.885 = 283.20 HU/s => *283.00 HU/s (Medic speed with Overdose held out and no boost)
+283.20 HU/s × 1.20 => *340.00  HU/s (Medic speed with Overdose held out and full boost)
+
+*true values may differ slightly
+
+======================================================================
+                                Sniper
+======================================================================
+
+=== **Sniper Rifle** ===
+
+__All Attributes__:
++380% damage bonus
+-68.75% damage on body shot
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Ammo Carried: 140 (Unchanged)
+
+__Timings (s)__:
+• Scope-In Time: 1.5 (Unchanged)
+• Delay after Scope-In to Headshot: 0.15 (Unchanged)
+• Charge Time: 2.85 (Unchanged)
+• Attack Interval: 1.5 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 240 (from 150)
+• Base Nonstop DPS (0% Charge): 160 (from 100)
+• Base Nonstop DPS (Full Charge): 160 (from 100)
+
+**Func_Breakable**:
+• Base dmg: 120 (from 75)
+• Base Nonstop DPS (0% Charge): 80 (from 50)
+• Base Nonstop DPS (Full Charge): 80 (from 50)
+
+**Base_Boss**
+• Base Dmg: 240 (from 150)
+• Base Nonstop DPS (0% Charge): 160 (from 100)
+• Base Nonstop DPS (Full Charge): 160 (from 100)
+
+**Players**
+• Base Dmg (0% Charge - Bodyshot): 75 (from 51)
+• Base Dmg (Full Charge - Bodyshot): 225 (from 153)
+• Base Dmg (All Charge Levels - Initial Plugin Headshot): 900 (Unchanged)
+  ^ Can eventually scale to... 4500
+• Base Nonstop DPS (0% Charge - Bodyshot): 50 (from 34)
+• Base Nonstop DPS (0% Charge - Initial Plugin Headshot): 545.454 (Unchanged)
+• Base Nonstop DPS (Full Charge - Bodyshot): 50 (from 34)
+• Base Nonstop DPS (Full Charge - Initial Plugin Headshot): 200 (Unchanged)
+
+**Math_Counter**:
+• Base Nonstop BPS (0% Charge): 0.666 (Unchanged)
+• Base Nonstop BPS (Full Charge): 0.222 (Unchanged)
+
+__Reasoning__:
+The Sniper Rifle acts as the base for all other Sniper primaries. The Sniper Rifle has been adjusted such that it deals 75 damage on a bodyshot, 225 on a full-charge bodyshot, and 900 damage on headshot via plugin rescaling. It has 160 DPS both with continuous non-charged and fully-charged firing.
+
+----------------------------------------------------------------------
+
+=== **Huntsman** ===
+
+__All Attributes__:
++100% damage bonus
+-50% damage on body shot
++20% faster reload time
+On Hit: Bleed for 5.0 seconds
+
+__Basic Info__:
+• Shot Type: Projectile (Unchanged)
+• Ammo Carried: 140 (Unchanged)
+
+__Projectile Info__:
+• Projectile Speed: 1875 (Unchanged)
+
+__Timings (s)__:
+• Charge Time: 1.005 (Unchanged)
+• Attack Interval: 1.62 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 0 (Unchanged)
+• Base Nonstop DPS (0% Charge): 0 (Unchanged)
+• Base Nonstop DPS (Full Charge): 0 (Unchanged)
+
+**Func_Breakable**:
+• Base dmg: 0 (Unchanged)
+• Base Nonstop DPS (0% Charge): 0 (Unchanged)
+• Base Nonstop DPS (Full Charge): 0 (Unchanged)
+
+**Base_Boss**
+• Base Dmg: 50 (Unchanged)
+• Base Nonstop DPS (0% Charge): 30.864 (Unchanged)
+• Base Nonstop DPS (Full Charge): 72.38 (Unchanged)
+
+**Players**
+• Base Dmg (0% Charge - Bodyshot): 50 (Unchanged)
+• Base Dmg (Full Charge - Bodyshot): 190 (Unchanged)
+• Base Dmg (All Charge Levels - Initial Plugin Headshot): 900 (Unchanged)
+  ^ Can eventually scale to... 4500
+• Base Nonstop DPS (0% Charge - Bodyshot): 30.864 (Unchanged)
+• Base Nonstop DPS (0% Charge - Initial Plugin Headshot): 555.555 (Unchanged)
+• Base Nonstop DPS (Full Charge - Bodyshot): 72.38 (Unchanged)
+• Base Nonstop DPS (Full Charge - Initial Plugin Headshot): 342.857 (Unchanged)
+
+**Math_Counter**:
+• Base Nonstop BPS (0% Charge): 0 (Unchanged)
+• Base Nonstop BPS (Full Charge): 0 (Unchanged)
+
+__Reasoning__:
+Unchanged.
+
+----------------------------------------------------------------------
+
+=== **Sydney Sleeper** ===
+
+__All Attributes__:
+No headshots
++125% damage bonus
+Headshots deal an extra +97.5% damage
+-33% damage on body shot
++100% charge rate
++50% faster reload time
+On Scoped Hit: Apply Jarate for 2 to 1.0 seconds based on charge level.Nature's Call: Scoped headshots always mini-crits and reduce the remaining cooldown of Jarate by 1 second.
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Ammo Carried: 140 (Unchanged)
+
+__Timings (s)__:
+• Scope-In Time: 0.75 (Unchanged)
+• Delay after Scope-In to Headshot: 0.15 (Unchanged)
+• Charge Time: 1.35 (Unchanged)
+• Attack Interval: 0.75 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 112.5 (from 87.5)
+• Base Nonstop DPS (0% Charge): 150 (from 116.666)
+• Base Nonstop DPS (Full Charge): 150 (from 116.666)
+
+**Func_Breakable**:
+• Base dmg: 56 (from 43)
+• Base Nonstop DPS (0% Charge): 74.666 (from 57.333)
+• Base Nonstop DPS (Full Charge): 75 (from 58.333)
+
+**Base_Boss**
+• Base Dmg: 113 (from 88)
+• Base Nonstop DPS (0% Charge): 150.666 (from 117.333)
+• Base Nonstop DPS (Full Charge): 150.222 (from 116.888)
+
+**Players**
+• Base Dmg (0% Charge - Bodyshot): 75 (from 88)
+• Base Dmg (Full Charge - Bodyshot): 226 (from 263)
+• Base Dmg (0% Charge - Headshot): 222 (from 88)
+• Base Dmg (Full Charge - Headshot): 900 (from 354)
+• Base Nonstop DPS (0% Charge - Bodyshot): 100 (from 117.333)
+• Base Nonstop DPS (0% Charge - Headshot): 296 (from 117.333)
+• Base Nonstop DPS (Full Charge - Bodyshot): 100.444 (from 116.888)
+• Base Nonstop DPS (Full Charge - Headshot): 400 (from 157.333)
+
+**Math_Counter**:
+• Base Nonstop BPS (0% Charge): 1.333 (Unchanged)
+• Base Nonstop BPS (Full Charge): 0.444 (Unchanged)
+
+__Reasoning__:
+Currently, the Sydney Sleeper’s role in zombie escape is to rapidly apply the Jarate effect to zombies for increased damage all the while decreasing the downtime of Sniper’s throwable Jarate. To do this, it has a +50% fire rate bonus and a +100% charge rate. It can’t headshot stun, so this acts as enough of a downside. Otherwise, this maintains siimlar damage output as the stock Sniper Rifle at 75 damage on a 0%-charged bodyshot and 223 on a full-charge bodyshot. It deals 150 DPS both with continuous non-charged and fully-charged firing.
+
+----------------------------------------------------------------------
+
+=== **Bazaar Bargain** ===
+
+__All Attributes__:
+-200% damage penalty
+33.3% damage vs players
+-100% damage on body shot
+50% slower power charge
+On Full Charge: +-600% damage per shot
+No random critical hits
+Base charge rate decreased by 50%
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Ammo Carried: 140 (Unchanged)
+
+__Timings (s)__:
+• Scope-In Time: 1.5 (Unchanged)
+• Delay after Scope-In to Headshot: 0.15 (Unchanged)
+• Charge Time: 5.85 (Unchanged)
+• Charge Time @ Max Boost: 1.35 (Unchanged)
+• Attack Interval: 1.5 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 4 (Unchanged)
+• Base Nonstop DPS (0% Charge): 2.666 (Unchanged)
+• Base Nonstop DPS (Full Charge): 100 (from 120)
+• Base Nonstop DPS (Full Charge & Max Boost): 250 (from 300)
+
+**Func_Breakable**:
+• Base dmg: 2 (Unchanged)
+• Base Nonstop DPS (0% Charge): 1.333 (Unchanged)
+• Base Nonstop DPS (Full Charge): 50 (from 60)
+• Base Nonstop DPS (Full Charge & Max Boost): 125 (from 150)
+
+**Base_Boss**
+• Base Dmg: 5 (from 8)
+• Base Nonstop DPS (0% Charge): 3.333 (from 5.333)
+• Base Nonstop DPS (Full Charge): 133.333 (from 240)
+• Base Nonstop DPS (Full Charge & Max Boost): 333.333 (from 600)
+
+**Players**
+• Base Dmg (0% Charge - Bodyshot): 0 (from 8)
+• Base Dmg (Full Charge - Bodyshot): 0 (from 1800)
+• Base Dmg (All Charge Levels - Initial Plugin Headshot): 1200 (from 1800)
+  ^ Can eventually scale to... 6000
+• Base Nonstop DPS (0% Charge - Bodyshot): 0 (from 5.333)
+• Base Nonstop DPS (0% Charge - Initial Plugin Headshot): 727.272 (from 1090.909)
+• Base Nonstop DPS (Full Charge - Bodyshot): 0 (from 240)
+• Base Nonstop DPS (Full Charge - Initial Plugin Headshot): 160 (from 240)
+• Base Nonstop DPS (Full Charge & Max Boost - Bodyshot): 0 (from 600)
+• Base Nonstop DPS (Full Charge & Max Boost - Initial Plugin Headshot): 160 (from 240)
+
+**Math_Counter**:
+• Base Nonstop BPS (0% Charge): 0.666 (Unchanged)
+• Base Nonstop BPS (Full Charge): 0.333 (Unchanged)
+
+__Reasoning__:
+The Bazaar Bargain’s overall damage has been readjusted. It now deals 0 damage on bodyshot and 1200 damage on headshot via plugin rescaling. It deals: ~3 DPS with nonstop, 0%-charged shots; 100 DPS with nonstop, fully-charged shots and no charge boost; and 250 DPS with nonstop, fully-charged shots and full charge boost.
+
+Why the changes? Well, the high headshot damage was already on the rifle for a long time, but what held it back was the 1.5 firing speed. With that removed, players actually wanted to use the Bazaar Bargain again especially with its unique buff to fully-charged shots. With enough zombies, players could find themselves dealing upwards of 9000 damage, which is an interesting dynamic if the right conditions are in place. Unfortunately, reaching these damage values produce a few issues.
+
+The first issue is that it bypasses disabled healing. A prioir issue with the the Crusader's Crossbow exhibited a similar behavior by dealing enough damage to heal players in sections where it should be disabled. Instead, with the Bazaar Bargain, you could deal high enough damage to a Mad Milked zombie such that you could heal from it when it should be disabled. There could potentially be a plugin fix for this like raising the value of a variable or something (idk); but, until then, the damage output on all rifles will need to be lessened.
+
+The second issue is being able to kill zombies too fast, particularly zombies with items. In an ideal world, there would be a dynamic that still allows Spies and Snipers to domininantly kill zombies without items. If they do have items, they should be able to survive for much longer whether it be through a dramatic health increase or damage resistances. Zombie items tend to be lost forever when the item holder dies, so there should be a huge committment for it. Being able to land, say, 5 or so headshots to permanently get rid of these threats seems to easy and even more unaligned with most of the ported maps' intents. Even if that is the case, it would still be fun as an option or side-objective for players. It just shouldn't be an easy one.
+
+----------------------------------------------------------------------
+
+=== **Machina** ===
+
+__All Attributes__:
+Sets weapon mode #2.0 (Hidden)
+Cannot fire unless zoomed
++665% damage bonus
+66.7% damage vs players
+-58.73% damage on body shot
+40% slower power charge
+On Full Charge: +90% damage per shot
+6.7% slower move speed on wearer
++-50% faster reload time
+This weapon deploys -300% slower
+This weapon holsters 100% slower
+On Full Charge: Projectiles penetrate players
+Fires tracer rounds
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Ammo Carried: 140 (Unchanged)
+
+__Timings (s)__:
+• Scope-In Time: 2.25 (Unchanged)
+• Delay after Scope-In to Headshot: 0.15 (Unchanged)
+• Charge Time: 4.86 (from 2.85)
+• Attack Interval: 2.25 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 382.5 (from 150)
+• Base Nonstop DPS (0% Charge): 170 (from 66.666)
+• Base Nonstop DPS (Full Charge): 300.309 (from 171.428)
+
+**Func_Breakable**:
+• Base dmg: 191 (from 75)
+• Base Nonstop DPS (0% Charge): 84.888 (from 33.333)
+• Base Nonstop DPS (Full Charge): 150.154 (from 85.714)
+
+**Base_Boss**
+• Base Dmg: 638 (from 150)
+• Base Nonstop DPS (0% Charge): 283.555 (from 66.666)
+• Base Nonstop DPS (Full Charge): 500.55 (from 171.428)
+
+**Players**
+• Base Dmg (0% Charge - Bodyshot): 263 (from 150)
+• Base Dmg (Full Charge - Bodyshot): 1500 (from 900)
+• Base Dmg (All Charge Levels - Initial Plugin Headshot): 1500 (from 900)
+  ^ Can eventually scale to... 7500
+• Base Nonstop DPS (0% Charge - Bodyshot): 116.888 (from 66.666)
+• Base Nonstop DPS (0% Charge - Initial Plugin Headshot): 625 (from 375)
+• Base Nonstop DPS (Full Charge - Bodyshot): 206.611 (from 171.428)
+• Base Nonstop DPS (Full Charge - Initial Plugin Headshot): 206.611 (from 171.428)
+
+**Math_Counter**:
+• Base Nonstop BPS (0% Charge): 0.444 (Unchanged)
+• Base Nonstop BPS (Full Charge): 0.137 (from 0.19)
+
+__Reasoning__:
+At the cost of stunning zombies in quick succession as well as the user’s own safety, the Machina is capable of outputting DPS values on-par with Heavy’s Minigun. This won’t require a build-up similar to the Bazaar Bargain as this damage potential will be available outright. However, to fully-charge a shot will take around 5 seconds and it will take a bit longer to refire than normal. Additionally, this weapon comes with a slower holster and unholster time to make it extremely risky to deploy. This is especially tough as there is also a movement penalty inflicted when this weapon is held out.
+
+300 HU/s × 0.9 = 270 HU/s (Sniper speed on maps with speed rescaling)
+270 HU/s × 0.933 => *252.00 HU/s (Sniper with Machina held out)
+
+300 HU/s (Sniper speed on maps without speed rescaling)
+300 HU/s × 0.933 => *280.00 HU/s (Sniper with Machina held out)
+
+*true values may differ slightly
+
+----------------------------------------------------------------------
+
+=== **Hitman's Heatmaker** ===
+
+__All Attributes__:
++195% damage bonus
+-33.3% damage vs players
+-49% damage on body shot
++30% faster reload time
+Gain Focus on kills and assists
+Attrib_RageGainOnAssists
+Attrib_SoldierBuffType (Hidden)
+Press 'Reload' to activate focusIn Focus: +25% faster charge and no unscoping
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Ammo Carried: 140 (Unchanged)
+
+__Timings (s)__:
+• Scope-In Time: 1.05 (Unchanged)
+• Delay after Scope-In to Headshot: 0.15 (Unchanged)
+• Charge Time: 2.85 (Unchanged)
+• Attack Interval: 1.05 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 147.5 (from 100)
+• Base Nonstop DPS (0% Charge): 140.476 (from 95.238)
+• Base Nonstop DPS (Full Charge): 109.259 (from 74.074)
+
+**Func_Breakable**:
+• Base dmg: 73 (from 50)
+• Base Nonstop DPS (0% Charge): 69.523 (from 47.619)
+• Base Nonstop DPS (Full Charge): 54.629 (from 37.037)
+
+**Base_Boss**
+• Base Dmg: 98 (from 100)
+• Base Nonstop DPS (0% Charge): 93.333 (from 95.238)
+• Base Nonstop DPS (Full Charge): 72.839 (from 74.074)
+
+**Players**
+• Base Dmg (0% Charge - Bodyshot): 50 (from 40)
+• Base Dmg (Full Charge - Bodyshot): 151 (from 120)
+• Base Dmg (All Charge Levels - Initial Plugin Headshot): 600 (from 900)
+  ^ Can eventually scale to... 3000
+• Base Nonstop DPS (0% Charge - Bodyshot): 47.619 (from 38.095)
+• Base Nonstop DPS (0% Charge - Initial Plugin Headshot): 500 (from 750)
+• Base Nonstop DPS (Full Charge - Bodyshot): 37.283 (from 29.629)
+• Base Nonstop DPS (Full Charge - Initial Plugin Headshot): 148.148 (from 222.222)
+
+**Math_Counter**:
+• Base Nonstop BPS (0% Charge): 0.952 (Unchanged)
+• Base Nonstop BPS (Full Charge): 0.246 (Unchanged)
+
+__Reasoning__:
+The Hitman’s Heatmaker’s role in zombie escape is to rapidly stun zombies via its unique Focus skill. Since that is this weapon’s main niche, its damage output is lessened dealing 50 damage on 0%-charged bodyshot, 150 damage on fully-charged bodyshot, and 600 initial damage on headshot. It deals~ 140 DPS with nonstop, 0%-charged shots and ~110 DPS with nonstop, fully-charged shots. The movement penalty has been removed.
+
+----------------------------------------------------------------------
+
+=== **Classic** ===
+
+__All Attributes__:
+Sets weapon mode #3.0 (Hidden)
++300% damage bonus
+Headshots deal an extra +33.3% damage
+-70% damage on body shot
++100% charge rate
+No headshots when not fully charged
+Charge and fire shots independent of zoom
+Fires tracer rounds (Hidden)
+275% slower move speed when aiming
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Ammo Carried: 140 (Unchanged)
+
+__Timings (s)__:
+• Scope-In Time: 1.5 (from 2.25)
+• Delay after Scope-In to Headshot: 0.15 (Unchanged)
+• Charge Time: 1.35 (Unchanged)
+• Attack Interval: 1.5 (from 2.25)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 200 (from 292.5)
+• Base Nonstop DPS (0% Charge): 133.333 (from 130)
+• Base Nonstop DPS (Full Charge): 200 (from 234)
+
+**Func_Breakable**:
+• Base dmg: 100 (from 146)
+• Base Nonstop DPS (0% Charge): 66.666 (from 64.888)
+• Base Nonstop DPS (Full Charge): 100 (from 117)
+
+**Base_Boss**
+• Base Dmg: 200 (from 293)
+• Base Nonstop DPS (0% Charge): 133.333 (from 130.222)
+• Base Nonstop DPS (Full Charge): 200 (from 234.133)
+
+**Players**
+• Base Dmg (0% Charge - Bodyshot): 60 (from 146)
+• Base Dmg (Full Charge - Bodyshot): 180 (from 439)
+• Base Dmg (0% Charge - Headshot): 267 (from 293)
+• Base Dmg (Full Charge - Initial Plugin Headshot): 1200 (from 900)
+• Base Nonstop DPS (0% Charge - Bodyshot): 40 (from 64.888)
+• Base Nonstop DPS (0% Charge - Headshot): 178 (from 130.222)
+• Base Nonstop DPS (Full Charge - Bodyshot): 60 (from 117.066)
+• Base Nonstop DPS (Full Charge - Initial Plugin Headshot): 400 (from 240)
+
+**Math_Counter**:
+• Base Nonstop BPS (0% Charge): 0.666 (from 0.444)
+• Base Nonstop BPS (Full Charge): 0.333 (from 0.266)
+
+__Reasoning__:
+Reworked to deal 60 damage on 0% charge bodyshot, 180 on fully charged bodyshot, and 1200 on fully-charged headshot. At the cost of rapidly stunning, this remains as a decent pick for boss-fights by reaching 200 nonstop full-charge DPS while granting you greater field-of-view without having to scope-in. 
+
+*Testing headshot multiplier attribute on this weapon to achieve headshot damage increase without having to adjust damage vs players attribute.*
+
+----------------------------------------------------------------------
+
+=== **SMG** ===
+
+__All Attributes__:
++165% damage bonus
++100% clip size
++20% faster firing speed
+100% slower reload time
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 50 (Unchanged)
+• Ammo Carried: 200 (Unchanged)
+• Weapon Spread: 80:1 (Unchanged)
+
+__Timings (s)__:
+• Attack Interval: 0.09 (Unchanged)
+• TEC: 4.5 (Unchanged)
+• FRT: 2.1 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 21.2 (Unchanged)
+• Base Sustained DPS: 160.6 (Unchanged)
+• Base Nonstop DPS: 235.555 (Unchanged)
+
+**Func_Breakable**:
+• Base dmg: 10 (Unchanged)
+• Base Sustained DPS: 75.75 (Unchanged)
+• Base Nonstop DPS: 111.111 (Unchanged)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 11 (Unchanged)
+• Max dmg: 32 (Unchanged)
+• Max Sustained DPS: 242.42 (Unchanged)
+• Max Nonstop DPS: 355.555 (Unchanged)
+
+**Math_Counter**:
+• Base Sustained BPS: 7.575 (Unchanged)
+• Base Nonstop BPS: 11.111 (Unchanged)
+
+__Reasoning__:
+Unchanged.
+
+----------------------------------------------------------------------
+
+=== **Cleaner's Carbine** ===
+
+__All Attributes__:
+Secondary fire when charged grants mini-crits for 9.0 seconds.
++295% damage bonus
+-15% slower firing speed
+25% less accurate
+50% slower reload time
+Secondary fire when charged grants mini-crits for 9.0 seconds.
+Dealing damage fills charge meter.
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 25 (Unchanged)
+• Ammo Carried: 200 (Unchanged)
+• Weapon Spread: 64:1 (from 80:1)
+
+__Timings (s)__:
+• Attack Interval: 0.135 (Unchanged)
+• TEC: 3.375 (Unchanged)
+• FRT: 1.575 (from 1.05)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 31.6 (from 20)
+• Base Sustained DPS: 159.59 (from 112.99)
+• Base Nonstop DPS: 234.074 (from 148.148)
+
+**Func_Breakable**:
+• Base dmg: 15 (from 10)
+• Base Sustained DPS: 75.75 (from 56.49)
+• Base Nonstop DPS: 111.111 (from 74.074)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 17 (from 11)
+• Max dmg: 47 (from 30)
+• Max Sustained DPS: 237.37 (from 169.49)
+• Max Nonstop DPS: 348.148 (from 222.222)
+
+**Math_Counter**:
+• Base Sustained BPS: 5.05 (from 5.649)
+• Base Nonstop BPS: 7.407 (Unchanged)
+
+__Reasoning__:
+Retweaked with higher damage, a wider spread, and a minicrit time that lasts 2 full clips. However, it’ll take at least two clips now to build up the minicrit charge.
+
+======================================================================
+                                 Spy
+======================================================================
+
+=== **Revolver** ===
+
+__All Attributes__:
+-15% damage penalty
++200% clip size
++75% faster firing speed
+20% more accurate
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 18 (from 24)
+• Ammo Carried: 200 (from 24)
+• Weapon Spread: 100:1 (from 80:1)
+
+__Timings (s)__:
+• Disguise Speed: 2.188 (Unchanged)
+• Attack Interval: 0.135 (Unchanged)
+• TEC: 2.43 (from 3.24)
+• FRT: 1.14 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 34 (from 40)
+• Base Sustained DPS: 171.427 (from 219.177)
+• Base Nonstop DPS: 251.851 (from 296.296)
+
+**Func_Breakable**:
+• Base dmg: 17 (from 20)
+• Base Sustained DPS: 85.713 (from 109.588)
+• Base Nonstop DPS: 125.925 (from 148.148)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 18 (from 21)
+• Max dmg: 51 (from 60)
+• Max Sustained DPS: 257.142 (from 328.766)
+• Max Nonstop DPS: 377.777 (from 444.444)
+
+**Math_Counter**:
+• Base Sustained BPS: 5.041 (from 5.479)
+• Base Nonstop BPS: 7.407 (Unchanged)
+
+__Reasoning__:
+The Revolver, just like in base TF2, is a reliable choice for Spies in Zombie Escape. It is the base for all other revolvers and serves as one of the best weapons the Spy can use to help defend with the team. For overall DPS rebalancing, this weapon has been given a -15% damage penalty and decreased clip size to 18. However, it has kept its +75% faster fire rate and has been given a 20% accuracy bonus. It remains as the second strongest revolver under normal conditions at 170 DPS.
+
+----------------------------------------------------------------------
+
+=== **The Ambassador** ===
+
+__All Attributes__:
+Crits on headshot
++200% damage bonus
+Critical damage is affected by range
+-20% slower firing speed
+25% slower reload time
+No random critical hits
+On Hit: Slow target movement by 40% for 3.0s
+Projectiles penetrate enemy players
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 6 (Unchanged)
+• Ammo Carried: 200 (Unchanged)
+• Weapon Spread: 80:1 (Unchanged)
+
+__Timings (s)__:
+• Disguise Speed: 2.188 (Unchanged)
+• Attack Interval: 0.6 (from 1.005)
+• TEC: 3.6 (from 6.03)
+• FRT: 1.01 (from 1.995)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 120 (from 214)
+• Base Sustained DPS: 156.182 (from 159.999)
+• Base Nonstop DPS: 200 (from 212.935)
+
+**Func_Breakable**:
+• Base dmg: 60 (from 107)
+• Base Sustained DPS: 78.091 (from 79.999)
+• Base Nonstop DPS: 100 (from 106.467)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 63 (from 113)
+• Max dmg: 180 (from 321)
+• Max Sustained DPS: 234.273 (from 239.999)
+• Max Sustained DPS (Headshot): 468.546 (from 479.999)
+• Max Nonstop DPS: 300 (from 319.402)
+• Max Nonstop DPS (Headshot): 600 (from 638.805)
+
+**Math_Counter**:
+• Base Sustained BPS: 1.3 (from 0.747)
+• Base Nonstop BPS: 1.666 (from 0.995)
+
+__Reasoning__:
+Significantly reworked with consideration for the DR fire rate and reload rate glitch. This weapon now deals +200% damage (from +435%) with a 25% slower fire rate (from 100%) and a 25% slower reload rate (from 75%). This reduces its max headshot damage to 360 and sustained DPS to  ~150. However, abusing the DR glitch can raise the sustained DPS to a max of ~194 DPS (from ~346 DPDS). The lessened fire rate and reload penalties does mean that this weapon will be much stronger at AOE stalling due to its linear piercing. How powerful this will be in practice is something to observe over time.
+
+----------------------------------------------------------------------
+
+=== **L'Etranger** ===
+
+__All Attributes__:
+-18.5% damage penalty
++82.5% faster firing speed
+25% faster reload time
++1.0% cloak on hit
++40% cloak duration
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 6 (Unchanged)
+• Ammo Carried: 200 (from 24)
+• Weapon Spread: 80:1 (Unchanged)
+
+__Timings (s)__:
+• Disguise Speed: 2.188 (Unchanged)
+• Attack Interval: 0.09 (from 0.075)
+• TEC: 0.54 (from 0.45)
+• FRT: 0.855 (from 1.14)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 32.6 (from 40)
+• Base Sustained DPS: 140.214 (from 150.943)
+• Base Nonstop DPS: 362.222 (from 533.333)
+
+**Func_Breakable**:
+• Base dmg: 16 (from 20)
+• Base Sustained DPS: 70.107 (from 75.471)
+• Base Nonstop DPS: 181.111 (from 266.666)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 17 (from 21)
+• Max dmg: 49 (from 60)
+• Max Sustained DPS: 210.752 (from 226.415)
+• Max Nonstop DPS: 544.444 (from 800)
+
+**Math_Counter**:
+• Base Sustained BPS: 4.301 (from 3.773)
+• Base Nonstop BPS: 11.111 (from 13.333)
+
+__Reasoning__:
+The L’Etranger in base TF2 is Spy’s supplementary weapon for his stealth playstyle allowing him to quickly regain cloak by shooting players. It feels a bit weird not having this feature in Zombie Escape but understandable since it could very easily regain an entire cloak meter after a few shots due to its increased stats. To mitigate this, it instead gains 1% of the cloak meter each shot, which is significant enough to recharge it faster but not so much so that it recharges it in a mere few seconds. In order to maintain its role similar to base TF2, it comes at the cost of features important to Zombie Escape.
+
+In regards to stats, it has a -18.5% damage penalty but with a +25% reload speed increase and a +82.5% faster fire rate. This is to maintain the feel of the rapid-fire L’Etranger previously had but does nerf it such that its nonstop DPS and BPS do not absurdly exceed the efficacy of Heavy’s miniguns under the effects of infinite ammo. That is, it now has a sustained DPS and BPS of around 140 and 4.301, respectively, and a nonstop DPS and BPS of around 360 and 11.111, respectively. So, it’s still one of those weapons players can take advantage of under unique circumstances so long as they are aware of the weapon changes.
+
+----------------------------------------------------------------------
+
+=== **The Enforcer** ===
+
+__All Attributes__:
++60% damage bonus
++775% damage bonus while disguised
++100% clip size
++50% faster firing speed
+No random critical hits
+Attacks pierce damage resistance effects and bonuses
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 12 (Unchanged)
+• Ammo Carried: 200 (from 24)
+• Weapon Spread: 80:1 (Unchanged)
+
+__Timings (s)__:
+• Disguise Speed: 2.188 (Unchanged)
+• Attack Interval: 0.255 (Unchanged)
+• TEC: 3.06 (Unchanged)
+• FRT: 1.14 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 64 (from 60)
+• Base dmg (w/ Disguise Bonus): 560 (from 480)
+• Base Sustained DPS: 182.856 (from 171.428)
+• Base Nonstop DPS: 250.98 (from 235.294)
+• Max Nonstop DPS (w/ Disguise Bonus): 122.37 (from 114.722)
+
+**Func_Breakable**:
+• Base dmg: 32 (from 30)
+• Base dmg (w/ Disguise Bonus): 280 (from 240)
+• Base Sustained DPS: 91.428 (from 85.714)
+• Base Nonstop DPS: 125.49 (from 117.647)
+• Max Nonstop DPS (w/ Disguise Bonus): 56.637 (from 53.097)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 34 (from 16)
+• Max dmg: 96 (from 90)
+• Max Sustained DPS: 274.285 (from 257.142)
+• Max Nonstop DPS: 376.47 (from 352.941)
+
+**Math_Counter**:
+• Base Sustained BPS: 2.856 (Unchanged)
+• Base Nonstop BPS: 3.921 (Unchanged)
+
+__Reasoning__:
+The Enforcer in base TF2 is a revolver commonly used by gun-spy archetypes for its initially greater damage while disguised and as a niche weapon that ignores damage resistances. It's harder to capitalize on this aspect in Zombie Escape for this same use case, so instead it has been revamped into the strongest revolver overall. It now features a +115% damage bonus, a +775% damage bonus while disguised, and a +25% faster firing rate. This raises the Enforcer's sustained DPS to around 183 and its sustained DPS when taking advantage of the disguise bonus to around 255. The slower firining rate compared to the other revolvers does make this weapon less defense-oriented and greater for damage output.
+
+But, why the damage bonus of +775% while disguised in particular? This value was balanced around its theoretical DPS utilizing this damage increase. Let's assume the scenario where sustained DPS is negligible due to being able to reload well within the duration it takes you to disguise. Let's also use time intervals within a range of 2.2 seconds, near the fastest time to shoot after disguise has been activated, and 3.1, a somewhat arbitrary time interval indicative of a late reaction. If this weapon deals 560 damage while disguised, this means you could deal upwards of 560/2.2 = ~255 DPS if you are able to consistently fire just after disguising. Reacting a bit later within the range of 2.3 to 2.5 seconds, you deal a range of ~243 to 224 DPS, which is still significantly greater than the Enforcer's base sustained DPS. Firing your shots in 3 second intervals just barely breaks past even at 560/3 = ~187 DPS. Reacting much later and firing your shots in 3.1 second intervals will yield ~181 DPS, which is already less than the Enforcer's base sustained DPS. 
+
+----------------------------------------------------------------------
+
+=== **The Diamondback** ===
+
+__All Attributes__:
+-72.5% damage penalty
++100% clip size
++65% faster firing speed
+60% less accurate
++300% bullets per shot
+6.25% slower move speed on wearer
+No random critical hits
+Gives one guaranteed critical hit for eachbuilding destroyed with your sapper attached or backstab kill
+Wearer cannot disguise
+
+__Basic Info__:
+• Shot Type: Hitscan (Unchanged)
+• Clip Size: 12 (from 24)
+• Ammo Carried: 200 (from 24)
+• Weapon Spread: 50:1 (from 59.259:1)
+
+__Timings (s)__:
+• Disguise Speed: 2.188 (Unchanged)
+• Attack Interval: 0.18 (from 0.135)
+• TEC: 2.16 (from 3.24)
+• FRT: 1.14 (Unchanged)
+
+__Damage__:
+**Func_Physbox**:
+• Base dmg: 44 (from 32)
+• Base Sustained DPS: 159.999 (from 175.342)
+• Base Nonstop DPS: 244.444 (from 237.037)
+
+**Func_Breakable**:
+• Base dmg: 22 (from 16)
+• Base Sustained DPS: 79.999 (from 87.671)
+• Base Nonstop DPS: 122.222 (from 118.518)
+
+**Base_Boss & Players**:
+• Min dmg (per Shot): 6 (Unchanged)
+• Max dmg: 66 (from 56)
+• Max Sustained DPS: 239.999 (from 306.848)
+• Max Nonstop DPS: 366.666 (from 414.814)
+
+**Math_Counter**:
+• Base Sustained BPS: 3.636 (from 5.479)
+• Base Nonstop BPS: 5.555 (from 7.407)
+
+__Reasoning__:
+The Diamondback is a weapon that rewards players for getting Sapper kills or backstabs in base TF2 by granting them stored crits. Unfortunately, there are no buildings for Spies to sap among current Zombie Escape maps and the stored crits won’t be so beneficial if collected one-by-one, so the current Diamondback plays into the crit-reward mechanic a bit differently. Instead, it’s a weapon that rewards target prioritization when defending. If you kill a zombie, this version of the weapon grants you 16 seconds of crits (the set value is 15 but the actual implementation adds an extra second). Not only that, but this weapon has been given a spread larger than other revolvers but still lesser than shotguns. This was added as there's currently no point in having extra bullets considering they still cluster together at one target.
+
+Hefty damage penalties aside for balancing, the Diamondback now has a clip size of 12 and a 65% faster fire rate. This does produce a lower TEC time of 2.16 seconds and an overall lower uptime-downtime ratio of 1.894. In terms of DPS, this weapon now resides at around 160 sustained DPS and 250 nonstop DPS. This keeps withing the middle-ground for DPS output among revovlers. These changes also make it such that you can unload at least 4 full clips of crits after killing a zombie.
+
+2.16 TEC + 1.14 FRT = 3.3 second attack cycle (AC)
+((12 shots - [1, 3] shots for initial kill to activate crits) * 0.18 second attack interval + 1.14 FRT) + (4 * 3.3 AC - 1.14 FRT) = [15.18,14.82] second full-crit cycle
+
+These changes do make the Diamondback an even more powerful weapon for chaining crits. As a downside, this weapon has been given a -6.3% movement penalty when held out. This effectively makes Spy as slow as the Pyro, Engineer, or Sniper in Zombie Escape.
+
+300 HU/s × 0.96 = 288.00 HU/s (Spy speed on maps with speed rescaling)
+288.00 HU/s × 0.937 => *270.00 HU/s (Spy with Diamondback held out)
+
+320 HU/s (Spy speed on maps without speed rescaling)
+320 HU/s × 0.937 => *300.00 HU/s (Spy with Diamondback held out)
+
+*true values may differ slightly
+
+Additionally, you still can’t disguise yourself (but can still cloak if you want to attempt to sneak behind and gain crits from backstab kills). This is weapon where you really need to commit to supporting the team if you want to take advantage of its unique upsides.

@@ -1,0 +1,36 @@
+**Phlogistinator** :arrows_counterclockwise:
+(-) Reduced more flame spread area bonus to 100% (from 200%)
+(+) +10% damage bonus
+
+The Phlogistinator's flames were sometimes too big to reach inside the small corridors or vents in certain maps, so the flame size is getting reduced to mitigate this issue. To compensate, it is now getting a small damage bonus to further make up for its lack of airblast.
+
+
+**Vaccinator** :arrow_up:
+(+) Reduced overheal build rate penalty to -50% (from -66%)
+
+More incremental buffs to Vaccinator to help out its role as an overheal-focused Medi Gun.
+
+
+**Syringe Gun** :arrow_up:
+(+) +20% heal rate
+
+**Overdose** :arrow_up:
+(+) +20% heal rate
+
+Adding an increase to heal rate (similar to the Solemn Vow's bonus) for all primaries -- except for the Blutsauger -- due to Medics being forced to choose between either single-target healing or defending/DPS in most scenarios, often leaving them outclassed by Mad Milk Scouts and Engineers, who can both heal and defend/damage at the same time. The heal rate increase should also make overheal management (which has recently become much harder due to zombie mutations more frequently disrupting the out-of-combat healing bonus) easier as well.
+
+
+**Blutsauger** :arrows_counterclockwise:
+(+) On Hit: 1% UberCharge added
+(+) Reduced slower firing speed to -50% (from -100%)
+(-) Reduced clip size to 20 (from 40)
+~142.6 Real DPS (from ~145.3)
+
+A buff to the Blutsauger's team support capabilities, allowing Uber build-up while actively defending. The slower firing speed also made the Bluts feel too slow for a Syringe Gun, so it is getting lowered, though at the cost of halving the clip size to keep its uptime in check.
+
+
+**Crusader's Crossbow** :arrow_up:
+(+) +20% heal rate
+(+) On Hit: 3% UberCharge added
+
+Similar to Blutsauger, it is getting the ability to gain Uber on hit, further emphasizing its dual role of both crowd control and team support.
