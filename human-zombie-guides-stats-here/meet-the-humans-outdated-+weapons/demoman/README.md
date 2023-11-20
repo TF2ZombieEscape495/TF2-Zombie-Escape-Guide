@@ -6,7 +6,7 @@ description: Brief overview of the Human Demoman
 
 ![](../../../.gitbook/assets/Icon\_demoman\_blue.jpg)
 
-<mark style="color:green;">**Health:**</mark> _**175**_\
+<mark style="color:green;">**Health:**</mark>** **_**200**_\
 <mark style="color:yellow;">**Speed:**</mark> _**252.00 HU/s (84.0% base TF2 speed)**_\
 \
 <mark style="color:blue;">**Pros**</mark>
