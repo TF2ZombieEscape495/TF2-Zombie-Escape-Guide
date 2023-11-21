@@ -27,46 +27,57 @@ Arguably Scout's most useful secondary, Bonk! Atomic Punch allows you to boost y
 
 Easily able to save yourself or other people, Mad Milk is a situational utility that allows Humans to heal upon shooting milked zombies. Typically, a team should have Medics, Soldiers, and/or Engineers to provide healing, but things don't always end up going as planned. They might all be dead or not even be picked in the first place! Zombies will capitalize on this by chaining Pyro Mutations to whittle the team's HP down. Mad Milk can easily prevent this from happening and prevent humans from dying from all the Mutation damage. Did I forget to mention that it gives you <mark style="color:green;">**+25 hp**</mark>, allowing you to tank a normal zombie hit and save your life?
 
-
-
 ## Pretty Boy's Pocket Pistol    ![](<../../../.gitbook/assets/100px-Item\_icon\_Pretty\_Boy's\_Pocket\_Pistol (1).png>)
 
-| Attributes                                                                                  | Damage                          |
-| ------------------------------------------------------------------------------------------- | ------------------------------- |
-| Clip Size - 54 Shots                                                                        | Clip DPS - 180.952 DPS          |
-| <mark style="color:blue;">**+33% Damage Bonus**</mark>                                      | Base Damage - 19 per shot       |
-| <mark style="color:blue;">**+33% Faster Firing Speed**</mark>                               | Attack Interval - 0.104         |
-| <mark style="color:red;">-</mark><mark style="color:red;">**47% Slower Reload Time**</mark> | TEC - 5.670 seconds             |
-|                                                                                             | Full Reload Time- 0.583 seconds |
-|                                                                                             | **Real DPS** - 142 DPS          |
+| Attributes                                                            |
+| --------------------------------------------------------------------- |
+| Clip Size - 36 Shots                                                  |
+| Weapon Spread: 60.24:1                                                |
+| <mark style="color:blue;">**+15% Damage Bonus**</mark>                |
+| <mark style="color:blue;">**+45% Faster Firing Speed**</mark>         |
+| <mark style="color:blue;">**+17% More Accurate**</mark>               |
+| <mark style="color:red;">**-50% Slower Reload Time**</mark>           |
+| <mark style="color:orange;">**On Hit: Gain up to +3.0 health**</mark> |
 
-A bit more of a selfish way of getting healing, the Pretty Boy's Pocket Pistol is a near identical copy of the stock Pistol but with the downside of having a smaller clip and the situational upside of healing on hit. NPCs and bosses do not trigger its On Hit effects, and healing is usually plentiful and unneeded when doorhugging. You could use it in situations where you wish to be a more independent Scout with the BFB or in boss fights where you _can_ shoot the zombies and healing isn't nerfed. Or pair it with the Force-A-Nature since you'll be taking a lot more total damage with that equipped.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.09</td><td>TEC: 3.24 seconds</td><td>Full Reload Time: 1.515 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 17.25 per shot</td><td><strong>Real DPS:</strong> 130.598 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 191.666 DPS</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 8 per shot</td><td><strong>Real DPS:</strong> 60.567 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 88.888 DPS</td></tr></tbody></table>
+
+The Pretty Boy's Pocket Pistol acts as the fastest firing secondary among all Scout pistols; added with the situational upside of healing on hit. NPCs and Bosses **do not** trigger its On Hit effects, and healing is usually plentiful and unneeded when doorhugging. With an infinite ammo item, it can reach the potential of miniguns with 11.111 nonstop BPS _(Bullets Per Second)_ but will still remain strong without it at 7.57 sustained BPS. You could use it in situations where you wish to be a more independent Scout with the BFB or in boss fights where you _can_ shoot the zombies and healing isn't nerfed.
 
 ## Winger    ![](<../../../.gitbook/assets/100px-Item\_icon\_Winger (1).png>)
 
-| Attributes                                                        | Damage                           |
-| ----------------------------------------------------------------- | -------------------------------- |
-| Clip Size - 36 Shots                                              | Clip DPS - 180.953 DPS           |
-| <mark style="color:blue;">**+33% Damage Bonus**</mark>            | Base Damage - 19 per shot        |
-| <mark style="color:blue;">**+33% Faster Firing Speed**</mark>     | Attack Interval - 0.105          |
-| <mark style="color:blue;">**+10% Faster Reload Time**</mark>      | TEC - 3.78 seconds               |
-| <mark style="color:orange;">**Disabled Extra Jump Height**</mark> | Full Reload Time - 0.945 seconds |
-|                                                                   | **Real DPS** - 144 DPS           |
+| Attributes                                                        |
+| ----------------------------------------------------------------- |
+| Clip Size - 24 Shots                                              |
+| Weapon Spread: 80:1                                               |
+| <mark style="color:blue;">**+57.5% Damage Bonus**</mark>          |
+| <mark style="color:blue;">**+33% Faster Firing Speed**</mark>     |
+| <mark style="color:blue;">**+37.5% More Accurate**</mark>         |
+| <mark style="color:blue;">**+25% Deploy/Holster Speed**</mark>    |
+| <mark style="color:red;">**-25% Slower Reload Time**</mark>       |
+| <mark style="color:orange;">**Disabled Extra Jump Height**</mark> |
 
-_At one point_ the Winger would give no fall damage, but that attribute was moved onto BFB for a better drawback; now currently the utility niche of the Winger is that it provides a quicker reload downtime against the other pistol picks - but does have the smallest clip and lowest damage of the Scout pistol trio, so using it to repeatedly reload and single out zombies for stalling might be the best way to put it to work.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.105</td><td>TEC: 2.52 seconds</td><td>Full Reload Time: 1.26 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 23.625 per shot</td><td><strong>Real DPS:</strong> 150 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 225 DPS</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 11 per shot</td><td><strong>Real DPS:</strong> 69.84 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 104.761 DPS</td></tr></tbody></table>
+
+The Winger is the more damaging variant among all the Pistols at the cost of clip size in base TF2. It also has a unique +25% jump height bonus, but it’s been **removed** in Zombie Escape to avoid exploiting most maps.&#x20;
+
+In consolation, it’s been given a +25% faster weapon switch and a smaller bullet spread at 80:1. This is in the hopes of making it a faster and more effective response option as a weapon for single-target stalling or for fighting certain bosses. You can get up close with the pistol to stall and quickly swap to scatterguns if surrounded or vice versa when dealing with bosses that tend to run away. Currently this pistol fits also the niche of hitting the hardest (\~150 DPS) among the other two at cost of its low clip - but you can holster it quicker if caught out during its _many_ downtimes.
 
 ## Pistol    ![](<../../../.gitbook/assets/100px-Item\_icon\_Pistol (1).png>)
 
-| Attributes                                                    | Damages                         |
-| ------------------------------------------------------------- | ------------------------------- |
-| Clip Size - 72 shots                                          | Clip DPS - 180.952 DPS          |
-| <mark style="color:blue;">**+33% damage bonus**</mark>        | Base Damage - 20 per shot       |
-| <mark style="color:blue;">**+33% faster firing speed**</mark> | Attack Interval - 0.105         |
-| <mark style="color:red;">**-47% slower reload time**</mark>   | TEC - 7.560 seconds             |
-|                                                               | Full Reload Time- 0.583 seconds |
-|                                                               | **Real DPS** - 150 DPS          |
+| Attributes                                                    |
+| ------------------------------------------------------------- |
+| Clip Size - 48 shots                                          |
+| Weapon Spread: 100:1                                          |
+| <mark style="color:blue;">**+27.5% Damage Bonus**</mark>      |
+| <mark style="color:blue;">**+33% Faster Firing Speed**</mark> |
+| <mark style="color:blue;">**+50% More Accurate**</mark>       |
+| <mark style="color:red;">**-50% Slower Reload Time**</mark>   |
 
-An alternative to the other picks, the stock Pistol is a reliable substitute if you need a secondary for raw firepower. The stock Pistol is best paired with something that can barely pack a punch like the BFB, especially for the NPCs and/or bosses that you have to shoot down; especially if they're bullet-based counters. Since you'll mainly be doorhugging even on maps with these elements, the boosted stats won't play as large a role as one might think. Mostly comes down to your preference on clip size or utility.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.105</td><td>TEC: 5.04 seconds</td><td>Full Reload Time: 1.515 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 19.125 per shot</td><td><strong>Real DPS:</strong> 140.0.45 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 182.142 DPS</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 9 per shot</td><td><strong>Real DPS:</strong> 65.903 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 85.714 DPS</td></tr></tbody></table>
+
+The Pistol serves as Scout and Engineer’s trusty follow-up weapon the majority of the time. In base TF2, if enemies are far away or low on health, they can quickly swap to this weapon in the hopes of more accurately putting a few shots in. It’s not meant to be stronger than a Shotgun, hence the damage nerf of \~140 DPS.
+
+What this weapon does now excel at is accuracy, which is emphasized by its decreased bullet spread to 100:1. This makes the Pistol one of the better picks for single-target stalling and for shooting at fast-moving or far-away bosses, assuming one can track well.
 
 ## Crit-a-Cola    ![](<../../../.gitbook/assets/100px-Item\_icon\_Crit-a-Cola (1).png>)
 
