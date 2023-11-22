@@ -31,8 +31,8 @@ Easily able to save yourself or other people, Mad Milk is a situational utility 
 
 | Attributes                                                            |
 | --------------------------------------------------------------------- |
-| Clip Size - 36 Shots                                                  |
-| Weapon Spread: 60.24:1                                                |
+| **Clip Size - 36 Shots**                                              |
+| **Weapon Spread: 60.24:1**                                            |
 | <mark style="color:blue;">**+15% Damage Bonus**</mark>                |
 | <mark style="color:blue;">**+45% Faster Firing Speed**</mark>         |
 | <mark style="color:blue;">**+17% More Accurate**</mark>               |
@@ -47,8 +47,8 @@ The Pretty Boy's Pocket Pistol acts as the fastest firing secondary among all Sc
 
 | Attributes                                                        |
 | ----------------------------------------------------------------- |
-| Clip Size - 24 Shots                                              |
-| Weapon Spread: 80:1                                               |
+| **Clip Size - 24 Shots**                                          |
+| **Weapon Spread: 80:1**                                           |
 | <mark style="color:blue;">**+57.5% Damage Bonus**</mark>          |
 | <mark style="color:blue;">**+33% Faster Firing Speed**</mark>     |
 | <mark style="color:blue;">**+37.5% More Accurate**</mark>         |
@@ -66,8 +66,8 @@ In consolation, it’s been given a +25% faster weapon switch and a smaller bull
 
 | Attributes                                                    |
 | ------------------------------------------------------------- |
-| Clip Size - 48 shots                                          |
-| Weapon Spread: 100:1                                          |
+| **Clip Size - 48 shots**                                      |
+| **Weapon Spread: 100:1**                                      |
 | <mark style="color:blue;">**+27.5% Damage Bonus**</mark>      |
 | <mark style="color:blue;">**+33% Faster Firing Speed**</mark> |
 | <mark style="color:blue;">**+50% More Accurate**</mark>       |

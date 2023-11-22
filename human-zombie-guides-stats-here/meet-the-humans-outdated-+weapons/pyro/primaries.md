@@ -60,7 +60,9 @@ This passive playstyle promotes only airblasting at opportune times while avoidi
 | <mark style="color:orange;">**Alt-Fire: Release a blast of air that pushes enemies and projectiles, and extinguishes teammates that are on fire.**</mark> |
 | <mark style="color:orange;">**This single-shot flamethrower rewards consecutive hits with faster reloads and bonus damage.**</mark>                       |
 
-At an initial glance, the Dragon's Fury might not seem like it's all that different from its Vanilla stats - but it comes with an extended range over the other picks, _and_ the slowdown of landing the fireball projectile is actually _**greater**_ than that of any other flamethrower slowing, allowing you to significantly bully out pockets of zombies in the front-lines; so long as you consistently land your shots, _(as missing will lead to a slower firing rate.)_ Though once those pockets of zombies become _hordes_ is where you'll start having problems in delaying; as you can't exactly just flick the flame and ignite 20 zombies in one fell swoop, unless they're conveniently lined up; and this weapon in particular has the **longest** airblast cooldown, so try to use it wisely!
+At an initial glance, the Dragon's Fury might not seem like it's all that different from its Vanilla stats - but it comes with an extended range over the other picks, _and_ the slowdown of landing the fireball projectile is actually _**greater**_ than that of any other flamethrower slowing, allowing you to significantly bully out pockets of zombies in the front-lines; so long as you consistently land your shots, _(as missing will lead to a slower firing rate.)_&#x20;
+
+Though once those pockets of zombies become _hordes_ is where you'll start having problems in delaying; as you can't exactly just flick the flame and ignite 20 zombies in one fell swoop of your mouse, unless they're conveniently lined up in a corridor or ramp; and this weapon in particular has the **longest** airblast cooldown, so try to use it wisely!
 
 ## Phlogistinator   ![](<../../../.gitbook/assets/100px-Item\_icon\_Phlogistinator (1).png>)
 

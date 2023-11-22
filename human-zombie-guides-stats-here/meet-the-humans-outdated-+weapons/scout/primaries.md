@@ -8,8 +8,8 @@ description: Scout Primary Options
 
 | Attributes                                                    |
 | ------------------------------------------------------------- |
-| Clip Size - 18 Shots                                          |
-| Weapon Spread: 30:1                                           |
+| **Clip Size - 18 Shots**                                      |
+| **Weapon Spread: 30:1**                                       |
 | <mark style="color:blue;">**+60% Faster Firing Speed**</mark> |
 | <mark style="color:blue;">**+65% Faster Reload Time**</mark>  |
 | <mark style="color:blue;">**+25% Damage Bonus**</mark>        |
@@ -22,8 +22,8 @@ The Scattergun is probably the Scout's most reliable primary weapon in base TF2.
 
 | Attributes                                                                                    |
 | --------------------------------------------------------------------------------------------- |
-| Clip Size - 12 Shots                                                                          |
-| Weapon Spread: 15:1                                                                           |
+| **Clip Size - 12 Shots**                                                                      |
+| **Weapon Spread: 15:1**                                                                       |
 | <mark style="color:blue;">**+75% Faster Firing Speed**</mark>                                 |
 | <mark style="color:blue;">**+20% Bullet Per Shot**</mark>                                     |
 | <mark style="color:blue;">**+100% Damage vs Players**</mark>                                  |
@@ -48,8 +48,8 @@ It’s a bit of a high-commitment weapon that encourages Scouts to be up close t
 
 | Attributes                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Clip Size - 6 Shots                                                                                                                                                                               |
-| Weapon Spread: 40:1                                                                                                                                                                               |
+| **Clip Size - 6 Shots**                                                                                                                                                                           |
+| **Weapon Spread: 40:1**                                                                                                                                                                           |
 | <mark style="color:blue;">**+60% Faster Firing Speed**</mark>                                                                                                                                     |
 | <mark style="color:blue;">**+65% Faster Reload Time**</mark>                                                                                                                                      |
 | <mark style="color:blue;">**+5% Damage Bonus**</mark>                                                                                                                                             |
@@ -69,8 +69,8 @@ Playing into Scout's niche, the Baby Face's Blaster allows him to push way past 
 
 | Attributes                                                                                    |
 | --------------------------------------------------------------------------------------------- |
-| Clip Size - 12 Shots                                                                          |
-| Weapon Spread: 50:1                                                                           |
+| **Clip Size - 12 Shots**                                                                      |
+| **Weapon Spread: 50:1**                                                                       |
 | <mark style="color:blue;">**+50% Faster Firing Speed**</mark>                                 |
 | <mark style="color:blue;">**+25% Bullets Per Shot**</mark>                                    |
 | <mark style="color:blue;">**+25% Damage vs Players**</mark>                                   |
@@ -88,8 +88,8 @@ These attributes make it something to consider in situations where players may n
 
 | Attributes                                                                                    |
 | --------------------------------------------------------------------------------------------- |
-| Clip Size - 12 Shots                                                                          |
-| Weapon Spread: 30:1                                                                           |
+| **Clip Size - 12 Shots**                                                                      |
+| **Weapon Spread: 30:1**                                                                       |
 | <mark style="color:blue;">**+75% Faster Firing Speed**</mark>                                 |
 | <mark style="color:blue;">**+50% Deploy/Holster Speed**</mark>                                |
 | <mark style="color:red;">**-19% Damage Penalty**</mark>                                       |
@@ -112,8 +112,8 @@ With making use of its wide bullet spread; players might find themselves weaving
 
 | Attributes                                                                                          |
 | --------------------------------------------------------------------------------------------------- |
-| Clip Size - 12 Shots                                                                                |
-| Weapon Spread: 20:1                                                                                 |
+| **Clip Size - 12 Shots**                                                                            |
+| **Weapon Spread: 20:1**                                                                             |
 | <mark style="color:blue;">**+55% Faster Firing Speed**</mark>                                       |
 | <mark style="color:blue;">**+60% Faster Reload Time**</mark>                                        |
 | <mark style="color:blue;">**+50% Bullets Per Shot**</mark>                                          |

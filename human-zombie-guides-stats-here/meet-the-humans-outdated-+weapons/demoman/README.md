@@ -6,7 +6,7 @@ description: Brief overview of the Human Demoman
 
 ![](../../../.gitbook/assets/Icon\_demoman\_blue.jpg)
 
-<mark style="color:green;">**Health:**</mark>** **_**200**_\
+<mark style="color:green;">**Health: 200 (Stickies); 175 (Shields)**</mark>\
 <mark style="color:yellow;">**Speed:**</mark> _**252.00 HU/s (84.0% base TF2 speed)**_\
 \
 <mark style="color:blue;">**Pros**</mark>
@@ -19,7 +19,6 @@ description: Brief overview of the Human Demoman
 
 * Primary can easily boost zombies in unfavorable directions
 * Slowest class
-* Less HP than average
 * Up close, zombies can overwhelm easily
 * Stun immunity makes more Demos exponentially less effective
 

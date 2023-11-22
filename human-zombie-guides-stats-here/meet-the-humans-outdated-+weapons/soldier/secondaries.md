@@ -54,8 +54,8 @@ Giving your team an offensive buff of minicrits, the Buff Banner lets your team 
 
 | Attributes                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------ |
-| Clip Size - 12 Shots                                                                                                     |
-| Weapon Spread: 50:1                                                                                                      |
+| **Clip Size - 12 Shots**                                                                                                 |
+| **Weapon Spread: 50:1**                                                                                                  |
 | <mark style="color:blue;">**+60% Faster Firing Speed**</mark>                                                            |
 | <mark style="color:blue;">**+60% Faster Reload Time**</mark>                                                             |
 | <mark style="color:blue;">**+20% Faster Weapon Deploy**</mark>                                                           |
@@ -75,8 +75,8 @@ The goal of these attributes is to provide a higher-accuracy hitscan weapon for 
 
 | Attributes                                                    |
 | ------------------------------------------------------------- |
-| Clip Size - 18 Shots                                          |
-| Weapon Spread: 30:1                                           |
+| **Clip Size - 18 Shots**                                      |
+| **Weapon Spread: 30:1**                                       |
 | <mark style="color:blue;">**+60% Faster Firing Speed**</mark> |
 | <mark style="color:blue;">**+60% Faster Reload Time**</mark>  |
 | <mark style="color:blue;">**+20% Damage Bonus**</mark>        |
@@ -91,8 +91,8 @@ The stock Shotgun _does_ cover some of Soldier's weaknesses, such as unreliable 
 
 | Attributes                                                                   |
 | ---------------------------------------------------------------------------- |
-| Clip Size - 18 Shots                                                         |
-| Weapon Spread: 20:1                                                          |
+| **Clip Size - 18 Shots**                                                     |
+| **Weapon Spread: 20:1**                                                      |
 | <mark style="color:blue;">**+80% Faster Firing Speed**</mark>                |
 | <mark style="color:blue;">**+45% Faster Reload Time**</mark>                 |
 | <mark style="color:blue;">**+50% Bullets Per Shot**</mark>                   |
@@ -115,8 +115,8 @@ Even if this weapon has low sustained DPS, it evens out by being given a damage 
 
 | Attributes                                                                 |
 | -------------------------------------------------------------------------- |
-| Clip Size - 8 Shots                                                        |
-| <mark style="color:orange;">**Does not require ammo**</mark>               |
+| **Clip Size - 8 Shots**                                                    |
+| <mark style="color:yellow;">**Does not require ammo**</mark>               |
 | <mark style="color:blue;">**+130 Damage vs Players**</mark>                |
 | <mark style="color:blue;">**+50% Faster Firing Speed**</mark>              |
 | <mark style="color:blue;">**+25% Faster Reload Time**</mark>               |

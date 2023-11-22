@@ -8,9 +8,9 @@ description: Soldier Primary Options
 
 | Attributes                                                                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Clip Size - 5 Shots                                                                                                                                                                     |
-| Blast Radius: 146                                                                                                                                                                       |
-| Projectile Speed: 1771                                                                                                                                                                  |
+| **Clip Size - 5 Shots**                                                                                                                                                                 |
+| **Blast Radius: 146**                                                                                                                                                                   |
+| **Projectile Speed: 1771**                                                                                                                                                              |
 | <mark style="color:blue;">**+40% Projectile Speed**</mark>                                                                                                                              |
 | <mark style="color:blue;">**-25% Blast Damage from \[self-inflicted explosive damage]**</mark>                                                                                          |
 | <mark style="color:blue;">**+204% Damage Bonus**</mark>                                                                                                                                 |
@@ -30,9 +30,9 @@ The most notable attribute here is the addition of Rocket Specialist, which **al
 
 | Attributes                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Clip Size - 4 Shots                                                                                                                         |
-| Blast Radius: 146                                                                                                                           |
-| Projectile Speed: 1100                                                                                                                      |
+| **Clip Size - 4 Shots**                                                                                                                     |
+| **Blast Radius: 146**                                                                                                                       |
+| **Projectile Speed: 1100**                                                                                                                  |
 | <mark style="color:blue;">**+67% Banner Buff Duration**</mark>** **<mark style="color:yellow;">**(\~25 Seconds Total)**</mark>              |
 | <mark style="color:blue;">**+155% Damage Bonus**</mark>                                                                                     |
 | <mark style="color:red;">**-50% Damage vs Players**</mark>                                                                                  |
@@ -52,9 +52,9 @@ This sort of established the original niche of the weapon in Zombie Escape as a 
 
 | Attributes                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| Clip Size - 3 Shots                                                                                                            |
-| Blast Radius: 146                                                                                                              |
-| Projectile Speed: 1100                                                                                                         |
+| **Clip Size - 3 Shots**                                                                                                        |
+| **Blast Radius: 146**                                                                                                          |
+| **Projectile Speed: 1100**                                                                                                     |
 | <mark style="color:blue;">**+25% Faster Reload Time**</mark>                                                                   |
 | <mark style="color:blue;">**+34% Banner Buff Duration**</mark>** **<mark style="color:yellow;">**(\~20 Seconds Total)**</mark> |
 | <mark style="color:blue;">**+144% Damage Bonus**</mark>                                                                        |
@@ -75,9 +75,9 @@ Firstly, one may notice that this weapon's sustained DPS is \~141, which is at t
 
 | Attributes                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------ |
-| Clip Size - 4 Shots                                                                                                      |
-| Blast Radius: 43.8                                                                                                       |
-| Projectile Speed: 2200                                                                                                   |
+| **Clip Size - 4 Shots**                                                                                                  |
+| **Blast Radius: 43.8**                                                                                                   |
+| **Projectile Speed: 2200**                                                                                               |
 | <mark style="color:blue;">**+100% Projectile Speed**</mark>                                                              |
 | <mark style="color:blue;">**+25% Faster Reload time**</mark>                                                             |
 | <mark style="color:blue;">**+204% Damage Bonus**</mark>                                                                  |
@@ -100,9 +100,9 @@ The decreased blast radius also makes it slightly harder to fight faster-moving 
 
 | Attributes                                                                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Clip Size - 4 Shots (Max 8)                                                                                                                                                             |
-| Blast Radius: 131.4                                                                                                                                                                     |
-| Projectile Speed: 1771                                                                                                                                                                  |
+| **Clip Size - 4 Shots (Max 8)**                                                                                                                                                         |
+| **Blast Radius: 131.4**                                                                                                                                                                 |
+| **Projectile Speed: 1771**                                                                                                                                                              |
 | <mark style="color:yellow;">**Hold Fire to load up to four rockets - Release Fire to unleash the barrage.**</mark>                                                                      |
 | <mark style="color:blue;">**+60% Faster Firing Speed**</mark>                                                                                                                           |
 | <mark style="color:blue;">**+40% Projectile Speed**</mark>                                                                                                                              |
@@ -129,9 +129,9 @@ This weapon will initially start off with a clip size of \~4. The faster fire ra
 
 | Attributes                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------ |
-| Clip Size - 1/2/3 Shots                                                                                            |
-| Blast Radius: 116.8                                                                                                |
-| Projectile Speed: 1100                                                                                             |
+| **Clip Size - 1/2/3 Shots**                                                                                        |
+| **Blast Radius: 116.8**                                                                                            |
+| **Projectile Speed: 1100**                                                                                         |
 | <mark style="color:yellow;">**Hold Fire to load up to three rockets - Release Fire to unleash the barrage**</mark> |
 | <mark style="color:blue;">**+70% faster firing speed (Hidden)**</mark>                                             |
 | <mark style="color:blue;">**+100% Damage Bonus**</mark>                                                            |
@@ -153,9 +153,9 @@ The modified version of this weapon in Zombie Escape doesn't stray too far from 
 
 | Attributes                                                                               |
 | ---------------------------------------------------------------------------------------- |
-| Clip Size - 1 Shots                                                                      |
-| Blast Radius: 182.5                                                                      |
-| Projectile Speed: 550                                                                    |
+| **Clip Size - 1 Shots**                                                                  |
+| **Blast Radius: 182.5**                                                                  |
+| **Projectile Speed: 550**                                                                |
 | <mark style="color:blue;">**+25% Explosion Radius**</mark>                               |
 | <mark style="color:blue;">**+1011% Damage Bonus**</mark>** **~~_**(no, not a typo.)**_~~ |
 | <mark style="color:red;">**-50% Damage vs Players**</mark>                               |
@@ -180,9 +180,9 @@ Sure - it _does_ do the most high-end soldier damage, but that requires a boss t
 
 | Attributes                                                   |
 | ------------------------------------------------------------ |
-| Clip Size - 4 Shots                                          |
-| Blast Radius: 146                                            |
-| Projectile Speed: 1100                                       |
+| **Clip Size - 4 Shots**                                      |
+| **Blast Radius: 146**                                        |
+| **Projectile Speed: 1100**                                   |
 | <mark style="color:blue;">**+25% Faster Reload Time**</mark> |
 | <mark style="color:blue;">**+171% Damage Bonus**</mark>      |
 | <mark style="color:red;">**-50% Damage vs Players**</mark>   |

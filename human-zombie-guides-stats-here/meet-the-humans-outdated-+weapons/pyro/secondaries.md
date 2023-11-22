@@ -14,8 +14,8 @@ description: Pyro Secondary Options
 
 | Attributes                                                    |
 | ------------------------------------------------------------- |
-| Clip Size - 18 Shots                                          |
-| Weapon Spread: 30:1                                           |
+| **Clip Size - 18 Shots**                                      |
+| **Weapon Spread: 30:1**                                       |
 | <mark style="color:blue;">**+60% Faster Firing Speed**</mark> |
 | <mark style="color:blue;">**+60% Faster Reload Time**</mark>  |
 | <mark style="color:blue;">**+20% Damage Bonus**</mark>        |
@@ -30,8 +30,8 @@ Reliable as a mid ranged option, the stock Shotgun is the premier choice for pyr
 
 | Attributes                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------ |
-| Clip Size - 12 Shots                                                                                                     |
-| Weapon Spread: 50:1                                                                                                      |
+| **Clip Size - 12 Shots**                                                                                                 |
+| **Weapon Spread: 50:1**                                                                                                  |
 | <mark style="color:blue;">**+60% Faster Firing Speed**</mark>                                                            |
 | <mark style="color:blue;">**+60% Faster Reload Time**</mark>                                                             |
 | <mark style="color:blue;">**+20% Faster Weapon Deploy**</mark>                                                           |
@@ -51,8 +51,8 @@ The goal of these attributes is to provide a higher-accuracy hitscan weapon for 
 
 | Attributes                                                                   |
 | ---------------------------------------------------------------------------- |
-| Clip Size - 18 Shots                                                         |
-| Weapon Spread: 20:1                                                          |
+| **Clip Size - 18 Shots**                                                     |
+| **Weapon Spread: 20:1**                                                      |
 | <mark style="color:blue;">**+80% Faster Firing Speed**</mark>                |
 | <mark style="color:blue;">**+45% Faster Reload Time**</mark>                 |
 | <mark style="color:blue;">**+50% Bullets Per Shot**</mark>                   |
@@ -75,8 +75,8 @@ Even if this weapon has low sustained DPS, it evens out by being given a damage 
 
 | Attributes                                                               |
 | ------------------------------------------------------------------------ |
-| Blast Radius: 110                                                        |
-| Projectile Speed: 2000                                                   |
+| **Blast Radius: 110**                                                    |
+| **Projectile Speed: 2000**                                               |
 | <mark style="color:blue;">**+600% Damage Bonus**</mark>                  |
 | <mark style="color:red;">**-57% Damage vs Players**</mark>               |
 | <mark style="color:blue;">**+25% Faster Firing Speed**</mark>            |
@@ -100,7 +100,7 @@ While it can _theoretically_ perma-slow zombies, it requires much more skill tha
 
 | Attributes                                                                     |
 | ------------------------------------------------------------------------------ |
-| Projectile Speed: 2000                                                         |
+| **Projectile Speed: 2000**                                                     |
 | <mark style="color:blue;">**+25% Faster Firing Speed**</mark>                  |
 | <mark style="color:blue;">**+700% Damage Bonus**</mark>                        |
 | <mark style="color:red;">**-58.5% Damage vs Players**</mark>                   |
@@ -117,8 +117,8 @@ Essentially, each class has a weapon that deals damage significantly greater tha
 | Attributes                                                                                   |
 | -------------------------------------------------------------------------------------------- |
 | <mark style="color:yellow;">**Fires an incendiary rocket instead of a special flare**</mark> |
-| Blast Radius: 73                                                                             |
-| Projectile Speed: 1999.8                                                                     |
+| **Blast Radius: 73**                                                                         |
+| **Projectile Speed: 1999.8**                                                                 |
 | <mark style="color:blue;">**+700% Afterburn Aamage Bonus**</mark>                            |
 | <mark style="color:blue;">**+100% Damage Bonus vs Burning Players**</mark>                   |
 | <mark style="color:blue;">**+81.8% Projectile Speed**</mark>                                 |
@@ -143,7 +143,7 @@ For those worried, currently the server plugin makes it such that players launch
 
 | Attributes                                                                                             |
 | ------------------------------------------------------------------------------------------------------ |
-| Projectile Speed: 3000                                                                                 |
+| **Projectile Speed: 3000**                                                                             |
 | <mark style="color:blue;">**+50% Projectile Speed**</mark>                                             |
 | <mark style="color:blue;">**+70% Faster Firing Speed**</mark>                                          |
 | <mark style="color:blue;">**+160% Damage Bonus**</mark>                                                |

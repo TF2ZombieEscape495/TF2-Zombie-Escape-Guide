@@ -8,10 +8,9 @@ description: Demoman Melee Options
 
 | Attributes                                                                         |
 | ---------------------------------------------------------------------------------- |
-| <mark style="color:blue;">**+1 capture rate on wearer**</mark>                     |
-| <mark style="color:red;">**10% bullet damage vulnerability on wearer**</mark>      |
-| <mark style="color:blue;">**When Held: +10% faster move speed on wearer**</mark>   |
-| <mark style="color:red;">**When Held: +20% damage vulnerability on wearer**</mark> |
+| <mark style="color:red;">**+10% Bullet Bamage Vulnerability on Wearer**</mark>     |
+| <mark style="color:blue;">**When Held: +10% Faster Move Speed on Wearer**</mark>   |
+| <mark style="color:red;">**When Held: +20% Damage Vulnerability on Wearer**</mark> |
 
 Movement is valued in ZE, so it's no surprise the Pain Train is at the top of Demoman's melees. The Pain Train alleviates his movement speed nerf, thus providing the best utility out of all his melees. It's even the favored weapon for Demoknights, as the ÜberCharge upon receiving a hit offsets the damage vulnerability that the Pain Train inflicts. The only downside is the lack of extended range the Demoman's swords and axe may have, but you'll more than likely wind up getting hit by getting too close to the zombies anyway.
 
@@ -33,8 +32,8 @@ If you prefer the longer range of the swords when playing Demoknight while havin
 
 | Attributes                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------- |
-| <mark style="color:red;">**-80% max primary ammo on wearer**</mark>                                        |
-| <mark style="color:red;">**-80% max secondary ammo on wearer**</mark>                                      |
+| <mark style="color:red;">**-80% Max Primary Ammo on Wearer**</mark>                                        |
+| <mark style="color:red;">**-80% Max Secondary Ammo on Wearer**</mark>                                      |
 | <mark style="color:yellow;">**Melee hits refill 0% of your charge meter.**</mark>                          |
 | <mark style="color:yellow;">**Ammo boxes collected give Charge**</mark>                                    |
 | <mark style="color:orange;">**This weapon has a large melee range and deploys and holsters slower**</mark> |
@@ -65,8 +64,8 @@ While you won't have your Scotsman's Skullcutter out all the time, the slowdown 
 
 | Attributes                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------- |
-| <mark style="color:red;">**-25 max health on wearer**</mark>                                               |
-| <mark style="color:orange;">**Cannot gain heads**</mark>                                                   |
+| <mark style="color:red;">**-25 Max Health on Wearer**</mark>                                               |
+| <mark style="color:orange;">**Cannot gain heads!**</mark>                                                  |
 | <mark style="color:orange;">**This weapon has a large melee range and deploys and holsters slower**</mark> |
 
 Dreams of speeding through the map faster than a Scout with the BFB after killing 4 Heavies are unfortunately only a fantasy due to the Eyelander's inability to collect heads. The -25 max health can prove detrimental over time due to the damage you are bound to accumulate.
