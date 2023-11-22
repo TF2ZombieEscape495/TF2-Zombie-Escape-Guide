@@ -13,20 +13,28 @@ description: Engineer Secondary Options
 | <mark style="color:orange;">**No reload necessary**</mark>                                                    |
 | <mark style="color:orange;">**Uses metal for ammo**</mark>                                                    |
 
-Seemingly useless at first glance, you might think the Short Circuit is in the same tier as the Bison or Pomson. However, this is a fantastic Engineer weapon that lets you slow many zombies in an AoE turning you into a psuedo Pyro. Amazing for fallbacks and considering you mainly use your primary to defend anyway, the Short Circuit provides great utility to the Engineer. The only cases where this weapon can fall off usage-wise is if map geometry doesn't allow for the alt-fire projectile to travel anywhere and dissipates nearly immediately - this tends to happen on moving platforms, tight doorways, or elevators.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.105</td><td>TEC: 7.14 seconds</td><td>Full Reload Time: 5 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 24.9 per shot</td><td><strong>Real DPS:</strong> 164.678 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 280 DPS</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 14 per shot</td><td><strong>Real DPS:</strong> 78.418 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 133.333 DPS</td></tr></tbody></table>
+
+Seemingly useless at first glance, you might think the Short Circuit is in the same tier as the Bison or Pomson. However, this is a **fantastic** Engineer weapon that lets you slow many zombies in an AoE turning you into a psuedo Pyro. Amazing for fallbacks and considering you mainly use your primary to defend anyway, the Short Circuit provides great utility to the Engineer. The only cases where this weapon can fall off usage-wise is if map geometry doesn't allow for the alt-fire projectile to travel anywhere and dissipates nearly immediately - this tends to happen on moving platforms, tight doorways, or elevators.
+
+With the function of it's M1 attack, it only lasts about \~7 seconds of fire-time but can provide a burst-knockback option for any imminent dangers - otherwise that use of the weapon isn't too useful due to the short range. _With plentiful dispensers_ supplying it ammo, its potential for burst DPS has the potential to be extremely strong, going from a \~165 sustained DPS to a \~280 nonstop.
 
 ## Pistol    ![](<../../../.gitbook/assets/100px-Item\_icon\_Pistol (1).png>)
 
-| Attributes                                                                                  | Damages                         |
-| ------------------------------------------------------------------------------------------- | ------------------------------- |
-| Clip Size - 72 shots                                                                        | Clip DPS - 180.952 DPS          |
-| <mark style="color:blue;">**+33% damage bonus**</mark>                                      | Base Damage - 20 per shot       |
-| <mark style="color:blue;">**+33% faster firing speed**</mark>                               | Attack Interval - 0.105         |
-| <mark style="color:red;">-</mark><mark style="color:red;">**47% slower reload time**</mark> | TEC - 7.560 seconds             |
-|                                                                                             | Full Reload Time- 0.583 seconds |
-|                                                                                             | **Real DPS** - 150 DPS          |
+| Attributes                                                    |
+| ------------------------------------------------------------- |
+| **Clip Size - 48 shots**                                      |
+| **Weapon Spread: 100:1**                                      |
+| <mark style="color:blue;">**+27.5% Damage Bonus**</mark>      |
+| <mark style="color:blue;">**+33% Faster Firing Speed**</mark> |
+| <mark style="color:blue;">**+50% More Accurate**</mark>       |
+| <mark style="color:red;">**-50% Slower Reload Time**</mark>   |
 
-Providing the _second best_ DPS for an Engineer, the Pistol provides good damage while being a better option at defending from further range than the Frontier Justice. It does nearly double the damage a Shotgun does and allows you to focus fire and knockback a singular zombie much more while having the downside that it doesn't spread like the shotguns which prevents it from used to slow against multiple zombies. The pistol doesn't get much in utility due to its high damage potential - assuming you aren't using Frontier for exactly that; it can help make up for missing it.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.105</td><td>TEC: 5.04 seconds</td><td>Full Reload Time: 1.515 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 19.125 per shot</td><td><strong>Real DPS:</strong> 140.0.45 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 182.142 DPS</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 9 per shot</td><td><strong>Real DPS:</strong> 65.903 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 85.714 DPS</td></tr></tbody></table>
+
+The Pistol serves as Scout and Engineer’s trusty follow-up weapon the majority of the time. In base TF2, if enemies are far away or low on health, they can quickly swap to this weapon in the hopes of more accurately putting a few shots in. It’s not meant to be stronger than a Shotgun, hence the damage nerf of \~140 DPS.
+
+What this weapon does now excel at is accuracy, which is emphasized by its decreased bullet spread to 100:1. This makes the Pistol one of the better picks for single-target stalling and for shooting at fast-moving or far-away bosses, assuming one can track well. As an engineer, the pistol is a great choice of pick to have a consistent no-brainer output of damage if you plan on running any of the gimmicky, non-damaging primaries.
 
 ## Wrangler   ![](../../../.gitbook/assets/100px-Item\_icon\_Wrangler.png)
 
