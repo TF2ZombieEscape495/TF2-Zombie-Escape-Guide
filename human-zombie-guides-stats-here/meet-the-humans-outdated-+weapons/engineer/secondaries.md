@@ -8,10 +8,12 @@ description: Engineer Secondary Options
 
 | Attributes                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------- |
+| <mark style="color:yellow;">**Uses metal for ammo**</mark>                                                    |
+| <mark style="color:blue;">**+320% Damage Bonus**</mark>                                                       |
+| <mark style="color:blue;">**+30% Faster Firing Speed**</mark>                                                 |
 | <mark style="color:orange;">**Per Shot: -5 ammo**</mark>                                                      |
 | <mark style="color:orange;">**Alt-Fire: Launches a projectile-consuming energy ball. Costs 65 metal.**</mark> |
 | <mark style="color:orange;">**No reload necessary**</mark>                                                    |
-| <mark style="color:orange;">**Uses metal for ammo**</mark>                                                    |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.105</td><td>TEC: 7.14 seconds</td><td>Full Reload Time: 5 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 24.9 per shot</td><td><strong>Real DPS:</strong> 164.678 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 280 DPS</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 14 per shot</td><td><strong>Real DPS:</strong> 78.418 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 133.333 DPS</td></tr></tbody></table>
 
