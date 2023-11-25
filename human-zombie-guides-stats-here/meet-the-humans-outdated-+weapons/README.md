@@ -1,10 +1,10 @@
-# Meet The Humans (OUTDATED) (+Weapons!)
+# Meet The Humans (+Weapons!)
 
 <figure><img src="../../.gitbook/assets/Meet The Humans Test.png" alt=""><figcaption></figcaption></figure>
 
 In the subpages below are descriptions of each class and the stats of their respective weapons (modified for ZE). If you would like a more in-depth look into specific playstyles or suggestions, check out the [**Human Strategies**](../human-meta-discussion-outdated-+loadouts/) section of the guide.
 
-~~Note that in the weapons sections, **all the weapons will be ordered from top to bottom in what we feel are the most useful to the least useful as a Human**. Some weapons are relatively equal in terms of power so we will try to note it if we can. Reskins will not be mentioned as they will share the same stats as their stock counterpart.~~ Currently giving newly adjusted weapons time to flesh out on usage before judging their orders.
+~~Note that in the weapons sections, **all the weapons will be ordered from top to bottom in what we feel are the most useful to the least useful as a Human**. Some weapons are relatively equal in terms of power so we will try to note it if we can. Reskins will not be mentioned as they will share the same stats as their stock counterpart.~~ Currently giving newly adjusted weapons time to flesh out on usage before judging their 'orders' too soon.
 
 Melees in this game are primarily judged on utility rather than damage. Since you're fighting near invincible enemies who can kill you at close range in one shot, it makes little sense to use it for combat. The only time you would is for zombies near death, Heavy Mutations (the most applicable scenario), and when you're the last survivor with the melee buff. Melee damage does not affect damage done to Heavies using their mutation but does affect the last human melee buff.
 

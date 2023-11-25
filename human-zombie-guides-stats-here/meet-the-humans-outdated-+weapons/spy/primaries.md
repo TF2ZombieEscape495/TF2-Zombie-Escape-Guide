@@ -4,74 +4,95 @@ description: Spy Primary Options
 
 # Primaries
 
+## Enforcer   ![](<../../../.gitbook/assets/100px-Item\_icon\_Enforcer (2).png>)
+
+| Attributes                                                                                  |
+| ------------------------------------------------------------------------------------------- |
+| **Clip Size - 12 Shots**                                                                    |
+| **Weapon Spread: 80:1**                                                                     |
+| <mark style="color:blue;">**+67% Damage Bonus**</mark>                                      |
+| <mark style="color:blue;">**+750% Damage Bonus When Disguised**</mark>                      |
+| <mark style="color:blue;">**+50% Faster Firing Speed**</mark>                               |
+| <mark style="color:orange;">**Attacks pierce damage resistance effects and bonuses**</mark> |
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td><strong>Disguise Speed: 2.188</strong></td><td>Attack Interval: 0.255</td><td>TEC: 3.06 seconds</td><td>Full Reload Time: 1.04 seconds</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 66.8 per shot</td><td>Base dmg <em>(w/ Disguise Bonus)</em>: 567.8 per disguised shot</td><td>Base Sustained DPS: 190.856</td><td>Base Nonstop DPS: 261.96</td><td>Max Nonstop DPS <em>(w/ Disguise Bonus)</em>: 127.724</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 33 per shot</td><td>Base dmg <em>(w/ Disguise Bonus)</em>: 283 per disguised shot</td><td>Base Sustained DPS: 95.428</td><td>Base Nonstop DPS: 130.98</td><td>Max Nonstop DPS <em>(w/ Disguise Bonus)</em>: 58.407</td></tr></tbody></table>
+
+In Zombie Escape, the Enforcer has been revamped into the strongest revolver overall. With its current attributes; the Enforcer hovers around a sustained DPS of \~190 and its sustained DPS **when taking advantage of the disguise bonus to \~260** _(a near 70 DPS increase)_. However, the slower firing rate compared to the other revolvers does make this weapon less effective at defending!
+
+But why the damage bonus attribute of +750% while disguised in particular? This value was balanced around its theoretical DPS when utilizing it. Let's assume the scenario where sustained DPS is negligible due to being able to reload well within the duration it takes you to disguise. Let's also use time intervals within a range of <mark style="color:yellow;">**\~2.2 seconds**</mark>, near the fastest time to shoot after disguise has been activated, to 3 seconds, a somewhat arbitrary time interval indicative of a late reaction.
+
+If this weapon deals 567.8 damage while disguised, this means you could deal upwards of 567.8/2.2 = \~260 DPS if you are able to consistently fire just after disguising. Reacting a bit later, within the range of 2.3 to 2.5 seconds, you deal a range of \~247 to \~227 DPS, which is still significantly greater than the Enforcer's base sustained DPS. Firing your shots in 3-second intervals will dip down to \~189 DPS, becoming less than the Enforcer's normal sustained DPS. <mark style="color:red;">**Reacting much later will only yield worse damage values**</mark>, so timing disguises and shots can be a _difficult endeavor_ if Spies want to reach their maximum damage output.
+
 ## Revolver   ![](<../../../.gitbook/assets/100px-Item\_icon\_Revolver (1).png>)
 
-| Attributes                                                    | Damage                           |
-| ------------------------------------------------------------- | -------------------------------- |
-| Clip Size - 24 Shots                                          | Clip DPS - 296.296 DPS           |
-| <mark style="color:blue;">**+75% Faster Firing Speed**</mark> | Base Damage - 40 per shot        |
-|                                                               | Attack Interval - 0.135          |
-|                                                               | TEC - 3.240 seconds              |
-|                                                               | Full Reload Time - 1.133 seconds |
-|                                                               | **Real DPS** - 239 DPS           |
+| Attributes                                                    |
+| ------------------------------------------------------------- |
+| **Clip Size - 18 Shots**                                      |
+| **Weapon Spread: 100:1**                                      |
+| <mark style="color:blue;">**+75% Faster Firing Speed**</mark> |
+| <mark style="color:blue;">**+20% More Accurate**</mark>       |
+| <mark style="color:red;">**-15% Damage Penalty**</mark>       |
 
-Reliable in DPS and accuracy, the Revolver is the Spy's go-to for damaging NPCs, bosses, or really anything in general. This weapon has the third highest DPS of all class weapons allowing him to play effectively as a boss-killer. You won't be able to defend yourself much with this due to its miniscule knockback, so use it on falling back for stalling single targets.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Disguise Speed: 2.188</td><td>Attack Interval: 0.135</td><td>TEC: 2.43 seconds</td><td>Full Reload Time: 1.4 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 34 per shot</td><td><strong>Real DPS:</strong> 171.427 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 251.851 DPS</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 17 per shot</td><td><strong>Real DPS:</strong> 85.713 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 125.925 DPS</td><td></td></tr></tbody></table>
 
-## Diamondback   ![](<../../../.gitbook/assets/100px-Item\_icon\_Diamondback (1).png>)
-
-<table><thead><tr><th width="374">Attributes</th><th>Damage</th></tr></thead><tbody><tr><td>Clip Size - 24 Shots</td><td>Clip DPS - 237.037 DPS</td></tr><tr><td><mark style="color:blue;"><strong>+75% Faster Firing Speed</strong></mark></td><td>Base Damage - 32 per shot</td></tr><tr><td><mark style="color:blue;"><strong>+300% Bullets per Shot</strong></mark></td><td>Attack Interval - 0.135</td></tr><tr><td><mark style="color:red;"><strong>-80% Damage Penalty</strong></mark></td><td>TEC - 3.24 seconds</td></tr><tr><td><mark style="color:red;"><strong>-35% Less Accurate</strong></mark></td><td>Full Reload Time - 1.14 seconds</td></tr><tr><td><mark style="color:red;"><strong>-25% Damage vs Players</strong></mark></td><td><strong>Real DPS</strong> - 175 DPS</td></tr><tr><td><mark style="color:red;"><strong>-10% Move Speed on Wearer</strong></mark></td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-1"><mark style="color:blue;"><strong>When Held: +11% Faster Move Speed on Wearer</strong></mark></a></td><td></td></tr><tr><td><em><mark style="color:orange;"><strong>Wearer Cannot Disguise</strong></mark></em></td><td></td></tr><tr><td><mark style="color:yellow;"><strong>On Kill: 10 Seconds of 100% Critical Chance</strong></mark></td><td></td></tr></tbody></table>
-
-If you aren't actively killing bosses or NPCS, then this one's a solid pick to go for barring in mind the **damage penalty**; this weapon is going to **lock you out of your disguise kit** and discourage backstabs in the form of a <mark style="color:red;">**movement penalty**</mark> whenever anything **but** the Diamondback is held out. Gun Spy, pretty much; the critical chance boost is not to be underestimated either on maps with low Zombie Health or plentiful Zombie Pyros to shoot - as once you get it, it'll become a lot easier to repeatedly chain kill another zombie with your boosted damage and the extra knockback, coupled with the extra bullets is going to hit zombies pretty hard. Good dopamine hit weapon.
-
-## Ambassador   ![](<../../../.gitbook/assets/100px-Item\_icon\_Ambassador (2).png>)
-
-| Attributes                                                                                     | Damage                       |
-| ---------------------------------------------------------------------------------------------- | ---------------------------- |
-| Clip Size - 18 Shots                                                                           | Clip DPS - ? DPS             |
-| <mark style="color:blue;">**+435% Damage Bonus**</mark>                                        | Base Damage - 214 per shot   |
-| <mark style="color:blue;">**+450% damage per headshot (594 damage per headshot)**</mark>       | Attack Interval - ?          |
-| <mark style="color:red;">-</mark><mark style="color:red;">**100% slower firing speed**</mark>  | TEC - ? seconds              |
-| <mark style="color:red;">**-75% slower reload time**</mark>                                    | Full Reload Time - ? seconds |
-| <mark style="color:red;">**-10% body shot damage penalty**</mark>                              | **Real DPS** - 159.999 DPS   |
-| _<mark style="color:orange;">**On Hit: Slow target movement by 40% for 3s**</mark>_            |                              |
-| <mark style="color:orange;">**Crits on Headshot**</mark>                                       |                              |
-| <mark style="color:orange;">**No critical damage fall-off**</mark>                             |                              |
-| <mark style="color:orange;">**Projectiles Penetrate Enemy Players**</mark>                     |                              |
-
-The Ambassador is something like a hand-cannon option, firing powerful, penetrating shots at a slow interval. The massive firing speed penalty makes every shot a headshot-capable and perfectly-accurate shot, encouraging Spies to aim well and not miss, falling off in wider (and longer) ranged areas, but a good pick if you like more singular-zombie or lined up targeting in your weapons.
+The Revolver is a reliable choice for Spies in base TF2. Without any gimmicks, players can simply focus on aiming their shots to dish out decent damage. This has been translated into Zombie Escape, but with an above-average damage output. Its current attributes brings the weapon to \~170 sustained DPS and \~252 nonstop DPS with high accuracy. Altogether, this makes this weapon a decent option for Spies defensively and a great simplistic option for damaging NPCs or bosses.
 
 ## L'Etranger   ![](<../../../.gitbook/assets/100px-Item\_icon\_L'Etranger (2).png>)
 
-| Attributes                                                                                                                          | Damage                          |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| Clip Size - 6 Shots                                                                                                                 | Clip DPS - 533.33 DPS           |
-| <mark style="color:blue;">**+85% Faster Firing Speed**</mark>                                                                       | Base Damage - 40 per shot       |
-| <mark style="color:blue;">**+40% Cloak Duration**</mark>                                                                            | Attack Interval - 0.075         |
-| <mark style="color:blue;">**+Instantly Cloaks**</mark>                                                                              |                                 |
-| <mark style="color:orange;">**No cloak blink (while cloaked, you no longer become semi-visible upon bumping into an enemy)**</mark> | TEC - 0.45 seconds              |
-|                                                                                                                                     | Full Reload Time - 1.14 seconds |
-|                                                                                                                                     | **Real DPS** - 151 DPS          |
+| Attributes                                                             |
+| ---------------------------------------------------------------------- |
+| **Clip Size - 6 Shots**                                                |
+| **Weapon Spread: 80:1**                                                |
+| <mark style="color:blue;">**+82.5% Faster Firing Speed**</mark>        |
+| <mark style="color:blue;">**+25% Faster Reload Speed**</mark>          |
+| <mark style="color:blue;">**+40% Cloak Duration**</mark>               |
+| <mark style="color:blue;">**+1.5% Cloak On Hit (Only Zombies)**</mark> |
+| <mark style="color:red;">**-7% Damage Penalty**</mark>                 |
 
-The L'Etranger is a burst-style revolver, firing its 6 shots in a split second. While it does have the lowest Real DPS among the revolvers, it can be used effectively in maps with an infinite Ammo item. If there is no NPCs or bosses to kill and you wish to stab zombies constantly, the L'Etranger is a better option than the stock Revolver as it provides an instant cloak to get out of a pinch of zombies spotting you.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Disguise Speed: 2.188</td><td>Attack Interval: 0.09</td><td>TEC: 0.54 seconds</td><td>Full Reload Time: 0.855 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 37.2 per shot</td><td><strong>Real DPS:</strong> 159.999 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 413.333 DPS</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 18 per shot</td><td><strong>Real DPS:</strong> 79.999 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 206.666 DPS</td><td></td></tr></tbody></table>
 
-## Enforcer   ![](<../../../.gitbook/assets/100px-Item\_icon\_Enforcer (2).png>)
+Currently the L'Etranger has a couple niches in Zombie Escape to emulate the feel of base TF2 in it having cloak meter gain per shot _(+1.5%)_, which is significant enough to recharge it faster but not so much so that it recharges it in a mere few seconds with the game-mode's extremified stats.
 
-| Attributes                                                                                  | Damage                                                                            |
-| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| Clip Size - 12 Shots                                                                        | Clip DPS - ? DPS                                                                  |
-| <mark style="color:blue;">**+100% bullets per shot**</mark>                                 | Base Damage - ? per shot                                                          |
-| <mark style="color:blue;">**+20% more knockback**</mark>                                    | Attack Interval - ?                                                               |
-| <mark style="color:blue;">**+50% Faster Firing Speed**</mark>                               | TEC - 4.32 seconds                                                                |
-| <mark style="color:blue;">**+700% Damage Bonus When Disguised**</mark>                      | Full Reload Time - 1.14 seconds                                                   |
-| <mark style="color:red;">**-25% damage penalty**</mark>                                     | **Real DPS** - 171.4 DPS                                                          |
-| <mark style="color:orange;">**Attacks pierce damage resistance effects and bonuses**</mark> | **Real DPS** - 240 **(w/disguise bonus, assuming \~2 seconds between disguises)** |
+The weapon maintains a sustained DPS and BPS _(Bullets Per Second)_ of \~160 and 4.301, respectively, and a nonstop DPS and BPS of \~413 and 11.111, respectively. So, it’s still one of those weapons that are extremely powerful under unique circumstances such as having map-specific [**ammo items**](../../../elements-of-zombie-escape/items/common-items.md#human-items) _(synergy with the weapon's high fire-rate)_ which can serve as a reward for astute players who are actually aware of the weapon changes and their capabilities.
 
-A boss-killing-focused revolver that fires two less-damaging bullets at once at half the firing speed, with the intent of keeping bullets per second against zombies the same. However, it shines best in boss fights, where, by timing each shot between disguises for the massive damage bonus, its DPS can rival even that of the Revolver.
+## Ambassador   ![](<../../../.gitbook/assets/100px-Item\_icon\_Ambassador (2).png>)
 
-##
+| Attributes                                                                                     |
+| ---------------------------------------------------------------------------------------------- |
+| **Clip Size - 6 Shots**                                                                        |
+| **Weapon Spread: 80:1**                                                                        |
+| <mark style="color:blue;">**+235% Damage Bonus**</mark>                                        |
+| <mark style="color:red;">**-20% Slower Firing Speed**</mark>                                   |
+| <mark style="color:red;">**-25% Slower Reload Speed**</mark>                                   |
+| <mark style="color:orange;">**On Hit: Slow target movement by 40% for 3s**</mark>              |
+| <mark style="color:orange;">**Crits on Headshot, Critical damage is affected by range**</mark> |
+| <mark style="color:orange;">**Projectiles Penetrate Enemy Players**</mark>                     |
 
-[^1]: hi just wanted to mention that this gun actually makes you _`very slightly`` `**`slower`**`than a regular spy`_ by like **4 hu/s** due to the passive stat above this one!
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Disguise Speed: 2.188</td><td>Attack Interval: 0.6</td><td>TEC: 3.6 seconds</td><td>Full Reload Time: 1.425 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 134 per shot</td><td><strong>Real DPS:</strong> 159.999 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 223.333 DPS</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 67 per shot</td><td><strong>Real DPS:</strong> 79.999 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 111.666 DPS</td><td></td></tr></tbody></table>
 
+The Ambassador used to be the go-to for Spy’s in base TF2 when it came to effectively killing players at range via its headshot mechanic. It was essentially the Sniper Rifle for Spies until crits were given fall-off damage, putting this weapon in the grave for most.&#x20;
 
+As a Spy in Zombie Escape, you will most likely wind up close to zombies supporting the team, as you should... Being so close, you can make full use of the Ambassador’s headshot mechanic with max ramp-up at close distances. Not only that, but it has been given piercing and a <mark style="color:yellow;">**3-second slow-on-hit effect**</mark> that reduces enemy movement speed to a minimum of <mark style="color:yellow;">**270 HU/s.**</mark>
 
-    added this over common misconception about the gun making "spy faster" but nobody reads annotations...
+The first thing people will notice when using this weapon is its 20% slower fire rate and 25% longer reload time, which _greatly_ reduce its defensive potential. This weapon has a sustained DPS of \~160, which is slightly less than the average damage of all the revolvers. Players can leverage the DR glitch to reach around \~217 sustained DPS, but other than that, this weapon remains a slightly higher-risk weapon to use in favor of player penetrating shots for AOE damage and slow.
+
+## Diamondback   ![](<../../../.gitbook/assets/100px-Item\_icon\_Diamondback (1).png>)
+
+| Attributes                                                                                      |
+| ----------------------------------------------------------------------------------------------- |
+| **Clip Size - 18 Shots**                                                                        |
+| **Weapon Spread: 50:1**                                                                         |
+| <mark style="color:blue;">**+65% Faster Firing Speed**</mark>                                   |
+| <mark style="color:blue;">**+300% Bullets per Shot**</mark>                                     |
+| <mark style="color:red;">**-74% Damage Penalty**</mark>                                         |
+| <mark style="color:red;">**-60% Less Accurate**</mark>                                          |
+| <mark style="color:red;">**-6.25% Move Speed on Wearer**</mark>                                 |
+| _<mark style="color:orange;">**Wearer Cannot Disguise**</mark>_                                 |
+| <mark style="color:orange;">**Gives one guaranteed critical hit for each Backstab Kill**</mark> |
+| <mark style="color:yellow;">**On Kill: 12 Seconds of 100% Critical Chance**</mark>              |
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Disguise Speed: 2.188</td><td>Attack Interval: 0.18</td><td>TEC: 3.24 seconds</td><td>Full Reload Time: 1.14 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 41.6 per shot</td><td><strong>Real DPS:</strong> 170.958 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 231.111 DPS</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 20 per shot</td><td><strong>Real DPS:</strong> 85.479 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 115.555 DPS</td><td></td></tr></tbody></table>
+
+Due to the lack of buildings to sap and stored crits from backstab not being individually beneficial; Zombie Escape's version of the Diamondback is a weapon that rewards target prioritization when defending. If you kill a zombie, this version of the weapon grants you <mark style="color:yellow;">\~13 seconds</mark> of crits _(the set value is \~12, but the actual implementation adds an extra second)._ Not only that, but this weapon has been given a spread larger than other revolvers but still less than shotguns to allow players to potentially hit multiple targets with these crits. A good dopamine hit when you manage to kill zombies with it - and the **crit damage from that kill will last for at least 2 full clips of crits;** allowing potential chaining of it by offing another zombie with your increased damage.
+
+In regards to damage output, this weapon has a -74% damage penalty, a clip size of 12, a 65% faster fire rate, and 3 extra bullets per shot. This does produce a TEC (Time to Empty Clip) of 2.16 seconds and an overall lower uptime-downtime ratio of 1.894. In terms of DPS, this weapon now resides at around \~170 sustained DPS and \~230 nonstop DPS. This keeps it within the middle ground for DPS among revolvers. <mark style="color:red;">**Keep in mind you also will not be able to disguise as spy with this equipped, making it a lot riskier to go for backstabs.**</mark>

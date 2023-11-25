@@ -10,10 +10,8 @@ description: >-
 <mark style="color:yellow;">**Note:**</mark>** This page will be archived when weapons are adjusted again, but here's a highlight on what you will find changed! These descriptive notes are directly from the weapon balancers **_**(not the person writing guide.)**_
 {% endhint %}
 
-{% hint style="danger" %}
-~~**If you're looking for the complete weapon stats for an idea of what they do,**~~[ ~~**check the subpages at this redirect:**~~](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/)&#x20;
-
-Due to this weapon update being significantly larger than prior batches; _<mark style="color:red;">**a lot**</mark>_ of the stat pages and meta pages are likely going to be out of date until further notice - this warning will explode once remedied.
+{% hint style="info" %}
+**If you're looking for the complete weapon stats for an idea of what they do,**[ **check the subpages at this redirect:**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/)&#x20;
 {% endhint %}
 
 {% file src="../.gitbook/assets/TF2_ZE_Weapon_Stat_Calculations_-_Change_Reasons.pdf" %}
@@ -21,7 +19,7 @@ Due to this weapon update being significantly larger than prior batches; _<mark 
 {% endfile %}
 
 {% file src="../.gitbook/assets/Weapons Changelog 2023-11-16 (1).txt" %}
-Basically what's been imported into this page; contains more comprehensive DPS stats and such - also more up to date via hotfixes.
+Basically what's been imported into this page; contains more comprehensive DPS stats and such.
 {% endfile %}
 
 Summary of Changes:&#x20;
