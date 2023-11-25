@@ -18,7 +18,7 @@ The Soldier Enzyme simply has **one** function - and that's beefing up your mele
 
 **The use of minicrits as a zombie when in most instances you'll be one-shotting base HP Humans anyway...?** _No good._ Especially with Zombie Heavy still around in town to dish out _even higher_ damage and defense-breaking potential.\
 \
-Mostly left in the mud enzyme-wise on their prior function at least having a niche or so.
+Mostly left in the mud enzyme-wise after the removal of their prior enzyme.
 
 ## \[Pending new enzyme gif? Probably not...]
 

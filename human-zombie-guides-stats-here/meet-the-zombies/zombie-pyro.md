@@ -11,4 +11,4 @@ Given that most people don't like being will panic if they lose too much health,
 \
 For melee weapons, there is a lot to play around with. If you need to move fast but can handle the knockback from the damage vulnerability, you can use the Powerjack. If you want to take out Medics healing any overdefenders, use the Third Degree to damage both the defender _and_ the Medic. If you want increased damage in general, use the Back Scratcher. If you want to take out burning humans, use the Axtinguisher.
 
-<figure><img src="../../.gitbook/assets/Pyro Enzyme Reference (1).gif" alt=""><figcaption><p>Eventually pending a new pyro enzyme gif (maybe?) Main difference now is the explosion has significantly less range to it (Nearly melee range)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pyro Enzyme Reference (1).gif" alt=""><figcaption><p>Eventually pending a new pyro enzyme gif. Main difference now is the explosion has significantly less range to it (Nearly melee range) and does more damage as the bomb winds up.</p></figcaption></figure>
