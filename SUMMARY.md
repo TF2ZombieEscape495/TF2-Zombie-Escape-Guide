@@ -1,7 +1,6 @@
 # Table of contents
 
 * [What is Zombie Escape?](README.md)
-* [Contributing Guidelines](contributing-guidelines.md)
 
 ## ⭐ Highlights
 

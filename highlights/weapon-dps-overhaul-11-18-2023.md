@@ -51,7 +51,7 @@ The above values do include weapons that deal no damage. Average by using sum of
 
 ## Multi-Class    &#x20;
 
-### Shotgun<img src="../.gitbook/assets/100px-Item_icon_Shotgun (1).png" alt="" data-size="line">
+### Shotgun<img src="../.gitbook/assets/100px-Item_icon_Shotgun (1).png" alt="" data-size="original">
 
 * <mark style="color:blue;">**+20% damage bonus**</mark>&#x20;
 * <mark style="color:blue;">**+200% clip size**</mark>

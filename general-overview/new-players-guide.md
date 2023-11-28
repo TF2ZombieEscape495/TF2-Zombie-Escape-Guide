@@ -10,7 +10,7 @@ Despite the simple premise of shooting zombies and running, this guide is fairly
 
 The sections of this guide that will be most relevant to you will be the following.&#x20;
 
-### **\<This Section>**
+### **\<Redirects>**
 
 [**Meet The Humans**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/)
 

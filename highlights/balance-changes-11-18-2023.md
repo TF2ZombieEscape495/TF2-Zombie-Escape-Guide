@@ -6,7 +6,7 @@
 
 ## Balance Change 11/18/2023
 
-<mark style="color:yellow;">**\~Demomen now have 200 HP, still 175 if using a shield!**</mark>** (This generally brings them up to par on NPCs/bosses with being able to take the same amount of hits as most other people.)**
+<mark style="color:yellow;">**\~Human Demomen now have 200 HP with sticky/scottish/quickie equipped, still 175 if using a shield or jumper!**</mark>** (This generally brings them up to par on NPCs/bosses with being able to take the same amount of hits as most other people.)**
 
 ## Enzyme Change 11/7/2023
 
