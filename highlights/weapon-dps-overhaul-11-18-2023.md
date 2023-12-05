@@ -11,7 +11,7 @@ description: >-
 {% endhint %}
 
 {% hint style="info" %}
-**If you're looking for the complete weapon stats for an idea of what they do,**[ **check the subpages at this redirect:**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/)&#x20;
+**If you're looking for the complete weapon stats for an idea of what they do **_**(more up to date than the highlight too)**_**,**[ **check the subpages at this redirect:**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/)&#x20;
 {% endhint %}
 
 {% file src="../.gitbook/assets/TF2_ZE_Weapon_Stat_Calculations_-_Change_Reasons.pdf" %}
@@ -44,10 +44,6 @@ In terms of DPS ranges, the following will summarize the average DPS values amon
 * **Spy** - #N/A - 170
 
 The above values do include weapons that deal no damage. Average by using sum of max damage from either secondaries or primaries: \~154. Values provided below regarding a weapon's attack timings, damage values, or any attributes may differ in actual gameplay.
-
-{% hint style="info" %}
-<mark style="color:yellow;">**Note about DPS;**</mark> Past this point is _only_ accounting for <mark style="color:orange;">**func\_physbox**</mark> for any mentions of **"Sustained DPS" (Real DPS)** to keep the highlight page simple & understandable to the average person; including the <mark style="color:orange;">**func\_breakable**</mark> and <mark style="color:orange;">**base\_boss**</mark> values would _likely_ need overhauls to the stat pages - those, among other extra chunks info are still in the notepad(s) above.
-{% endhint %}
 
 ## Multi-Class    &#x20;
 
