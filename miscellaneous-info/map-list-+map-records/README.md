@@ -8,16 +8,16 @@ coverY: 0
 
 # Map List (+Map Records!)
 
-## Maps available to play: `97` maps [_<mark style="color:blue;">(last updated 10/14/2023)</mark>_](../../highlights/recent-maps-11-13-2023.md)
+## Maps available to play: `98` maps [_<mark style="color:blue;">(last updated 12/23/2023)</mark>_](../../highlights/recent-maps-11-13-2023.md)
 
 {% hint style="success" %}
 #### These are all color coded by all known completions \[at least once] in the community; (In Normal Mode + Full, _non-friendly s_erver)
 
-<mark style="color:yellow;">**`9 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`10 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>** = `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
-<mark style="color:green;">**GREEN**</mark> = **`Full Completion - annotated with win screenshots!`**
+<mark style="color:green;">**GREEN**</mark> = **`Full Completion - annotated with win screenshots!`**~~_**`(Mostly.)`**_~~
 {% endhint %}
 
 {% hint style="warning" %}
@@ -54,8 +54,8 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 * [<mark style="color:green;">**ze\_fapescape\_rote\_skial\_9**</mark>](#user-content-fn-19)[^19]
 * <mark style="color:green;">**ze\_fapescape\_skial\_4**</mark>
 * <mark style="color:green;">**ze\_ffvii\_cosmo\_canyon\_b1**</mark>
-* [<mark style="color:green;">**ze\_ffvii\_mako\_reactor\_skial\_13**</mark>](#user-content-fn-20)[^20] **(v5)**
-* [<mark style="color:green;">**ze\_ffvii\_mako\_reactor\_v6\_b5**</mark>](#user-content-fn-21)[^21]  **(v6)**
+* [<mark style="color:green;">**ze\_ffvii\_mako\_reactor\_skial\_13**</mark>](#user-content-fn-20)[^20] **(v5, Classic Version)**
+* [<mark style="color:green;">**ze\_ffvii\_mako\_reactor\_v6\_b5**</mark>](#user-content-fn-21)[^21]  **(v6, New Version)**
 * [<mark style="color:green;">**ze\_ffxii\_mt\_bur\_omisace\_b1**</mark>](#user-content-fn-22)[^22]
 * <mark style="color:green;">**ze\_ffxii\_westersand\_skial\_3**</mark>
 * [<mark style="color:green;">**ze\_ffxiv\_wanderers\_palace\_skial\_3**</mark>](#user-content-fn-23)[^23]
@@ -74,14 +74,15 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 * [<mark style="color:red;">**ze\_laserhell\_v1\_1\_1\_1**</mark>](#user-content-fn-31)[^31]
 * [<mark style="color:green;">**ze\_last\_man\_standing\_b1**</mark>](#user-content-fn-32)[^32]
 * <mark style="color:green;">**ze\_lotr\_helms\_deep\_skial\_9**</mark>
-* [<mark style="color:green;">**ze\_lotr\_minas\_tirith\_skial\_1**</mark>](#user-content-fn-33)[^33]<mark style="color:green;">**3**</mark>
+* [<mark style="color:green;">**ze\_lotr\_minas\_tirith\_skial\_1**</mark>](#user-content-fn-33)[^33]<mark style="color:green;">**4**</mark>
 * <mark style="color:green;">**ze\_lotr\_mines\_of\_moria\_skial\_4**</mark>
-* [<mark style="color:green;">**ze\_luciddreams\_b1**</mark>](#user-content-fn-34)[^34]
-* [<mark style="color:green;">**ze\_m0w0m\_b2**</mark>](#user-content-fn-35)[^35]
-* [<mark style="color:green;">**ze\_minecraft\_adventure\_skial\_6**</mark> ](#user-content-fn-36)[^36]
+* [<mark style="color:green;">**ze\_luciddreams\_b1**</mark>](#user-content-fn-34)[^34] **(New Version)**
+* <mark style="color:green;">**ze\_luciddreams\_v3\_6\_f2**</mark>** (Old Version)**
+* [<mark style="color:green;">**ze\_minecraft\_adventure\_skial\_6**</mark> ](#user-content-fn-35)[^35]
 * <mark style="color:green;">**ze\_minecraft\_universe\_skial\_2**</mark>&#x20;
-* [<mark style="color:green;">**ze\_minimal\_skial\_2**</mark>](#user-content-fn-37)[^37]
-* [<mark style="color:green;">**ze\_mist\_skial\_3**</mark>](#user-content-fn-38)[^38]
+* [<mark style="color:green;">**ze\_minimal\_skial\_2**</mark>](#user-content-fn-36)[^36]
+* [<mark style="color:green;">**ze\_mist\_skial\_3**</mark>](#user-content-fn-37)[^37]
+* [<mark style="color:red;">**ze\_lotr\_mount\_doom\_b1**</mark>](#user-content-fn-38)[^38]
 * [<mark style="color:green;">**ze\_offliner\_skial\_1**</mark>](#user-content-fn-39)[^39]
 * [<mark style="color:green;">**ze\_oot\_shadowtemple\_skial\_2**</mark>](#user-content-fn-40)[^40]
 * [<mark style="color:red;">**ze\_outlast\_skial\_**</mark>](#user-content-fn-41)[^41]<mark style="color:red;">**6**</mark>
@@ -138,7 +139,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 
     <mark style="color:orange;">**\[Stage 4/4]**</mark>
 
-    **-Stage 4 Start** &#x20;
+    **-Stage 4 Start **_**(Extends gone)**_
 
 [^5]: ![](<../../.gitbook/assets/Bathroom Win.jpg>)
 
@@ -160,7 +161,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 
     <mark style="color:orange;">**\[Normal Stage 6/6 Complete, random order.]**</mark>
 
-    **-Normal (Fake Ending) Beaten**&#x20;
+    **-Normal **_**(Fake Ending)**_** Won**
 
     **-(ALL Coins required for Heaven Ending or repeat stage 6)**
 
@@ -204,7 +205,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 
     <mark style="color:orange;">**\[Stage 3/4] (4 = ZM Mode?)**</mark>
 
-    **Truth **~~**Bottiger**~~** Lois Boss Finale**
+    **Truth Lois Boss Finale**
 
 [^29]: ![](<../../.gitbook/assets/L0v0L Win (1).png>)
 
@@ -228,13 +229,17 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 
 [^34]: ![](<../../.gitbook/assets/Luciddreams Win.PNG>)
 
-[^35]: ![](<../../.gitbook/assets/M0w0M Win (1).jpg>)
+[^35]: ![](<../../.gitbook/assets/Minecraft Adventure Win.jpg>)
 
-[^36]: ![](<../../.gitbook/assets/Minecraft Adventure Win.jpg>)
+[^36]: ![](<../../.gitbook/assets/Minimal Win (1).jpeg>)
 
-[^37]: ![](<../../.gitbook/assets/Minimal Win (1).jpeg>)
+[^37]: ![](<../../.gitbook/assets/Mist Win.jpg>)
 
-[^38]: ![](<../../.gitbook/assets/Mist Win.jpg>)
+[^38]: <mark style="color:yellow;">**Run Record:**</mark>
+
+    <mark style="color:orange;">**\[Stage 1/1]**</mark>&#x20;
+
+    **-Record Pending**
 
 [^39]: ![](<../../.gitbook/assets/Offliner Win (1).png>)
 
@@ -244,7 +249,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 
     <mark style="color:orange;">**\[Stage 2/2 - Underground Lab]**</mark>&#x20;
 
-    **-Billy Boss Fight**
+    **-Billy Boss Fight (Near Finale)**
 
 [^42]: ![](<../../.gitbook/assets/Otakuroom Win.jpg>)
 
@@ -287,9 +292,9 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 
     ![](../../.gitbook/assets/santanormalwin.jpg)
 
-    <mark style="color:orange;">**\[Extreme;**</mark> <mark style="color:orange;">**Stage 2/4]**</mark>
+    <mark style="color:orange;">**\[Extreme;**</mark> <mark style="color:orange;">**Stage 4/4]**</mark>
 
-    **-Final Defense.**
+    **-Socrates Finale!**
 
 [^58]: ![](<../../.gitbook/assets/SCP Win.png>)
 

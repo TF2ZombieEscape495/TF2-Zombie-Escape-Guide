@@ -1,8 +1,7 @@
 ---
 description: >-
   Maps that were /once/ within the nomination pool but removed from the server
-  due to any number of reasons. Not accounting for maps that have been
-  re-ported. (A-Z)
+  due to any number of reasons. (A-Z)
 ---
 
 # Legacy Maps
@@ -16,11 +15,8 @@ description: >-
 * ze\_christ\_is\_coming (april fools map)
 * ze\_cruise
 * ze\_death\_star\_escape
-* ze\_djinn
-* ze\_evernight
 * ze\_expedition
 * ze\_experiment
-* ze\_ffxiv\_wanderers\_palace
 * ze\_halloween\_house
 * ze\_honkai\_impact\_cyberpunk\_city
 * ze\_infected\_tramway
@@ -30,12 +26,14 @@ description: >-
 * ze\_kebab\_immigrant
 * ze\_laboratoire
 * ze\_laserhell (original laserhell not current remake one)
+* ze\_m0w0m
 * ze\_nomada
 * ze\_onahole
 * ze\_realm
 * ze\_shoplift
 * ze\_skyrim
 * ze\_sorrento\_resonate
+* ze\_super\_mario\_64
 * ze\_titanic
 * ze\_3valley
 * ze\_wuhan

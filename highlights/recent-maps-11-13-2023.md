@@ -1,4 +1,4 @@
-# Recent Maps 11/13/2023
+# Recent Maps 12/22/2023
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -6,9 +6,13 @@ Another page to <mark style="color:yellow;">**highlight**</mark> when new maps a
 If you're looking for the [**entire map list (or dying to know what maps **_**aren't**_** completed yet), then check here.**](../miscellaneous-info/map-list-+map-records/)
 {% endhint %}
 
+## 12/22/2023 - Mount Doom
+
+**`ze_mount_doom_b1`** <mark style="color:yellow;">**added (CS Port)**</mark>
+
 ## 11/13/2023 - Lucid Dreams (Report)
 
-**`ze_luciddreams_b1` **<mark style="color:yellow;">**added (CS Port; replacing original version)**</mark>** (2 Items, Layout Changes, Consistent Lasers)**
+**`ze_luciddreams_b1` **<mark style="color:yellow;">**added (CS Port, newer version of map)**</mark>** (2 Items, Layout Changes, Consistent Lasers)**
 
 ## 10/14/2023 V0u0v
 
