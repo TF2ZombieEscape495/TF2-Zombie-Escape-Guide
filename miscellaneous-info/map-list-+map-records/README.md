@@ -13,7 +13,7 @@ coverY: 0
 {% hint style="success" %}
 #### These are all color coded by all known completions \[at least once] in the community; (In Normal Mode + Full, _non-friendly s_erver)
 
-<mark style="color:yellow;">**`10 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`9 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>** = `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -68,7 +68,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 * <mark style="color:green;">**ze\_icecap\_escape\_skial\_o2**</mark>
 * <mark style="color:green;">**ze\_johnny\_nukem\_skial\_6**</mark>
 * [<mark style="color:green;">**ze\_kitchen\_skial\_5**</mark>](#user-content-fn-27)[^27]
-* [<mark style="color:red;">**ze\_krusty\_krab\_skial\_4**</mark>](#user-content-fn-28)[^28]
+* [<mark style="color:green;">**ze\_krusty\_krab\_skial\_4**</mark>](#user-content-fn-28)[^28]
 * [<mark style="color:green;">**ze\_l0v0l\_v1**</mark>](#user-content-fn-29)[^29]
 * [<mark style="color:red;">**ze\_laserheaven\_v2a**</mark>](#user-content-fn-30)[^30]
 * [<mark style="color:red;">**ze\_laserhell\_v1\_1\_1\_1**</mark>](#user-content-fn-31)[^31]
@@ -201,11 +201,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 
 [^27]: ![](<../../.gitbook/assets/Kitchen Win.jpg>)
 
-[^28]: <mark style="color:yellow;">**Run Record:**</mark>
-
-    <mark style="color:orange;">**\[Stage 3/4] (4 = ZM Mode?)**</mark>
-
-    **Truth Lois Boss Finale**
+[^28]: ![](<../../.gitbook/assets/Krusty Win.jpg>)
 
 [^29]: ![](<../../.gitbook/assets/L0v0L Win (1).png>)
 
