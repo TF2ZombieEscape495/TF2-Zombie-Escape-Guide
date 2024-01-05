@@ -159,13 +159,11 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 
 [^13]: <mark style="color:yellow;">**Run Record:**</mark>
 
-    <mark style="color:orange;">**\[Normal Stage 6/6 Complete, random order.]**</mark>
+    <mark style="color:orange;">**\[Normal Heaven Won]**</mark>
 
-    **-Normal **_**(Fake Ending)**_** Won**
+    ![](<../../.gitbook/assets/Diddle Win.png>)
 
-    **-(ALL Coins required for Heaven Ending or repeat stage 6)**
-
-    <mark style="color:orange;">**\[Extreme; One Stage + Voting.]**</mark>
+    <mark style="color:orange;">**\[Extreme; All One Stage + Voting.]**</mark>
 
     **-Record Pending...**
 
