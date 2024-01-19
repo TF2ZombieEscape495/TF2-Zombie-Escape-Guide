@@ -24,9 +24,12 @@ description: >-
 * ze\_jungle\_lab
 * ze\_jurassic\_park\_story
 * ze\_kebab\_immigrant
+* ze\_kitchen
 * ze\_laboratoire
 * ze\_laserhell (original laserhell not current remake one)
+* ze\_lotr\_mount\_doom
 * ze\_m0w0m
+* ze\_neochrome
 * ze\_nomada
 * ze\_onahole
 * ze\_realm
