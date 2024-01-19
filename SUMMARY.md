@@ -6,7 +6,7 @@
 
 * [Weapon DPS Overhaul 11/18/2023](highlights/weapon-dps-overhaul-11-18-2023.md)
 * [Balance Changes 11/18/2023](highlights/balance-changes-11-18-2023.md)
-* [Recent Maps 12/22/2023](highlights/recent-maps-11-13-2023.md)
+* [Recent Maps 1/18/2023](highlights/recent-maps-11-13-2023.md)
 
 ## 📖 General Overview
 

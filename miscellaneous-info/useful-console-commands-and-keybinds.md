@@ -30,11 +30,13 @@ Most people usually are uncomfortable with talking on mic but might need to aler
 
 Typing monotone text like this might generally be disregarded:
 
-<mark style="color:blue;">**User1:**</mark> fall back
+<mark style="color:blue;">**`User1:`**</mark>` ``fall back`
 
 But typing in text like this is sure to get someone's attention:
 
-<mark style="color:blue;">**User1:**</mark> ||>=))=> FALL BACK <=((=<|| <mark style="color:red;">**User2:**</mark> ( ͡° ͜ʖ ͡° ) no
+<mark style="color:blue;">**`User1:`**</mark>` ``||>=))=> FALL BACK <=((=<||`&#x20;
+
+<mark style="color:red;">**`User2:`**</mark> `( ͡° ͜ʖ ͡° ) no`
 
 To perform this example, we can type the following:
 
