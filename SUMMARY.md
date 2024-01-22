@@ -27,7 +27,7 @@
 
 ## ⚔ Human/Zombie Guides (Stats Here!)
 
-* [Meet The Humans (+Weapons!)](human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/README.md)
+* [Meet The Humans!](human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/README.md)
   * [Scout](human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/scout/README.md)
     * [Primaries](human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/scout/primaries.md)
     * [Secondaries](human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/scout/secondaries.md)
