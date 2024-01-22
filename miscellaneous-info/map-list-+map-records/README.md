@@ -101,7 +101,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 * [<mark style="color:green;">**ze\_ryujin\_v3**</mark>](#user-content-fn-52)[^52]
 * [<mark style="color:green;">**ze\_raiin\_v2b**</mark>](#user-content-fn-53)[^53]
 * [<mark style="color:green;">**ze\_S\_A\_M\_skial\_9**</mark>](#user-content-fn-54)[^54]
-* [<mark style="color:red;">**ze\_sandstone\_v1b**</mark>](#user-content-fn-55)[^55]
+* [<mark style="color:red;">**ze\_sandstone\_v1**</mark>](#user-content-fn-55)[^55]<mark style="color:red;">**d**</mark>
 * [<mark style="color:red;">**ze\_santassination\_s4**</mark>](#user-content-fn-56)[^56]
 * <mark style="color:green;">**ze\_saw\_final\_skial\_8**</mark>
 * [<mark style="color:green;">**ze\_scp\_skial\_4**</mark>](#user-content-fn-57)[^57]
@@ -270,9 +270,9 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 [^54]: ![](<../../.gitbook/assets/SAM Win.jpg>)
 
 [^55]: <mark style="color:yellow;">**Run Record:**</mark>\
-    <mark style="color:orange;">\~</mark><mark style="color:orange;">**Stage 1/4**</mark>
+    <mark style="color:orange;">\~</mark><mark style="color:orange;">**Stage 3/4**</mark>
 
-    \~TBA
+    **\~Post-boss defenses**
 
 [^56]: <mark style="color:yellow;">**Run Record:**</mark>&#x20;
 
