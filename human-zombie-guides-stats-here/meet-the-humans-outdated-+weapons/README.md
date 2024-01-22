@@ -24,9 +24,11 @@ Weapon stats and attributes in _this segment_ are **color coded** to give the we
 ## Movement Speed Comparisons
 
 ZE base movement speed (from highest to lowest):\
-**Scout** > **Spy** > **Medic** > **Pyro** = **Engineer** = **Sniper** > **Soldier** = **Heavy** > **Demoman**\
-\
-**Moving backwards decreases movement speed to 90%.**
+**Scout** > **Spy** > **Medic** > **Pyro** = **Engineer** = **Sniper** > **Soldier** = **Heavy** > **Demoman**
+
+{% hint style="danger" %}
+**Moving backwards universally **<mark style="color:red;">**decreases movement speed**</mark>** to 90% - effectively meaning zombies can situationally outspeed you whilst backpedalling.**
+{% endhint %}
 
 
 
