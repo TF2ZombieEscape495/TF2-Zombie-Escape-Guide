@@ -1,10 +1,8 @@
----
-description: >-
-  Maps that were /once/ within the nomination pool but removed from the server
-  due to any number of reasons. (A-Z)
----
-
 # Legacy Maps
+
+{% hint style="info" %}
+Maps that were /once/ within the nomination pool but removed from the server due to any number of reasons. (A-Z)
+{% endhint %}
 
 * ze\_aperturescience
 * ze\_attackontitan\_troster
