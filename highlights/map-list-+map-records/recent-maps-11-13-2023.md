@@ -3,7 +3,7 @@
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
 
-If you're looking for the [**entire map list (or dying to know what maps **_**aren't**_** completed yet), then check here.**](../miscellaneous-info/map-list-+map-records/)
+If you're looking for the [**entire map list (or dying to know what maps **_**aren't**_** completed yet), then check here.**](./)
 {% endhint %}
 
 ## 2024:

@@ -8,7 +8,7 @@ coverY: 0
 
 # Map List (+Map Records!)
 
-## Maps available to play: `97` maps [_<mark style="color:blue;">(last updated 1/18/2023)</mark>_](../../highlights/recent-maps-11-13-2023.md)
+## Maps available to play: `97` maps [_<mark style="color:blue;">(last updated 1/18/2023)</mark>_](recent-maps-11-13-2023.md)
 
 {% hint style="success" %}
 #### These are all color coded by all known completions \[at least once] in the community; (In Normal Mode + Full, _non-friendly s_erver)

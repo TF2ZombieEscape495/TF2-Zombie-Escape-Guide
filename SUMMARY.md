@@ -6,7 +6,9 @@
 
 * [Weapon DPS Overhaul 11/18/2023](highlights/weapon-dps-overhaul-11-18-2023.md)
 * [Balance Changes 11/18/2023](highlights/balance-changes-11-18-2023.md)
-* [Recent Maps 1/18/2023](highlights/recent-maps-11-13-2023.md)
+* [Map List (+Map Records!)](highlights/map-list-+map-records/README.md)
+  * [Recent Maps 1/18/2023](highlights/map-list-+map-records/recent-maps-11-13-2023.md)
+  * [Legacy Maps](highlights/map-list-+map-records/legacy-maps.md)
 
 ## 📖 General Overview
 
@@ -109,7 +111,5 @@
 * [Useful Console Commands and Keybinds](miscellaneous-info/useful-console-commands-and-keybinds.md)
 * [Bhopping](miscellaneous-info/bhopping.md)
 * [Better Flashlight](miscellaneous-info/better-flashlight.md)
-* [Map List (+Map Records!)](miscellaneous-info/map-list-+map-records/README.md)
-  * [Legacy Maps](miscellaneous-info/map-list-+map-records/legacy-maps.md)
 * [Map Guides](miscellaneous-info/map-guides.md)
 * [⭐Afterword⭐](miscellaneous-info/afterword.md)
