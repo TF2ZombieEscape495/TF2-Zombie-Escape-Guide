@@ -8,12 +8,12 @@ coverY: 0
 
 # Map List (+Map Records!)
 
-## Maps available to play: `97` maps [_<mark style="color:blue;">(last updated 1/18/2023)</mark>_](recent-maps-11-13-2023.md)
+## Maps available to play: `98` maps [_<mark style="color:blue;">(last updated 1/28/2023)</mark>_](recent-maps-11-13-2023.md)
 
 {% hint style="success" %}
 #### These are all color coded by all known completions \[at least once] in the community; (In Normal Mode + Full, _non-friendly s_erver)
 
-<mark style="color:yellow;">**`9 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`10 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>** = `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -127,6 +127,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 * [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-67)[^67]
 * [<mark style="color:green;">**ze\_visualizer\_skial\_2**</mark> ](#user-content-fn-68)[^68]
 * <mark style="color:green;">**ze\_voodoo\_islands\_skial\_5**</mark>&#x20;
+* [<mark style="color:red;">**ze\_warlab\_v3**</mark>](#user-content-fn-69)[^69]
 
 [^1]: ![](<../../.gitbook/assets/666 Crazy Escape Win (1).jpg>)
 
@@ -309,3 +310,11 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 [^67]: &#x20;![](<../../.gitbook/assets/v0u0v Win.jpg>)
 
 [^68]: ![](<../../.gitbook/assets/Visualizer Win.jpg>)
+
+[^69]: <mark style="color:yellow;">**Run Record:**</mark>
+
+    <mark style="color:orange;">**\[Stage 1/1]**</mark>
+
+    **\~Normal Ending Completed**
+
+    **\~Secret Ending N/A**

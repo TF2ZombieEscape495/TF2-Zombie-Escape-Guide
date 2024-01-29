@@ -1,4 +1,4 @@
-# Recent Maps 1/18/2023
+# Recent Maps 1/28/2024
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -8,9 +8,13 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 ## 2024:
 
-### 1/18/2023 - Sandstone
+### **1/28/2024 - Warlab**
 
-**`ze_sandstone`** <mark style="color:yellow;">**added!**</mark>** (TF2 Original Map) **_**\[4 Stages, 5 Human Items, 6 Zombie Items]**_
+**`ze_warlab`** <mark style="color:yellow;">**added! (TF2 Original Map)**</mark> _**\[1 Stage, 2 endings, some items, and a boss]**_
+
+### 1/18/2024 - Sandstone
+
+**`ze_sandstone`** <mark style="color:yellow;">**added!**</mark> <mark style="color:yellow;">**(TF2 Original Map)**</mark> _**\[4 Stages, 5 Human Items, 6 Zombie Items]**_
 
 ## 2023:
 
