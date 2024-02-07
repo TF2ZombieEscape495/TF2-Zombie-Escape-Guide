@@ -6,6 +6,7 @@ Maps that were /once/ within the nomination pool but removed from the server due
 
 * ze\_aperturescience
 * ze\_attackontitan\_troster
+* ze\_atix\_apocalypse
 * ze\_biohazard2\_rpd
 * ze\_black\_lagoon
 * ze\_blindingforest
