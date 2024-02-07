@@ -10,8 +10,8 @@ description: >-
 <mark style="color:yellow;">**Note:**</mark>** This page will be archived when weapons are adjusted again, but here's a highlight on what you will find changed! These descriptive notes are directly from the weapon balancers **_**(not the person writing guide.)**_
 {% endhint %}
 
-{% hint style="info" %}
-**If you're looking for the **_**complete**_** weapon stats for an idea of what they do **_**(with visual representation)**_[ **check the subpages at this redirect:**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/)&#x20;
+{% hint style="warning" %}
+<mark style="color:yellow;">**Note 2:**</mark>** If you're looking for the **_**complete**_** weapon stats for an idea of what they do **_**(with visual representation)**_[ **check the subpages at this redirect:**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/)&#x20;
 {% endhint %}
 
 {% file src="../.gitbook/assets/TF2_ZE_Weapon_Stat_Calculations_-_Change_Reasons.pdf" %}

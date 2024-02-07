@@ -39,6 +39,4 @@ Maps that were /once/ within the nomination pool but removed from the server due
 * ze\_3valley
 * ze\_wuhan
 
-
-
-~~_couldnt really think of a way to make this page look pretty, oops._~~
+~~_couldnt really think of a way to make this page look pretty, oops..._~~

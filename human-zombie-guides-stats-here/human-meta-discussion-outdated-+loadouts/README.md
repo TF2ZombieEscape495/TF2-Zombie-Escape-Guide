@@ -13,7 +13,7 @@ description: >-
 {% hint style="info" %}
 <mark style="color:red;">**PSA:**</mark> hi if you're on this page and somehow didn't get the memo from the title, much of these meta playstyles and loadouts are out of date across the board on the Human Meta subsection;
 
-The _most likely outcome_ scenario will be to kill all textwall segments and re-do them from scratch & just update the loadouts across the board.\
+The _most likely outcome_ scenario will be to kill all textwall segments and re-do them from scratch & just update the loadouts.\
 \
 soon(tm) (tm) (tm)
 {% endhint %}
