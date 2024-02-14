@@ -11,7 +11,7 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 ### 2/14/2024 - Meatropolis
 
 * **`ze_meatropolis`** <mark style="color:yellow;">**added (CS Port)**</mark>
-* **\[3 Stages | 6 Human Items] **_**(possibly pending edit for more information here)**_
+* **\[3 Stages | 6 Human Items | Boss Fight]**
 
 ### **1/28/2024 - Warlab**
 
