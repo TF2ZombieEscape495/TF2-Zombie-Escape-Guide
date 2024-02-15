@@ -6,7 +6,7 @@
 
 ## 2024
 
-### Balance Change 2/07/2023
+### Balance Change 2/07/2024
 
 <mark style="color:yellow;">**\~Maps that disable Healing (on bosses etc) no longer completely disable Enzyme mechanics simutaneously.**</mark>
 
