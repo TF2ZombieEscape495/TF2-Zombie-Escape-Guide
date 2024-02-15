@@ -224,9 +224,9 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 
 [^34]: <mark style="color:yellow;">**Run Record:**</mark>
 
-    <mark style="color:orange;">**\[Stage 1/3]**</mark>
+    <mark style="color:orange;">**\[Stage 2/3]**</mark>
 
-    **\~Record Pending**
+    **\~End Of Stage 2**
 
 [^35]: ![](<../../.gitbook/assets/Minecraft Adventure Win.jpg>)
 
