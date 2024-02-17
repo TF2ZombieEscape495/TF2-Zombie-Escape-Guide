@@ -13,7 +13,7 @@ coverY: 0
 {% hint style="success" %}
 #### These are all color coded by all known completions \[at least once] in the community; (In Normal Mode + Full, _non-friendly s_erver)
 
-<mark style="color:yellow;">**`11 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`10 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>** = `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -62,7 +62,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 * [<mark style="color:green;">**ze\_freezy\_v1**</mark>](#user-content-fn-24)[^24]<mark style="color:green;">**d**</mark>
 * [<mark style="color:green;">**ze\_frostdrake\_tower\_skial\_3**</mark>](#user-content-fn-25)[^25]
 * <mark style="color:green;">**ze\_frozentemple\_skial\_b1**</mark>
-* [<mark style="color:red;">**ze\_garten\_of\_banban\_laserdance\_awesomeworld\_taylors\_version\_v2**</mark>](#user-content-fn-26)[^26]
+* [<mark style="color:green;">**ze\_garten\_of\_banban\_laserdance\_awesomeworld\_taylors\_version\_v2**</mark>](#user-content-fn-26)[^26]
 * <mark style="color:green;">**ze\_gris\_skial\_5**</mark>&#x20;
 * <mark style="color:green;">**ze\_hydroponic\_garden\_s\_2**</mark>
 * <mark style="color:green;">**ze\_icecap\_escape\_skial\_o2**</mark>
@@ -192,11 +192,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 
 [^25]: ![](<../../.gitbook/assets/Frostdrake Win.PNG>)
 
-[^26]: <mark style="color:yellow;">**Run Record:**</mark>
-
-    <mark style="color:orange;">**\[Stage 1/1]**</mark>
-
-    **-Taylor Swift Boss (Ending)**
+[^26]: ![](<../../.gitbook/assets/Banban Win.png>)
 
 [^27]: ![](<../../.gitbook/assets/Krusty Win.jpg>)
 
