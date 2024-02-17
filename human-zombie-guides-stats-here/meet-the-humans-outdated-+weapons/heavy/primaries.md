@@ -42,7 +42,7 @@ In Zombie Escape, it plays the same role, albeit with greater emphasis on the dr
 
 As a small compensation, the Brass Beast’s damage resistance when spun up at half health or lower has been raised to 33% from its default value of 20%. This makes it somewhat less punishing to run during boss fights or when assaulted by multiple mutations during defenses.
 
-## Natasha   ![](<../../../.gitbook/assets/100px-Item\_icon\_Natascha (3).png>)
+## Natascha  ![](<../../../.gitbook/assets/100px-Item\_icon\_Natascha (3).png>)
 
 | Attributes                                                                                    |
 | --------------------------------------------------------------------------------------------- |
