@@ -53,12 +53,12 @@ As a human, you can only change classes for a few seconds **before** the round s
 * The auto-infect system will pick humans to become zombies until <mark style="color:yellow;">**15%**</mark> of the amount of players on the server are <mark style="color:red;">**Zombies.**</mark>
 * _A <mark style="color:yellow;">**32**</mark> player server will have <mark style="color:yellow;">**\[27]**</mark>_ _<mark style="color:blue;">**Humans**</mark> and <mark style="color:yellow;">**\[5]**</mark>_ _<mark style="color:red;">**Zombies.**</mark>_
 * _A <mark style="color:yellow;">**64**</mark> player server will have <mark style="color:yellow;">**\[51]**</mark>_ _<mark style="color:blue;">**Humans**</mark> and <mark style="color:yellow;">**\[10]**</mark>** **<mark style="color:red;">**Zombies**</mark>._
-* **`Spectators`** will be placed at the front of the queue, meaning that the more recently you joined as <mark style="color:blue;">**BLU**</mark>, _or if you AFKed too long enough to be moved into spectator_; the more probability there is in being autobalanced.
+* **`Spectators`** will be placed at the front of the queue, meaning that the more recently you joined as <mark style="color:blue;">**BLU;**</mark> _or if you AFKed too long enough to be moved into spectator_; the more probability there is in being autobalanced.
 
 {% hint style="info" %}
-<mark style="color:yellow;">**Will I be zombie twice?**</mark> After being picked as a **starting zombie,** you will be placed at the back of the queue and will not have to worry about auto-infection for some time. <mark style="color:red;">**Again, if**</mark> <mark style="color:red;">**you've late-joined into an ongoing round; you might be likely to be selected as starting zombie a**</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**second time**</mark>_<mark style="color:red;">** **</mark><mark style="color:red;">**for the following round.**</mark>
+<mark style="color:yellow;">**Why am I Zombie Twice sometimes?**</mark> After being picked as a _**starting zombie**_**,** you will be placed at the back of the queue and will not have to worry about auto-infection for some time. <mark style="color:red;">**If**</mark> <mark style="color:red;">**you've late-joined into an ongoing round; you are very likely to be selected as starting zombie a**</mark>** **_**second **<mark style="color:red;">**time**</mark>_<mark style="color:red;">** **</mark><mark style="color:red;">**for the following round.**</mark>
 
-_Check or bind the_ [_**ze\_queue**_](useful-commands.md) _command to know whether or not you'll be zombie next round!_
+_Check or bind the_ [_**ze\_queue**_](useful-commands.md) _command to know whether or not you'll be zombie next round._
 {% endhint %}
 
 ### Round Timer
@@ -73,15 +73,15 @@ If the team restarts a round before reaching <mark style="color:yellow;">**5:00*
 
 ### Modes
 
-<mark style="color:orange;">**Normal Mode**</mark> - _The standard way to play._\
-<mark style="color:green;">**Noob Mode**</mark> - _A more relaxed take on the game mode, useful for learning or practicing a map:_
+<mark style="color:orange;">**Normal Difficulty**</mark> - _The standard way to play._\
+<mark style="color:green;">**Noob Difficulty**</mark> - _A more relaxed take on the game mode, useful for learning or practicing a map:_
 
 * Humans take less damage, _(30% Less Damage, ergo infinite battalions backup effect. Sets you in **two shot** range of most standard ZM melees, less boss damage, etc...)_
 * More damage is dealt to NPCs and bosses. _(Unverified at the moment.)_
 * Zombies are slowed for much longer, _(+1 second to slow duration.)_
 * [Zombies take even more knockback.](#user-content-fn-2)[^2]
 
-The server will automatically engage a vote for <mark style="color:green;">**Noob Mode**</mark> after <mark style="color:yellow;">**(3)**</mark> consecutive losses at the start of the following round; until a win is achieved - though the server-culture almost predominantly mashes F2 _(as it makes it incredibly boring for both teams when the Zombies are a non-threat.)_
+The server will automatically engage a vote for <mark style="color:green;">**Casual Difficulty**</mark> after <mark style="color:yellow;">**(3)**</mark> consecutive losses at the start of the following round; until a win is achieved - though the server-culture almost predominantly mashes F2 _(as it makes it incredibly boring for both teams when the Zombies are a non-threat.)_
 
 ## Sidenote
 

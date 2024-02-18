@@ -6,29 +6,33 @@
 
 ## 2024
 
-### Balance Change 2/07/2024
+### 2/17/2024 Noob Mode Renamed
 
-<mark style="color:yellow;">**\~Maps that disable Healing (on bosses etc) no longer completely disable Enzyme mechanics simutaneously.**</mark>
+* **Noob Mode renamed to Casual difficulty.**
+
+### 2/07/2024 Balance Change
+
+* **\~Maps that disable Healing (on bosses etc) no longer completely disable Enzyme mechanics simutaneously.**
 
 ## 2023
 
-### Balance Change 11/18/2023
+### 11/18/2023 Balance Change
 
 <mark style="color:yellow;">**\~Human Demomen now have 200 HP with sticky/scottish/quickie equipped, still 175 if using a shield or jumper!**</mark>** (This generally brings them up to par on NPCs/bosses with being able to take the same amount of hits as most other people.)**
 
-### Enzyme Change 11/7/2023
+### 11/7/2023 Enzyme Change
 
 #### <mark style="color:red;">Zombie Engineer</mark>
 
 * #### _(-Unknown actual date of when this was implemented, likely snuck in during ZI/Halloween)_ <mark style="color:yellow;">Zombie Engineer's Enzyme can now EMP sentries to stop them from firing for a few seconds \[at a moderate range] and still can stun a single Human within melee range.</mark>
 
-### Enzyme Change 10/14/2023
+### 10/14/2023 Enzyme Change&#x20;
 
 #### <mark style="color:red;">Zombie Medic</mark>
 
 * <mark style="color:yellow;">**Enzyme damage reduced by 50%**</mark>** (averages to about \~20 raw damage on successful hit.)**
 
-### Balance & Enzyme Change 9/24/2023
+### 9/24/2023 Balance & Enzyme Change
 
 <mark style="color:yellow;">**-Enzyme**</mark><mark style="color:yellow;">** **</mark>_<mark style="color:yellow;">**only increases**</mark>_<mark style="color:yellow;">** **</mark><mark style="color:yellow;">**upon taking damage and decays after a while;**</mark>** **<mark style="color:orange;">**(Enzyme count decays after \[30] seconds)**</mark> **(In other words; you can't indefinitely hold onto an enzyme activate them en masse after being jailed a long time.)**
 
@@ -36,13 +40,13 @@
 
 <mark style="color:yellow;">**-Human melees no longer do increased damage and instead will do a sizeable knockback.**</mark>** (Still damages heavy enzymes greatly.)**
 
-### Enzyme Changes 7/28/2023
+### 7/28/2023 Enzyme Changes
 
 #### <mark style="color:red;">Zombie Medic</mark>
 
 <mark style="color:yellow;">**-Given a**</mark> [_**new ability**_](../human-zombie-guides-stats-here/meet-the-zombies/zombie-medic.md) <mark style="color:yellow;">**that allows the Zombie Medic to do an instant 30-60 damage to Humans in an AoE on activation; damage depending on range (and weapon interaction.) Does not infect upon kill as it deals crit damage.**</mark> (_**Prior enzyme was functionally broken.**_)
 
-### Enzyme Changes 5/12/2023
+### 5/12/2023 Enzyme Changes
 
 #### <mark style="color:red;">Zombie Scout</mark>
 

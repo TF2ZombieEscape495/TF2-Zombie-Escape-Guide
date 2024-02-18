@@ -1,4 +1,4 @@
-# Recent Maps 2/14/2024
+# Recent Maps 2/17/2024
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -7,6 +7,16 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 {% endhint %}
 
 ## 2024:
+
+### 2/17/2024 - OBJ Rampage
+
+* **`ze_obj_rampage`** <mark style="color:yellow;">**added (CS Port)**</mark>
+* **\[1 Stage |**&#x20;
+
+### 2/17/2024 - OBJ Filth
+
+* **`ze_obj_filth`** <mark style="color:yellow;">**added (CS Port)**</mark>
+* **\[1 stage |**&#x20;
 
 ### 2/14/2024 - Meatropolis
 
