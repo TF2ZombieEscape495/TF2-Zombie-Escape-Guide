@@ -8,15 +8,19 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 ## 2024:
 
+### 2/17/2024 - Atix Apocalypse
+
+* **`ze_atix_apocalypse`** <mark style="color:yellow;">**(returned to map list) (CS Port)**</mark>
+
 ### 2/17/2024 - OBJ Rampage
 
 * **`ze_obj_rampage`** <mark style="color:yellow;">**added (CS Port)**</mark>
-* **\[1 Stage |**&#x20;
+* **\[1 Stage | 35 minute average]**
 
 ### 2/17/2024 - OBJ Filth
 
 * **`ze_obj_filth`** <mark style="color:yellow;">**added (CS Port)**</mark>
-* **\[1 stage |**&#x20;
+* **\[1 stage | 40 minute average]**
 
 ### 2/14/2024 - Meatropolis
 
