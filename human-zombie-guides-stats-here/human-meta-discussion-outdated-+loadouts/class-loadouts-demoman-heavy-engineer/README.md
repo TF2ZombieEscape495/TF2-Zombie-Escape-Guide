@@ -58,7 +58,7 @@ _**Loadout:**_
 * Family Business/Dalokah's Bar
 * Eviction Notice
 
-This one's a little unique to the table in the regard that this setup will base itself around passive movement and the rapid deploy of the Tomislav, letting you get up close and personal before you flee - coupling this up with the Family Business; this loadout can provide Heavy a much stronger damage output to bosses or NPCs while on the run without committing to a rev-up. Also depending on whether or not you opted into the Dalokah's bar, the extra HP can offset _\[most]_ zombie weapon one shots; almost _neutralizing_ the passive penalty of the Eviction Notice. You'll effectively be down a secondary if there's any laser bosses on the latter, but the Tomislav is pretty reliable at delay defenses if you aren't completely alone!
+This one's a little unique to the table in the regard that this setup will base itself around passive movement and the rapid deploy of the Tomislav, letting you get up close and personal before you flee - coupling this up with the Family Business; this loadout can provide Heavy a much stronger damage output to bosses or NPCs on the run **without committing to a rev-up.** Also depending on whether or not you opted into the Dalokah's bar, the extra HP can offset _\[most]_ zombie weapon one shots; almost _neutralizing_ the passive penalty of the Eviction Notice. You'll effectively be down a secondary if there's any laser bosses on the latter, but the Tomislav is pretty reliable at delay defenses if you aren't completely alone!
 
 ## Engineer
 

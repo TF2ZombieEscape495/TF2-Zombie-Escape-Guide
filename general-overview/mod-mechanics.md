@@ -63,25 +63,28 @@ _Check or bind the_ [_**ze\_queue**_](useful-commands.md) _command to know wheth
 
 ### Round Timer
 
-At the top of the screen during rounds, you'll notice a timer. When it reaches <mark style="color:yellow;">**0**</mark>, the Human team will automatically lose. In most cases, it will be unreasonable to reach this since you would have to stall out at certain areas for an exceedingly long time. Some maps, however, have timers that may just _barely_ be enough to complete the stage.
+At the top of the screen during rounds, you'll notice a timer. When it reaches <mark style="color:yellow;">**zero**</mark>, the Human team will automatically lose. In most cases, it will be unreasonable to reach this since you would have to stall out at certain areas for an exceedingly long time. Some maps, however, have timers that may just _barely_ be enough to complete the stage.
 
 ### Map Votes
 
-A vote will be triggered for the next map at <mark style="color:yellow;">**6:00**</mark> on the Map Timer viewable on the Scoreboard. Players will be able to either extend the current map or vote for the next map among a selection that has been randomly selected or player-nominated. Humans losing <mark style="color:yellow;">**3**</mark> times in a row disables the map extension. It can be regained by Humans winning the round _after_ the 3rd loss in a row before the automatic vote has been triggered. Each map is typically limited to <mark style="color:yellow;">**2**</mark> extensions.\
-\
-If the team restarts a round before reaching <mark style="color:yellow;">**5:00**</mark> on the Map Timer, they will be able to play a round of the map before leaving. After a map has been played, it will be on cooldown. Players will not be able to nominate and play that map until enough other maps have been cycled through. Players may also force a map vote if enough people use the **rtv** command after <mark style="color:yellow;">**600 seconds (10 minutes)**</mark> of a map have passed.
+* A vote will be triggered for the next map at <mark style="color:yellow;">**6:00**</mark> on the **Map Timer** viewable on the Scoreboard _**(Not to be mistaken with the Round-Timer)**_&#x20;
+* Players will be able to either extend the current map or vote for the next map among a selection that has been randomly selected or player-nominated.
+* Humans losing <mark style="color:yellow;">**3**</mark> times in a row disables the map extension. It can be regained by Humans winning the round _after_ the 3rd loss in a row before the automatic vote has been triggered. Each map is typically limited to <mark style="color:yellow;">**2**</mark> extensions.
+* If the team restarts a round before reaching <mark style="color:yellow;">**5:00**</mark> on the Map Timer, they will be able to play a round of the map before leaving.
+* After a map has been played, it will be on cooldown. Players will not be able to nominate and play that map until enough other maps have been cycled through. _(Currently 9 Map CD)_
+* Players may also force a map vote if enough people use the **RTV** command after <mark style="color:yellow;">**600 seconds (10 minutes)**</mark> of a map have passed; or through the usage of Skial Credits _(That method will always show a 'Don't Change' option to extend.)_
 
 ### Modes
 
 <mark style="color:orange;">**Normal Difficulty**</mark> - _The standard way to play._\
-<mark style="color:green;">**Noob Difficulty**</mark> - _A more relaxed take on the game mode, useful for learning or practicing a map:_
+<mark style="color:green;">**Casual Difficulty**</mark> - _A more relaxed take on the game mode, useful for learning or practicing a map:_
 
 * Humans take less damage, _(30% Less Damage, ergo infinite battalions backup effect. Sets you in **two shot** range of most standard ZM melees, less boss damage, etc...)_
 * More damage is dealt to NPCs and bosses. _(Unverified at the moment.)_
 * Zombies are slowed for much longer, _(+1 second to slow duration.)_
 * [Zombies take even more knockback.](#user-content-fn-2)[^2]
 
-The server will automatically engage a vote for <mark style="color:green;">**Casual Difficulty**</mark> after <mark style="color:yellow;">**(3)**</mark> consecutive losses at the start of the following round; until a win is achieved - though the server-culture almost predominantly mashes F2 _(as it makes it incredibly boring for both teams when the Zombies are a non-threat.)_
+The server will automatically engage a vote for <mark style="color:green;">**Casual Difficulty**</mark> after <mark style="color:yellow;">**(3)**</mark> consecutive losses at the start of the following round; until a win is achieved.
 
 ## Sidenote
 
