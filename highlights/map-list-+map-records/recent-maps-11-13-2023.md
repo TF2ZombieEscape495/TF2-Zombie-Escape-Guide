@@ -15,12 +15,12 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 ### 2/17/2024 - OBJ Rampage
 
 * **`ze_obj_rampage`** <mark style="color:yellow;">**added (CS Port)**</mark>
-* **\[1 Stage | 35 minute average]**
+* **\[1 Stage | 35 minute average | Enzymes Disabled]**
 
 ### 2/17/2024 - OBJ Filth
 
 * **`ze_obj_filth`** <mark style="color:yellow;">**added (CS Port)**</mark>
-* **\[1 stage | 40 minute average]**
+* **\[1 stage | 40 minute average | Enzymes Disabled]**
 
 ### 2/14/2024 - Meatropolis
 
