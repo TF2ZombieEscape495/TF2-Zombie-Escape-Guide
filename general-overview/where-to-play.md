@@ -1,5 +1,5 @@
 ---
-description: Server IPs for the three current Skial Zombie Escape servers.
+description: Server IPs for the two current Skial Zombie Escape servers.
 ---
 
 # Where to Play
