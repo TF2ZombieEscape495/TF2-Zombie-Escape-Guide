@@ -1,8 +1,7 @@
 ---
 description: >-
   This is a comprehensive guide for newcomers, veterans, and all those
-  interested in the Zombie Escape game mode hosted on the Skial servers. Now
-  with github sync!
+  interested in the Zombie Escape game mode hosted on the Skial servers.
 cover: .gitbook/assets/d5b3d8dadd770c460b1cde910a711987.jpg
 coverY: 87.4888558692422
 layout:
