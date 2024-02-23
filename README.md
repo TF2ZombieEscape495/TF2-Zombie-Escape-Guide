@@ -27,7 +27,7 @@ layout:
 
 <mark style="color:yellow;">**Note 2:**</mark> Try to copy the link as shown below when sharing this main page redirect - it's a lot shorter than the default address handle!
 
-[**https://tf2zombieescape.gitbook.io**](https://tf2zombieescape.gitbook.io)
+[**tf2zombieescape.gitbook.io**](https://tf2zombieescape.gitbook.io)
 
 <mark style="color:green;">**Currently being managed by \[Discord] @ not\_pickles if you need to get in contact.**</mark>
 {% endhint %}
