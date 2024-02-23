@@ -25,6 +25,8 @@ layout:
 
 {% hint style="info" %}
 _<mark style="color:yellow;">**Note 1:**</mark>_ This guide is in a "finished" state but still is due for indefinite polish updates & future balance adjustments - there _might_ be some cracks here and there!
+
+<mark style="color:green;">**Currently being managed by \[Discord] @ not\_pickles if you need to get in contact.**</mark>
 {% endhint %}
 
 Ever play CS or GMod Zombie Escape and wonder how it might translate to TF2? Ever play TF2 and wonder how classes might fit into ZE? The aim of the game is the same, but, in TF2, things can get a bit interesting...\
