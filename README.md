@@ -23,7 +23,11 @@ layout:
 # What is Zombie Escape?
 
 {% hint style="info" %}
-_<mark style="color:yellow;">**Note 1:**</mark>_ This guide is in a "finished" state but still is due for indefinite polish updates & future balance adjustments - there _might_ be some cracks here and there!
+<mark style="color:yellow;">**Note 1:**</mark> This guide is in a "finished" state but still is due for indefinite polish updates & future balance adjustments - there _might_ be some cracks here and there!
+
+<mark style="color:yellow;">**Note 2:**</mark> Try to copy the link as shown below when sharing this main page redirect - it's a lot shorter than the default address handle!
+
+[**https://tf2zombieescape.gitbook.io**](https://tf2zombieescape.gitbook.io)
 
 <mark style="color:green;">**Currently being managed by \[Discord] @ not\_pickles if you need to get in contact.**</mark>
 {% endhint %}
