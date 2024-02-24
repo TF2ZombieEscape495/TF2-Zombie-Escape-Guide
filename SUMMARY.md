@@ -27,7 +27,7 @@
 * [Useful Commands](general-overview/useful-commands.md)
 * [Where to Play](general-overview/where-to-play.md)
 
-## ⚔ Human/Zombie Guides (Stats Here!)
+## ⚔️ Human/Zombie Guides (Stats Here!)
 
 * [Meet The Humans (+Weapons!)](human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/README.md)
   * [Scout](human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/scout/README.md)
@@ -103,7 +103,7 @@
 * [NPCs and Bosses](elements-of-zombie-escape/npcs-and-bosses/README.md)
   * [Bosses](elements-of-zombie-escape/npcs-and-bosses/bosses.md)
 
-## ⚙ Miscellaneous Info
+## ⚙️ Miscellaneous Info
 
 * [Miscellaneous Info...](miscellaneous-info/miscellaneous-info....md)
 * [Stat Explanation](miscellaneous-info/stat-explanation.md)

@@ -13,7 +13,7 @@ coverY: 0
 {% hint style="success" %}
 #### These are all color coded by all known completions \[at least once] in the community; (In Normal Mode + Full, _non-friendly s_erver)
 
-<mark style="color:yellow;">**`11 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`10 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>** = `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -105,7 +105,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 * [<mark style="color:green;">**ze\_ryujin\_v3**</mark>](#user-content-fn-55)[^55]
 * [<mark style="color:green;">**ze\_raiin\_v2b**</mark>](#user-content-fn-56)[^56]
 * [<mark style="color:green;">**ze\_S\_A\_M\_skial\_9**</mark>](#user-content-fn-57)[^57]
-* [<mark style="color:red;">**ze\_sandstone\_v2**</mark>](#user-content-fn-58)[^58]
+* [<mark style="color:green;">**ze\_sandstone\_v2**</mark>](#user-content-fn-58)[^58]
 * [<mark style="color:red;">**ze\_santassination\_s4**</mark>](#user-content-fn-59)[^59]
 * <mark style="color:green;">**ze\_saw\_final\_skial\_8**</mark>
 * [<mark style="color:green;">**ze\_scp\_skial\_4**</mark>](#user-content-fn-60)[^60]
@@ -284,10 +284,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 
 [^57]: ![](<../../.gitbook/assets/SAM Win.jpg>)
 
-[^58]: <mark style="color:yellow;">**Run Record:**</mark>\
-    <mark style="color:orange;">\~</mark><mark style="color:orange;">**Stage 3/4**</mark>
-
-    **\~Post-boss defenses**
+[^58]: ![](<../../.gitbook/assets/sandstone win.jpg>)
 
 [^59]: <mark style="color:yellow;">**Run Record:**</mark>&#x20;
 
