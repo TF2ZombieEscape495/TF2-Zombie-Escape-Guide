@@ -96,6 +96,28 @@ Since it doesn't pack a -z velocity attribute like the other flares for balance 
 
 While it can _theoretically_ perma-slow zombies, it requires much more skill than either the Flamethrower or the Short Circuit, and a well-timed and placed detonation to send zombies off pitfalls - or at the worst boost them in the air some; the detonator also has some lower-end damage against NPCs/bosses in pyro secondaries; but it's ranked higher due to the skill ceiling in being able to launch away groups of zombies from specific angles.
 
+## Manmelter   ![](<../../../.gitbook/assets/100px-Item\_icon\_Manmelter (1).png>)
+
+| Attributes                                                                                             |
+| ------------------------------------------------------------------------------------------------------ |
+| **Projectile Speed: 3000**                                                                             |
+| <mark style="color:blue;">**+50% Projectile Speed**</mark>                                             |
+| <mark style="color:blue;">**+70% Faster Firing Speed**</mark>                                          |
+| <mark style="color:blue;">**+160% Damage Bonus**</mark>                                                |
+| <mark style="color:red;">**+49% Damage vs Players**</mark>                                             |
+| <mark style="color:orange;">**Does not require ammo**</mark>                                           |
+| <mark style="color:orange;">**Applies -125 z velocity on hit (Hidden)**</mark>                         |
+| <mark style="color:orange;">**Minicrits whenever it would normally crit.**</mark>                      |
+| <mark style="color:orange;">**Alt-Fire: Extinguish teammates to gain guaranteed critical hits**</mark> |
+| <mark style="color:orange;">**Extinguishing teammates restores 20 health**</mark>                      |
+| <mark style="color:orange;">**Sets weapon mode #2.0 (Hidden)**</mark>                                  |
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.6</td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 78 per shot</td><td><strong>Real DPS:</strong> 130 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 130 DPS</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 39 per shot</td><td><strong>Real DPS:</strong> 65 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 65 DPS</td></tr></tbody></table>
+
+The Manmelter in base TF2 is probably among the least-used Pyro secondaries. It does have unlimited ammo and a unique mechanic of being able to extinguish teammates while providing crits, but these are relatively pointless and non-unique in Zombie Escape.&#x20;
+
+What this weapon now works as is something like a rapid-fire unlimited ammo, igniting pistol with <mark style="color:orange;">**-125 z velocity**</mark> applied on hit; continuously pulling down multiple zombies attempting to jump in the air as they take damage from afterburn.
+
 ## Flare gun   ![](<../../../.gitbook/assets/100px-Item\_icon\_Flare\_Gun (1).png>)
 
 | Attributes                                                                     |
@@ -138,28 +160,6 @@ The Scorch Shot in base TF2 is a very controversial weapon. It's fairly easy to 
 The knockback mechanic of the flares being so powerful may have been why this weapon was _previously_ banned in Zombie Escap. **It has been added back under a rework where this weapon now fires a mini-rocket that ignites zombies.** The only thing that really hasn't changed—the primary concern - is its erratic boosting potential, as it can still launch zombies fairly easily.
 
 For those worried, currently the server plugin makes it such that players launched will either be flung back and to the sides at ridiculous angles or find themselves flung directly upwards with little to no momentum to air-strafe around and take advantage of it. As a precaution, this weapon has also been given 0% self-damage force **to prevent "rocket-jumping" with it.**
-
-## Manmelter   ![](<../../../.gitbook/assets/100px-Item\_icon\_Manmelter (1).png>)
-
-| Attributes                                                                                             |
-| ------------------------------------------------------------------------------------------------------ |
-| **Projectile Speed: 3000**                                                                             |
-| <mark style="color:blue;">**+50% Projectile Speed**</mark>                                             |
-| <mark style="color:blue;">**+70% Faster Firing Speed**</mark>                                          |
-| <mark style="color:blue;">**+160% Damage Bonus**</mark>                                                |
-| <mark style="color:red;">**+49% Damage vs Players**</mark>                                             |
-| <mark style="color:orange;">**Does not require ammo**</mark>                                           |
-| <mark style="color:orange;">**Applies -125 z velocity on hit (Hidden)**</mark>                         |
-| <mark style="color:orange;">**Minicrits whenever it would normally crit.**</mark>                      |
-| <mark style="color:orange;">**Alt-Fire: Extinguish teammates to gain guaranteed critical hits**</mark> |
-| <mark style="color:orange;">**Extinguishing teammates restores 20 health**</mark>                      |
-| <mark style="color:orange;">**Sets weapon mode #2.0 (Hidden)**</mark>                                  |
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.6</td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 78 per shot</td><td><strong>Real DPS:</strong> 130 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 130 DPS</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 39 per shot</td><td><strong>Real DPS:</strong> 65 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 65 DPS</td></tr></tbody></table>
-
-The Manmelter in base TF2 is probably among the least-used Pyro secondaries. It does have unlimited ammo and a unique mechanic of being able to extinguish teammates while providing crits, but these are relatively pointless and non-unique in Zombie Escape.&#x20;
-
-What this weapon now works as is something like a rapid-fire unlimited ammo, igniting pistol with <mark style="color:orange;">**-125 z velocity**</mark> applied on hit; continuously pulling down multiple zombies attempting to jump in the air as they take damage from afterburn.
 
 ## Gas Passer   ![](../../../.gitbook/assets/100px-Item\_icon\_Gas\_Passer.png)
 

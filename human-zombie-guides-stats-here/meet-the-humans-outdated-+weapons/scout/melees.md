@@ -25,7 +25,7 @@ The Fan O'War is technically Scout's best melee weapon, even though it really do
 | <mark style="color:orange;">**Melee attacks mini-crit while airborne.**</mark>        |
 | <mark style="color:orange;">**Does not grant an extra jump while deployed**</mark>    |
 
-The triple jump ability is removed for the atomizer, and double jumping is disabled in most cases anyway. Currently rather than the base TF2 niche of giving verticality; you instead gain more mobility when its held out - letting you beat other classes (or other base weapon scouts) to items quicker, at the cost of almost being down a melee, _(and losing health until its holstered.)_ **HP degen prevents weapon being stacked with Baby Faces Blaster.**
+The triple jump ability is removed for the atomizer, and double jumping is disabled in most cases anyway. Currently rather than the base TF2 niche of giving verticality; you instead gain more mobility when its held out - letting you beat other classes (or other base weapon scouts) to items quicker, at the cost of almost being down a melee due, _(and losing health until its holstered.)_ <mark style="color:red;">**HP degen prevents this weapon being stacked with Baby Faces Blaster.**</mark>
 
 ## Bat   ![](../../../.gitbook/assets/100px-Item\_icon\_Bat.png)![](../../../.gitbook/assets/100px-Item\_icon\_Holy\_Mackerel.png)
 

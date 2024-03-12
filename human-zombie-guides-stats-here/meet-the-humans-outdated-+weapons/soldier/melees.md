@@ -13,7 +13,7 @@ description: Soldier Melee Options
 | <mark style="color:blue;">**When Held: +10% faster move speed on wearer**</mark>   |
 | <mark style="color:red;">**When Held: +20% damage vulnerability on wearer**</mark> |
 
-Essentially the Powerjack for Soldier, this speeds him up at the cost of taking more damage. Speed is an important utility that most of his other melees lack, so there's good reason to always bring it along. The increased damage vulnerability just requires you to be a bit more careful with NPCs, bosses, and zombie Mutations.
+Essentially the Powerjack for Soldier, **this speeds him up at the cost of taking more universal damage.** Speed is an important utility that most of his other melees lack, so there's good reason to always bring it along. The increased damage vulnerability just requires you to be a bit more careful with NPCs, bosses, and zombie Mutations.
 
 ## Half-Zatoichi   ![](<../../../.gitbook/assets/100px-Item\_icon\_Half-Zatoichi (1).png>)
 

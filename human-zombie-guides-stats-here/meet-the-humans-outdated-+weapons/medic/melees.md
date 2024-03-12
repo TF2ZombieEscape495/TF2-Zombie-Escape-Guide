@@ -4,20 +4,6 @@ description: Medic Melee Options
 
 # Melees
 
-## Amputator   ![](../../../.gitbook/assets/100px-Item\_icon\_Amputator.png)
-
-| Attributes                                                                                        |
-| ------------------------------------------------------------------------------------------------- |
-| <mark style="color:blue;">**+3 Health Regenerated per second on Wearer**</mark>                   |
-| <mark style="color:red;">**-20% Damage Penalty**</mark>                                           |
-| <mark style="color:orange;">**Alt-Fire: Applies a healing effect to all nearby teammates**</mark> |
-
-{% hint style="info" %}
-_<mark style="color:yellow;">**Note:**</mark>_ The Amputator now only heals at a limited, slowed rate upon alt-fire usage - _possibly_ pending description reworks across the guide.
-{% endhint %}
-
-The Amputator is the only melee the Medic has that propels his healing potential. It lets you AoE heal your team when taunting with it while also providing a nifty hp regeneration bonus when held out. With this, the Medic can either shift from fast and powerful single target healing to minor - but just as powerful - AoE healing. Just be careful with the taunting as you will be unable to move until either the taunt ends or you get hit by a zombie. As long as you use it wisely, the Amputator will allow you to save your team from Mutation spams or during NPC and Boss fights if not nerfed for them. One of the best medic melees even worth using, the others are a lot more niche for this mode.
-
 ## Solemn Vow   ![](../../../.gitbook/assets/100px-Item\_icon\_Solemn\_Vow.png)
 
 | Attributes                                          |
@@ -28,12 +14,26 @@ The gamemode already allows for you to view zombie HP by placing your crosshair 
 
 ## Vita-Saw   ![](../../../.gitbook/assets/100px-Item\_icon\_Vita-Saw.png)
 
-| Attributes                                                |
-| --------------------------------------------------------- |
-| <mark style="color:blue;">**+33% Uber Rate Bonus**</mark> |
-| <mark style="color:blue;">**+33% Uber Duration**</mark>   |
+| Attributes                                                      |
+| --------------------------------------------------------------- |
+| <mark style="color:blue;">**+33% Uber Build Rate Bonus**</mark> |
+| <mark style="color:blue;">**+33% Uber Duration**</mark>         |
 
-If you somehow didn't roll with the amputator - this one's actually not all too bad. It's a lot more niche in the sense that the stats will beef up your uber charge and timers - but you really do miss out on the capability of AoE healing the team when Pyro Enzymes or NPCS start mowing down _everyone's_ health. It can get some use out of saving a person who got caught overdefending/on a teleport more reliably with an extra second or so.
+This one's actually not all too bad. It's a lot more niche in the sense that the stats will beef up your uber charge rate and the actual uber usage timer itself. It can get some use out of saving a person who got caught overdefending/on a teleport more reliably with an extra second or so if you're running Stock uber.
+
+## Amputator   ![](../../../.gitbook/assets/100px-Item\_icon\_Amputator.png)
+
+| Attributes                                                                                        |
+| ------------------------------------------------------------------------------------------------- |
+| <mark style="color:blue;">**+3 Health Regenerated per second on Wearer**</mark>                   |
+| <mark style="color:red;">**-20% Damage Penalty**</mark>                                           |
+| <mark style="color:orange;">**Alt-Fire: Applies a healing effect to all nearby teammates**</mark> |
+
+{% hint style="info" %}
+_<mark style="color:yellow;">**Note:**</mark>_** The Amputator now only heals at a limited, slowed rate upon alt-fire usage due to issues with healing particles on 64 players.**
+{% endhint %}
+
+It lets you AoE heal your team when taunting with it while also providing a nifty hp regeneration bonus when held out. With this, the Medic can either shift from fast and powerful single target healing to minor - but just as powerful - AoE healing. Just be careful with the taunting as you will be unable to move until either the taunt ends or you get hit by a zombie. As long as you use it wisely, the Amputator will allow you to save your team from Mutation spams or during NPC and Boss fights if not nerfed for them. One of the best medic melees even worth using, the others are a lot more niche for this mode.
 
 ## Übersaw   ![](../../../.gitbook/assets/100px-Item\_icon\_Ubersaw.png)
 

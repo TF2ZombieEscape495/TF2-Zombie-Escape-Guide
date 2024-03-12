@@ -147,7 +147,24 @@ This weapon will initially start off with a clip size of \~4. The faster fire ra
 
 The Beggar's Bazooka is a unique rocket launcher in base TF2 that allows Soldiers to load rockets and fire them in bursts. It does come at the risk of overloading, causing self-explosive damage, and having less accuracy due to an applied random projectile deviation.&#x20;
 
-The modified version of this weapon in Zombie Escape doesn't stray too far from this functionality. It's only changed features include a +100% damage bonus, a -50% damage penalty vs players, a 15% slower fire rate, and a +1.5 degree random projectile deviation. This makes it slightly more accurate and makes it the third most damaging rocket launcher with a sustained DPS of \~182.
+The modified version of this weapon in Zombie Escape doesn't stray too far from this functionality. It's only changed features include a +100% damage bonus, a -50% damage penalty vs players, a 15% slower fire rate, and a +1.5 degree random projectile deviation. This makes it slightly more accurate and makes it the third most damaging rocket launcher with a sustained DPS of \~182.0
+
+## Rocket Launcher   ![](<../../../.gitbook/assets/100px-Item\_icon\_Rocket\_Launcher (1).png>)![](../../../.gitbook/assets/100px-Item\_icon\_Original.png)
+
+| Attributes                                                   |
+| ------------------------------------------------------------ |
+| **Clip Size - 4 Shots**                                      |
+| **Blast Radius: 146**                                        |
+| **Projectile Speed: 1100**                                   |
+| <mark style="color:blue;">**+25% Faster Reload Time**</mark> |
+| <mark style="color:blue;">**+171% Damage Bonus**</mark>      |
+| <mark style="color:red;">**-50% Damage vs Players**</mark>   |
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.81</td><td>TEC: 3.24 seconds</td><td>Reload Time (First): 0.69 seconds</td><td>Reload Time (Consec.): 0.6 seconds</td><td>Full Reload Time: 2.49 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 243.9 per shot</td><td><strong>Real DPS:</strong> 170.261 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 301.111 DPS</td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 304 per shot</td><td><strong>Real DPS:</strong> 212.216 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 375.308 DPS</td><td></td><td></td></tr></tbody></table>
+
+The Rocket Launcher is practically the go-to primary for most Soldiers in base TF2. It's consistent, does good enough damage, and gets the job done overall.
+
+For the purposes of Zombie Escape, not many attributes of the weapon have been tweaked other than what would be expected - leaving it to be one of the least gimmicky options in the mode to a point where it _may as well be suboptimal_ running this other than it being a generic spammy rocket. You can get a lot more mileage for your team using anything else here.
 
 ## Rocket Jumper  ![](<../../../.gitbook/assets/100px-Item\_icon\_Rocket\_Jumper (3).png>)
 
@@ -175,20 +192,3 @@ The Rocket Jumper in base TF2 is a weapon that allows players to rocket jump wit
 A weapon that hurts both zombies and you - you won’t be able to outrun your choices for using this weapon. This Rocket Jumper comes with a 150% slower deploy and holster time penalty, making it a weapon to **commit to** if you whip it out. _If_ you land a shot with this, you can reduce a hit zombies’ movement speed to a minimum of 240 HU/s for <mark style="color:yellow;">**\~3 seconds**</mark>. But if you somehow hit yourself with this, the +200% damage to yourself might leave you at death's door or dead outright. With it active, your movement speed will also be reduced by -20%.
 
 Sure - it _does_ do the most high-end soldier damage, but that requires a boss that isn't mobile in most cases; otherwise you'll probably miss with that horrendous rocket speed - maybe stick to the Direct Hit if you're going for boss damage as Soldier. Rather than take this weapon in the direction of a Rocket Launcher alternative, it has been extremified as a semi-joke weapon. This weapon will be slow to respond, slow to fire, slow to run with, and will slow zombies all at once. It will slowly deplete everyone's sanity as they watch teammates inadvertently blow themselves up or attempt to blow the zombies up with their super slow rockets.
-
-## Rocket Launcher   ![](<../../../.gitbook/assets/100px-Item\_icon\_Rocket\_Launcher (1).png>)![](../../../.gitbook/assets/100px-Item\_icon\_Original.png)
-
-| Attributes                                                   |
-| ------------------------------------------------------------ |
-| **Clip Size - 4 Shots**                                      |
-| **Blast Radius: 146**                                        |
-| **Projectile Speed: 1100**                                   |
-| <mark style="color:blue;">**+25% Faster Reload Time**</mark> |
-| <mark style="color:blue;">**+171% Damage Bonus**</mark>      |
-| <mark style="color:red;">**-50% Damage vs Players**</mark>   |
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.81</td><td>TEC: 3.24 seconds</td><td>Reload Time (First): 0.69 seconds</td><td>Reload Time (Consec.): 0.6 seconds</td><td>Full Reload Time: 2.49 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 243.9 per shot</td><td><strong>Real DPS:</strong> 170.261 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 301.111 DPS</td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 304 per shot</td><td><strong>Real DPS:</strong> 212.216 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 375.308 DPS</td><td></td><td></td></tr></tbody></table>
-
-The Rocket Launcher is practically the go-to primary for most Soldiers in base TF2. It's consistent, does good enough damage, and gets the job done overall.
-
-For the purposes of Zombie Escape, not many attributes of the weapon have been tweaked other than what would be expected - leaving it to be one of the least gimmicky options in the mode to a point where it _may as well be suboptimal_ running this other than it being a generic spammy rocket. You can get a lot more mileage for your team using anything else here.

@@ -8,11 +8,11 @@ description: Demoman Melee Options
 
 | Attributes                                                                         |
 | ---------------------------------------------------------------------------------- |
-| <mark style="color:red;">**+10% Bullet Bamage Vulnerability on Wearer**</mark>     |
+| <mark style="color:red;">**+10% Bullet Damage Vulnerability on Wearer**</mark>     |
 | <mark style="color:blue;">**When Held: +10% Faster Move Speed on Wearer**</mark>   |
 | <mark style="color:red;">**When Held: +20% Damage Vulnerability on Wearer**</mark> |
 
-Movement is valued in ZE, so it's no surprise the Pain Train is at the top of Demoman's melees. The Pain Train alleviates his movement speed nerf, thus providing the best utility out of all his melees. It's even the favored weapon for Demoknights, as the ÜberCharge upon receiving a hit offsets the damage vulnerability that the Pain Train inflicts. The only downside is the lack of extended range the Demoman's swords and axe may have, but you'll more than likely wind up getting hit by getting too close to the zombies anyway.
+Movement is valued in ZE, so it's no surprise the Pain Train is at the top of Demoman's melees. **The Pain Train alleviates his movement speed nerf, thus providing the best utility out of all his melees.** It's even the favored weapon for Demoknights, as the ÜberCharge upon receiving a hit offsets the damage vulnerability that the Pain Train inflicts. The only other downside is the lack of extended range the Demoman's swords and axe may have, but you'll more than likely wind up getting hit by getting too close to the zombies anyway.
 
 ## Bottle   ![](../../../.gitbook/assets/100px-Item\_icon\_Bottle.png)
 

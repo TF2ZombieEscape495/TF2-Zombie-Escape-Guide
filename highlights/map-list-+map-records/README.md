@@ -209,7 +209,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 
 [^30]: <mark style="color:yellow;">**Run Record:**</mark>
 
-    <mark style="color:orange;">**\~Stage 2**</mark><mark style="color:orange;">** **</mark>~~<mark style="color:orange;">**\[Meteor/Snow/EndlessNight**</mark>~~<mark style="color:orange;">**/Mako]**</mark>
+    <mark style="color:orange;">**\~Stage 2**</mark><mark style="color:orange;">** **</mark>~~<mark style="color:orange;">**\[Meteor/Snow/EndlessNight**</mark>~~<mark style="color:orange;">**/Mako Pending...]**</mark>
 
     ![](../../.gitbook/assets/20230520023957\_1.png)
 

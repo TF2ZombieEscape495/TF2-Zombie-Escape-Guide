@@ -77,7 +77,7 @@ Even if this weapon has low sustained DPS, it evens out by being given a damage 
 | <mark style="color:yellow;">**Cooldown is 10 seconds**</mark>                                     |
 | <mark style="color:yellow;">**Item drop expires after 30 seconds**</mark>                         |
 
-While more health is always more useful, the increased health that the Dalokohs Bar provides isn't as impactful on any _normal loadout._ The Dalokohs Bar brings your HP up to 350 passively while giving you 400 HP if you eat the bar. The problem being that most zombies **will still two hit you** like they normally do with your 300 HP. One niche of this that brings it higher tier-wise here is that when paired with the Eviction Notice - it can at least offset the HP penalty and move you up to 250 HP; this is elaborated on a bit more in [**Versatile Heavy**](../../human-meta-discussion-outdated-+loadouts/class-loadouts-demoman-heavy-engineer/#versatile-heavy) loadout.
+While more health is always more useful, the increased health that the Dalokohs Bar provides isn't as impactful on any _normal loadout._ The Dalokohs Bar brings your HP up to 350 passively while giving you 400 HP if you eat the bar. The problem being that most zombies **will still two hit you** like they normally do with your 300 HP. One niche of this that brings it higher tier-wise here is that when paired with the Eviction Notice - it can at least offset the HP penalty and move you up to 250 HP; this is elaborated on a bit more in [**Versatile Heavy**](../../human-meta-discussion-outdated-+loadouts/class-loadouts-demoman-heavy-engineer.md#versatile-heavy) loadout.
 
 ## Sandvich   ![](<../../../.gitbook/assets/100px-Item\_icon\_Sandvich (1).png>)
 

@@ -75,4 +75,4 @@ You will be hard pressed to find maps that actually feature the use of health pa
 | <mark style="color:orange;">**On Hit: target is engulfed in flames**</mark> |
 | <mark style="color:yellow;">**Afterburn duration is 7.5 seconds**</mark>    |
 
-The Afterburn isn't worth it, nor is the damage penalty.
+The Afterburn isn't worth it, nor is the damage penalty. Sad weapon.
