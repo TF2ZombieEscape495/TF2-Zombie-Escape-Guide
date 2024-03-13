@@ -82,13 +82,16 @@ At the top of the screen during rounds, you'll notice a timer. When it reaches <
 * Humans take less damage, _(30% Less Damage, ergo infinite battalions backup effect. Sets you in **two shot** range of most standard ZM melees, less boss damage, etc...)_
 * More damage is dealt to NPCs and bosses. _(Unverified at the moment.)_
 * Zombies are slowed for much longer, _(+1 second to slow duration.)_
-* [Zombies take even more knockback.](#user-content-fn-2)[^2]
+* **Zombies take even more knockback.** _(A common misconception is that this either "does nothing" or makes the gamemode "harder" due to the increased zombie-boosting potential; but that's really only the case with <mark style="color:red;">**terribly**</mark> coordinated teams that are consistently getting caught on fallback teleports or getting double/triple meleed etc.)_
+* Even individual _**pellets**_ will slow and push zombies from afar, granting **solo-stalling capability almost exponentially.**
 
 The server will automatically engage a vote for <mark style="color:green;">**Casual Difficulty**</mark> after <mark style="color:yellow;">**(3)**</mark> consecutive losses at the start of the following round; until a win is achieved.
 
 ## Sidenote
 
-There _are_ other zombie-esque game modes available on TF2. Years ago, it was primarily Zombie Fortress. Now, the zombie genre has branched out into Super Zombie Fortress, Zombie Escape, Zombie Riot, and a few others, each having their own unique spin on things. Other servers do host ZE, such as Otaku.tf. Do note that while some of the things discussed here may be applicable to both, versions of ZE for Skial and Otaku vary _**significantly**_ in gameplay, map rotation, and the tools available for use on the server.
+There _are_ other zombie-esque game modes available on TF2. Years ago, it was primarily **Zombie Fortress**. Now, the zombie genre has branched out into **Super Zombie Fortress**, **Zombie Escape**, **Zombie Riot**, and _a few others_, each having their own unique spin on things.&#x20;
+
+Other servers do host ZE, such as Otaku.tf. Do note that while some of the things discussed here may be applicable to both, versions of ZE for Skial and Otaku vary _**significantly**_ in gameplay, map rotation, and the tools available for use on the server.
 
 ### Comparisons to other games
 
@@ -102,10 +105,3 @@ Those familiar with Zombie Escape on CS:S, CS:GO, and GMod may find many similar
 
 
 
-
-
-[^2]: A common misconception is that this makes the gamemode "harder" due to the increased zombie-boosting capability, but that's really only the case with _<mark style="color:red;">**terribly**</mark> coordinated teams that aren't going to win anything to begin with._
-
-
-
-    Even individual _**pellets**_ will slow and push zombies from afar for much longer, granting **solo-stalling capability almost exponentially.**

@@ -27,7 +27,7 @@ Sources of healing are crucial to deal with Mutation spam, so Medics and Enginee
 
 ### Optimal DPS: Easy to Use!
 
-<figure><img src="../../.gitbook/assets/Easy 2 Use DPS.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Easy 2 Use DPS.png" alt=""><figcaption><p>cba to edit the image but note that Flare is pretty interchangeable with Reserve Shooter/Stock for more consistency.</p></figcaption></figure>
 
 Some maps will have bosses scaled to the point where they will kill you _**always**_ before you can kill them. Times like these are for when you go all-in on the damage. The top 4 damaging classes that have the most consistency are **Heavy, Engineer, Spy, and Scout,** though all of the others are brought up here for comparison between one another.
 
@@ -47,9 +47,9 @@ In most cases, these weapons provide the easiest use to squeeze out that higher 
 
 <figure><img src="../../.gitbook/assets/Harder 2 Use DPS.png" alt=""><figcaption></figcaption></figure>
 
-Many of these weapons stray into the territory of having a major negative downside; <mark style="color:red;">**high risk high reward type weapons**</mark> that in the right hands, can really push that extra chunk of DPS needed **before** timing out on a boss or having the team wipe to a specific attack.
+Many of these weapons stray into the territory of having a major negative downside; <mark style="color:red;">**high risk high reward type weapons**</mark> that _in the right hands_, can really push that extra chunk of DPS needed **before** timing out on a boss or having the team wipe to a specific attack.
 
-Attached to most of these suggestions are dumbed down descriptive notes that explain why the weapon might be harder for the average person to pick up on the fly when seeking the most optimal damage-dealing methods.
+Attached to most of these suggestions are dumbed down descriptive notes that explain why the weapon <mark style="color:red;">**might be harder for the average person to pick up on the fly**</mark> when seeking the most optimal damage-dealing methods under their mechanics.
 
 * <mark style="color:yellow;">**Scouts**</mark>** can use the** [**Force-A-Nature**](../meet-the-humans-outdated-+weapons/scout/primaries.md#force-a-nature) **\[200 DPS]**&#x20;
   * _/Immense/ spread, movement debuff and vulnerability on user for holding out._&#x20;
