@@ -30,6 +30,7 @@ Maps that were /once/ within the nomination pool but removed from the server due
 * ze\_neochrome
 * ze\_nomada
 * ze\_onahole
+* ze\_parkour\_paradise
 * ze\_realm
 * ze\_shoplift
 * ze\_skyrim

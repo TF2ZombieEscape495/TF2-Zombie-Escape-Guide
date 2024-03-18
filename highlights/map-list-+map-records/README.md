@@ -8,7 +8,7 @@ coverY: 0
 
 # Map List (+Map Records!)
 
-## Maps available to play: 102 maps [_<mark style="color:blue;">(last updated 2/17/2023)</mark>_](recent-maps-11-13-2023.md)
+## Maps available to play: 101 maps [_<mark style="color:blue;">(last updated 3/17/2023)</mark>_](recent-maps-11-13-2023.md)
 
 {% hint style="success" %}
 #### These are all color coded by all known completions \[at least once] in the community; (In Normal Mode + Full, _non-friendly s_erver)
@@ -89,49 +89,48 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 * [<mark style="color:green;">**ze\_oot\_shadowtemple\_skial\_2**</mark>](#user-content-fn-41)[^41]
 * [<mark style="color:red;">**ze\_outlast\_skial\_**</mark>](#user-content-fn-42)[^42]<mark style="color:red;">**6**</mark>
 * [<mark style="color:green;">**ze\_otakuroom\_skial\_4**</mark> ](#user-content-fn-43)[^43]
-* [<mark style="color:green;">**ze\_parkour\_paradise\_v3d**</mark>](#user-content-fn-44)[^44]
-* [<mark style="color:green;">**ze\_persona\_v2**</mark>](#user-content-fn-45)[^45]
-* [<mark style="color:green;">**ze\_peter\_griffin\_burger\_emporium\_v1**</mark>](#user-content-fn-46)[^46]
-* [<mark style="color:green;">**ze\_pirates\_port\_royal\_skial\_12**</mark>](#user-content-fn-47)[^47]
-* [<mark style="color:green;">**ze\_pokemon\_adventure\_skial\_11**</mark>](#user-content-fn-48)[^48]
-* [<mark style="color:green;">**ze\_portal\_story\_skial\_6**</mark>](#user-content-fn-49)[^49]
-* [<mark style="color:green;">**ze\_predator\_ultimate\_skial\_3**</mark>](#user-content-fn-50)[^50]
+* [<mark style="color:green;">**ze\_persona\_v2**</mark>](#user-content-fn-44)[^44]
+* [<mark style="color:green;">**ze\_peter\_griffin\_burger\_emporium\_v1**</mark>](#user-content-fn-45)[^45]
+* [<mark style="color:green;">**ze\_pirates\_port\_royal\_skial\_12**</mark>](#user-content-fn-46)[^46]
+* [<mark style="color:green;">**ze\_pokemon\_adventure\_skial\_11**</mark>](#user-content-fn-47)[^47]
+* [<mark style="color:green;">**ze\_portal\_story\_skial\_6**</mark>](#user-content-fn-48)[^48]
+* [<mark style="color:green;">**ze\_predator\_ultimate\_skial\_3**</mark>](#user-content-fn-49)[^49]
 * <mark style="color:green;">**ze\_quicksand\_v1e**</mark>&#x20;
 * <mark style="color:green;">**ze\_random\_skial\_7**</mark>&#x20;
-* [<mark style="color:red;">**ze\_randomizer\_p2**</mark>](#user-content-fn-51)[^51]
-* [<mark style="color:green;">**ze\_rizomata\_skial\_8**</mark>](#user-content-fn-52)[^52]
-* [<mark style="color:green;">**ze\_rooftop\_runaway2\_v5\_skial5**</mark> ](#user-content-fn-53)[^53]
-* [<mark style="color:green;">**ze\_rush\_b\_skial\_6**</mark>](#user-content-fn-54)[^54]
-* [<mark style="color:green;">**ze\_ryujin\_v3**</mark>](#user-content-fn-55)[^55]
-* [<mark style="color:green;">**ze\_raiin\_v2b**</mark>](#user-content-fn-56)[^56]
-* [<mark style="color:green;">**ze\_S\_A\_M\_skial\_9**</mark>](#user-content-fn-57)[^57]
-* [<mark style="color:green;">**ze\_sandstone\_v2**</mark>](#user-content-fn-58)[^58]
-* [<mark style="color:red;">**ze\_santassination\_s4**</mark>](#user-content-fn-59)[^59]
+* [<mark style="color:red;">**ze\_randomizer\_p2**</mark>](#user-content-fn-50)[^50]
+* [<mark style="color:green;">**ze\_rizomata\_skial\_8**</mark>](#user-content-fn-51)[^51]
+* [<mark style="color:green;">**ze\_rooftop\_runaway2\_v5\_skial5**</mark> ](#user-content-fn-52)[^52]
+* [<mark style="color:green;">**ze\_rush\_b\_skial\_6**</mark>](#user-content-fn-53)[^53]
+* [<mark style="color:green;">**ze\_ryujin\_v3**</mark>](#user-content-fn-54)[^54]
+* [<mark style="color:green;">**ze\_raiin\_v2b**</mark>](#user-content-fn-55)[^55]
+* [<mark style="color:green;">**ze\_S\_A\_M\_skial\_9**</mark>](#user-content-fn-56)[^56]
+* [<mark style="color:green;">**ze\_sandstone\_v2**</mark>](#user-content-fn-57)[^57]
+* [<mark style="color:red;">**ze\_santassination\_s4**</mark>](#user-content-fn-58)[^58]
 * <mark style="color:green;">**ze\_saw\_final\_skial\_8**</mark>
-* [<mark style="color:green;">**ze\_scp\_skial\_4**</mark>](#user-content-fn-60)[^60]
-* [<mark style="color:green;">**ze\_serpentis\_temple\_skial\_4**</mark>](#user-content-fn-61)[^61]
-* [<mark style="color:green;">**ze\_shroomforest\_skial\_7**</mark> ](#user-content-fn-62)[^62]
-* [<mark style="color:green;">**ze\_shroomforest2\_skial\_1**</mark> ](#user-content-fn-63)[^63]
-* [<mark style="color:green;">**ze\_shroomforest3\_skial\_1**</mark> ](#user-content-fn-64)[^64]
-* [<mark style="color:green;">**ze\_sonic\_3\_skial\_3**</mark>](#user-content-fn-65)[^65]
+* [<mark style="color:green;">**ze\_scp\_skial\_4**</mark>](#user-content-fn-59)[^59]
+* [<mark style="color:green;">**ze\_serpentis\_temple\_skial\_4**</mark>](#user-content-fn-60)[^60]
+* [<mark style="color:green;">**ze\_shroomforest\_skial\_7**</mark> ](#user-content-fn-61)[^61]
+* [<mark style="color:green;">**ze\_shroomforest2\_skial\_1**</mark> ](#user-content-fn-62)[^62]
+* [<mark style="color:green;">**ze\_shroomforest3\_skial\_1**</mark> ](#user-content-fn-63)[^63]
+* [<mark style="color:green;">**ze\_sonic\_3\_skial\_3**</mark>](#user-content-fn-64)[^64]
 * <mark style="color:green;">**ze\_sorrento\_escape\_skial\_2**</mark>
 * <mark style="color:green;">**ze\_space\_station\_skial\_2**</mark>
 * <mark style="color:green;">**ze\_squid\_game\_skial\_6**</mark>
-* [<mark style="color:green;">**ze\_star\_wars\_prequel\_skial\_10**</mark>](#user-content-fn-66)[^66]
+* [<mark style="color:green;">**ze\_star\_wars\_prequel\_skial\_10**</mark>](#user-content-fn-65)[^65]
 * <mark style="color:green;">**ze\_subway\_escape\_skial\_9**</mark>
 * <mark style="color:green;">**ze\_sunlight\_skial\_1**</mark>
 * <mark style="color:green;">**ze\_surf\_facility\_skial\_b1**</mark>
-* [<mark style="color:green;">**ze\_surf\_froyo\_b**</mark>](#user-content-fn-67)[^67]<mark style="color:green;">**3**</mark>
+* [<mark style="color:green;">**ze\_surf\_froyo\_b**</mark>](#user-content-fn-66)[^66]<mark style="color:green;">**3**</mark>
 * <mark style="color:green;">**ze\_surf\_sahok\_skial\_4**</mark>
 * <mark style="color:green;">**ze\_surf\_vortex\_skial\_6**</mark>
 * <mark style="color:green;">**ze\_swamp\_facility\_b2d**</mark>&#x20;
 * <mark style="color:green;">**ze\_timesplitters\_skial\_2**</mark>&#x20;
-* [<mark style="color:green;">**ze\_tesv\_skyrim\_skial\_3**</mark>](#user-content-fn-68)[^68]
-* [<mark style="color:green;">**ze\_uchiha\_legacy\_skial\_8**</mark>](#user-content-fn-69)[^69]
-* [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-70)[^70]
-* [<mark style="color:green;">**ze\_visualizer\_skial\_2**</mark> ](#user-content-fn-71)[^71]
+* [<mark style="color:green;">**ze\_tesv\_skyrim\_skial\_3**</mark>](#user-content-fn-67)[^67]
+* [<mark style="color:green;">**ze\_uchiha\_legacy\_skial\_8**</mark>](#user-content-fn-68)[^68]
+* [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-69)[^69]
+* [<mark style="color:green;">**ze\_visualizer\_skial\_2**</mark> ](#user-content-fn-70)[^70]
 * <mark style="color:green;">**ze\_voodoo\_islands\_skial\_5**</mark>&#x20;
-* [<mark style="color:red;">**ze\_warlab\_v**</mark>](#user-content-fn-72)[^72]<mark style="color:red;">**5**</mark>
+* [<mark style="color:red;">**ze\_warlab\_v**</mark>](#user-content-fn-71)[^71]<mark style="color:red;">**5**</mark>
 
 [^1]: ![](<../../.gitbook/assets/666 Crazy Escape Win (1).jpg>)
 
@@ -253,40 +252,38 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 
 [^43]: ![](<../../.gitbook/assets/Otakuroom Win.jpg>)
 
-[^44]: ![](<../../.gitbook/assets/Parkour Paradise Win.jpg>)
+[^44]: ![](<../../.gitbook/assets/Persona Win.png>)
 
-[^45]: ![](<../../.gitbook/assets/Persona Win.png>)
+[^45]: ![](<../../.gitbook/assets/Capture (1) (1).PNG>)
 
-[^46]: ![](<../../.gitbook/assets/Capture (1) (1).PNG>)
+[^46]: ![](<../../.gitbook/assets/Pirates Win.jpg>)
 
-[^47]: ![](<../../.gitbook/assets/Pirates Win.jpg>)
+[^47]: ![](<../../.gitbook/assets/Pokemon Win.jpg>)
 
-[^48]: ![](<../../.gitbook/assets/Pokemon Win.jpg>)
+[^48]: ![](<../../.gitbook/assets/Portal Win.jpg>)
 
-[^49]: ![](<../../.gitbook/assets/Portal Win.jpg>)
+[^49]: ![](<../../.gitbook/assets/Predator Win.jpg>)
 
-[^50]: ![](<../../.gitbook/assets/Predator Win.jpg>)
-
-[^51]: <mark style="color:yellow;">**Run Record:**</mark>\
+[^50]: <mark style="color:yellow;">**Run Record:**</mark>\
     <mark style="color:orange;">\~</mark><mark style="color:orange;">**Endings 1 & 2 Done**</mark>
 
     **\~70% Complete (100% needed for End 3)**
 
-[^52]: ![](<../../.gitbook/assets/Rizomata Win.jpg>)
+[^51]: ![](<../../.gitbook/assets/Rizomata Win.jpg>)
 
-[^53]: ![](<../../.gitbook/assets/Rooftop Win.jpg>)
+[^52]: ![](<../../.gitbook/assets/Rooftop Win.jpg>)
 
-[^54]: ![](<../../.gitbook/assets/Rush B Win.png>)
+[^53]: ![](<../../.gitbook/assets/Rush B Win.png>)
 
-[^55]: ![](<../../.gitbook/assets/Ryujin Win.jpg>)
+[^54]: ![](<../../.gitbook/assets/Ryujin Win.jpg>)
 
-[^56]: ![](<../../.gitbook/assets/Raiin Win.jpg>)
+[^55]: ![](<../../.gitbook/assets/Raiin Win.jpg>)
 
-[^57]: ![](<../../.gitbook/assets/SAM Win.jpg>)
+[^56]: ![](<../../.gitbook/assets/SAM Win.jpg>)
 
-[^58]: ![](<../../.gitbook/assets/sandstone win.jpg>)
+[^57]: ![](<../../.gitbook/assets/sandstone win.jpg>)
 
-[^59]: <mark style="color:yellow;">**Run Record:**</mark>&#x20;
+[^58]: <mark style="color:yellow;">**Run Record:**</mark>&#x20;
 
     _(Entirely re-ported version with differing mechanics; so past records aren't into account anymore!)_&#x20;
 
@@ -298,31 +295,31 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 
     **-Socrates Finale!**
 
-[^60]: ![](<../../.gitbook/assets/SCP Win.png>)
+[^59]: ![](<../../.gitbook/assets/SCP Win.png>)
 
-[^61]: ![](<../../.gitbook/assets/Serpentis Win.PNG>)
+[^60]: ![](<../../.gitbook/assets/Serpentis Win.PNG>)
 
-[^62]: ![](<../../.gitbook/assets/Shroom1 Win.jpg>)
+[^61]: ![](<../../.gitbook/assets/Shroom1 Win.jpg>)
 
-[^63]: ![](<../../.gitbook/assets/Shroom2 Win.jpg>)
+[^62]: ![](<../../.gitbook/assets/Shroom2 Win.jpg>)
 
-[^64]: ![](<../../.gitbook/assets/Shroom 3 Win.jpeg>)
+[^63]: ![](<../../.gitbook/assets/Shroom 3 Win.jpeg>)
 
-[^65]: ![](<../../.gitbook/assets/Sonic3 Win.jpg>)
+[^64]: ![](<../../.gitbook/assets/Sonic3 Win.jpg>)
 
-[^66]: ![](<../../.gitbook/assets/Star Wars Win.jpg>)
+[^65]: ![](<../../.gitbook/assets/Star Wars Win.jpg>)
 
-[^67]: ![](<../../.gitbook/assets/Surf Froyo Win.png>)
+[^66]: ![](<../../.gitbook/assets/Surf Froyo Win.png>)
 
-[^68]: ![](<../../.gitbook/assets/TESV Skyrim Win (2).jpg>)
+[^67]: ![](<../../.gitbook/assets/TESV Skyrim Win (2).jpg>)
 
-[^69]: ![](<../../.gitbook/assets/Uchiha Win.jpeg>)
+[^68]: ![](<../../.gitbook/assets/Uchiha Win.jpeg>)
 
-[^70]: &#x20;![](<../../.gitbook/assets/v0u0v Win.jpg>)
+[^69]: &#x20;![](<../../.gitbook/assets/v0u0v Win.jpg>)
 
-[^71]: ![](<../../.gitbook/assets/Visualizer Win.jpg>)
+[^70]: ![](<../../.gitbook/assets/Visualizer Win.jpg>)
 
-[^72]: <mark style="color:yellow;">**Run Record:**</mark>
+[^71]: <mark style="color:yellow;">**Run Record:**</mark>
 
     <mark style="color:orange;">**\[Stage 1/1]**</mark>
 
