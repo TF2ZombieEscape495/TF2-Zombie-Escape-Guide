@@ -25,7 +25,7 @@ layout:
 * Have access to weapons modified from base-game TF2
 * Different classes with unique playstyles, strengths, and weaknesses
   * HP and Speed are modified from base-game TF2
-  * Some mechanics have been modified (e.g. ÜberCharge and explosive-jumping)
+  * Many mechanics have been modified or disabled (e.g. ÜberCharge and explosive-jumping)
 
 Round is won when the Human team has "escaped" the map, survived long enough, or completed all objectives. Round is lost when all humans become infected, die or they fail one of the map's conditions.
 
@@ -45,7 +45,7 @@ Round is won when all the humans have died. Round is _not_ lost when all zombies
 
 ### Class Change
 
-As a human, you can only change classes for a few seconds **before** the round starts. If the duration is too short or non-existent, **you may need to preemptively change classes before the end of the current round.** As a <mark style="color:red;">**zombie**</mark>, you will have to have either just joined, left **`Spectator`**, or died. To maneuver around this, you can set an [<mark style="color:purple;">**Advanced Setting**</mark>](#user-content-fn-1)[^1] in TF2 to force death on class change, allowing you to swap classes throughout the round. This won't affect you as a <mark style="color:blue;">**human**</mark> thus preventing you from changing classes during the round.
+As a human, you can only change classes for a few seconds **before** the round starts. If the duration is too short or non-existent, **you may need to preemptively change classes before the end of the current round.** As a <mark style="color:red;">**zombie**</mark>, you will have to have either just joined, left **`Spectator`**, or died. To maneuver around this, you can set an [<mark style="color:purple;">**Advanced Setting**</mark>](#user-content-fn-1)[^1] in TF2 to force death on class change, allowing you to swap classes throughout the round. _This won't affect you as a <mark style="color:blue;">**human**</mark> thus preventing you from changing classes during the round._
 
 ### Round Start
 
@@ -56,7 +56,7 @@ As a human, you can only change classes for a few seconds **before** the round s
 * **`Spectators`** will be placed at the front of the queue, meaning that the more recently you joined as <mark style="color:blue;">**BLU;**</mark> _or if you AFKed too long enough to be moved into spectator_; the more probability there is in being autobalanced.
 
 {% hint style="info" %}
-<mark style="color:yellow;">**Why am I Zombie Twice sometimes?**</mark> After being picked as a _**starting zombie**_**,** you will be placed at the back of the queue and will not have to worry about auto-infection for some time. <mark style="color:red;">**If**</mark> <mark style="color:red;">**you've late-joined into an ongoing round; you are very likely to be selected as starting zombie a**</mark>** **_**second **<mark style="color:red;">**time**</mark>_<mark style="color:red;">** **</mark><mark style="color:red;">**for the following round.**</mark>
+<mark style="color:yellow;">**Why am I Zombie Twice sometimes?**</mark> After being picked as a _**starting zombie**_**,** you will be placed at the back of the queue and will not have to worry about auto-infection for some time. <mark style="color:red;">**If**</mark> <mark style="color:red;">**you've late-joined into an ongoing round; you are very likely to be selected as starting zombie a**</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**second**</mark>_ _<mark style="color:red;">**time**</mark>_<mark style="color:red;">** **</mark><mark style="color:red;">**for the following round.**</mark>
 
 _Check or bind the_ [_**ze\_queue**_](useful-commands.md) _command to know whether or not you'll be zombie next round._
 {% endhint %}
@@ -71,12 +71,14 @@ At the top of the screen during rounds, you'll notice a timer. When it reaches <
 * Players will be able to either extend the current map or vote for the next map among a selection that has been randomly selected or player-nominated.
 * Humans losing <mark style="color:yellow;">**3**</mark> times in a row disables the map extension. It can be regained by Humans winning the round _after_ the 3rd loss in a row before the automatic vote has been triggered. Each map is typically limited to <mark style="color:yellow;">**2**</mark> extensions.
 * If the team restarts a round before reaching <mark style="color:yellow;">**5:00**</mark> on the Map Timer, they will be able to play a round of the map before leaving.
-* After a map has been played, it will be on cooldown. Players will not be able to nominate and play that map until enough other maps have been cycled through. _(Currently 9 Map CD)_
+* After a map has been played, it will be on cooldown. Players will not be able to nominate and play that map until enough other maps have been cycled through. _<mark style="color:yellow;">**(Currently 3 Map CD)**</mark>_
 * Players may also force a map vote if enough people use the **RTV** command after <mark style="color:yellow;">**600 seconds (10 minutes)**</mark> of a map have passed; or through the usage of Skial Credits _(That method will always show a 'Don't Change' option to extend.)_
 
 ### Modes
 
-<mark style="color:orange;">**Normal Difficulty**</mark> - _The standard way to play._\
+<mark style="color:orange;">**Normal Difficulty**</mark> - _The standard way to play._
+
+\
 <mark style="color:green;">**Casual Difficulty**</mark> - _A more relaxed take on the game mode, useful for learning or practicing a map:_
 
 * Humans take less damage, _(30% Less Damage, ergo infinite battalions backup effect. Sets you in **two shot** range of most standard ZM melees, less boss damage, etc...)_
@@ -85,7 +87,7 @@ At the top of the screen during rounds, you'll notice a timer. When it reaches <
 * **Zombies take even more knockback.** _(A common misconception is that this either "does nothing" or makes the gamemode "harder" due to the increased zombie-boosting potential; but that's really only the case with <mark style="color:red;">**terribly**</mark> coordinated teams that are consistently getting caught on fallback teleports or getting double/triple meleed etc.)_
 * Even individual _**pellets**_ will slow and push zombies from afar, granting **solo-stalling capability almost exponentially.**
 
-The server will automatically engage a vote for <mark style="color:green;">**Casual Difficulty**</mark> after <mark style="color:yellow;">**(3)**</mark> consecutive losses at the start of the following round; until a win is achieved.
+_The server will automatically engage a vote for <mark style="color:green;">**Casual Difficulty**</mark> after <mark style="color:yellow;">**(3)**</mark> consecutive losses at the start of the following round; until a win is achieved._
 
 ## Sidenote
 
