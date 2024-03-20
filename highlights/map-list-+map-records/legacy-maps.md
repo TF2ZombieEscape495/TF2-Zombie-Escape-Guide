@@ -1,7 +1,7 @@
-# Legacy Maps
+# Legacy Maps 3/17/2024
 
 {% hint style="info" %}
-Maps that were /once/ within the nomination pool but removed from the server due to any number of reasons. (A-Z)
+**Maps that were /once/ within the nomination pool but **<mark style="color:red;">**removed from the server**</mark>** due to any number of reasons. (A-Z)**
 {% endhint %}
 
 * ze\_aperturescience
@@ -30,7 +30,7 @@ Maps that were /once/ within the nomination pool but removed from the server due
 * ze\_neochrome
 * ze\_nomada
 * ze\_onahole
-* ze\_parkour\_paradise
+* ze\_parkour\_paradise (removed 3/17/2024)
 * ze\_realm
 * ze\_shoplift
 * ze\_skyrim

@@ -1,4 +1,4 @@
-# Recent Maps 2/17/2024
+# Recent Maps 3/20/2024
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -7,6 +7,11 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 {% endhint %}
 
 ## 2024:
+
+### 3/20/2024 - Frozen Abyss
+
+* **`ze_frozen_abyss`** <mark style="color:yellow;">**added (CS Port)**</mark>
+* **\[2 Stages | 3 Zombie Items | 5 Human Items | NPCs | Bosses | Admin-only Marathon Mode]**
 
 ### 2/17/2024 - Atix Apocalypse
 

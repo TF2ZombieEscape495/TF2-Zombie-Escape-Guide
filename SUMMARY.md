@@ -7,8 +7,8 @@
 * [Weapon DPS Overhaul 11/18/2023](highlights/weapon-dps-overhaul-11-18-2023.md)
 * [Balance Changes 2/17/2024](highlights/balance-changes-11-18-2023.md)
 * [Map List (+Map Records!)](highlights/map-list-+map-records/README.md)
-  * [Recent Maps 2/17/2024](highlights/map-list-+map-records/recent-maps-11-13-2023.md)
-  * [Legacy Maps](highlights/map-list-+map-records/legacy-maps.md)
+  * [Recent Maps 3/20/2024](highlights/map-list-+map-records/recent-maps-11-13-2023.md)
+  * [Legacy Maps 3/17/2024](highlights/map-list-+map-records/legacy-maps.md)
 
 ## 📖 General Overview
 
