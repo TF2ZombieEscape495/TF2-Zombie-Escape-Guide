@@ -1,4 +1,4 @@
-# Recent Maps 3/20/2024
+# Recent Maps 3/31/2024
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -7,6 +7,10 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 {% endhint %}
 
 ## 2024:
+
+### 3/31/2024 - Among Us Green Screen Car Crash
+
+* **`ze_among_us_green_screen_car_crash`** <mark style="color:yellow;">**added (TF2 original Map, April Fools)**</mark>
 
 ### 3/20/2024 - Frozen Abyss
 

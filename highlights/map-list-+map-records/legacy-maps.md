@@ -1,4 +1,4 @@
-# Legacy Maps 3/17/2024
+# Legacy Maps 3/31/2024
 
 {% hint style="info" %}
 **Maps that were /once/ within the nomination pool but **<mark style="color:red;">**removed from the server**</mark>** due to any number of reasons. (A-Z)**
@@ -31,6 +31,7 @@
 * ze\_nomada
 * ze\_onahole
 * ze\_parkour\_paradise (removed 3/17/2024)
+* ze\_peter\_griffin\_burger\_emporium\_v1 (removed 3/31/2024)
 * ze\_realm
 * ze\_shoplift
 * ze\_skyrim
