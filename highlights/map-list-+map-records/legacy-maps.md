@@ -1,16 +1,17 @@
-# Legacy Maps 3/31/2024
+# Legacy Maps 4/2/2024
 
 {% hint style="info" %}
 **Maps that were /once/ within the nomination pool but **<mark style="color:red;">**removed from the server**</mark>** due to any number of reasons. (A-Z)**
 {% endhint %}
 
 * ze\_aperturescience
+* ze\_among\_us\_green\_screen\_car\_crash \[April Fools] (removed 4/2/2024)
 * ze\_attackontitan\_troster
 * ze\_biohazard2\_rpd
 * ze\_black\_lagoon
 * ze\_blindingforest
 * ze\_challenger
-* ze\_christ\_is\_coming (april fools map)
+* ze\_christ\_is\_coming \[April Fools] (removed 4/2/2023)
 * ze\_cruise
 * ze\_death\_star\_escape
 * ze\_expedition
