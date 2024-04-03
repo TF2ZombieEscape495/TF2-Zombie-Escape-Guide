@@ -27,7 +27,7 @@ Sources of healing are crucial to deal with Mutation spam, so Medics and Enginee
 
 ### Optimal DPS: Easy to Use!
 
-<figure><img src="../../.gitbook/assets/Easy 2 Use DPS.png" alt=""><figcaption><p>cba to edit the image but note that Flare is pretty interchangeable with Reserve Shooter/Stock for more consistency.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Easy 2 Use DPS.png" alt=""><figcaption><p>cba to edit the image but note that Flare + Direct Hit can be pretty interchangeable with Reserve Shooter (or) Stock Shotgun for more consistency on bosses that Flares/Rockets won't hit, bullet counters, etc</p></figcaption></figure>
 
 Some maps will have bosses scaled to the point where they will kill you _**always**_ before you can kill them. Times like these are for when you go all-in on the damage. The top 4 damaging classes that have the most consistency are **Heavy, Engineer, Spy, and Scout,** though all of the others are brought up here for comparison between one another.
 
@@ -45,7 +45,7 @@ In most cases, these weapons provide the easiest use to squeeze out that higher 
 
 ### **Max DPS: Harder to Use**
 
-<figure><img src="../../.gitbook/assets/Harder 2 Use DPS.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Harder 2 Use DPS.png" alt=""><figcaption><p>Note that [Pyro/Engineer/Medic] already have their -best- weapon DPS go-to's listed in the previous optimal list.</p></figcaption></figure>
 
 Many of these weapons stray into the territory of having a major negative downside; <mark style="color:red;">**high risk high reward type weapons**</mark> that _in the right hands_, can really push that extra chunk of DPS needed **before** timing out on a boss or having the team wipe to a specific attack.
 
