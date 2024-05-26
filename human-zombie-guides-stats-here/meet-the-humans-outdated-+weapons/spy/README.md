@@ -6,6 +6,8 @@ description: Brief overview of the Human Spy
 
 ![](../../../.gitbook/assets/Icon\_spy\_blue.jpg)
 
+**`Class Cap: N/A`**
+
 <mark style="color:green;">**Health:**</mark> _**200**_\
 <mark style="color:yellow;">**Speed:**</mark> _**288.00 HU/s (96.0% base TF2 speed)**_\
 \

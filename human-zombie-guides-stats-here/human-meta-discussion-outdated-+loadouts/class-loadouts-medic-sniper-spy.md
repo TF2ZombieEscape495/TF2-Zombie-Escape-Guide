@@ -4,10 +4,6 @@ description: Medic, Sniper & Spy loadouts!
 
 # Class Loadouts (Medic/Sniper/Spy)
 
-{% hint style="danger" %}
-<mark style="color:yellow;">**Note**</mark> **that some of these medic & sniper loadout suggestions are now dated and might need another touch-up later! (**_**Stuff like amputator being weaker due to 64 players changes...)**_
-{% endhint %}
-
 ## Medic
 
 Most of Medic's gameplay will revolve around constantly healing his teammates. Certain map situations will make it such that it may be better to change your primary for more effective healing.

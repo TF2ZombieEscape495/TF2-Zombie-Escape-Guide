@@ -6,6 +6,8 @@ description: Brief overview of the Human Sniper
 
 ![](../../../.gitbook/assets/Icon\_sniper\_blue.jpg)
 
+**`Class Cap: N/A`**
+
 <mark style="color:green;">**Health:**</mark> _**200**_\
 <mark style="color:yellow;">**Speed:**</mark> _**270.00v HU/s (90.0% base TF2 speed)**_\
 \

@@ -6,6 +6,8 @@ description: Brief overview of the Human Scout
 
 <img src="../../../.gitbook/assets/Icon_scout_blue.jpg" alt="" data-size="original">
 
+**`Class Cap: N/A`**
+
 <mark style="color:green;">**Health:**</mark> _**200**_\
 <mark style="color:yellow;">**Speed:**</mark> _**292.50 HU/s (97.5% base TF2 speed)**_\
 \

@@ -6,6 +6,8 @@ description: Brief overview of the Human Engineer
 
 ![](../../../.gitbook/assets/Icon\_engineer\_blue.jpg)
 
+**`Class Cap: 8 Slots`**
+
 <mark style="color:green;">**Health:**</mark> _**200**_\
 <mark style="color:yellow;">**Speed:**</mark> _**270.00 HU/s (90.0% base TF2 speed)**_\
 \

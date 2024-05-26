@@ -6,6 +6,8 @@ description: Brief overview of the Human Demoman
 
 ![](../../../.gitbook/assets/Icon\_demoman\_blue.jpg)
 
+**`Class Cap: N/A`**
+
 <mark style="color:green;">**Health: 200 (Stickies); 175 (Shields)**</mark>\
 <mark style="color:yellow;">**Speed:**</mark> _**252.00 HU/s (84.0% base TF2 speed)**_\
 \

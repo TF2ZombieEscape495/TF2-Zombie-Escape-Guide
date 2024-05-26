@@ -6,6 +6,8 @@ description: Brief overview of the Human Heavy
 
 ![](../../../.gitbook/assets/Icon\_heavy\_blue.jpg)
 
+**`Class Cap: 8 Slots`**
+
 <mark style="color:green;">**Health:**</mark> _**300**_\
 <mark style="color:yellow;">**Speed:**</mark> _**256.50v HU/s (85.5% base TF2 speed)**_\
 \

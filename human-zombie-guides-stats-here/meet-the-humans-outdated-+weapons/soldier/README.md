@@ -6,6 +6,8 @@ description: Brief overview of the Human Soldier
 
 ![](../../../.gitbook/assets/Icon\_soldier\_blue.jpg)
 
+**`Class Cap: N/A`**
+
 <mark style="color:green;">**Health:**</mark> **200**\
 <mark style="color:yellow;">**Speed:**</mark> _**256.50 HU/s (85.5% base TF2 speed)**_\
 \
