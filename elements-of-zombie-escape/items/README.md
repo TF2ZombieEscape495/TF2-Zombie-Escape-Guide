@@ -42,7 +42,9 @@ Push items grant the team spacing from the zombies by some force. They can also 
 
 ### Pulls
 
-Pull items will pull zombies into specific areas or allow zombies to pull humans towards them. For humans, they may seem counterintuitive given that you are effectively closing the distance between yourselves and zombies near instantaneously. However, if used right, they can act similar to wind by pulling zombies into kill or teleport triggers to help defenses or stall out for retreats. For zombies, it's helpful for killing humans due to this "close-the-distance" aspect. Any stray humans you find overdefending can be quickly pulled in and killed. Most commonly, since these items usually pull players into themselves within a radius, they are called **Gravity**.
+Pull items will pull zombies into specific areas or allow zombies to pull humans towards them. For humans, they may seem counterintuitive given that you are effectively closing the distance between yourselves and zombies near instantaneously. However, if used right, they can act similar to wind by pulling zombies into kill or teleport triggers to help defenses or stall out for retreats.&#x20;
+
+For zombies, it's helpful for killing humans due to this "close-the-distance" aspect. Any stray humans you find overdefending can be quickly pulled in and killed. Most commonly, since these items usually pull players into themselves within a radius, they are called **Gravity**.
 
 ### Slows
 

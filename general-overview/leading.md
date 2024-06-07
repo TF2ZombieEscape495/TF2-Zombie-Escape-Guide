@@ -52,7 +52,7 @@ If you want to lead a map but are not sure how to lead, see ﻿how others do it!
 
 ### **This includes:**
 
-* <mark style="color:yellow;">**When and where zombies teleport;**</mark> _"Zombie Tele on the danger marker when second door is triggered" etc,_
+* <mark style="color:yellow;">**When and where zombies teleport;**</mark> _"Zombie Tele on the danger marker when second door is triggered, at 10 seconds on next timer" etc,_
 * <mark style="color:yellow;">**When and where to fall back;**</mark> _"Go middle gate after timer ends" etc,_
 * <mark style="color:yellow;">**Any traps to avoid;**</mark> "_C4 bomb at door, pizza, holes in the floor" etc,_
 * <mark style="color:yellow;">**Boss Fight Callouts;**</mark> _"Hug the walls or you'll die, stay in the middle, go backwards" etc._
@@ -78,7 +78,7 @@ It won't adjust _their_ audio levels however - so a quiet mic will still be very
 ~~Again though, this isn't like _**"always be silent during leading hours forever"**_ - but is just more another pointer to read the room.~~
 
 {% hint style="info" %}
-### _<mark style="color:yellow;">Note:</mark>_ With a change to VC functions, overtalking is no longer problematic  - any voice chatters that _aren't_ the leader are <mark style="color:red;">automatically muted</mark> when the leader is speaking on voice-comms _(if the leader opts to enable it.)_
+### _<mark style="color:yellow;">Note:</mark>_ Overtalking should no longer be problematic  - any voice chatters that _aren't_ the leader are <mark style="color:red;">automatically muted</mark> when the leader is speaking on voice-comms _(if the leader opts to enable it.)_
 
 
 

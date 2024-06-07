@@ -14,7 +14,9 @@ _"I thought this was a Zombie Escape guide, why are you talking about surf?"_ Th
 
 Alright, assuming the typical **`W,A,S,D format`** (you can translate it to your respective keybinds):
 
-If going down a slope, hold the key that would push you onto the side of the slope you're on (e.g. for a slope on your left, hold **A**). For the most part, **do not hit W or S as they will more than likely negatively affect your momentum** unless you know what to do. Move your mouse in the direction of curves in smooth motions. Unplanned erratic movements will lead to you losing all momentum. Sliding down slopes will help you gain momentum and flicking up at the end of ramps will give you more height. This will all take some practice if you're completely new, so feel free to refer to the video above and practice where you can.
+If going down a slope, hold the key that would push you onto the side of the slope you're on (e.g. for a slope on your left, hold **A**). For the most part, **do not hit W or S as they will more than likely negatively affect your momentum** unless you know what to do.&#x20;
+
+Move your mouse in the direction of curves in smooth motions. Unplanned erratic movements will lead to you losing all momentum. Sliding down slopes will help you gain momentum and flicking up at the end of ramps will give you more height. This will all take some practice if you're completely new, so feel free to refer to the video above and practice where you can.
 
 ## I don't want to surf. :( Why is it in Zombie Escape?
 
