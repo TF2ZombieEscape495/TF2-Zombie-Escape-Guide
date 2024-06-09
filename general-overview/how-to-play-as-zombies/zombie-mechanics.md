@@ -56,12 +56,12 @@ description: These are some special features provided to the Zombie team.
 
 ## Additional Win Conditions
 
+_<mark style="color:yellow;">**Also commonly more referred to as Zombie Detection.**</mark>_
+
 ![](../../.gitbook/assets/AlternativeWinConditionsIcon.png)
 
-* Sometimes maps will have areas the Human team will have to prevent the zombies from entering or objects they must defend.
-* Zombies can use this as an alternative way to beat the humans. You can breach with brute force, play things stealthily, or coordinate your Mutations and put the humans to ruin.
-
-
+* Sometimes maps will have areas the Human team will have to **prevent** the Zombies from entering or objects they must defend.
+* Zombies can use this as an alternative way to beat the humans. You can breach with brute force, play things stealthily, or coordinate your Mutations and put the humans to ruin by being within the area.
 
 
 
