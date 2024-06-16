@@ -10,20 +10,20 @@ description: Scout, Soldier, & Pyro loadouts!
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/Trigger Scout Loadout.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Trigger Scout Loadout (2).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 _**Loadout:**_
 
-* Scattergun/Baby Face's Blaster (BFB)
-* Winger/Bonk! Atomic Punch
-* Stock/Sun-on-a-Stick
+* <mark style="color:yellow;">**Baby Face's Blaster (BFB)**</mark>
+* <mark style="color:yellow;">**Winger/Bonk! Atomic Punch**</mark>
+* <mark style="color:yellow;">**Stock**</mark>
 
 \
 This sort of playstyle revolves around doorhugging and getting triggers _as fast as possible._ With the BFB, you can shoot the zombies at the start of the round to obtain maximum boost. Since the BFB lacks DPS, you can use pistols if you're forced to shoot NPCs or if you need to help stall the zombies. The Winger packs some of the best pistol DPS to make up for the BFB's lower output and defensive capabilities.&#x20;
 
-Bonk! Atomic Punch can also achieve the effect of quickly getting to the objectives while sacrificing all defense. It can also help your teammates fall back after triggering. Since you'll primarily be doorhugging, any scout melee is fine, _aside from the Sandman, which has an HP penalty; and the Atomizer will actively sabotage your BFB boost._
+<mark style="color:yellow;">**Bonk! Atomic Punch**</mark> can also achieve the effect of quickly getting to the objectives while sacrificing all defense. It can also help your teammates fall back after triggering. Since you'll primarily be doorhugging, any scout melee is fine, _aside from the <mark style="color:red;">**Sandman and Atomizer**</mark> actively counteracting this loadout._
 
 ### Boss Assist Scout
 
