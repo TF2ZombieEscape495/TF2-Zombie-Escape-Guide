@@ -46,7 +46,13 @@ Okay but really, the general niche of this build is that it heavily excels in de
 * <mark style="color:yellow;">**Pain Train/Claidheamh Mòr**</mark>
 
 \
-Now why would you ever consider this playstyle? You're sentencing yourself to death at every moment you try to play to its niche. Sure, you can use the launchers to slow a bit, but the ièce de résistance for this job ain't there. As such, this style takes up a very unique niche of handling Heavy Mutations and bodyblocking, particularly in closed quarters or doorways. With a shield and a full charge, you will be Übered on hit from zombies. The Pain Train will help with speed overall but the Claidheamh Mòr will give you that boost in range to take out zombies at a safer distance. In almost all cases, this playstyle is of very little use and can only be worth consideration on rare occasions per map layout.
+Now why would you ever consider this playstyle? You're sentencing yourself to death at every moment you try to play to its niche. Sure, you can use the launchers to slow a bit, but the ièce de résistance for this job ain't there.&#x20;
+
+As such, this style takes up a very unique niche of **handling Heavy Mutations** and **bodyblocking**, particularly in closed quarters or doorways. With a shield and a full charge, you will be Übered on hit from zombies.&#x20;
+
+<mark style="color:yellow;">**The Pain Train**</mark> will help with speed overall to make your fallbacks safer, as well as _beating even faster classes like Scouts_ to map items in the right conditions **via charging.**
+
+<mark style="color:yellow;">**Claidheamh Mòr**</mark> will give you that boost in range to take out zombies at a safer distance. In almost all cases, this playstyle is of small use and can only be worth consideration on rare occasions per map layout.
 
 ## Heavy
 
