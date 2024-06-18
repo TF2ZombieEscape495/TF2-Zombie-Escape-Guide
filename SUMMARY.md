@@ -58,7 +58,7 @@
     * [Medic Primaries](human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/medic/primaries.md)
     * [Medic Secondaries](human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/medic/secondaries.md)
     * [Medic Melees](human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/medic/melees.md)
-  * [🫙 Sniper](human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/sniper/README.md)
+  * [🇳🇿 Sniper](human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/sniper/README.md)
     * [Sniper Primaries](human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/sniper/primaries.md)
     * [Sniper Secondaries](human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/sniper/secondaries.md)
     * [Sniper Melees](human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/sniper/melees.md)
