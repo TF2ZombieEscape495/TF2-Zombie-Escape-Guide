@@ -8,7 +8,7 @@ coverY: 0
 
 # Map List (+Map Records!)
 
-## Maps available to play: 101 maps [_<mark style="color:blue;">(last updated 3/31/2024)</mark>_](recent-maps-11-13-2023.md)
+## Maps available to play: 100 maps [_<mark style="color:blue;">(last updated 3/31/2024)</mark>_](recent-maps-11-13-2023.md)
 
 {% hint style="success" %}
 #### These are all color coded by all known completions \[at least once] in the community; (In Normal Mode + Full, _non-friendly s_erver)
@@ -128,9 +128,8 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 * [<mark style="color:green;">**ze\_tesv\_skyrim\_skial\_3**</mark>](#user-content-fn-67)[^67]
 * [<mark style="color:green;">**ze\_uchiha\_legacy\_skial\_8**</mark>](#user-content-fn-68)[^68]
 * [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-69)[^69]
-* [<mark style="color:green;">**ze\_visualizer\_skial\_2**</mark> ](#user-content-fn-70)[^70]
 * <mark style="color:green;">**ze\_voodoo\_islands\_skial\_5**</mark>&#x20;
-* [<mark style="color:red;">**ze\_warlab\_v**</mark>](#user-content-fn-71)[^71]<mark style="color:red;">**5**</mark>
+* [<mark style="color:red;">**ze\_warlab\_v**</mark>](#user-content-fn-70)[^70]<mark style="color:red;">**5**</mark>
 
 [^1]: ![](<../../.gitbook/assets/666 Crazy Escape Win (1).jpg>)
 
@@ -321,9 +320,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ In the event that you want want
 
 [^69]: &#x20;![](<../../.gitbook/assets/v0u0v Win.jpg>)
 
-[^70]: ![](<../../.gitbook/assets/Visualizer Win.jpg>)
-
-[^71]: <mark style="color:yellow;">**Run Record:**</mark>
+[^70]: <mark style="color:yellow;">**Run Record:**</mark>
 
     <mark style="color:orange;">**\[Stage 1/1]**</mark>
 

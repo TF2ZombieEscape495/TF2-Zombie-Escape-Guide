@@ -1,4 +1,4 @@
-# Legacy Maps 4/2/2024
+# Legacy Maps 6/24/2024
 
 {% hint style="info" %}
 **Maps that were /once/ within the nomination pool but **<mark style="color:red;">**removed from the server**</mark>** due to any number of reasons. (A-Z)**
@@ -40,6 +40,7 @@
 * ze\_super\_mario\_64
 * ze\_titanic
 * ze\_3valley
+* ze\_visualizer (removed 6/24/2024)
 * ze\_wuhan
 
 ~~_couldnt really think of a way to make this page look pretty, oops..._~~
