@@ -2,7 +2,7 @@
 description: Brief overview of the Human Spy
 ---
 
-# Spy
+# 🗡️ Spy
 
 ![](../../../.gitbook/assets/Icon\_spy\_blue.jpg)
 

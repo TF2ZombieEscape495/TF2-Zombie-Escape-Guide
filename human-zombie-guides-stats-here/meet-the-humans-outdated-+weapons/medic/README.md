@@ -2,7 +2,7 @@
 description: Brief overview of the Human Medic
 ---
 
-# Medic
+# 🏥 Medic
 
 ![](../../../.gitbook/assets/Icon\_medic\_blue.jpg)
 

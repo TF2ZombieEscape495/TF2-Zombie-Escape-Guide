@@ -2,7 +2,7 @@
 description: Brief overview of the Human Engineer
 ---
 
-# Engineer
+# 🔧 Engineer
 
 ![](../../../.gitbook/assets/Icon\_engineer\_blue.jpg)
 

@@ -2,7 +2,7 @@
 description: Brief overview of the Human Scout
 ---
 
-# Scout
+# ⚾ Scout
 
 <img src="../../../.gitbook/assets/Icon_scout_blue.jpg" alt="" data-size="original">
 

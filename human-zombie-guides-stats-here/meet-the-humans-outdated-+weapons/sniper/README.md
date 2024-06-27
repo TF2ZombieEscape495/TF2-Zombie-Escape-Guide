@@ -2,7 +2,7 @@
 description: Brief overview of the Human Sniper
 ---
 
-# Sniper
+# 🇳🇿 Sniper
 
 ![](../../../.gitbook/assets/Icon\_sniper\_blue.jpg)
 

@@ -2,7 +2,7 @@
 description: Brief overview of the Human Heavy
 ---
 
-# Heavy
+# 👊 Heavy
 
 ![](../../../.gitbook/assets/Icon\_heavy\_blue.jpg)
 

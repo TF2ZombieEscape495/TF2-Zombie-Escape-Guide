@@ -2,7 +2,7 @@
 description: Brief overview of the Human Demoman
 ---
 
-# Demoman
+# 💣 Demoman
 
 ![](../../../.gitbook/assets/Icon\_demoman\_blue.jpg)
 

@@ -8,8 +8,14 @@ description: >-
 # Useful Commands
 
 {% hint style="info" %}
-_<mark style="color:yellow;">**Note:**</mark>_ Each command is prefixed by an exclamation mark ( ! ) or a frontslash ( / ). Using an exclamation mark broadcasts your commands in chat. Using a frontslash silences your commands, effectively stopping them from broadcasting in chat so long as the command is valid. Feel free to use it to avoid chat clutter or if you're feeling shy!
+_<mark style="color:yellow;">**Note:**</mark>_ Each command is prefixed by an exclamation mark ( ! ) or a frontslash ( / ).&#x20;
+
+Using an exclamation mark ( ! ) broadcasts your commands in chat.&#x20;
+
+Using a frontslash (/) silences your commands, effectively stopping them from broadcasting in chat so long as the command is valid. Feel free to use it to avoid chat clutter or if you're feeling shy!
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/IcQxz4lj (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -2,7 +2,7 @@
 description: Brief overview of the Human Soldier
 ---
 
-# Soldier
+# 🚀 Soldier
 
 ![](../../../.gitbook/assets/Icon\_soldier\_blue.jpg)
 

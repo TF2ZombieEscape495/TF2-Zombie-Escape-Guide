@@ -2,7 +2,7 @@
 description: Brief overview of the Human Pyro
 ---
 
-# Pyro
+# 🔥 Pyro
 
 ![](../../../.gitbook/assets/Icon\_pyro\_blue.jpg)
 
