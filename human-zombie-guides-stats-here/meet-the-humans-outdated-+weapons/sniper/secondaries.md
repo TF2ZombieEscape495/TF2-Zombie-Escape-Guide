@@ -2,7 +2,7 @@
 description: Sniper Secondary Options
 ---
 
-# Secondaries
+# Sniper Secondaries
 
 ## Cleaner's Carbine   ![](<../../../.gitbook/assets/100px-Item\_icon\_Cleaner's\_Carbine (1).png>)
 
@@ -73,7 +73,7 @@ The Cozy Camper is specifically for healing from zombie mutation damage without 
 
 The afterburn from Pyro Mutations is not much of a threat considering how plentiful healing is. If your team has no healing, shouldn't you be running Jarate to save yourself _and_ your team anyway? Or you know, an actual class that can heal?
 
-## Razorback   ![](../../../.gitbook/assets/100px-Item\_icon\_Razorback.png)
+## Razorback   ![](<../../../.gitbook/assets/100px-Item\_icon\_Razorback (1).png>)
 
 | Attributes                                                                          |
 | ----------------------------------------------------------------------------------- |
