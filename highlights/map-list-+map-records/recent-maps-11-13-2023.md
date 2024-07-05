@@ -1,4 +1,4 @@
-# Recent Maps 3/31/2024
+# Recent Maps 7/5/2024
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -7,6 +7,10 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 {% endhint %}
 
 ## 2024:
+
+### 7/5/2024 - Contra
+
+* [**ze\_contra**](https://gamebanana.com/mods/521881) **ported **<mark style="color:yellow;">**(CSS Map)**</mark>
 
 ### 3/31/2024 - Among Us Green Screen Car Crash
 
