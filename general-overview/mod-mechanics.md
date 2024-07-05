@@ -91,13 +91,57 @@ _The server will automatically engage a vote for <mark style="color:green;">**Ca
 
 ## Sidenote
 
-There _are_ other zombie-esque game modes available on TF2. Years ago, it was primarily **Zombie Fortress**. Now, the zombie genre has branched out into **Super Zombie Fortress**, **Zombie Escape**, **Zombie Riot**, and _a few others_, each having their own unique spin on things.&#x20;
+There _are_ other zombie-esque game modes available on TF2. Years ago, it was primarily <mark style="color:orange;">**Zombie Fortress**</mark>. Now, the zombie genre has branched out into <mark style="color:orange;">**Super Zombie Fortress**</mark><mark style="color:orange;">,</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Zombie Escape**</mark><mark style="color:orange;">,</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Zombie Riot**</mark>, and _a few others_, each having their own unique spin on things.&#x20;
 
 Other servers do host ZE, such as Otaku.tf. Do note that while some of the things discussed here may be applicable to both, versions of ZE for Skial and Otaku vary _**significantly**_ in gameplay, map rotation, and the tools available for use on the server.
 
 ### Comparisons to other games
 
-Those familiar with Zombie Escape on CS:S, CS:GO, and GMod may find many similarities between the three. While TF2 _does_ share a few elements, the mechanics of TF2 ZE make for a very different yet interesting experience when compared to them. There are different classes, movement is always fast-paced, and combat is a lot more close-range. You'll even notice that strategies for a map could differ drastically in contrast to what's usually done elsewhere. TF2 healing mechanics like Medics **aren't** going to single-handledly ignore the balance of a boss - this particularly goes for many of the newer ports of maps _(eg, Santassanation, Mako V6, Djinn...)_ This all contributes to a different feel to the game mode that one may or may not find pretty exciting.
+Those familiar with Zombie Escape on CS:S, CS:GO, and GMod may find many similarities between the three. While TF2 _does_ share a few elements, the mechanics of TF2 ZE make for a very different yet interesting experience when compared to them. There are different classes, movement is always fast-paced, and combat is a lot more close-range. You'll even notice that strategies for a map could differ drastically in contrast to what's usually done elsewhere. This all contributes to a different feel to the game mode that one may or may not find pretty exciting.
+
+### Healing?
+
+* Mostly to nudge away at the ignorant misconception of TF2 Healing mechanics being able to single-handedly break the balance of a boss or map; <mark style="color:yellow;">**healing mechanics are disabled by maps that are typically newer ports**</mark> _**(eg, Santassination, Mako V6, Djinn, etc...)**_
+* _Some of the <mark style="color:yellow;">**older ports**</mark>_ _<mark style="color:red;">**or TF2-made maps**</mark> might be balanced around keeping healing on specifically and instead, bosses will do higher damage or still have their insta-kills to compensate enough. **(Uchiha, Offliner, Sandstone, Breezy, etc...)**_
+
+### List Of Healing Options...
+
+Although this could probably go into the weapon pages - I did want to make a list of ALL usable  healing methods for the maps that actually can make use of them, **as some boss arenas that do allow this might let you hit zombies for health too.**
+
+_Color coded a bit here._\
+<mark style="color:orange;">**Orange**</mark>** meaning that **<mark style="color:red;">**Zombie Interaction is required**</mark>** to make use of its healing.**\
+<mark style="color:green;">**Green**</mark>** meaning that the weapon can provide healing at **<mark style="color:green;">**All Times**</mark> **where Zombies can't be hit.**
+
+* <mark style="color:blue;">**Scout**</mark>
+  * **Mad Milk**  <mark style="color:orange;">**(On Zombie Hit: Self**</mark>** + **<mark style="color:orange;">**Team Heal)**</mark>
+  * **Pretty Boy's Pocket Pistol **<mark style="color:orange;">**(On Zombie Hit: Self Heal)**</mark>
+  * **Candy Cane** <mark style="color:green;">**(WHEN HELD: Self Heal)**</mark>
+* <mark style="color:blue;">**Soldier**</mark>
+  * **Black Box** <mark style="color:orange;">**(On Zombie Hit: Self Heal)**</mark>
+  * **Concherer** <mark style="color:orange;">**(On Zombie Hit: Self**</mark>** + **<mark style="color:orange;">**Team Heal)**</mark>
+  * **Concherer **<mark style="color:green;">**(PASSIVE:**</mark> <mark style="color:green;">**Self Heal)**</mark>
+* <mark style="color:blue;">**Pyro**</mark>
+  * **Airblast/Mannmelter **<mark style="color:orange;">**(On Burning Teammate: Self Heal)**</mark>
+  * **Powerjack **<mark style="color:orange;">**(On Zombie KILL: Self Heal)**</mark>
+* <mark style="color:blue;">**Demoman**</mark>
+  * <mark style="color:red;">**\[NO HEALING OPTIONS]**</mark>
+* <mark style="color:blue;">**Heavy**</mark>
+  * **All Sandviches **<mark style="color:green;">**(ON CONSUME: Self**</mark>** + **<mark style="color:green;">**Single Team Heal)**</mark>
+  * **Warrior's Spirit** <mark style="color:green;">**(WHEN HELD: Self Heal)**</mark>
+* <mark style="color:blue;">**Engineer**</mark>
+  * **Dispensers **<mark style="color:green;">**(Self**</mark> **+** <mark style="color:green;">**Team Heal)**</mark>** - **<mark style="color:red;">**\[**</mark>_<mark style="color:red;">**requires compatible map geometry]**</mark>_
+* <mark style="color:blue;">**Medic**</mark>
+  * **Medic Class** <mark style="color:green;">**(PASSIVE: Self Heal)**</mark>
+  * **Blutsauger **<mark style="color:orange;">**(On Zombie Hit: Self**</mark>** + **<mark style="color:orange;">**Team Heal)**</mark>
+  * **All Mediguns** <mark style="color:green;">**(On Beam: Single Team Heal)**</mark>
+  * **Amputator** <mark style="color:green;">**(MOSTLY BUGGED: Team Heal)**</mark>
+* <mark style="color:blue;">**Sniper**</mark>
+  * **Cozy Camper** <mark style="color:green;">**(PASSIVE: Self Heal)**</mark>
+* <mark style="color:blue;">**Spy**</mark>
+  * **Kunai** <mark style="color:orange;">**(On Zombie Backstab: Self Heal)**</mark>
+  * **Red Tape Recorder** <mark style="color:green;">**(WHEN HELD: Self Heal)**</mark>
+
+
 
 [^1]: **Options > Multiplayer > Advanced >Ensure** `Suicide after choosing a player class` **is** **checked.**
 
