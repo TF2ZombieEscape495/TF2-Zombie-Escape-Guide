@@ -2,7 +2,7 @@
 description: Heavy Melee Options
 ---
 
-# Melee
+# Heavy Melees
 
 ## Warrior's Spirit   ![](../../../.gitbook/assets/100px-Item\_icon\_Warrior's\_Spirit.png)
 
@@ -26,7 +26,9 @@ Providing a hefty **+7** <mark style="color:green;">**hp regen**</mark> while he
 | <mark style="color:red;">**On Hit: Gain a Speed Boost**</mark>                  |
 | <mark style="color:orange;">**Max HP Drain Mechanic Disabled**</mark>           |
 
-This option and the GRU are both equally balanced out in a sense that they offer **the same movement speeds for different forms of penalties** - and in this case, the Eviction Notice allows you to retain a high movement speed as Heavy _passively,_ rather than being held out. What's the cost? Losing -100 of your max health means you won't be able to tank as many things as you could before - maybe the one extra hit from a zombie is going to matter on you, had you been able to live two hits. You're effectively put into the same health pool as most light classes now; but you also have the option to cover with a secondary while retaining this speed bonus. Not that you normally would be meleeing zombies either, but you'll hit like a scout's fish even with a last survivor buff. It's really a matter of preference between Warrior's, GRU, or this on what you value most in your playstyle.
+This option and the GRU are both equally balanced out in a sense that they offer **the same movement speeds for different forms of penalties** - and in this case, the Eviction Notice allows you to retain a high movement speed as Heavy _passively,_ rather than being held out. What's the cost? Losing -100 of your max health means you won't be able to tank as many things as you could before - maybe the one extra hit from a zombie is going to matter on you, had you been able to live two hits.&#x20;
+
+You're effectively put into the same health pool as most light classes now; but you also have the option to cover with a secondary while retaining this speed bonus. Not that you normally would be meleeing zombies either, but you'll hit like a scout's fish even with a last survivor buff. It's really a matter of preference between Warrior's, GRU, or this on what you value most in your playstyle.
 
 ## Gloves of Running Urgently (GRU)   ![](../../../.gitbook/assets/100px-Item\_icon\_Gloves\_of\_Running\_Urgently.png)
 
