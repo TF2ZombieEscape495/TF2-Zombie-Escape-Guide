@@ -1,7 +1,7 @@
 # Legacy Maps 6/24/2024
 
 {% hint style="info" %}
-**Maps that were /once/ within the nomination pool but **<mark style="color:red;">**removed from the server**</mark>** due to any number of reasons. (A-Z)**
+**Maps that were /once/ within the nomination pool but **<mark style="color:red;">**removed from the server**</mark>** due to any number of reasons - most commonly due to causing server issues. (A-Z)**
 {% endhint %}
 
 * ze\_aperturescience
@@ -19,7 +19,6 @@
 * ze\_halloween\_house
 * ze\_honkai\_impact\_cyberpunk\_city
 * ze\_infected\_tramway
-* ze\_johnny\_nukem
 * ze\_jungle\_lab
 * ze\_jurassic\_park\_story
 * ze\_kebab\_immigrant
