@@ -1,4 +1,4 @@
-# Balance Changes 2/07/2024
+# Balance Changes 2/17/2024
 
 {% hint style="info" %}
 <mark style="color:yellow;">**Note:**</mark> Here's a quick page highlighting any recent significant changes to 'balance' changes that aren't just weapon changes; usually enzymes. The rest of the enzyme capabilities can be found in [**Zombie Overviews**](../general-overview/how-to-play-as-zombies/zombie-mutations-overview.md) **(Simplified)** and [**Meet The Zombies subpages**](../human-zombie-guides-stats-here/meet-the-zombies/) **(Detailed.)**
@@ -6,9 +6,11 @@
 
 ## 2024
 
-### 2/17/2024 Noob Mode Renamed
+### 2/17/2024 Noob Mode Adjustments
 
 * **Noob Mode renamed to Casual difficulty.**
+* **Map Damage Reduction Universally changed to 40% on Normal Mode, additive with Casual Mode (70% total)**
+* **Overall Zombie Slowdown via being shot on Normal reduced **_**(exact value currently unknown)**_
 
 ### 2/07/2024 Balance Change
 

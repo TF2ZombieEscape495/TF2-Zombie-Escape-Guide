@@ -11,7 +11,7 @@ coverY: 0
 ## Maps available to play: 101 maps [_<mark style="color:blue;">(last updated 7/5/2024)</mark>_](recent-maps-11-13-2023.md)
 
 {% hint style="success" %}
-#### These are all color coded by all known completions \[at least once] in the community; (In Normal Mode + Full, _non-friendly s_erver)
+#### These are all color coded by all known completions _\[at least once]_ in the community; <mark style="color:red;">(In NORMAL MODE +</mark> <mark style="color:red;"></mark>_<mark style="color:red;">Relatively Full, Non-Friendly S</mark>_<mark style="color:red;">erver.)</mark>
 
 <mark style="color:yellow;">**`12 Incomplete Maps Remaining...`**</mark>
 

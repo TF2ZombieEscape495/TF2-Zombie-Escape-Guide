@@ -78,16 +78,20 @@ At the top of the screen during rounds, you'll notice a timer. When it reaches <
 
 <mark style="color:orange;">**Normal Difficulty**</mark> - _The standard way to play._
 
+* As the standard difficulty, it's the **only** way _(new)_ map records/progress will count towards being completed. View [**Map Records**](../highlights/map-list-+map-records/) notes additional requirements.
+* **-40% Map Damage Reduction at all times. (**_Less boss damage, trap damage, etc...Stackable with Battalions too.)_
+
 \
 <mark style="color:green;">**Casual Difficulty**</mark> - _A more relaxed take on the game mode, useful for learning or practicing a map:_
 
-* Humans take less damage, _(30% Less Damage, ergo infinite battalions backup effect. Sets you in **two shot** range of most standard ZM melees, less boss damage, etc...)_
-* More damage is dealt to NPCs and bosses. _(Unverified at the moment.)_
-* Zombies are slowed for much longer, _(+1 second to slow duration.)_
+* Humans take less damage, _(**-70% Map Damage Reduction**; Stackable with Battalions.)_
+* _**-30% Zombie Melee Reduction** - Sets you in **two shot** range of most standard ZM melees._
+* More damage is dealt to NPCs and bosses. _(Unverifie.)_
+* Zombies are slowed for much longer, _(**+1 second** to slow duration.)_
 * **Zombies take even more knockback.** _(A common misconception is that this either "does nothing" or makes the gamemode "harder" due to the increased zombie-boosting potential; but that's really only the case with <mark style="color:red;">**terribly**</mark> coordinated teams that are consistently getting caught on fallback teleports or getting double/triple meleed etc.)_
 * Even individual _**pellets**_ will slow and push zombies from afar, granting **solo-stalling capability almost exponentially.**
 
-_The server will automatically engage a vote for <mark style="color:green;">**Casual Difficulty**</mark> after <mark style="color:yellow;">**(3)**</mark> consecutive losses at the start of the following round; until a win is achieved._
+_The server will automatically engage a vote for <mark style="color:green;">**Casual Difficulty**</mark> after <mark style="color:yellow;">**(2)**</mark> consecutive losses at the start of the following round; until a win is achieved._
 
 ## Sidenote
 
@@ -101,7 +105,7 @@ Those familiar with Zombie Escape on CS:S, CS:GO, and GMod may find many similar
 
 ### Healing?
 
-* Mostly to nudge away at the ignorant misconception of TF2 Healing mechanics being able to single-handedly break the balance of a boss or map; <mark style="color:yellow;">**healing mechanics are disabled by maps that are typically newer ports**</mark> _**(eg, Santassination, Mako V6, Djinn, etc...)**_
+* Mostly to nudge away at the ignorant misconception of TF2 Healing mechanics nullifying the balance of a boss or map; <mark style="color:yellow;">**healing mechanics are commonly disabled by maps that are typically newer ports**</mark> _**(eg, Santassination, Mako V6, Djinn, etc...)**_
 * _Some of the <mark style="color:yellow;">**older ports**</mark>_ _<mark style="color:red;">**or TF2-made maps**</mark> might be balanced around keeping healing on specifically and instead, bosses will do higher damage or still have their insta-kills to compensate enough. **(Uchiha, Offliner, Sandstone, Breezy, etc...)**_
 
 ### List Of Healing Options...
