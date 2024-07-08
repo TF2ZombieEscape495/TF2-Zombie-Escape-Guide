@@ -6,45 +6,43 @@ description: Breakdowns of what a Leader does.
 
 ## The Leader Plugin
 
+{% hint style="info" %}
 #### Skial's Zombie Escape server offers a leader plugin in the form of <mark style="color:yellow;">**`/vl [Player Name]`**</mark>
 
 You need <mark style="color:yellow;">**5**</mark> <mark style="color:yellow;">**people**</mark> to type this command with the player they would like to vote to be leader so they may have access to the leader commands. In the package comes a neat little tag above their head to indicate that they're in charge of the ~~sh‎it~~show!
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/leader tag.png" alt=""><figcaption></figcaption></figure>
 
 To activate leader actions, you must use TF2's voice commands. Each action below will indicate which voice-line to use. Additionally, a distance parameter is shown underneath the action name that changes depending on how far away one is from a marker.
 
+*   <mark style="color:yellow;">**Voice Command:**</mark> **Help!**
 
+    This action places a <mark style="color:green;">**"Defend Here"**</mark> marker with a green ring, indicating where teammates should fend off the zombies.
 
-![](<../.gitbook/assets/Defend Here.PNG>)
+<figure><img src="../.gitbook/assets/Defend Here.PNG" alt=""><figcaption><p>Help!</p></figcaption></figure>
 
-<mark style="color:yellow;">**Voice Command:**</mark> **Help!**
+*   <mark style="color:yellow;">**Voice Command**</mark><mark style="color:yellow;">:</mark> **Incoming!**
 
-This action places a **"Defend Here"** marker with a green ring, indicating where teammates should fend off the zombies.
+    This action places a <mark style="color:red;">**"Danger Here"**</mark> marker with a red ring, indicating spots teammates should be wary of.&#x20;
 
-![](<../.gitbook/assets/Danger Here.PNG>)
+    **• e.g. environmental dangers, zombie TPs, etc.**&#x20;
 
-<mark style="color:yellow;">**Voice Command**</mark><mark style="color:yellow;">:</mark> **Incoming!**
+    <figure><img src="../.gitbook/assets/Danger Here.PNG" alt=""><figcaption><p>Incoming!</p></figcaption></figure>
+*   <mark style="color:yellow;">**Voice Command:**</mark> **Go! Go! Go!**
 
-This action places a **"Danger Here"** marker with a red ring, indicating spots teammates should be wary of.&#x20;
+    This action places a <mark style="color:blue;">**"Fall Back"**</mark> marker with a blue ring, indicating spots teammates should retreat to.&#x20;
 
-• e.g. environmental dangers, zombie TPs, etc.
+    <figure><img src="../.gitbook/assets/Fall Back.PNG" alt=""><figcaption><p>Go! Go! Go!</p></figcaption></figure>
+*   <mark style="color:yellow;">**Voice Command:**</mark> **Move Up!**
 
-![](<../.gitbook/assets/Fall Back.PNG>)
+    This action places a <mark style="color:purple;">**"Follow Me"**</mark> marker **above the leader's head**, indicating that your teammates should come to you. The marker will remain active for a few seconds.&#x20;
 
-<mark style="color:yellow;">**Voice Command:**</mark> **Go! Go! Go!**
+    <figure><img src="../.gitbook/assets/Follow Me.png" alt=""><figcaption><p>Move Up!</p></figcaption></figure>
 
-This action places a **"Fall Back"** marker with a blue ring, indicating spots teammates should retreat to.
+## How do I efficiently lead?
 
-![](<../.gitbook/assets/Follow Me.png>)
-
-<mark style="color:yellow;">**Voice Command:**</mark> **Move Up!**
-
-This action places a **"Follow Me"** marker above the leader's head, indicating that your teammates should come to you. The marker will remain active for a few seconds.
-
-## How can I become an effective leader?
-
-Most of the time, leading will play part in parcel with going with the flow of the team. You can either lead dominantly or be laid-back, depending on the players on the server. Whatever extent you want to lead will require you to "read the room" and try and establish a general sense of what people want to do. For example, most people don't need or may not care for a leader in simple maps like **`ze_atix_panic`** or **`ze_defense3002;`** but, for maps like **`ze_shroomforest3`** or **`ze_dark_souls,`** _assuming people want to beat them,_ then a leader might be appreciated.
+Most of the time, leading will play part in parcel with going with the flow of the team. You can either lead dominantly or be laid-back, depending on the players on the server. <mark style="color:yellow;">**Whatever extent you want to lead will require you to "read the room" and try and establish a general sense of what people want to do.**</mark> _For example,_ most people don't need or may not care for a leader in simple maps like **`ze_atix_panic`** or **`ze_defense3002;`** but, for maps like **`ze_shroomforest3`** or **`ze_dark_souls,`** _assuming people want to beat them,_ then a leader might be appreciated.
 
 Regardless, it doesn't hurt to have a leader, even if you don't use your mic for simpler maps. Take this as your opportunity to experiment and learn how to use the Leader plugin. So long as you communicate properly with markers and text chat, that is sufficient enough to try and push your team in the right direction while not being as intrusive as voice chat. In both instances, you will still need to understand the map, where to go, and what to do. You don't necessarily need to know **all** the best or the safest strategies, although they will most certainly aid in the survivability of your team, and you can just rely on a general sense of how to get through things.
 
@@ -67,7 +65,7 @@ While leaders may be useful, you may encounter teammates **uninterested** in bea
 
 This is actually less of a note for leaders and more or less for the players _listening_ to voice-comms generally speaking - the command known as [**voice\_overdrive**](../miscellaneous-info/useful-console-commands-and-keybinds.md#commands) can **REALLY** help alleviate some of the typical problems of voice-chat being being drowned out by gunshots or map sound effects.&#x20;
 
-It won't adjust _their_ audio levels however - so a quiet mic will still be very quiet unless you delve into using `voice_scale` _(careful setting this value too high,)_ otherwise that person will probably have to fix their gain whereas applicable.
+It won't adjust _their_ audio levels however - so a quiet mic will still be very quiet unless you delve into using `voice_scale` _(careful setting this value too high)_ otherwise that person will probably have to fix their gain whereas applicable.
 
 ## Overtalking
 
@@ -80,7 +78,5 @@ It won't adjust _their_ audio levels however - so a quiet mic will still be very
 {% hint style="info" %}
 ### _<mark style="color:yellow;">Note:</mark>_ Overtalking should no longer be problematic  - any voice chatters that _aren't_ the leader are <mark style="color:red;">automatically muted</mark> when the leader is speaking on voice-comms _(if the leader opts to enable it.)_
 
-
-
-## _This can be toggled by the leader through the**`!leadermenu`** chat command._
+## _<mark style="color:yellow;">This can be toggled by the leader via the</mark><mark style="color:yellow;">**`!leadermenu`**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">command.</mark>_
 {% endhint %}

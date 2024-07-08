@@ -57,8 +57,8 @@ In the event that you happened to meet the misfortune of perishing and wish to s
 
 [^1]: Most Rockets are a big culprit due to their **unpredictability** when splashing them at the zombies' legs - at times giving zombies drastic vertical height that the team can't quickly respond to before they land on a human for a free infection.&#x20;
 
-[^2]: Airblasting _usually_ never gets this afar with it due to the resistance mechanic - but situationally a pyro may shove zombies into _you_ in moments where a defense is lost and all is in shambles.
+[^2]: Airblasting _usually_ never gets this afar with it due to the resistance mechanic - but situationally a pyro in panic may shove zombies into _you_ in moments where a defense is lost.
 
 [^3]: Pills are Demoman's only way of knocking back zombies - but you should _**really**_ rely on your stickies instead and let your team push zombies back for you; unless you absolutely need to use them. These mostly run into the same problems that Rockets have but for way less reward (no banner build).
 
-[^4]: As for Sentries - this one is probable on ramp-like areas or attained through [**specific loadouts**](../human-zombie-guides-stats-here/human-meta-discussion-outdated-+loadouts/class-loadouts-demoman-heavy-engineer.md#sentinel-engineer) to increase knockback - it's a harder to control with automatic firing.
+[^4]: As for Sentries - this one is probable on ramp-like areas or attained through [**specific loadouts**](../human-zombie-guides-stats-here/human-meta-discussion-outdated-+loadouts/class-loadouts-demoman-heavy-engineer.md#sentinel-engineer) to increase knockback.

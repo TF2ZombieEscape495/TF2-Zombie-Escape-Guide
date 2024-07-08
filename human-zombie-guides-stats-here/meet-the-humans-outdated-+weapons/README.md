@@ -19,7 +19,7 @@ Weapon stats and attributes in _this segment_ are **color coded** to give the we
 * <mark style="color:red;">**RED**</mark> will connotate as reductions or negative stats.
 * <mark style="color:blue;">**BLU**</mark> will connotate as buffs or positive stats.
 * <mark style="color:orange;">**ORANGE**</mark> will connotate anything that falls under being an extra weapon attribute that isn't a stat change, such as _'Applies Milk On Hit.'_
-* <mark style="color:yellow;">**YELLOW**</mark> will connotate any timer or meter stats, such as '_4 Seconds of Uber'_
+* <mark style="color:yellow;">**YELLOW**</mark> will connotate any timer or meter stats, such as '_4 Seconds of Uber' or important things to highlight about the weapon._
 
 ## Movement Speed Comparisons
 

@@ -49,7 +49,7 @@ The best thing to do to survive a boss fight is to make sure you listen! There w
 {% hint style="info" %}
 <mark style="color:yellow;">**Note:**</mark> **With Offliner's boss, the attacks are done in a random cycle; there will never be repeat attack types **_**UNLESS**_** the current cycle is finished and the same attack is randomly selected on the 2nd cycle.**
 
-**You can use this as a process of elimination to determine what attacks might be coming next in the cycle.**
+**You can use this as a process of elimination to determine what attacks might be coming next in the cycle to better prepare for instakills.**
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Untitled1.png" alt=""><figcaption><p>Note that the giant particle walls will slowly rotate around the arena AND damage you upon touching them.</p></figcaption></figure>
@@ -62,7 +62,7 @@ _These are some common elements you might come across map-to-map when fighting b
 
 Bosses will typically attack a certain section of the arena, forcing Humans to avoid certain parts of the arena usually either in the outer or inner sections. Some maps will tell you where to avoid and may also have particle effects of where the attack will hit.
 
-<figure><img src="../../.gitbook/assets/20240629034746_1.jpg" alt="" width="563"><figcaption><p>Laser Attack from an aerial view since getting it up close is hard to show what it is.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20240629034746_1.jpg" alt="" width="563"><figcaption><p>Laser Attack from an aerial view since getting it up close is hard to show it. Crouches and jumps.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/20240629040713_1.jpg" alt="" width="563"><figcaption><p>Orb Attack, get in the gaps!</p></figcaption></figure>
 
@@ -92,7 +92,7 @@ Be careful as some other maps do not teleport them away immediately. You will ei
 
 ### Instakills
 
-<figure><img src="../../.gitbook/assets/20240629034937_1.jpg" alt=""><figcaption><p>If you're not on the VERY edge of the arena where the green isn't at - you'll die!</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20240629034937_1.jpg" alt=""><figcaption><p>If you're not on the <strong>VERY EDGE</strong> of the arena where the green <strong>IS NOT</strong> at - you'll die!</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/20240629034902_1.jpg" alt=""><figcaption><p>THE Dropper. Reponsible for many deaths. You must look up and align yourself between the gaps as these fall onto you.</p></figcaption></figure>
 
