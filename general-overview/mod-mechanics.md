@@ -85,11 +85,10 @@ At the top of the screen during rounds, you'll notice a timer. When it reaches <
 <mark style="color:green;">**Casual Difficulty**</mark> - _A more relaxed take on the game mode, useful for learning or practicing a map:_
 
 * Humans take less damage, _(**-70% Map Damage Reduction**; Stackable with Battalions.)_
-* _**-30% Zombie Melee Reduction** - Sets you in **two shot** range of most standard ZM melees._
-* More damage is dealt to NPCs and bosses. _(Unverifie.)_
+* **-65% Zombie Melee Reduction** - _(Sets you in **three shot** range of most standard ZM melees (assuming no weapon interactions granting extra health or dmg vulnerabilities.)_
+* More damage is dealt to NPCs and bosses. _(Unverified.)_
 * Zombies are slowed for much longer, _(**+1 second** to slow duration.)_
-* **Zombies take even more knockback.** _(A common misconception is that this either "does nothing" or makes the gamemode "harder" due to the increased zombie-boosting potential; but that's really only the case with <mark style="color:red;">**terribly**</mark> coordinated teams that are consistently getting caught on fallback teleports or getting double/triple meleed etc.)_
-* Even individual _**pellets**_ will slow and push zombies from afar, granting **solo-stalling capability almost exponentially.**
+* Even individual _**pellets**_ will slow and push zombies from afar, granting _**solo-stalling capability almost exponentially.**_
 
 _The server will automatically engage a vote for <mark style="color:green;">**Casual Difficulty**</mark> after <mark style="color:yellow;">**(2)**</mark> consecutive losses at the start of the following round; until a win is achieved._
 
@@ -144,8 +143,6 @@ _Color coded a bit here._\
 * <mark style="color:blue;">**Spy**</mark>
   * **Kunai** <mark style="color:orange;">**(On Zombie Backstab: Self Heal)**</mark>
   * **Red Tape Recorder** <mark style="color:green;">**(WHEN HELD: Self Heal)**</mark>
-
-
 
 [^1]: **Options > Multiplayer > Advanced >Ensure** `Suicide after choosing a player class` **is** **checked.**
 

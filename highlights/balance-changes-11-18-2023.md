@@ -1,10 +1,16 @@
-# Balance Changes 2/17/2024
+# Balance Changes 7/15/2024
 
 {% hint style="info" %}
 <mark style="color:yellow;">**Note:**</mark> Here's a quick page highlighting any recent significant changes to 'balance' changes that aren't just weapon changes; usually enzymes. The rest of the enzyme capabilities can be found in [**Zombie Overviews**](../general-overview/how-to-play-as-zombies/zombie-mutations-overview.md) **(Simplified)** and [**Meet The Zombies subpages**](../human-zombie-guides-stats-here/meet-the-zombies/) **(Detailed.)**
 {% endhint %}
 
-## 2024
+### 7/15/2024 Casual Mode Adjustment
+
+* Casual Mode Zombie melee reduction increased _(from **30%**)_ to **65%**
+  * _(Reference-wise: **NORMAL** ZM Heavy = 208 DMG; Casual Mode ZM Heavy = 73 DMG)_
+  * That's about 3 hits as a Zombie Heavy to take out any 200 HP Class - _assuming no weapon interactions like dmg increase/decrease!_
+  * Stackable with Battalions too. _**73 DMG > 40 DMG**_
+* Casual Mode Zombies now take similar knockback to Normal in exchange for this _(Extra slowdown mechanics still around.)_
 
 ### 2/17/2024 Noob Mode Adjustments
 
