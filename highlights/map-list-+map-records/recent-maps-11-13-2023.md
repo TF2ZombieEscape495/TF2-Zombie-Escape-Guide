@@ -18,7 +18,7 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 ### 3/20/2024 - Frozen Abyss
 
-* **`ze_frozen_abyss`** <mark style="color:yellow;">**added (CS Port)**</mark>
+* [**ze\_frozen\_abyss**](https://gamebanana.com/mods/79706) <mark style="color:yellow;">**added (CS Port)**</mark>
 * **\[2 Stages | 3 Zombie Items | 5 Human Items | NPCs | Bosses | Admin-only Marathon Mode]**
 
 ### 2/17/2024 - Atix Apocalypse
@@ -54,7 +54,7 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 ### 11/13/2023 - Lucid Dreams (Report)
 
-**`ze_luciddreams_b1` **<mark style="color:yellow;">**added (CS Port, newer version of map)**</mark> _**\[2 Items, Layout Changes, Consistent Lasers]**_
+[**ze\_luciddreams\_b1**](https://gamebanana.com/mods/79768) <mark style="color:yellow;">**added (CS Port, newer version of map)**</mark> _**\[2 Items, Layout Changes, Consistent Lasers]**_
 
 ### 10/14/2023 V0u0v
 
@@ -68,7 +68,7 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 ### 9/20/2023 Ryujin Update
 
-**`ze_ryujin_v2a` **<mark style="color:yellow;">**has been updated! (Checkpoints have been added to the map for \[3] areas of the map (temple completions) & items spawn at the tree on checkpoint load, boss nerfs.**</mark>
+[**ze\_ryujin\_v2a**](https://gamebanana.com/mods/453308) <mark style="color:yellow;">**has been updated! (Checkpoints have been added to the map for \[3] areas of the map (temple completions) & items spawn at the tree on checkpoint load, boss nerfs.**</mark>
 
 ### 9/18/2023 Freezy
 
