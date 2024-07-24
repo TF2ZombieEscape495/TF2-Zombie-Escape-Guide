@@ -7,7 +7,7 @@
 * [Weapon DPS Overhaul 11/18/2023](highlights/weapon-dps-overhaul-11-18-2023.md)
 * [Balance Changes 7/15/2024](highlights/balance-changes-11-18-2023.md)
 * [Map List (+Map Records!)](highlights/map-list-+map-records/README.md)
-  * [Recent Maps 7/5/2024](highlights/map-list-+map-records/recent-maps-11-13-2023.md)
+  * [Recent Maps 7/24/2024](highlights/map-list-+map-records/recent-maps-11-13-2023.md)
   * [Legacy Maps 6/24/2024](highlights/map-list-+map-records/legacy-maps.md)
 
 ## 📖 General Overview
@@ -20,8 +20,8 @@
 * [How to Play as Zombies](general-overview/how-to-play-as-zombies/README.md)
   * [Zombie Mutations Overview](general-overview/how-to-play-as-zombies/zombie-mutations-overview.md)
   * [Zombie Mechanics](general-overview/how-to-play-as-zombies/zombie-mechanics.md)
-* [Defending and Falling Back](general-overview/defending-and-falling-back.md)
 * [Leading](general-overview/leading.md)
+* [Defending and Falling Back](general-overview/defending-and-falling-back.md)
 * [Boosting 101](general-overview/boosting-101.md)
 * [Terminology and Slang](general-overview/terminology-and-slang.md)
 * [Useful Commands](general-overview/useful-commands.md)

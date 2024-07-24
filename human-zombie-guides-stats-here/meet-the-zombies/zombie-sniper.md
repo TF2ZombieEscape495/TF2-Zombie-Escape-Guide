@@ -1,7 +1,9 @@
 # Zombie Sniper
 
 {% hint style="info" %}
-### _<mark style="color:yellow;">**Note:**</mark>_ The Razorback typically does not function as a Human against stabs; _<mark style="color:blue;">however,</mark> it does work as a Zombie!_ You can utilize it as a means of anti-backstab when holding zombie items and generally wall off cheeky chainstab-farming spies.
+### _<mark style="color:yellow;">**Note:**</mark>_ The Razorback typically does not function while playing as a Human against stabs; _<mark style="color:blue;">however, it does work when playing Zombie!</mark>_&#x20;
+
+### You can utilize it as a means of anti-backstab when holding [Zombie Items](../../elements-of-zombie-escape/items/common-items.md#zombie-items) and generally wall off cheeky chainstab-farming spies.
 
 ![](../../.gitbook/assets/100px-Item\_icon\_Razorback.png)
 {% endhint %}

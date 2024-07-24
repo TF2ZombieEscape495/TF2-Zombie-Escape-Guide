@@ -85,7 +85,6 @@ At the top of the screen during rounds, you'll notice a timer. When it reaches <
 <mark style="color:green;">**Casual Difficulty**</mark> - _A more relaxed take on the game mode, useful for learning or practicing a map:_
 
 * Humans take less damage, _(**-70% Map Damage Reduction**; Stackable with Battalions.)_
-* **-65% Zombie Melee Reduction** - _(Sets you in **three shot** range of most standard ZM melees (assuming no weapon interactions granting extra health or dmg vulnerabilities.)_
 * More damage is dealt to NPCs and bosses. _(Unverified.)_
 * Zombies are slowed for much longer, _(**+1 second** to slow duration.)_
 * Even individual _**pellets**_ will slow and push zombies from afar, granting _**solo-stalling capability almost exponentially.**_

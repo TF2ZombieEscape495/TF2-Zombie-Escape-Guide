@@ -19,7 +19,7 @@ description: Brief overview of the Human Engineer
 
 <mark style="color:red;">**Cons**</mark>
 
-* Can **only** set up mini-sentries
+* Can **only** set up **mini-sentries** and **dispensers.**
 * Buildings are deleted upon jumping on them
 * May be unable to place buildings in certain areas
 
