@@ -1,4 +1,4 @@
-# Recent Maps 7/24/2024
+# Recent Maps 8/2/2024
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -7,6 +7,11 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 {% endhint %}
 
 ## 2024:
+
+### 8/2/2024 - 2049
+
+* [**ze\_2049**](https://gamebanana.com/mods/429605) **ported **<mark style="color:yellow;">**(CSGO/CSS Map)**</mark>
+* **\[2 Stages | X Human Items]**
 
 ### 7/24/2024 - Malgo
 
