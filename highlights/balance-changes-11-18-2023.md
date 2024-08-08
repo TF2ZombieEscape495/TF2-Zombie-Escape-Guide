@@ -1,8 +1,13 @@
-# Balance Changes 7/15/2024
+# Balance Changes 8/7/2024
 
 {% hint style="info" %}
 <mark style="color:yellow;">**Note:**</mark> Here's a quick page highlighting any recent significant changes to 'balance' changes that aren't just weapon changes; usually enzymes. The rest of the enzyme capabilities can be found in [**Zombie Overviews**](../general-overview/how-to-play-as-zombies/zombie-mutations-overview.md) **(Simplified)** and [**Meet The Zombies subpages**](../human-zombie-guides-stats-here/meet-the-zombies/) **(Detailed.)**
 {% endhint %}
+
+### 8/7/2024 _Comma > 3 Warriors, Rest Now.._.
+
+* ZM Pyro enzyme explosion fixes: Changed from dmg\_blast > dmg\_burn, removed damage multiplier
+* _tl;dr no longer singlehandedly nuking entire teams at point-blank (must be alive up to 5 seconds **post-use** to charge full blast radius and damage.)_
 
 ### 7/21/2024 Casual Mode Adjustment
 
