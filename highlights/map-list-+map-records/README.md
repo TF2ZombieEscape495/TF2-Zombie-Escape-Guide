@@ -202,9 +202,9 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 
 [^24]: <mark style="color:yellow;">**Run Record:**</mark>
 
-    <mark style="color:orange;">**\[Stage 4/6]**</mark>
+    <mark style="color:orange;">**\[Stage 5/6]**</mark>
 
-    **\~Stage 4 End**
+    **\~Stage 5 End**
 
 [^25]: ![](<../../.gitbook/assets/Mt Bur Win (1).png>)
 
