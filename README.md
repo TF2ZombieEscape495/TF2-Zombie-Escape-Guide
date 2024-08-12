@@ -29,7 +29,7 @@ layout:
 
 [**tf2zombieescape.gitbook.io**](https://tf2zombieescape.gitbook.io)
 
-<mark style="color:green;">**Currently being managed by \[Discord] @ not\_pickles if you need to get in contact.**</mark>
+<mark style="color:green;">**Currently being managed by \[Discord] @ not\_pickles -**</mark> [<mark style="color:green;">**\[Steam\] Myuri**</mark>](https://steamcommunity.com/id/literallynotpickles/) <mark style="color:green;">**if you need to get in contact.**</mark>
 {% endhint %}
 
 Ever play CS or GMod Zombie Escape and wonder how it might translate to TF2? Ever play TF2 and wonder how classes might fit into ZE? The aim of the game is the same, but, in TF2, things can get a bit interesting...\
@@ -39,3 +39,4 @@ Zombie Escape is a mod originating from <mark style="color:purple;">**Counter-St
 To defend themselves, the humans have access to the wide array of guns found in the base game but with modified amounts of knockback to better space themselves from the zombies. Even grenades are accessible as utilities to further stall and create space. But what tools do the zombies have? Just their knives primarily. To compensate, they are given tremendous amounts of health to withstand all the constant gunfire and are given a near instant respawn to continually apply pressure. Some Source Engine tricks here and there can help both teams too.\
 \
 All of this encapsulates a simple concept: there are a bunch of people with guns shooting and running away from an endless, player controlled horde. _However,_ this simple premise has evolved over the years to incorporate new quirks and concepts. Aside from zombies, now you have to worry about: [**parkour**](elements-of-zombie-escape/parkour.md)**,** [**bosses**](elements-of-zombie-escape/npcs-and-bosses/bosses.md)**,** [**surf**](elements-of-zombie-escape/surf.md)**,** [**special items**](elements-of-zombie-escape/items/), [_**lasers**_](elements-of-zombie-escape/lasers/), and much, much more. There's a lot of nuance under the surface, and it's all dependent on what mappers implement or what servers hosting the game mode include.
+
