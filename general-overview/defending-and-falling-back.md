@@ -18,14 +18,14 @@ In order to properly overdefend, you will need to have a solid understanding of 
 \
 But, to overdefend at your own discretion or rally others to help, you should know the following:
 
-* The timings of the map (extent to which you can hold before TP or death)
-* Locations of zombie TPs
-* The ratio of potential defenders to the amount of zombies
-* Whether or not people will actually defend with you
-* Whether or not the pros outweigh the cons
+* <mark style="color:yellow;">**The timings of the map (extent to which you can hold before TP or death)**</mark>
+* <mark style="color:yellow;">**Locations of zombie TPs**</mark>
+* <mark style="color:yellow;">**The ratio of potential defenders to the amount of zombies**</mark>
+* <mark style="color:yellow;">**Whether or not people will actually defend with you**</mark>
+* <mark style="color:yellow;">**Whether or not the pros outweigh the cons**</mark>
 
 \
-Proper execution of an overdefense can majorly lessen the pressure on the Human team, resulting in fewer deaths. Sometimes it'll be _significantly_ easier to overdefend previous or current areas rather than newly opened ones. A tight chokepoint is significantly easier to defend than a wide open area after all. It may even be a necessary strategy to beat the round. In some cases, you'll be able to do it yourself, while in other cases, it'll be a team effort. These strategies always pose the risk of your own or even the team's death if some of the conditions above aren't met or considered. As a result, try to get a good feel for the map and the game mode before you try to do anything independently.
+Proper execution of an **overdefense** can majorly lessen the pressure on the Human team, resulting in fewer deaths. Sometimes it'll be _significantly_ easier to overdefend previous or current areas rather than newly opened ones. A tight chokepoint is significantly easier to defend than a wide open area after all. It may even be a necessary strategy to beat the round. In some cases, you'll be able to do it yourself, while in other cases, it'll be a team effort. These strategies always pose the risk of your own or even the team's death if some of the conditions above aren't met or considered. As a result, try to get a good feel for the map and the game mode before you try to do anything independently.
 
 ## Sacrifices
 
@@ -33,7 +33,7 @@ During this type of overdefense, you will be **expected** to die. Be it heroic o
 
 ## Falling Back
 
-Similar to how one needs to know the timings of the map to overdefend, one must understand the timings for when to fall back. A team needs to hold or stall for an appropriate amount of time before booking it to prevent the event of being cornered and overwhelmed. But, if you fall back too late, you'll be swept up by zombie TPs and other events contributing to your death. Luckily, TF2 ZE offers a bunch of ways to speedboost those falling back, so try consider utilizing them to ensure the team's safety. If you are new to maps, you may want to fall back a bit earlier to get a better understanding of what you can get away with or where you need to go.
+Similar to how one needs to know the timings of the map to overdefend, one must understand the timings for when to fall back. A team needs to hold or stall for an appropriate amount of time before booking it to prevent the event of being cornered and overwhelmed. But, if you fall back too late, you'll be swept up by zombie TPs and other events contributing to your death. _**Luckily, TF2 ZE offers a bunch of ways to speedboost those falling back, so try consider utilizing them to ensure the team's safety.**_ If you are new to maps, you may want to fall back a bit earlier to get a better understanding of what you can get away with or where you need to go.
 
 ## Stalling
 

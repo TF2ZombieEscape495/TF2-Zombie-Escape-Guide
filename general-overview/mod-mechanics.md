@@ -103,8 +103,8 @@ Those familiar with Zombie Escape on CS:S, CS:GO, and GMod may find many similar
 
 ### Healing?
 
-* Mostly to nudge away at the ignorant misconception of TF2 Healing mechanics nullifying the balance of a boss or map; <mark style="color:yellow;">**healing mechanics are commonly disabled by maps that are typically newer ports**</mark> _**(eg, Santassination, Mako V6, Djinn, etc...)**_
-* _Some of the <mark style="color:yellow;">**older ports**</mark>_ _<mark style="color:red;">**or TF2-made maps**</mark> might be balanced around keeping healing on specifically and instead, bosses will do higher damage or still have their insta-kills to compensate enough. **(Uchiha, Offliner, Sandstone, Breezy, etc...)**_
+* Mostly to nudge away at the ignorant misconception of TF2 Healing mechanics nullifying the balance of a boss or map; <mark style="color:yellow;">**healing mechanics are commonly disabled by maps that are typically newer ports**</mark> _**(eg,**** **<mark style="color:yellow;">**Santassination, Mako V6, Djinn**</mark>**, etc...)**_
+* _Some of the <mark style="color:yellow;">**older ports**</mark>_ _<mark style="color:red;">**or TF2-made maps**</mark> might be balanced around keeping healing on specifically and instead, bosses will do higher damage or still have their insta-kills to compensate enough. **(**<mark style="color:yellow;">**Uchiha, Offliner**</mark>**,**** **<mark style="color:red;">**Sandstone, Breezy**</mark>**, etc...)**_
 
 ### List Of Healing Options...
 

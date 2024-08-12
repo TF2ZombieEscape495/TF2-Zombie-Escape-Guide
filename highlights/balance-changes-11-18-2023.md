@@ -7,7 +7,7 @@
 ### 8/7/2024 _Comma > 3 Warriors, Rest Now.._.
 
 * ZM Pyro enzyme explosion fixes: Changed from dmg\_blast > dmg\_burn, removed damage multiplier
-* _tl;dr no longer singlehandedly nuking entire teams at point-blank (must be alive up to 5 seconds **post-use** to charge full blast radius and damage.)_
+* _tl;dr no longer singlehandedly nuking entire teams at mid-range/point-blank (must be alive up to 5 seconds **post-use** to charge full blast radius and damage.)_
 
 ### 7/21/2024 Casual Mode Adjustment
 
