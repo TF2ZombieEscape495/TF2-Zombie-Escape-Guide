@@ -18,6 +18,10 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 * [**ze\_ffvii\_malgo\_reactor**](https://gamebanana.com/mods/79693) **ported **<mark style="color:yellow;">**(CSS Map)**</mark>
 * **\[6 Stages | All Mako V6 Human Items + ZM Materia Infuse | Item leveling system **_**(Per pickup, max lvl 3)**_** ]**
 
+### **7/24/2024 - Breezy V5 Update**
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
 ### 7/5/2024 - Contra
 
 * [**ze\_contra**](https://gamebanana.com/mods/521881) **ported **<mark style="color:yellow;">**(CSS Map)**</mark>
