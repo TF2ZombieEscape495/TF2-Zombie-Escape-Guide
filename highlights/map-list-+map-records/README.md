@@ -13,7 +13,7 @@ coverY: 0
 {% hint style="success" %}
 #### These are all color coded by all known completions _\[at least once]_ in the community; <mark style="color:red;">(In NORMAL MODE +</mark> <mark style="color:red;"></mark>_<mark style="color:red;">Relatively Full, Non-Friendly S</mark>_<mark style="color:red;">erver.)</mark>
 
-<mark style="color:yellow;">**`13 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`12 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>** = `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -58,7 +58,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 * <mark style="color:green;">**ze\_ffvii\_cosmo\_canyon\_b1**</mark>
 * [<mark style="color:green;">**ze\_ffvii\_mako\_reactor\_skial\_13**</mark>](#user-content-fn-21)[^21] **(v5, Classic Version)**
 * [<mark style="color:green;">**ze\_ffvii\_mako\_reactor\_v6\_b5**</mark>](#user-content-fn-22)[^22]  **(v6, New Version)**
-* [<mark style="color:red;">**ze\_ffvii\_malgo\_reactor\_4\_2\_s**</mark>](#user-content-fn-23)[^23]<mark style="color:red;">**7**</mark>
+* [<mark style="color:green;">**ze\_ffvii\_malgo\_reactor\_4\_2\_s**</mark>](#user-content-fn-23)[^23]<mark style="color:green;">**7**</mark>
 * [<mark style="color:green;">**ze\_ffxii\_mt\_bur\_omisace\_b1**</mark>](#user-content-fn-24)[^24]
 * <mark style="color:green;">**ze\_ffxii\_westersand\_skial\_3**</mark>
 * [<mark style="color:green;">**ze\_ffxiv\_wanderers\_palace\_skial\_3**</mark>](#user-content-fn-25)[^25]
@@ -193,11 +193,11 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 
 [^22]: ![](<../../.gitbook/assets/Mako (V6) Win (1).jpg>)
 
-[^23]: <mark style="color:yellow;">**Run Record:**</mark>
+[^23]: ![](../../.gitbook/assets/440\_387.jpg)
 
-    <mark style="color:orange;">**\[Stage 5/6]**</mark>
 
-    **\~Stage 5 End**
+
+    ![](../../.gitbook/assets/440\_388.jpg)
 
 [^24]: ![](<../../.gitbook/assets/Mt Bur Win (1).png>)
 
