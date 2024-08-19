@@ -22,9 +22,9 @@ description: Brief overview of the Human Sniper
 
 * Hard to play effectively.
 * Can be outperformed in stuns by Demomen.
-* Low DPS against NPCs and bosses
-* _<mark style="color:red;">**Has no movement buffing weapon options at all**</mark>_ - making him consistently the slowest class at beating other players to items or triggers.
-* No particular useful niche that he excels at
+* Low average DPS against NPCs and bosses.
+* <mark style="color:red;">**Is the only**</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**class WITHOUT**</mark>_<mark style="color:red;">** **</mark><mark style="color:red;">**any form of movement buffing weapon**</mark> - making him consistently the slowest class at beating other players to items or triggers.
+* No particular useful niche that he excels at.
 
 \
 Sniper in Zombie Escape is simple in concept but hard to play in practice. His main job is zombie deterrence and stalling either from afar or up close if you're cheeky enough. This is thanks to his ability to stun zombies on headshot. Target zombies that pop their Mutations to shut them down completely or stall them before they can reach your teammates. There will be a lot of nuance to playing Sniper and things you have to watch for, but, played effectively, it can feel very rewarding.\
