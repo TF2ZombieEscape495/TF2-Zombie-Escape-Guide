@@ -2,7 +2,7 @@
 description: Scout Melee Options
 ---
 
-# Melees
+# Scout Melees
 
 ## Fan O' War   ![](../../../.gitbook/assets/100px-Item\_icon\_Fan\_O'War.png)
 
@@ -69,8 +69,8 @@ While you might think that the downside can help build Übers, ÜberCharge in th
 | --------------------------------------------------------------------------------------------------------------------- |
 | <mark style="color:blue;">**+40% slow for 3 seconds on hit**</mark>                                                   |
 | <mark style="color:blue;">**+2 max balls (3 total balls, each recharges one after another, not all at once)**</mark>  |
-| <mark style="color:red;">**-100% slower swing speed**</mark>                                                          |
-| <mark style="color:red;">**-15 max health on wearer**</mark>                                                          |
+| <mark style="color:red;">**-100% Slower Swing Speed**</mark>                                                          |
+| <mark style="color:red;">**-15 Max Health On Wearer**</mark>                                                          |
 | <mark style="color:orange;">**Alt-Fire: Launches a ball that slows opponents**</mark>                                 |
 | <mark style="color:yellow;">**\~10 Second Cooldown**</mark>                                                           |
 
@@ -83,22 +83,10 @@ Currently the sandman is capable of launching (3) slow inflicting projectiles; s
 | <mark style="color:blue;">**+25% Recharge Rate**</mark>                                                                |
 | <mark style="color:blue;">**+40% slow for 1.5 seconds on hit (Extends the target that bleeds to 6.5 seconds)**</mark>  |
 | <mark style="color:blue;">**+1 max ball (2 total balls, each recharges one after another, not all at once)**</mark>    |
+| <mark style="color:red;">**When Held:**</mark> <mark style="color:red;">**-3% Slower Move Speed**</mark>               |
 | <mark style="color:red;">**-100% Slower Swing Speed**</mark>                                                           |
 | <mark style="color:red;">**-75% Damage Penalty**</mark>                                                                |
 | <mark style="color:orange;">**Alt-Fire: Launches a festive ornament that shatters causing bleed**</mark>               |
 | <mark style="color:yellow;">**\~15 second cooldown**</mark>                                                            |
 
 The Wrap Assassin allows Scout two zombies down with his ball from midrange. Zombies, when they take damage, are slowed down a bit so the Wrap Assassin can work as a really bootleg sandman - but the bleed damage is kind of nothing to sail about as Zombies aren't going to bleed out with upwards of 20K+ HP.
-
-
-
-
-
-
-
-
-
-
-
-
-

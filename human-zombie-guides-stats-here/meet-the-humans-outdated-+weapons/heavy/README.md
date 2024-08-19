@@ -11,13 +11,13 @@ description: Brief overview of the Human Heavy
 <mark style="color:green;">**Health:**</mark> _**300**_\
 <mark style="color:yellow;">**Speed:**</mark> _**256.50v HU/s (85.5% base TF2 speed)**_\
 \
-**Pros**
+<mark style="color:blue;">**Pros**</mark>
 
 * Largest starting health pool
 * Highest DPS and best at holding positions
 * Can heal himself with items
 
-**Cons**
+<mark style="color:red;">**Cons**</mark>
 
 * Slow
 * Vulnerable when unrevving

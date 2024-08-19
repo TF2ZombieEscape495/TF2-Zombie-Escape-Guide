@@ -11,18 +11,19 @@ description: Brief overview of the Human Sniper
 <mark style="color:green;">**Health:**</mark> _**200**_\
 <mark style="color:yellow;">**Speed:**</mark> _**270.00v HU/s (90.0% base TF2 speed)**_\
 \
-**Pros**
+<mark style="color:blue;">**Pros**</mark>
 
-* High DPS towards zombies from afar
-* Headshots stun zombies
-* Does not have to fully charge a shot to deal max damage on headshot or to stun
-* Can pick off low hp Zombies to reset enzymes or kill Zombie item users
+* High DPS towards zombies from afar.
+* Headshots stun zombies.
+* Does not have to fully charge a shot to deal max damage on headshot or to stun.
+* Can pick off low hp Zombies to reset enzymes or kill Zombie item users.
 
-**Cons**
+<mark style="color:red;">**Cons**</mark>
 
-* Hard to play effectively
-* Can be outperformed in stuns by Demomen
+* Hard to play effectively.
+* Can be outperformed in stuns by Demomen.
 * Low DPS against NPCs and bosses
+* _<mark style="color:red;">**Has no movement buffing weapon options at all**</mark>_ - making him consistently the slowest class at beating other players to items or triggers.
 * No particular useful niche that he excels at
 
 \
