@@ -22,11 +22,6 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-### 7/5/2024 - Contra
-
-* [**ze\_contra**](https://gamebanana.com/mods/521881) **ported **<mark style="color:yellow;">**(CSS Map)**</mark>
-* **\[3 Stages | 2 Human Items | 3 Human Skins | 6 Bosses | 3 Zombie Items]**
-
 ### 3/31/2024 - Among Us Green Screen Car Crash
 
 * **`ze_among_us_green_screen_car_crash`** <mark style="color:yellow;">**added (TF2 original Map, April Fools)**</mark>

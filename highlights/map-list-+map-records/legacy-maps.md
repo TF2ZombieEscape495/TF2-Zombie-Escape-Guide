@@ -1,4 +1,4 @@
-# Legacy Maps 8/12/2024
+# Legacy Maps 8/24/2024
 
 {% hint style="info" %}
 **Maps that were /once/ within the nomination pool but **<mark style="color:red;">**removed from the server**</mark>** due to any number of reasons - most commonly due to causing server issues. (A-Z)**
@@ -6,7 +6,12 @@
 
 * <mark style="color:yellow;">**ze\_aperturescience**</mark>
 * <mark style="color:yellow;">**ze\_among\_us\_green\_screen\_car\_crash \[April Fools]**</mark>** (removed 4/2/2024)**
+* <mark style="color:yellow;">**ze\_aooka**</mark>** (8/24/2024 casualty of map purge)**
+* <mark style="color:yellow;">**ze\_aot\_trost**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_attackontitan\_troster**</mark>
+* <mark style="color:yellow;">**ze\_atix\_apocalypse**</mark>** (8/24/2024 casualty of map purge)**
+* <mark style="color:yellow;">**ze\_atix\_panic**</mark>** (8/24/2024 casualty of map purge)**
+* <mark style="color:yellow;">**ze\_bowser\_in\_the\_fire\_sea**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_biohazard2\_rpd**</mark>
 * <mark style="color:yellow;">**ze\_black\_lagoon**</mark>
 * <mark style="color:yellow;">**ze\_blindingforest**</mark>
@@ -17,6 +22,8 @@
 * <mark style="color:yellow;">**ze\_death\_star\_escape**</mark>
 * <mark style="color:yellow;">**ze\_expedition**</mark>
 * <mark style="color:yellow;">**ze\_experiment**</mark>
+* <mark style="color:yellow;">**ze\_fxii\_westersand**</mark>** (8/24/2024 casualty of map purge)**
+* <mark style="color:yellow;">**ze\_ffxiv\_wanderers\_palace**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_halloween\_house**</mark>
 * <mark style="color:yellow;">**ze\_honkai\_impact\_cyberpunk\_city**</mark>
 * <mark style="color:yellow;">**ze\_infected\_tramway**</mark>
@@ -26,21 +33,37 @@
 * <mark style="color:yellow;">**ze\_kitchen**</mark>
 * <mark style="color:yellow;">**ze\_laboratoire**</mark>
 * <mark style="color:yellow;">**ze\_laserhell**</mark> _**(original laserhell, not current remake version)**_
+* <mark style="color:yellow;">**ze\_lotr\_helms\_deep**</mark> **(8/24/2024 casualty of map purge)**
+* <mark style="color:yellow;">**ze\_lotr\_mines\_of\_moria**</mark> **(8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_lotr\_mount\_doom**</mark>
 * <mark style="color:yellow;">**ze\_m0w0m**</mark>
+* <mark style="color:yellow;">**ze\_minecraft\_universe**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_neochrome**</mark>
 * <mark style="color:yellow;">**ze\_nomada**</mark>
+* <mark style="color:yellow;">**ze\_obj\_filth**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_onahole**</mark>
+* <mark style="color:yellow;">**ze\_oot\_shadowtemple**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_parkour\_paradise**</mark> **(removed 3/17/2024)**
+* <mark style="color:yellow;">**ze\_persona**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_peter\_griffin\_burger\_emporium\_v1**</mark>** (removed 3/31/2024)**
+* <mark style="color:yellow;">**ze\_predator\_ultimate**</mark>** (8/24/2024 casualty of map purge)**
+* <mark style="color:yellow;">**ze\_raiin**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_realm**</mark>
+* <mark style="color:yellow;">**ze\_rooftop\_runaway2**</mark>** (8/24/2024 casualty of map purge)**
+* <mark style="color:yellow;">**ze\_saw**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_shoplift**</mark>
 * <mark style="color:yellow;">**ze\_skyrim**</mark>
+* <mark style="color:yellow;">**ze\_sorrento\_escape**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_sorrento\_resonate**</mark>
+* <mark style="color:yellow;">**ze\_space\_station**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_super\_mario\_64**</mark>
+* <mark style="color:yellow;">**ze\_swamp\_facility**</mark>** (8/24/2024 casualty of map purge)**
+* <mark style="color:yellow;">**ze\_tesv\_skyrim**</mark>** (8/24/2024 casualty of map purge)**
+* <mark style="color:yellow;">**ze\_timesplitters**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_titanic**</mark>
 * <mark style="color:yellow;">**ze\_3valley**</mark>
 * <mark style="color:yellow;">**ze\_visualizer**</mark>** (removed 6/24/2024)**
+* <mark style="color:yellow;">**ze\_warlab**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_wuhan**</mark>
 
 ~~_couldnt really think of a way to make this page look pretty, oops..._~~
