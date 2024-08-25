@@ -8,7 +8,7 @@ coverY: 0
 
 # Map List (+Map Records!)
 
-## Maps available to play: 78 maps [_<mark style="color:blue;">(last updated 8/24/2024)</mark>_](recent-maps-11-13-2023.md)
+## Maps available to play: 79 maps [_<mark style="color:blue;">(last updated 8/24/2024)</mark>_](recent-maps-11-13-2023.md)
 
 {% hint style="success" %}
 #### These are all color coded by all known completions _\[at least once]_ in the community; <mark style="color:red;">(In NORMAL MODE +</mark> <mark style="color:red;"></mark>_<mark style="color:red;">Relatively Full, Non-Friendly S</mark>_<mark style="color:red;">erver.)</mark>
@@ -74,6 +74,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 * <mark style="color:green;">**ze\_luciddreams\_v3\_6\_f2**</mark>** (Old Version)**
 * [<mark style="color:green;">**ze\_meatropolis\_skial\_2**</mark>](#user-content-fn-34)[^34]
 * [<mark style="color:green;">**ze\_minecraft\_adventure\_skial\_6**</mark> ](#user-content-fn-35)[^35]
+* <mark style="color:green;">**ze\_minecraft\_universe\_skial\_2**</mark>
 * [<mark style="color:green;">**ze\_minimal\_skial\_2**</mark>](#user-content-fn-36)[^36]
 * [<mark style="color:green;">**ze\_mist\_skial\_3**</mark>](#user-content-fn-37)[^37]
 * [<mark style="color:red;">**ze\_obj\_rampage\_skial\_**</mark>](#user-content-fn-38)[^38]<mark style="color:red;">**2**</mark>

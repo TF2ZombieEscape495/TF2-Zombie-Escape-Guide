@@ -37,7 +37,6 @@
 * <mark style="color:yellow;">**ze\_lotr\_mines\_of\_moria**</mark> **(8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_lotr\_mount\_doom**</mark>
 * <mark style="color:yellow;">**ze\_m0w0m**</mark>
-* <mark style="color:yellow;">**ze\_minecraft\_universe**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_neochrome**</mark>
 * <mark style="color:yellow;">**ze\_nomada**</mark>
 * <mark style="color:yellow;">**ze\_obj\_filth**</mark>** (8/24/2024 casualty of map purge)**
