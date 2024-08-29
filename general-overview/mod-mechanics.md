@@ -45,18 +45,24 @@ Round is won when all the humans have died. Round is _not_ lost when all zombies
 
 ### Class Change
 
-As a human, you can only change classes for a few seconds **before** the round starts. If the duration is too short or non-existent, **you may need to preemptively change classes before the end of the current round.** As a <mark style="color:red;">**zombie**</mark>, you will have to have either just joined, left **`Spectator`**, or died. To maneuver around this, you can set an [<mark style="color:purple;">**Advanced Setting**</mark>](#user-content-fn-1)[^1] in TF2 to force death on class change, allowing you to swap classes throughout the round. _This won't affect you as a <mark style="color:blue;">**human**</mark> thus preventing you from changing classes during the round._
+As a <mark style="color:blue;">**Human**</mark>, you can only change classes for a few seconds **before** the round starts. If the duration is too short or non-existent, **you may need to preemptively change classes before the end of the current round.**
 
-### Round Start
+As a <mark style="color:red;">**Zombie**</mark>, you will have to have either just joined, left **Spectator**, or died. To maneuver around this, you can set an [<mark style="color:purple;">**Advanced Setting**</mark>](#user-content-fn-1)[^1] in TF2 to force death on class change, allowing you to swap classes throughout the round. _This won't affect you as a <mark style="color:blue;">**human**</mark> thus preventing you from changing classes during the round._
+
+### Round Start (Autobalance)
 
 * Everyone will start on the <mark style="color:blue;">**Human**</mark> team until the warmup timer ends.
 * The auto-infect system will pick humans to become zombies until <mark style="color:yellow;">**15%**</mark> of the amount of players on the server are <mark style="color:red;">**Zombies.**</mark>
 * _A <mark style="color:yellow;">**32**</mark> player server will have <mark style="color:yellow;">**\[27]**</mark>_ _<mark style="color:blue;">**Humans**</mark> and <mark style="color:yellow;">**\[5]**</mark>_ _<mark style="color:red;">**Zombies.**</mark>_
 * _A <mark style="color:yellow;">**64**</mark> player server will have <mark style="color:yellow;">**\[51]**</mark>_ _<mark style="color:blue;">**Humans**</mark> and <mark style="color:yellow;">**\[10]**</mark>** **<mark style="color:red;">**Zombies**</mark>._
-* **`Spectators`** will be placed at the front of the queue, meaning that the more recently you joined as <mark style="color:blue;">**BLU;**</mark> _or if you AFKed too long enough to be moved into spectator_; the more probability there is in being autobalanced.
+* **`Spectators`** will be placed at the front of the queue, meaning that the more recently you joined as <mark style="color:blue;">**BLU;**</mark> _or if you AFKed long enough to be moved into spectator your priority for zombie will increase._
 
 {% hint style="info" %}
-<mark style="color:yellow;">**Why am I Zombie Twice sometimes?**</mark> After being picked as a _**starting zombie**_**,** you will be placed at the back of the queue and will not have to worry about auto-infection for some time. <mark style="color:red;">**If**</mark> <mark style="color:red;">**you've late-joined into an ongoing round; you are very likely to be selected as starting zombie a**</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**second**</mark>_ _<mark style="color:red;">**time**</mark>_<mark style="color:red;">** **</mark><mark style="color:red;">**for the following round.**</mark>
+<mark style="color:yellow;">**Why am I Zombie Twice sometimes?**</mark> After being picked as a _**mother-zombie**_**,** you will be placed at the back of the queue and will not have to worry about auto-infection for some time, until your queue rolls along to a high enough priority.
+
+<mark style="color:yellow;">**Per every 24 hours you will have ONE auto-infect 'immunity' upon joining, preventing you from becoming a zombie for the current/or next starting round.**</mark>
+
+**If you've expended this immunity and late-join into an ongoing round, you still might be **_**very likely**_** to get selected as a mother-zombie.**
 
 _Check or bind the_ [_**ze\_queue**_](useful-commands.md) _command to know whether or not you'll be zombie next round._
 {% endhint %}
@@ -84,10 +90,10 @@ At the top of the screen during rounds, you'll notice a timer. When it reaches <
 \
 <mark style="color:green;">**Casual Difficulty**</mark> - _A more relaxed take on the game mode, useful for learning or practicing a map:_
 
-* Humans take less damage, _(**-70% Map Damage Reduction**; Stackable with Battalions.)_
+* **Humans take less damage,** _(**-70% Map Damage Reduction**; Stackable with Battalions.)_
 * More damage is dealt to NPCs and bosses. _(Unverified.)_
 * Zombies are slowed for much longer, _(**+1 second** to slow duration.)_
-* Even individual _**pellets**_ will slow and push zombies from afar, granting _**solo-stalling capability almost exponentially.**_
+* Even individual _**pellets**_ will slow zombies from afar, granting _**solo-stalling capability almost exponentially.**_
 
 _The server will automatically engage a vote for <mark style="color:green;">**Casual Difficulty**</mark> after <mark style="color:yellow;">**(2)**</mark> consecutive losses at the start of the following round; until a win is achieved._
 

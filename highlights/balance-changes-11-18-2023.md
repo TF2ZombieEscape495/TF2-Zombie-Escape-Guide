@@ -8,7 +8,7 @@
 
 ### 8/24/2024 - 23 maps purged
 
-not really a balance change, but putting it on the forefront outside a subpage since <mark style="color:red;">**>23 maps were removed**</mark> and [legacy maps](map-list-+map-records/legacy-maps.md) is a bit far too messy messy to find a way to organize into it.
+not really a balance change, but putting it on the forefront _outside a subpage_ since <mark style="color:red;">**>23 maps were removed**</mark> and [legacy maps](map-list-+map-records/legacy-maps.md) is a bit far too messy messy to find a way to organize into it.
 
 _(A-Z)_
 
