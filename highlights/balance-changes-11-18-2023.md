@@ -6,7 +6,7 @@
 <mark style="color:yellow;">**Note:**</mark> Here's a quick page highlighting any recent significant changes to 'balance' changes that aren't just weapon changes; usually enzymes. The rest of the enzyme capabilities can be found in [**Zombie Overviews**](../general-overview/how-to-play-as-zombies/zombie-mutations-overview.md) **(Simplified)** and [**Meet The Zombies subpages**](../human-zombie-guides-stats-here/meet-the-zombies/) **(Detailed.)**
 {% endhint %}
 
-### 8/24/2024 - 23 maps purged
+### 8/24/2024 - 24 maps purged
 
 not really a balance change, but putting it on the forefront _outside a subpage_ since <mark style="color:red;">**>23 maps were removed**</mark> and [legacy maps](map-list-+map-records/legacy-maps.md) is a bit far too messy messy to find a way to organize into it.
 
@@ -22,19 +22,20 @@ _(A-Z)_
 8. ze\_lotr\_helms\_deep
 9. ze\_lotr\_mines\_of\_moria
 10. ze\_obj\_filth
-11. ze\_oot\_shadowtemple
-12. ze\_persona
-13. ze\_predator\_ultimate
-14. ze\_raiin
-15. ze\_rooftop\_runaway2
-16. ze\_saw
-17. ze\_sorrento\_escape
-18. ze\_subway\_escape
-19. ze\_space\_station
-20. ze\_swamp\_facility
-21. ze\_tesv\_skyrim
-22. ze\_timesplitters
-23. ze\_warlab
+11. ze\_offliner
+12. ze\_oot\_shadowtemple
+13. ze\_persona
+14. ze\_predator\_ultimate
+15. ze\_raiin
+16. ze\_rooftop\_runaway2
+17. ze\_saw
+18. ze\_sorrento\_escape
+19. ze\_subway\_escape
+20. ze\_space\_station
+21. ze\_swamp\_facility
+22. ze\_tesv\_skyrim
+23. ze\_timesplitters
+24. ze\_warlab
 
 ### 8/7/2024 _Comma > 3 Warriors, Rest Now.._.
 
