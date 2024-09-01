@@ -8,7 +8,7 @@ coverY: 0
 
 # Map List (+Map Records!)
 
-## Maps available to play: 78 maps [_<mark style="color:blue;">(last updated 8/24/2024)</mark>_](recent-maps-11-13-2023.md)
+## Maps available to play: 79 maps [_<mark style="color:blue;">(last updated 8/24/2024)</mark>_](recent-maps-11-13-2023.md)
 
 {% hint style="success" %}
 #### These are all color coded by all known completions _\[at least once]_ in the community; <mark style="color:red;">(In NORMAL MODE +</mark> <mark style="color:red;"></mark>_<mark style="color:red;">Relatively Full, Non-Friendly S</mark>_<mark style="color:red;">erver.)</mark>
@@ -78,6 +78,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 * [<mark style="color:green;">**ze\_minimal\_skial\_2**</mark>](#user-content-fn-36)[^36]
 * [<mark style="color:green;">**ze\_mist\_skial\_3**</mark>](#user-content-fn-37)[^37]
 * [<mark style="color:red;">**ze\_obj\_rampage\_skial\_**</mark>](#user-content-fn-38)[^38]<mark style="color:red;">**2**</mark>
+* <mark style="color:green;">**ze\_offliner\_skial\_1**</mark>
 * [<mark style="color:red;">**ze\_outlast\_skial\_**</mark>](#user-content-fn-39)[^39]<mark style="color:red;">**6**</mark>
 * [<mark style="color:green;">**ze\_otakuroom\_skial\_4**</mark> ](#user-content-fn-40)[^40]
 * [<mark style="color:green;">**ze\_pirates\_port\_royal\_skial\_12**</mark>](#user-content-fn-41)[^41]

@@ -40,7 +40,6 @@
 * <mark style="color:yellow;">**ze\_neochrome**</mark>
 * <mark style="color:yellow;">**ze\_nomada**</mark>
 * <mark style="color:yellow;">**ze\_obj\_filth**</mark>** (8/24/2024 casualty of map purge)**
-* <mark style="color:yellow;">**ze\_offliner**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_onahole**</mark>
 * <mark style="color:yellow;">**ze\_oot\_shadowtemple**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_parkour\_paradise**</mark> **(removed 3/17/2024)**
