@@ -61,7 +61,6 @@
 * <mark style="color:yellow;">**ze\_timesplitters**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_titanic**</mark>
 * <mark style="color:yellow;">**ze\_3valley**</mark>
-* <mark style="color:yellow;">**ze\_visualizer**</mark>** (removed 6/24/2024)**
 * <mark style="color:yellow;">**ze\_warlab**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_wuhan**</mark>
 

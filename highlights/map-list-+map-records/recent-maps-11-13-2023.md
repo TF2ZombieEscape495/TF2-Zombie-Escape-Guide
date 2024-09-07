@@ -1,4 +1,4 @@
-# Recent Maps 8/2/2024
+# Recent Maps 9/6/2024
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -7,6 +7,10 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 {% endhint %}
 
 ## 2024:
+
+### 9/6/2024 - Visualizer (Returning Map)
+
+* ze\_visualizer returned to map list
 
 ### 8/2/2024 - 2049
 
