@@ -78,7 +78,7 @@
   * [Zombie Sniper](human-zombie-guides-stats-here/meet-the-zombies/zombie-sniper.md)
   * [Zombie Spy](human-zombie-guides-stats-here/meet-the-zombies/zombie-spy.md)
 * [Human Meta (+Loadouts!)](human-zombie-guides-stats-here/human-meta-discussion-outdated-+loadouts/README.md)
-  * [Team Composition \[OPTIMAL DPS!\]](human-zombie-guides-stats-here/human-meta-discussion-outdated-+loadouts/team-composition.md)
+  * [\[OPTIMAL DPS\] + Team Comps](human-zombie-guides-stats-here/human-meta-discussion-outdated-+loadouts/team-composition.md)
   * [Class Loadouts (Scout/Soldier/Pyro)](human-zombie-guides-stats-here/human-meta-discussion-outdated-+loadouts/class-loadouts-scout-soldier-pyro.md)
   * [Class Loadouts (Demoman/Heavy/Engineer)](human-zombie-guides-stats-here/human-meta-discussion-outdated-+loadouts/class-loadouts-demoman-heavy-engineer.md)
   * [Class Loadouts (Medic/Sniper/Spy)](human-zombie-guides-stats-here/human-meta-discussion-outdated-+loadouts/class-loadouts-medic-sniper-spy.md)

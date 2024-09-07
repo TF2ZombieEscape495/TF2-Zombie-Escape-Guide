@@ -1,29 +1,10 @@
-# Team Composition \[OPTIMAL DPS!]
+---
+description: >-
+  Some recommendations on weapons that can push overall team damage higher and
+  reliably kill bosses faster.
+---
 
-
-
-{% hint style="info" %}
-<mark style="color:yellow;">**Note:**</mark> 64 players has changed a lot about TF2 ZE's flow in terms of team comps - but everything here is still relevant in terms of what you'll want in a team; albeit just think of it as higher numbers now. Heavies and Engineers are still capped to (8) total slots.
-{% endhint %}
-
-Just like in regular TF2, a good team composition is necessary to beat the other team or, in this case, the maps themselves. Having a team of Snipers for something like Dustbowl or 2fort never bodes well. Here it is... actually decent? Here are some things to consider regarding the number of classes in a team; some may be expected, and some may be surprising.
-
-## Main Points
-
-* You generally want max (8) Heavies
-* A couple healing sources (3-4) from Medics and Engineers are helpful; Concheror and Mad Milk can work just as well.
-* A few (2-3) Pyros for stalling is very helpful.
-* A few (2-3) dedicated Spy and Scout triggerers is fine.
-* Really only need a few (2-3) specialist classes (e.g. Soldier, Demoman, Sniper, Spy) for certain niches like stunning or killing zombies and other various supports.
-* Remaining slots should try to fill the above **from top to bottom.**
-
-## Full Team Compositions
-
-### The General Case
-
-For almost all maps, this type of team will work well. The first class you might want to stack is **Heavies**. You'll always want Heavies for their high DPS, survivability, and high rate of fire. Aside from that, a few triggerers like Scouts or Spies can help rush things along.&#x20;
-
-Sources of healing are crucial to deal with Mutation spam, so Medics and Engineers are very helpful for that role. For safety, a few Pyros can stall zombies when falling back with the addition of a couple Demos to further bolster the stall. A pair of Soldiers with Concheror can be extremely useful so you can consistently get buffed by the Concheror's effects; so long as they're chaining it one after another.
+# \[OPTIMAL DPS] + Team Comps
 
 ### Optimal DPS: Easy to Use!
 
@@ -63,6 +44,29 @@ Attached to most of these suggestions are dumbed down descriptive notes that exp
   * _User must commit to a full scope-in for 5 second intervals; suspectible to many boss attacks like Brass Beast is._
 * <mark style="color:yellow;">**Spies**</mark>** can use the** [**Enforcer**](../meet-the-humans-outdated-+weapons/spy/primaries.md#enforcer) **\[191 DPS]**
   * _**User must repeatedly fully equip a disguise between firing shots for efficient DPS output; may lead to poor DPS if timing isn't precise.**_
+
+{% hint style="info" %}
+<mark style="color:yellow;">**Note:**</mark> 64 players has changed a lot about TF2 ZE's flow in terms of team comps - but everything here is still relevant in terms of what you'll want in a team; albeit just think of it as inflated, higher numbers now. Heavies and Engineers are still capped to (8) total slots.
+{% endhint %}
+
+Just like in regular TF2, a good team composition is necessary to beat the other team or, in this case, the maps themselves. Having a team of Snipers for something like Dustbowl or 2fort never bodes well. Here it is... actually decent? Here are some things to consider regarding the number of classes in a team; some may be expected, and some may be surprising.
+
+## Main Points
+
+* You generally want max (8) Heavies
+* A couple healing sources (3-4) from Medics and Engineers are helpful; Concheror and Mad Milk can work just as well.
+* A few (2-3) Pyros for stalling is very helpful.
+* A few (2-3) dedicated Spy and Scout triggerers is fine.
+* Really only need a few (2-3) specialist classes (e.g. Soldier, Demoman, Sniper, Spy) for certain niches like stunning or killing zombies and other various supports.
+* Remaining slots should try to fill the above **from top to bottom.**
+
+## Full Team Compositions
+
+### The General Case
+
+For almost all maps, this type of team will work well. The first class you might want to stack is **Heavies**. You'll always want Heavies for their high DPS, survivability, and high rate of fire. Aside from that, a few triggerers like Scouts or Spies can help rush things along.&#x20;
+
+Sources of healing are crucial to deal with Mutation spam, so Medics and Engineers are very helpful for that role. For safety, a few Pyros can stall zombies when falling back with the addition of a couple Demos to further bolster the stall. A pair of Soldiers with Concheror can be extremely useful so you can consistently get buffed by the Concheror's effects; so long as they're chaining it one after another.
 
 #### ~~Sniper Gaming~~
 
