@@ -35,29 +35,29 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 * [**ze\_frozen\_abyss**](https://gamebanana.com/mods/79706) <mark style="color:yellow;">**added (CS Port)**</mark>
 * **\[2 Stages | 3 Zombie Items | 5 Human Items | NPCs | Bosses | Admin-only Marathon Mode]**
 
-### 2/17/2024 - Atix Apocalypse
+### ~~2/17/2024 - Atix Apocalypse~~
 
-* **`ze_atix_apocalypse`** <mark style="color:yellow;">**(returned to map list) (CS Port)**</mark>
+* ~~**`ze_atix_apocalypse`**~~ ~~<mark style="color:yellow;">**(returned to map list) (CS Port)**</mark>~~
 
 ### 2/17/2024 - OBJ Rampage
 
 * **`ze_obj_rampage`** <mark style="color:yellow;">**added (CS Port)**</mark>
 * **\[1 Stage | 35 minute average | Enzymes Disabled]**
 
-### 2/17/2024 - OBJ Filth
+### ~~2/17/2024 - OBJ Filth~~
 
-* **`ze_obj_filth`** <mark style="color:yellow;">**added (CS Port)**</mark>
-* **\[1 stage | 40 minute average | Enzymes Disabled]**
+* ~~**`ze_obj_filth`**~~ ~~<mark style="color:yellow;">**added (CS Port)**</mark>~~
+* ~~**\[1 stage | 40 minute average | Enzymes Disabled]**~~
 
 ### 2/14/2024 - Meatropolis
 
 * **`ze_meatropolis`** <mark style="color:yellow;">**added (CS Port)**</mark>
 * **\[3 Stages | 6 Human Items | Boss Fight]**
 
-### **1/28/2024 - Warlab**
+### ~~**1/28/2024 - Warlab**~~
 
-* **`ze_warlab`** <mark style="color:yellow;">**added! (TF2 Original Map)**</mark>&#x20;
-* _**\[1 Stage, 2 endings, some items, and a boss]**_
+* ~~**`ze_warlab`**~~ ~~<mark style="color:yellow;">**added! (TF2 Original Map)**</mark>~~&#x20;
+* ~~_**\[1 Stage, 2 endings, some items, and a boss]**_~~
 
 ### 1/18/2024 - Sandstone
 
@@ -78,7 +78,7 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 **`ze_evernight_skial_1`** <mark style="color:yellow;">**has returned! (CS Port)**</mark>
 
-**`ze_ffxiv_wanderers_palace_skial_3`** <mark style="color:yellow;">**has returned! (CS Port)**</mark>
+~~**`ze_ffxiv_wanderers_palace_skial_3`**~~ ~~<mark style="color:yellow;">**has returned! (CS Port)**</mark>~~
 
 ### 9/20/2023 Ryujin Update
 
@@ -88,9 +88,9 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 **`ze_freezy_v1c`** <mark style="color:yellow;">**added (TF2 Original Map)**</mark>
 
-### 9/10/2023 Peter Griffin Burger Emporium
+### ~~9/10/2023 Peter Griffin Burger Emporium~~
 
-**`ze_peter_griffin_burger_emporium_v1`** <mark style="color:yellow;">**added (TF2 Original map.)**</mark>
+~~**`ze_peter_griffin_burger_emporium_v1`**~~ ~~<mark style="color:yellow;">**added (TF2 Original map.)**</mark>~~
 
 ### 9/8/2023 LOTR Minas Tirith + FFXII Mt Bur Omisace
 
@@ -106,13 +106,13 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 * **`ze_minimal`** <mark style="color:yellow;">**returned to map list (CS Port)**</mark>
 
-### 8/27/2023 - AOT Trost
+### ~~8/27/2023 - AOT Trost~~
 
-* **`ze_aot_trost` **<mark style="color:yellow;">**added! (CS Port)**</mark>
+* ~~**`ze_aot_trost`**** **<mark style="color:yellow;">**added! (CS Port)**</mark>~~
 
-### 8/23/2023 - Aooka
+### ~~8/23/2023 - Aooka~~
 
-* **`ze_aooka`**<mark style="color:yellow;">**added! (CS Port)**</mark>
+* ~~**`ze_aooka`**<mark style="color:yellow;">**added! (CS Port)**</mark>~~
 
 ### 8/22/2023 - Fall Guys
 
@@ -130,32 +130,32 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 * **L0v0l**
 * **Luciddreams**
 * **Mako Reactor (V6)**
-* **M0w0m**
-* **Neochrome**
+* ~~**M0w0m**~~
+* ~~**Neochrome**~~
 * **Offliner**
 * **Randomizer**
-* **Rizomata**
+* ~~**Rizomata**~~
 * **Sonic 3**
-* **Sorrento Escape**
+* ~~**Sorrento Escape**~~
 * **Sunlight**
 * **Surf Sahok**
-* **Tesv Skyrim**
+* ~~**Tesv Skyrim**~~
 
-### 6/27/2023 - Raiin
+### ~~6/27/2023 - Raiin~~
 
-* **`ze_raiin_v1f`** <mark style="color:yellow;">**added! (TF2 Original Map)**</mark>
+* ~~**`ze_raiin_v1f`**~~ ~~<mark style="color:yellow;">**added! (TF2 Original Map)**</mark>~~
 
 ### 6/25/2023 - Bioluminescent
 
 * **`ze_bioluminescent_v2`** <mark style="color:yellow;">**added! (CS Port)**</mark>
 
-### 6/3/2023 - Persona
+### ~~6/3/2023 - Persona~~
 
-* **`ze_persona_v1`** <mark style="color:yellow;">**added! (TF2 Original Map)**</mark>
+* ~~**`ze_persona_v1`**~~ ~~<mark style="color:yellow;">**added! (TF2 Original Map)**</mark>~~
 
-### 5/26/2023 - Kitchen
+### ~~5/26/2023 - Kitchen~~
 
-* **`ze_kitchen_skial_1` **<mark style="color:yellow;">**added! (CS Port)**</mark>
+* ~~**`ze_kitchen_skial_1`**** **<mark style="color:yellow;">**added! (CS Port)**</mark>~~
 
 ### 5/24/2023 - Diddle
 
