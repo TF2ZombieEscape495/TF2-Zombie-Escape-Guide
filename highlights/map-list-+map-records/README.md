@@ -33,11 +33,11 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 1. [<mark style="color:red;">**ze\_2049\_tf2**</mark>](#user-content-fn-1)[^1]<mark style="color:red;">**\_f1**</mark>
 2. <mark style="color:green;">**ze\_**</mark>[<mark style="color:green;">**666\_crazy\_escape\_skial\_v2**</mark>](#user-content-fn-2)[^2]
 3. [<mark style="color:green;">**ze\_A\_E\_S\_T\_H\_E\_T\_I\_C\_p3**</mark>](#user-content-fn-3)[^3]
-4. <mark style="color:green;">**ze\_ascension\_v6b**</mark>
+4. <mark style="color:green;">**ze\_ascension\_v6b**</mark>**   **_<mark style="color:yellow;">**(TF2 map)**</mark>_
 5. [<mark style="color:green;">**ze\_bathroom\_skial\_8**</mark> ](#user-content-fn-4)[^4]
 6. [<mark style="color:green;">**ze\_best\_korea\_skial\_4**</mark>](#user-content-fn-5)[^5]
 7. [<mark style="color:green;">**ze\_bioluminescent\_v2**</mark>](#user-content-fn-6)[^6]
-8. [<mark style="color:green;">**ze\_breezy\_**</mark>](#user-content-fn-7)[^7]<mark style="color:green;">**v5**</mark>
+8. [<mark style="color:green;">**ze\_breezy\_**</mark>](#user-content-fn-7)[^7]<mark style="color:green;">**v5**</mark>**   **_<mark style="color:yellow;">**(TF2 map)**</mark>_
 9. [<mark style="color:green;">**ze\_crazy\_escape\_skial\_2**</mark>](#user-content-fn-8)[^8]
 10. [<mark style="color:green;">**ze\_dark\_souls\_skial\_2**</mark>](#user-content-fn-9)[^9]
 11. [<mark style="color:green;">**ze\_deadcore\_skial\_5**</mark>](#user-content-fn-10)[^10]
@@ -56,19 +56,19 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 24. [<mark style="color:green;">**ze\_ffvii\_malgo\_reactor\_4\_2\_s**</mark>](#user-content-fn-21)[^21]<mark style="color:green;">**7**</mark>
 25. [<mark style="color:green;">**ze\_ffxii\_mt\_bur\_omisace\_b1**</mark>](#user-content-fn-22)[^22] **(v5, Classic Version)**
 26. [<mark style="color:red;">**ze\_ffxii\_mt\_bur\_omisace\_v6\_s3fix**</mark>](#user-content-fn-23)[^23] **(v6, New Version)**
-27. [<mark style="color:green;">**ze\_freezy\_v1**</mark>](#user-content-fn-24)[^24]<mark style="color:green;">**d**</mark>
+27. [<mark style="color:green;">**ze\_freezy\_v1**</mark>](#user-content-fn-24)[^24]<mark style="color:green;">**d**</mark>**   **_<mark style="color:yellow;">**(TF2 map)**</mark>_
 28. [<mark style="color:green;">**ze\_frostdrake\_tower\_skial\_3**</mark>](#user-content-fn-25)[^25]
 29. [<mark style="color:red;">**ze\_frozen\_abyss\_skial\_1**</mark>](#user-content-fn-26)[^26]
 30. <mark style="color:green;">**ze\_frozentemple\_skial\_b1**</mark>
-31. [<mark style="color:green;">**ze\_garten\_of\_banban\_laserdance\_awesomeworld\_taylors\_version\_v2**</mark>](#user-content-fn-27)[^27]
+31. [<mark style="color:green;">**ze\_garten\_of\_banban\_laserdance\_awesomeworld\_taylors\_version\_v2**</mark>](#user-content-fn-27)[^27]   _<mark style="color:yellow;">**(TF2 map)**</mark>_
 32. <mark style="color:green;">**ze\_gris\_skial\_5**</mark>&#x20;
 33. <mark style="color:green;">**ze\_hydroponic\_garden\_s\_2**</mark>
 34. <mark style="color:green;">**ze\_icecap\_escape\_skial\_o2**</mark>
 35. <mark style="color:green;">**ze\_johnny\_nukem\_skial\_6**</mark>
-36. [<mark style="color:green;">**ze\_krusty\_krab\_skial\_4**</mark>](#user-content-fn-28)[^28]
+36. [<mark style="color:green;">**ze\_krusty\_krab\_skial\_4**</mark>](#user-content-fn-28)[^28]   _<mark style="color:yellow;">**(TF2-exclusive bonus stages)**</mark>_
 37. [<mark style="color:green;">**ze\_l0v0l\_v1**</mark>](#user-content-fn-29)[^29]
-38. [<mark style="color:red;">**ze\_laserheaven\_v2a**</mark>](#user-content-fn-30)[^30]
-39. [<mark style="color:red;">**ze\_laserhell\_v1\_1\_1\_1**</mark>](#user-content-fn-31)[^31]
+38. [<mark style="color:red;">**ze\_laserheaven\_v2a**</mark>](#user-content-fn-30)[^30]   _<mark style="color:yellow;">**(TF2 map)**</mark>_
+39. [<mark style="color:red;">**ze\_laserhell\_v1\_1\_1\_1**</mark>](#user-content-fn-31)[^31]   _<mark style="color:yellow;">**(TF2 map)**</mark>_
 40. [<mark style="color:green;">**ze\_last\_man\_standing\_b1**</mark>](#user-content-fn-32)[^32]
 41. [<mark style="color:green;">**ze\_lotr\_minas\_tirith\_skial\_1**</mark>](#user-content-fn-33)[^33]<mark style="color:green;">**4**</mark>
 42. [<mark style="color:green;">**ze\_luciddreams\_b1**</mark>](#user-content-fn-34)[^34] **(New Version)**
@@ -85,14 +85,14 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 53. [<mark style="color:green;">**ze\_pirates\_port\_royal\_skial\_12**</mark>](#user-content-fn-42)[^42]
 54. [<mark style="color:green;">**ze\_pokemon\_adventure\_skial\_11**</mark>](#user-content-fn-43)[^43]
 55. [<mark style="color:green;">**ze\_portal\_story\_skial\_6**</mark>](#user-content-fn-44)[^44]
-56. <mark style="color:green;">**ze\_quicksand\_v1e**</mark>&#x20;
+56. <mark style="color:green;">**ze\_quicksand\_v1e**</mark>**   **_<mark style="color:yellow;">**(TF2 map)**</mark>_&#x20;
 57. <mark style="color:green;">**ze\_random\_skial\_7**</mark>&#x20;
 58. [<mark style="color:red;">**ze\_randomizer\_p2**</mark>](#user-content-fn-45)[^45]
 59. [<mark style="color:green;">**ze\_rizomata\_skial\_8**</mark>](#user-content-fn-46)[^46]
 60. [<mark style="color:green;">**ze\_rush\_b\_skial\_6**</mark>](#user-content-fn-47)[^47]
-61. [<mark style="color:green;">**ze\_ryujin\_v3**</mark>](#user-content-fn-48)[^48]
+61. [<mark style="color:green;">**ze\_ryujin\_v3**</mark>](#user-content-fn-48)[^48]   _<mark style="color:yellow;">**(TF2 map)**</mark>_
 62. [<mark style="color:green;">**ze\_S\_A\_M\_skial\_9**</mark>](#user-content-fn-49)[^49]
-63. [<mark style="color:green;">**ze\_sandstone\_v2**</mark>](#user-content-fn-50)[^50]
+63. [<mark style="color:green;">**ze\_sandstone\_v2**</mark>](#user-content-fn-50)[^50]   _<mark style="color:yellow;">**(TF2 map)**</mark>_
 64. [<mark style="color:red;">**ze\_santassination\_s4**</mark>](#user-content-fn-51)[^51]
 65. [<mark style="color:green;">**ze\_scp\_skial\_4**</mark>](#user-content-fn-52)[^52]
 66. [<mark style="color:green;">**ze\_serpentis\_temple\_skial\_4**</mark>](#user-content-fn-53)[^53]
@@ -110,7 +110,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 78. [<mark style="color:green;">**ze\_uchiha\_legacy\_skial\_8**</mark>](#user-content-fn-60)[^60]
 79. <mark style="color:green;">**ze\_visualizer\_skial\_3**</mark>
 80. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-61)[^61]
-81. <mark style="color:green;">**ze\_voodoo\_islands\_skial\_5**</mark>&#x20;
+81. <mark style="color:green;">**ze\_voodoo\_islands\_skial\_5**</mark>**    **_<mark style="color:yellow;">**(Re-made as TF2 Map)**</mark>_
 
 [^1]: <mark style="color:yellow;">**Run Record:**</mark>
 
