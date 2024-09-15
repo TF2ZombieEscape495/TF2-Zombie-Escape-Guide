@@ -8,7 +8,7 @@
 
 ### **9/14/2024 - Leader Changes**
 
-* **Leader function no longer persists between rounds if leader dies without surviving current round; **~~_**consquence of troll-voting leader bad players**_~~_** ****(you will need to re-vl leader for markers)**_
+* **Leader function no longer persists between rounds if leader dies without surviving current round; **~~_**consquence of troll-voting leader bad players**_~~_** ****(you will need to re-vl leader for markers if this happens.)**_
 * _**(Admin only/event only?)**_** Leader vip mode toggle added to leader options (round will instantly end on leader death)**
 
 ### 8/24/2024 - 23 maps purged
