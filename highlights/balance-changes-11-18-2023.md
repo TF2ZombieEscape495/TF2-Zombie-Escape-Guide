@@ -1,10 +1,15 @@
-# Gamemode Changes 8/24/2024
+# Gamemode Changes 9/14/2024
 
 
 
 {% hint style="info" %}
 <mark style="color:yellow;">**Note:**</mark> Here's a quick page highlighting any recent significant changes to 'balance' changes that aren't just weapon changes; usually enzymes. The rest of the enzyme capabilities can be found in [**Zombie Overviews**](../general-overview/how-to-play-as-zombies/zombie-mutations-overview.md) **(Simplified)** and [**Meet The Zombies subpages**](../human-zombie-guides-stats-here/meet-the-zombies/) **(Detailed.)**
 {% endhint %}
+
+### **9/14/2024 - Leader Changes**
+
+* **Leader function no longer persists between rounds if leader dies without winning/surviving current round; **~~_**consquence of troll-voting leader bad players**_~~_** ****(you will need to re-vl leader for markers)**_
+* **Leader vip mode toggle added to leader options (round will instantly end on leader death)**
 
 ### 8/24/2024 - 23 maps purged
 
