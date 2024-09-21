@@ -1,10 +1,15 @@
-# Gamemode Changes 9/14/2024
+# Gamemode Changes 9/21/2024
 
 
 
 {% hint style="info" %}
 <mark style="color:yellow;">**Note:**</mark> Here's a quick page highlighting any recent significant changes to 'balance' changes that aren't just weapon changes; usually enzymes. The rest of the enzyme capabilities can be found in [**Zombie Overviews**](../general-overview/how-to-play-as-zombies/zombie-mutations-overview.md) **(Simplified)** and [**Meet The Zombies subpages**](../human-zombie-guides-stats-here/meet-the-zombies/) **(Detailed.)**
 {% endhint %}
+
+### **9/21/2024 - Normal Mode Change**
+
+* ~~_**(Unknown specific date)**_~~** Universal 40% map damage reduction reverted/removed on** [<mark style="color:orange;">**Normal Mode.**</mark>](../general-overview/mod-mechanics.md#modes)
+* &#x20;_tl;dr a lot of intended 1-shot mechanics like map traps/zombie items were 'broken' prior to this, and could just be tanked/or healed off without punishment; but should work again now._
 
 ### **9/14/2024 - Leader Changes**
 

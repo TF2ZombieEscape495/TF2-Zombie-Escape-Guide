@@ -82,16 +82,14 @@ At the top of the screen during rounds, you'll notice a timer. When it reaches <
 
 ### Modes
 
-<mark style="color:orange;">**Normal Difficulty**</mark> - _The standard way to play._
+<mark style="color:orange;">**Normal Difficulty**</mark> - _The standard way to play. Currently no modifiers._
 
-* As the standard difficulty, it's the **only** way _(new)_ map records/progress will count towards being completed. View [**Map Records**](../highlights/map-list-+map-records/) notes additional requirements.
-* **-40% Map Damage Reduction at all times. (**_Less boss damage, trap damage, etc...Stackable with Battalions too.)_
+* As the standard difficulty, it's the **only** way _(new)_ community map records/progress will count towards being completed. View [**Map Records**](../highlights/map-list-+map-records/) notes for any additional requirements.
 
 \
 <mark style="color:green;">**Casual Difficulty**</mark> - _A more relaxed take on the game mode, useful for learning or practicing a map:_
 
-* **Humans take less damage,** _(**-70% Map Damage Reduction**; Stackable with Battalions.)_
-* More damage is dealt to NPCs and bosses. _(Unverified.)_
+* **Humans take less damage,** _(**-70%(?) **_~~_**\[Possibly 30% now]**_~~_** ****Map Damage Reduction**; Stackable with Battalions.)_
 * Zombies are slowed for much longer, _(**+1 second** to slow duration.)_
 * Even individual _**pellets**_ will slow zombies from afar, granting _**solo-stalling capability almost exponentially.**_
 
