@@ -10,11 +10,18 @@ description: Breakdowns of what a Leader does.
 #### Skial's Zombie Escape server offers a leader plugin in the form of <mark style="color:yellow;">**`/vl [Player Name]`**</mark>
 
 You need <mark style="color:yellow;">**5**</mark> <mark style="color:yellow;">**people**</mark> to type this command with the player they would like to vote to be leader so they may have access to the leader commands. In the package comes a neat little tag above their head to indicate that they're in charge of the ~~sh‎it~~show!
+
+\
+_Leader functions other than <mark style="color:yellow;">**!transferleader playername**</mark> are intentionally disabled upon becoming infected/dying to 'encourage' passing the mantle to another Human who can lead the rest of the round._
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/leader tag.png" alt=""><figcaption></figcaption></figure>
 
 To activate leader actions, you must use TF2's voice commands. Each action below will indicate which voice-line to use. Additionally, a distance parameter is shown underneath the action name that changes depending on how far away one is from a marker.
+
+{% hint style="info" %}
+If you don't have any of these hotkeys binded or find it easier to have them all in one area, you can do the <mark style="color:yellow;">**!leadermenu**</mark> chat command to open a panel that will allow you to place them.
+{% endhint %}
 
 *   <mark style="color:yellow;">**Voice Command:**</mark> **Help!**
 

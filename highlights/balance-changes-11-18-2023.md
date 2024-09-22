@@ -9,11 +9,11 @@
 ### **9/21/2024 - Normal Mode Change**
 
 * ~~_**(Unknown specific date)**_~~** Universal 40% map damage reduction reverted/removed on** [<mark style="color:orange;">**Normal Mode.**</mark>](../general-overview/mod-mechanics.md#modes)
-* &#x20;_tl;dr a lot of intended 1-shot mechanics like map traps/zombie items were 'broken' prior to this, and could just be tanked/or healed off without punishment; but should work again now._
+* &#x20;_tl;dr a lot of intended 1-shot mechanics like map traps/zombie items were 'broken' prior to this, and could just be tanked/or healed off without punishment; but should work again now. As a result, many maps will feel 'harder' again as you'll be taking lots more damage generally._
 
 ### **9/14/2024 - Leader Changes**
 
-* <mark style="color:blue;">**(Reverted 9/15/2024)**</mark>** Leader now keeps their role upon death again.**
+* **Leader functionality (markers and leadermenu) will be disabled upon Leader's death - they will still retain the role and can !transferleader to another player or hold it until next round.**
 * _**(Admin only/event only?)**_** Leader vip mode toggle added to leader options (round will instantly end on leader death)**
 
 ### 8/24/2024 - 23 maps purged
