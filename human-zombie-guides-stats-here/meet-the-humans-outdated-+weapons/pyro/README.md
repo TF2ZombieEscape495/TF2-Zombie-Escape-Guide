@@ -21,11 +21,13 @@ description: Brief overview of the Human Pyro
 <mark style="color:red;">**Cons**</mark>
 
 * Low DPS for bosses and NPCs\
-  (flames essentially do 0 to no damage to them!)
+  _(flames essentially do 0 to no damage to them!)_
 * Has to be up close to zombies to be effective
+* Can Boost Zombies VERY high _via_ specific flares
 * Airblast resistance means that more Pyros make\
   them less effective
-* Flame throwers can outpace ammo regeneration
+* Flamethrower particles might be _(unintentionally)_ entirely blocked by specific map areas
+* Flamethrowers can outpace ammo regeneration
 
 \
 Utilizing their flamethrowers, Pyro's main job in Zombie Escape is defense support and stalling the zombies on fall backs. Set zombies on fire to slow them down or airblast them if they get too close. Make sure you have shotguns though as you can't deal damage to NPCs or bosses using your fire!\

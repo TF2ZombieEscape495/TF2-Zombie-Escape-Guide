@@ -23,7 +23,7 @@ layout:
 # What is Zombie Escape?
 
 {% hint style="info" %}
-<mark style="color:yellow;">**Note 1:**</mark> This guide is in a "finished" state but still is due for indefinite polish updates & future balance adjustments - there _might_ be some cracks here and there!
+<mark style="color:yellow;">**Note 1:**</mark> This guide is in a "finished" state but still is due for indefinite polish updates & future balance adjustments - there _might_ be some cracks here and there! _(Banners are currently broken on Gitbook's end and won't display on live pages properly)_
 
 <mark style="color:yellow;">**Note 2:**</mark> Try to copy the link as shown below when sharing this main page redirect - it's a lot shorter than the default address handle!
 

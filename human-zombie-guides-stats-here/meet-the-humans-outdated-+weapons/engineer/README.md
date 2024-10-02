@@ -15,13 +15,14 @@ description: Brief overview of the Human Engineer
 
 * Has access to buildings for support
 * Buildings can serve as blockades
-* Great for helping hold down defenses
+* Great for helping hold down longer defenses
 
 <mark style="color:red;">**Cons**</mark>
 
 * Can **only** set up **mini-sentries** and **dispensers.**
 * Buildings are deleted upon jumping on them
 * May be unable to place buildings in certain areas
+  * Buildings easily blocked by having large amounts of teammates
 
 \
 With the ability to build dispensers and sentries, Engineer naturally falls into the role of team support in Zombie Escape. With dispensers, the team will be able to replenish both ammo and health to withstand and recover from zombie hits or environmental damage. With mini-sentries, he can help bolster defenses with its auto-targeting allowing him to focus on repairing it or other buildings or allow himself to target zombies in tandem.\

@@ -14,18 +14,19 @@ description: Brief overview of the Human Spy
 <mark style="color:blue;">**Pros**</mark>
 
 * Class with the highest survivability thanks to Dead Ringer and Disguises
-* Highest DPS towards zombies (backstab)
-* Gains an ÜberCharge and speedboost on backstab
-* Relatively fast
+* Highest DPS towards zombies _(backstab)_
+  * Can eliminate deadly team-wiping capable Zombie Items from the round with the right play
+* Gains an ÜberCharge and speed-boost on backstab
+* Relatively fast base speed
 
 <mark style="color:red;">**Cons**</mark>
 
 * Poor defender
-* Bad team player **(zero beneficial team interactions)**
-* Safe play requires unattentive Zombies
-* Must be in zombie melee range for backstabs
-* Extremely risky play usually for low reward
-* Backstab damage inconsistent at times with certain maps having higher Zombie HP
+  * Bad team player _**(zero beneficial team interactions)**_
+* Extremely risky play usually for low reward;
+  * Safe play requires unattentive Zombies
+  * Must be in zombie melee range for backstabs
+  * **Backstab damage inconsistent at times with certain maps having higher Zombie HP**
 
 \
 The Spy is a tricky class to play effectively in Zombie Escape. Having the highest DPS towards zombies usually instantly killing them on backstab, his main job in Zombie Escape is to reliably deal with NPCs and Bosses with his high damage and survivability while being able to lessen pressure from the zombie horde by going on chainstabs to kill zombies if the defense fails. This requires him to get up and close even being among the horde to go for stabs. If you want to be greedy and go for chainstabs, your ÜberCharge and speedboost on backstab will only take you so far. If the zombies actually pay attention, you'll be met with bodyblocks preventing you rom escaping.\

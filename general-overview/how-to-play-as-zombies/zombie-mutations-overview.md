@@ -1,5 +1,7 @@
 ---
-description: These are special abilities exclusive to the Zombie Team.
+description: >-
+  These are special abilities exclusive to the Zombie Team; activated through
+  Enzymes.
 ---
 
 # Zombie Mutations Overview

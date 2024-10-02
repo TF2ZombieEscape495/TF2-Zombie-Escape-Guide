@@ -61,7 +61,11 @@ _Mechanically these will consist of several differing methods:_
 
 _Triggering will also <mark style="color:red;">**forcefully move Zombie Spawns forward**</mark> to prevent them from falling too far behind as a threat. (Unless the map doesn't move teleports or gives Zombies a new route instead.)_&#x20;
 
-_**With that in mind, be mindful when any leader communicates to **<mark style="color:red;">**NOT**</mark>_ _<mark style="color:red;">**trigger**</mark>** right away** -_ as the team may be imminently within the zombie teleport range/area from either missing a fall back or purposely over-defending an easier area. _**(Ex. Past the SECOND Frostdrake tree log, Shroomforest2 elevator trigger, V0u0v post-S3/S6 boss door.)**_
+{% hint style="danger" %}
+_**With that in mind, be mindful when any leader communicates to **<mark style="color:red;">**NOT**</mark>_ _<mark style="color:red;">**trigger**</mark>** right away** -_ as the team may be imminently within the zombie teleport range/area from either missing a fall back or purposely over-defending an easier area.&#x20;
+
+_**(Ex. Past the SECOND Frostdrake tree log, Shroomforest2 elevator trigger, V0u0v post-S3/S6 boss door.)**_
+{% endhint %}
 
 There should only be as many people going for them as there are the amount of triggers; _so two players for two buttons on two sides._&#x20;
 

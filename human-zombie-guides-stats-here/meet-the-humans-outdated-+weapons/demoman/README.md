@@ -15,13 +15,13 @@ description: Brief overview of the Human Demoman
 
 * Detonated stickies can cause an AoE stun
 * Extremely effective at group stalling
-* Can tank one zombie hit with a rechargeable shield
+* Can tank one Zombie hit with a rechargeable shield
 
 <mark style="color:red;">**Cons**</mark>
 
-* Primary can easily boost zombies in unfavorable directions
-* Slowest class
-* Up close, zombies can overwhelm easily
+* **Slowest** base class speed _(without the Pain Train)_
+* Up close, zombies can overwhelm easily due to lack of reliable knockback
+* Stickies will slide off any moving geometry; making it VERY hard to properly stun zombies on them
 * Stun immunity makes more Demos exponentially less effective
 
 \

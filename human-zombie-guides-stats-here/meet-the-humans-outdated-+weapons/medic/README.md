@@ -13,18 +13,18 @@ description: Brief overview of the Human Medic
 \
 <mark style="color:blue;">**Pros**</mark>
 
-* Natural self healing
+* Natural self-healing
 * Primary healing source for team
+  * Able to overheal teammates, potentially saving them from getting infected
 * Variety of ÜberCharges for different strategies
-* Able to overheal teammates, potentially saving them from getting infected
 * Syringe guns are very strong at defending
-* Somewhat fast
+* Fast base movement speed
 
 <mark style="color:red;">**Cons**</mark>
 
-* Unable to defend behind your teammates
 * Projectile based class
-* Healing may be nerfed or disabled during boss fights
+  * Unable to defend behind your teammates _(projectiles often blocked by teammates)_
+* Healing may be nerfed or entirely  disabled during boss fights
 
 \
 The team healer, Medic's main job in Zombie Escape is to keep the overall health of the team topped off against map hazards or Mutation spam. Your mediguns provide powerful single-target healing with the added benefit of providing overheals to tank zombie hits. If healing isn't your thing, the syringe guns do very nicely at stalling and holding back hordes of zombies due to their high firing rate.\

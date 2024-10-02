@@ -4,9 +4,15 @@
 
 In the subpages below are descriptions of each class and the stats of their respective weapons (modified for ZE). If you would like a more in-depth look into specific playstyles or suggestions, check out the [**Human Strategies**](../human-meta-discussion-outdated-+loadouts/) section of the guide.
 
-~~Note that in the weapons sections, **all the weapons will be ordered from top to bottom in what we feel are the most useful to the least useful as a Human**. Some weapons are relatively equal in terms of power so we will try to note it if we can. Reskins will not be mentioned as they will share the same stats as their stock counterpart.~~ Currently giving newly adjusted weapons time to flesh out on usage before judging their 'orders' too soon.
+Note that in the weapons sections, **all the weapons will be ordered from top to bottom in what we feel are the most useful to the least useful as a Human**. As of the last major overhaul; _most_ weapons are relatively equal in terms of power in the DPS department - so don't sweat it too much on what you actually need unless a map specifically calls for the [**highest damage**](../human-meta-discussion-outdated-+loadouts/team-composition.md#optimal-dps-easy-to-use).&#x20;
 
-Melees in this game are primarily judged on utility rather than damage. Since you're fighting near invincible enemies who can kill you at close range in one shot, it makes little sense to use it for combat. The only time you would is for zombies near death, Heavy Mutations (the most applicable scenario), and when you're the last survivor with the melee buff. Melee damage does not affect damage done to Heavies using their mutation but does affect the last human melee buff.
+<mark style="color:red;">**Reskins will not be mentioned**</mark>** as they will share the same stats as their stock counterpart.**
+
+**Melees in this game are primarily judged on **<mark style="color:yellow;">**utility**</mark>** rather than damage;**
+
+* Since you're fighting near invincible enemies who can kill you at close range in one shot, it makes little sense to use it for combat.
+* Since you're fighting near invincible enemies who can kill you at close range in one shot, it makes little sense to use it for combat. The only time you would is for zombies near death, Heavy Mutations (the most applicable scenario), and when you're the last survivor with the melee buff.
+* Melee damage does not affect damage done to Heavies using their mutation but does affect the last human melee buff.
 
 {% hint style="info" %}
 _<mark style="color:yellow;">**Note:**</mark>_ **If you would like a more in-depth explanation of the Stats, check out the** [**Stat Explanations**](../../miscellaneous-info/stat-explanation.md) **section in** [**Miscellaneous Information**](../../miscellaneous-info/miscellaneous-info....md)**.**
@@ -14,7 +20,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ **If you would like a more in-dep
 
 ## Color Coded Stats
 
-Weapon stats and attributes in _this segment_ are **color coded** to give the weapon pages some more soul, they also do have some meaning behind each particular color.
+Weapon stats and attributes in the _next_ _subpages_ are **color coded** to give the weapon pages some more spice;
 
 * <mark style="color:red;">**RED**</mark> will connotate as reductions or negative stats.
 * <mark style="color:blue;">**BLU**</mark> will connotate as buffs or positive stats.
