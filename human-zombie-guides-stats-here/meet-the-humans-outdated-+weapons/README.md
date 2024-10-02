@@ -1,8 +1,25 @@
+---
+description: >-
+  The all in one compendium for /every/ TF2 ZE weapon. Probably what you're
+  really looking for here.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Meet The Humans (+Weapons!)
 
-<figure><img src="../../.gitbook/assets/Meet The Humans Test.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Meet The Humans Test.png" alt="" width="479"><figcaption></figcaption></figure>
 
-In the subpages below are descriptions of each class and the stats of their respective weapons (modified for ZE). If you would like a more in-depth look into specific playstyles or suggestions, check out the [**Human Strategies**](../human-meta-discussion-outdated-+loadouts/) section of the guide.
+**In the subpages** below are descriptions of each class and the stats of their respective weapons (modified for ZE). If you would like a more in-depth look into specific loadouts, check out the [**Human Strategies**](../human-meta-discussion-outdated-+loadouts/) section of the guide.
 
 Note that in the weapons sections, **all the weapons will be ordered from top to bottom in what we feel are the most useful to the least useful as a Human**. As of the last major overhaul; _most_ weapons are relatively equal in terms of power in the DPS department - so don't sweat it too much on what you actually need unless a map specifically calls for the [**highest damage**](../human-meta-discussion-outdated-+loadouts/team-composition.md#optimal-dps-easy-to-use).&#x20;
 
@@ -20,7 +37,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ **If you would like a more in-dep
 
 ## Color Coded Stats
 
-Weapon stats and attributes in the _next_ _subpages_ are **color coded** to give the weapon pages some more spice;
+Weapon stats and attributes in the _next_ _subpages_ are **color coded** to give the weapon pages some more spice.
 
 * <mark style="color:red;">**RED**</mark> will connotate as reductions or negative stats.
 * <mark style="color:blue;">**BLU**</mark> will connotate as buffs or positive stats.
@@ -29,12 +46,16 @@ Weapon stats and attributes in the _next_ _subpages_ are **color coded** to give
 
 ## Movement Speed Comparisons
 
-ZE base movement speed (from highest to lowest):\
-**Scout** > **Spy** > **Medic** > **Pyro** = **Engineer** = **Sniper** > **Soldier** = **Heavy** > **Demoman**
+ZE base movement speed _(from fastest to slowest; not accounting in any modifiers like weapons!!)_
+
+1. Scout
+2. Spy
+3. Medic
+4. Pyro
+5. Engineer = Sniper
+6. Soldier = Heavy
+7. Demoman
 
 {% hint style="danger" %}
 **Moving backwards universally **<mark style="color:red;">**decreases movement speed**</mark>** to 90% - effectively meaning zombies can situationally outspeed you whilst backpedalling.**
 {% endhint %}
-
-
-

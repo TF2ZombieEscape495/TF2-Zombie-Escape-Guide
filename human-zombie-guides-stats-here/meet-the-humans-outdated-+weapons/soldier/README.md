@@ -20,7 +20,7 @@ description: Brief overview of the Human Soldier
 
 <mark style="color:red;">**Cons**</mark>
 
-* One of the slower classes _(without the Pain Train)_
+* One of the slower classes _(without the Pain Traina or active Conch)_
 * Lowest DPS out of all the classes
 * Can easily boost zombies in unfavorable directions
 * Rockets are slow making his defending inconsistent and very poor in wide open areas

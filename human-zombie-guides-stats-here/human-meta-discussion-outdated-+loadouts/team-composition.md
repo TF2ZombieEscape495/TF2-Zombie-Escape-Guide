@@ -33,7 +33,7 @@ Many of these weapons stray into the territory of having a major negative downsi
 Attached to most of these suggestions are dumbed down descriptive notes that explain why the weapon <mark style="color:red;">**might be harder for the average person to pick up on the fly**</mark> when seeking the most optimal damage-dealing methods under their mechanics.
 
 * <mark style="color:yellow;">**Scouts**</mark>** can use the** [**Force-A-Nature**](../meet-the-humans-outdated-+weapons/scout/primaries.md#force-a-nature) **\[200 DPS]**&#x20;
-  * _/Immense/ spread, movement debuff and vulnerability on user for holding out._&#x20;
+  * _Large spread, movement de-buff and vulnerability on user for holding out._&#x20;
 * <mark style="color:yellow;">**Soldiers**</mark>** can use the** [**Rocket Jumper**](../meet-the-humans-outdated-+weapons/soldier/primaries.md#rocket-jumper) **\[200 DPS]**&#x20;
   * _Weapon may kill user via splash, nearly impossible to hit moving targets with, insanely vulnerable on defenses with this out._
 * <mark style="color:yellow;">**Demomen**</mark>** can use the** [**Loose Cannon**](../meet-the-humans-outdated-+weapons/demoman/primaries.md#loose-cannon) **\[192 DPS]**
