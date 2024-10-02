@@ -8,8 +8,6 @@ coverY: 0
 \
 **A very special thanks to FreedVoid and Tranquility for making this all possible, this guide wouldn't be possible without them!**
 
-<figure><img src="../.gitbook/assets/__flandre_scarlet_komeiji_koishi_and_kedama_touhou_drawn_by_usamata__4e2c37e177deba5b374cfbfee794e26a.png" alt=""><figcaption></figcaption></figure>
+**Credit due to the** [**TF2 Wiki**](https://wiki.teamfortress.com/wiki/Team\_Fortress\_2) **for much of the weapon renders/icons used throughout here.**
 
-<figure><img src="../.gitbook/assets/217b6f772fe44df6.jpg" alt=""><figcaption></figcaption></figure>
-
-"momiji best touhou, fight me" - _infamous_ _last words of a **noob**_
+<figure><img src="../.gitbook/assets/217b6f772fe44df6.jpg" alt=""><figcaption><p>momiji best touhou, fight me</p></figcaption></figure>
