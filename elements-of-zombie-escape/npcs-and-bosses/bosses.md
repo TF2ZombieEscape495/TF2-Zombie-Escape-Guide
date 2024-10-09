@@ -8,9 +8,9 @@ description: A highlight of common boss attacks or mechanics featured.
 
 ## HP Scaling
 
-A boss' HP is typically scaled according to how many humans are currently in the boss arena or the amount of humans alive during a point in time. In most cases, if too many humans die during a boss fight, the boss' HP will remain scaled to the original amount of humans that scaled it in the first place. This will result in _very_ long boss fights for everybody.&#x20;
+A boss' HP is typically scaled according to how many humans are currently in the boss arena or the amount of humans alive during a point in time. In most cases, if too many humans die during a boss fight, the boss' HP will remain scaled to the original amount of humans that scaled it in the first place. This will result in _very_ long boss fights for everybody if there is only one boss bar.
 
-Some bosses may have _**multiple life bars**_**, such as 10**; which allows for the HP Value to <mark style="color:yellow;">**re-scale**</mark> at every new bar for situations where nearly the entire team has died; allowing for the select few people remaining to get through the boss seamlessly.\
+Some bosses may have _**multiple life bars**_**, such as 10 for example**; which allows for the HP Value to <mark style="color:yellow;">**re-scale downwards**</mark> at every new bar for situations where nearly the entire team has died; allowing for the select few people remaining to get through the boss seamlessly. You'll see this a lot on maps like `Mist, Offliner, and Visualizer's` bosses.\
 \
 With scaling in mind, a few situations might call for strategies of only allowing **one person** to fight the boss. As a result, its HP will be scaled low enough such that the boss can be killed much faster than usual or at least in more reasonable amount of time. Such cases can be found in `ze_dark_souls`, `ze_otakuroom` and `ze_ffxii_westersand`.
 
@@ -74,7 +74,7 @@ These attacks will forcefully move you into map hazards that damage you greatly 
 
 Also, be wary of standing on lines connecting two vertices. In some cases, you will be pushed or pulled with greater force due to being caught into multiple push/pull triggers. The combined strength may even be inescapable.
 
-What's a "vertice?" A vertex? In the context of arenas, think of it as where two edges meet. The corners. The spikey sections. The little bumps.
+**What's a "vertice?" A vertex? In the context of arenas, think of it as where two edges meet. The corners. The spikey sections. The little bumps.**
 
 Pushes and pulls are typically indicated with particles or warping effects "inward" or "outward", boiling down to a very reactionary attack that'll need to be responded to with the appropriate movement keys.
 

@@ -1,8 +1,25 @@
 # Zombie Pyro
 
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Icon_pyro_zombie.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 <mark style="color:yellow;">**Speed:**</mark> _**272.50 HU/s (90.8% base TF2 speed)**_\
-<mark style="color:red;">**Damage:**</mark> _**208**_\
-\
+<mark style="color:red;">**Damage:**</mark> _**208**_
+
+<mark style="color:blue;">**Pros**</mark>
+
+* **Deal ranged damage via Enzyme**
+  * **Can also infect via Enzyme at range**
+* **Access to** [**Backscratcher**](../meet-the-humans-outdated-+weapons/pyro/melees.md#backscratcher) **for Extra Damage**
+* **Access to** [**Powerjack**](../meet-the-humans-outdated-+weapons/pyro/melees.md#powerjack) **for Extra Speed**
+
+<mark style="color:red;">**Cons**</mark>
+
+* **Enzyme shrugged off by Humans with consistent/constant Healing**&#x20;
+
 As a zombie, the pyro has a lot of utility at his disposal with the different effects provided by his melee items. Aside from that, he's relatively fast, so he can try to weasel his way through humans while still being able to one-shot most of them.
 
 * On using his Mutation, Pyro will drastically drop in health gain **a giant bomb head** _(with a timer to automatically explode if not shot at.)_

@@ -1,5 +1,11 @@
 # Zombie Sniper
 
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Icon_sniper_zombie.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 {% hint style="info" %}
 ### _<mark style="color:yellow;">**Note:**</mark>_ The Razorback typically does not function while playing as a Human against stabs; _<mark style="color:blue;">however, it does work when playing Zombie!</mark>_&#x20;
 
@@ -9,8 +15,18 @@
 {% endhint %}
 
 <mark style="color:yellow;">**Speed:**</mark> _**272.5v HU/s (90.8% base TF2 speed)**_\
-<mark style="color:red;">**Damage:**</mark> _**208**_\
-\
+<mark style="color:red;">**Damage:**</mark> _**208**_
+
+<mark style="color:blue;">**Pros**</mark>
+
+* **Excellent Zombie Item Candidiate **_**(Won't get backstabbed in most cases via**_ [_**Razorback**_](../meet-the-humans-outdated-+weapons/sniper/secondaries.md#razorback) _**equip)**_
+* **Enzyme effectively shuts down **_**(reveals)**_** cloaked spies/can take out DR spies/overhealed classes**
+  * **Enzyme can make Map Hazards/NPCs deal more damage against Humans**
+
+<mark style="color:red;">**Cons**</mark>
+
+* **No movement increasing weapons**
+
 The Sniper acts like your standard zombie, there's not many gimmicks he can rely on until his enzyme charges, but when this happens, you'll see how his insane damage as a human translates. Oh, and if you got the memo from the note above, he's a perfect zombie class to go when grabbing items - although you might take more knockback, you'll have a good counter against spies that you can't keep track of on every corner.\
 \
 On using his Mutation, humans within a radius around him will be coated in Jarate for several seconds. **Their visibility will be impaired while they take increased damage from most sources of damage, such as from zombie hits, explosions, and even map-sourced damage.**

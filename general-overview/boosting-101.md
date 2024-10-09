@@ -16,20 +16,21 @@ _But what does it do?_ Instead of 'boosting' the zombies vertically into the sky
 
 ## Whose to blame?
 
-Boosting in TF2 ZE is most _commonly_ correlated with the Soldier class the moment a zombie goes flying into an overdefender or spells the end of a vital defense - but they're <mark style="color:yellow;">**not the only one that can do it!**</mark>&#x20;
+Boosting in TF2 ZE is most _commonly_ correlated with the Soldier class the moment a zombie goes flying into an overhead spot or spells the end of a vital defense - but they're <mark style="color:yellow;">**not the only one that can do it!**</mark>&#x20;
 
 In fact, technically _**any**_ class can 'boost' in certain conditions, such as a zombie standing overhead and directly shooting them from beneath to fling them into an <mark style="color:red;">**unfavorable position**</mark> or causing a boost via [**wind items**](../elements-of-zombie-escape/items/#pushes)**.**
 
 #### Though, some classes can do this more prominently than the others, here's most of the main culprits.
 
 * <mark style="color:blue;">**Soldier**</mark>
-  * [**Rockets**](#user-content-fn-1)[^1]
+  * Rockets
 * <mark style="color:blue;">**Pyro**</mark>
-  * [**Airblast**](#user-content-fn-2)[^2]
+  * Airblast
+  * Flares
 * <mark style="color:blue;">**Demoman**</mark>
-  * [**Grenades**](#user-content-fn-3)[^3]
+  * Grenades
 * <mark style="color:blue;">**Engineer**</mark>
-  * [**Mini-Sentries**](#user-content-fn-4)[^4]
+  * Mini-Sentries
 
 ## Speed-Boosting
 
@@ -53,12 +54,3 @@ In the event that you happened to meet the misfortune of perishing and wish to s
 
 
 
-
-
-[^1]: Most Rockets are a big culprit due to their **unpredictability** when splashing them at the zombies' legs - at times giving zombies drastic movement or height advantages that the team can't quickly respond to before they land on a human for a free infection.&#x20;
-
-[^2]: Airblasting _usually_ never gets this afar with it due to the resistance mechanic preventing spam - but situationally a pyro in panic may shove zombies into _you_ in moments where a defense is lost.
-
-[^3]: Pills are Demoman's only way of knocking back zombies - but you should _**really**_ rely on your stickies instead and let your team push zombies back for you; unless you absolutely need to use them. These mostly run into the same problems that Rockets have but for way less reward..
-
-[^4]: As for Sentries - this one is probable on ramp-like areas or attained through [**specific loadouts**](../human-zombie-guides-stats-here/human-meta-discussion-outdated-+loadouts/class-loadouts-demoman-heavy-engineer.md#sentinel-engineer) to increase knockback.

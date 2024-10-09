@@ -1,10 +1,28 @@
 # Zombie Demoman
 
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Icon_demoman_zombie.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 <mark style="color:yellow;">**Speed:**</mark> _**254.50v HU/s (84.8% base TF2 speed)**_\
 <mark style="color:red;">**Damage:**</mark> _**163**_
 
+<mark style="color:blue;">**Pros**</mark>
+
+* **Double Shield Charge **_**(via Enzyme)**_** is decent chase tool against lone, fleeing Humans**
+* **Can overcome base damage weakness via shield charge minicrits**
+
+<mark style="color:red;">**Cons**</mark>
+
+* **Weak Base Damage **_**(2x Hits to Infect 200+ HP Human)**_
+* **Shield Charge halted upon taking any damage**
+  * **Shield Charge also halted by any elevating geometry **_**(ramps/slopes)**_
+* **Slowest Base Zombie Class in the gamemode**
+
 {% hint style="info" %}
-### _<mark style="color:yellow;">**Note:**</mark>_ Trimping mechanics are disabled, though **you **_<mark style="color:blue;">**can**</mark>_** still get a movement increase** from the Ali Baba's Wee Booties or Bootlegger as Zombie Demoman _(as long as a shield is equipped.)_
+### _<mark style="color:yellow;">**Note:**</mark>_ Trimping mechanics are disabled, though **you **_<mark style="color:blue;">**can**</mark>_** still get a movement increase** from the Ali Baba's Wee Booties/Bootlegger as Zombie Demoman _(as long as a shield is equipped.)_
 
 ![](../../.gitbook/assets/100px-Item\_icon\_Ali\_Baba's\_Wee\_Booties.png)![](../../.gitbook/assets/100px-Item\_icon\_Bootlegger.png)
 {% endhint %}

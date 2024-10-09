@@ -1,7 +1,23 @@
 # Zombie Engineer
 
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Icon_engineer_zombie.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 <mark style="color:yellow;">**Speed:**</mark> _**272.5v HU/s (90.8% base TF2 speed)**_\
 <mark style="color:red;">**Damage:**</mark> _**208**_
+
+<mark style="color:blue;">**Pros**</mark>
+
+* **Can shut-down pesky doorway sentries via Enzyme**
+* **Can also completely lock down overdefenders within melee range of Enzyme**
+* Access to [**Southern Hospitality**](../meet-the-humans-outdated-+weapons/engineer/melees.md#southern-hospitality) **for Extra Speed **_**(and** B**leed Infect from range after melee hit)**_
+
+<mark style="color:red;">**Cons**</mark>
+
+* **Enzyme can be very strict to land within range of Humans**
 
 Being unable to utilize most of the special attributes of his wrenches and being unable to set up buildings, the Engineer plays like your standard zombie.&#x20;
 
