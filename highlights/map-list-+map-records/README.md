@@ -58,8 +58,8 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 23. [<mark style="color:green;">**ze\_ffvii\_mako\_reactor\_skial\_13**</mark>](#user-content-fn-20)[^20] **(v5, Classic Version)**
 24. [<mark style="color:green;">**ze\_ffvii\_mako\_reactor\_v6\_b5**</mark>](#user-content-fn-21)[^21]  **(v6, New Version)**
 25. [<mark style="color:green;">**ze\_ffvii\_malgo\_reactor\_4\_2\_s**</mark>](#user-content-fn-22)[^22]<mark style="color:green;">**7**</mark>
-26. [<mark style="color:green;">**ze\_ffxii\_mt\_bur\_omisace\_b1**</mark>](#user-content-fn-23)[^23] **(v5, Classic Version)**
-27. [<mark style="color:red;">**ze\_ffxii\_mt\_bur\_omisace\_v6\_s3fix**</mark>](#user-content-fn-24)[^24] **(v6, New Version)**
+26. [<mark style="color:green;">**ze\_ffxii\_mt\_bur\_omisace\_b1**</mark>](#user-content-fn-23)[^23] **(v5 Version)**
+27. [<mark style="color:red;">**ze\_ffxii\_mt\_bur\_omisace\_v6\_s3fix**</mark>](#user-content-fn-24)[^24] **(v6 - NEW Version)**
 28. [<mark style="color:green;">**ze\_freezy\_v1**</mark>](#user-content-fn-25)[^25]<mark style="color:green;">**d**</mark>**   **_<mark style="color:yellow;">**(TF2 map)**</mark>_
 29. [<mark style="color:green;">**ze\_frostdrake\_tower\_skial\_3**</mark>](#user-content-fn-26)[^26]
 30. [<mark style="color:red;">**ze\_frozen\_abyss\_skial\_1**</mark>](#user-content-fn-27)[^27]
@@ -138,7 +138,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 
     <mark style="color:orange;">**\[Stage 1/1]**</mark>
 
-    **boat...**
+    **boat**
 
 [^8]: ![](<../../.gitbook/assets/Breezy Marathon Win.png>)
 
@@ -158,7 +158,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 
     <mark style="color:orange;">**\[Extreme; All One Stage + Voting.]**</mark>
 
-    **-Record Pending...**
+    **\~Pending Record...**
 
 [^14]: ![](<../../.gitbook/assets/Djinn Win (1).png>)
 
@@ -188,7 +188,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 
     <mark style="color:orange;">**\[Stage 1/4 + ZM Mode]**</mark>
 
-    **\~Record Pending**
+    **\~Pending Record...**
 
 [^25]: ![](<../../.gitbook/assets/Freezy Win.PNG>)
 
@@ -198,7 +198,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 
     <mark style="color:orange;">**\[Stage 1/2]**</mark>
 
-    **\~Record Pending**
+    **\~Pending Record...**
 
 [^28]: ![](<../../.gitbook/assets/Banban Win.png>)
 
@@ -210,11 +210,19 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 
     <mark style="color:orange;">**\[Stage 3/3 - RTV Level]**</mark>
 
-    **Giant Fan Room**
+    **\~Giant Fan Room**
 
 [^32]: <mark style="color:yellow;">**Run Record:**</mark>
 
-    <mark style="color:orange;">**\~Stage 2**</mark><mark style="color:orange;">** **</mark>~~<mark style="color:orange;">**\[Meteor/Snow/EndlessNight**</mark>~~<mark style="color:orange;">**/Mako Pending...]**</mark>
+    <mark style="color:orange;">**\[Stage 2 Random Variant Stages]**</mark>
+
+    **\[Meteor]**
+
+    <mark style="color:green;">**\[Snow]**</mark>
+
+    <mark style="color:green;">**\[Endless Night]**</mark>
+
+    <mark style="color:red;">**\[Mako]**</mark>
 
     ![](../../.gitbook/assets/20230520023957\_1.png)
 
@@ -238,13 +246,13 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 
     <mark style="color:orange;">**\[Stage ?/?]**</mark>** **_**(Variant version; not sure how many variant stages)**_
 
-    **\~Pending Record**
+    **\~Pending Record...**
 
 [^41]: <mark style="color:yellow;">**Run Record:**</mark>
 
     <mark style="color:orange;">**\[Stage 1/1]**</mark>
 
-    **\~Pending Record**
+    **\~Pending Record...**
 
 [^42]: <mark style="color:yellow;">**Run Record:**</mark>
 
@@ -306,7 +314,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 [^62]: <mark style="color:yellow;">**Run Record:**</mark>\
     <mark style="color:orange;">**\[Stage 1/5]**</mark>
 
-    **\~Record Pending**
+    **\~Pending record...**
 
 [^63]: ![](<../../.gitbook/assets/Uchiha Win.jpeg>)
 
