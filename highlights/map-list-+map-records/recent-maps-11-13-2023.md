@@ -1,4 +1,4 @@
-# Recent Maps 10/9/2024
+# Recent Maps 10/10/2024
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -8,10 +8,14 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 ## 2024:
 
+### 10/10/2024 - Palace of Minolila
+
+* **ze\_palace\_of\_minolila** ported \[5 Stages + 1 Extra Stage | 7 Human Items | 4 Zombie Items]
+
 ### 10/9/2024 - 2 new maps
 
 * **ze\_boatescape6** ported
-* **ze\_tyranny2** ported
+* **ze\_tyranny2** ported \[5 Stages | 10 Human Items | 5 Zombie Items]
 
 ### 9/6/2024 - Visualizer (Returning Map)
 
