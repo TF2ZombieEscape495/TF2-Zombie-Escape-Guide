@@ -1,7 +1,8 @@
 ---
 description: >-
   A list of all the maps currently available on the Skial ZE servers as of the
-  date provided.
+  date provided among a checklist of whether or not they've been beaten by the
+  community.
 cover: ../../.gitbook/assets/test2.jpg
 coverY: 0
 ---

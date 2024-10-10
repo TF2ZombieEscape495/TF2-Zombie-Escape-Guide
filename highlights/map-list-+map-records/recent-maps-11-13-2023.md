@@ -8,7 +8,7 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 ## 2024:
 
-### 10/9/2024 - Boat & Mountain Escape
+### 10/9/2024 - 3 new maps
 
 * **ze\_boatescape6** ported
 * **ze\_mountain\_escape** ported
