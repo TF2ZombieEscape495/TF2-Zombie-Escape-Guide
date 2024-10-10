@@ -33,6 +33,8 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 [**`https://fastdl.skial.com`**](https://fastdl.skial.com)
 {% endhint %}
 
+_**`[The numerical listing doesn't mean anything; it just helps track map total easily, otherwise this is A-Z]`**_
+
 1. [<mark style="color:red;">**ze\_2049\_tf2**</mark>](#user-content-fn-1)[^1]<mark style="color:red;">**\_f1**</mark>
 2. <mark style="color:green;">**ze\_**</mark>[<mark style="color:green;">**666\_crazy\_escape\_skial\_v2**</mark>](#user-content-fn-2)[^2]
 3. [<mark style="color:green;">**ze\_A\_E\_S\_T\_H\_E\_T\_I\_C\_p3**</mark>](#user-content-fn-3)[^3]
