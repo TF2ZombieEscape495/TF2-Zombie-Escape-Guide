@@ -8,14 +8,14 @@ coverY: 0
 
 # Map List (+Map Records!)
 
-## Maps available to play: 83 maps [_<mark style="color:blue;">(last updated 10/9/2024)</mark>_](recent-maps-11-13-2023.md)
+## Maps available to play: 84 maps [_<mark style="color:blue;">(last updated 10/9/2024)</mark>_](recent-maps-11-13-2023.md)
 
 {% hint style="success" %}
 #### These are all color coded by all known completions _\[at least once]_ in the community; <mark style="color:red;">(In NORMAL MODE +</mark> <mark style="color:red;"></mark>_<mark style="color:red;">Relatively Full (30+), Non-Friendly S</mark>_<mark style="color:red;">erver.)</mark>
 
 _**Got a new**** **<mark style="color:green;">**win**</mark>** ****screenshot that fulfills this? Send it to**** **<mark style="color:green;">**@not\_pickles (Myuri)**</mark>** ****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`12 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`13 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>** = `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -111,10 +111,11 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 77. [<mark style="color:green;">**ze\_surf\_froyo\_b**</mark>](#user-content-fn-61)[^61]<mark style="color:green;">**3**</mark>
 78. <mark style="color:green;">**ze\_surf\_sahok\_skial\_4**</mark>
 79. <mark style="color:green;">**ze\_surf\_vortex\_skial\_6**</mark>
-80. [<mark style="color:green;">**ze\_uchiha\_legacy\_skial\_8**</mark>](#user-content-fn-62)[^62]
-81. <mark style="color:green;">**ze\_visualizer\_skial\_3**</mark>
-82. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-63)[^63]
-83. <mark style="color:green;">**ze\_voodoo\_islands\_skial\_5**</mark>**    **_<mark style="color:yellow;">**(Re-made as TF2 Map)**</mark>_
+80. [<mark style="color:red;">**ze\_tyranny2\_skial\_1**</mark>](#user-content-fn-62)[^62]
+81. [<mark style="color:green;">**ze\_uchiha\_legacy\_skial\_8**</mark>](#user-content-fn-63)[^63]
+82. <mark style="color:green;">**ze\_visualizer\_skial\_3**</mark>
+83. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-64)[^64]
+84. <mark style="color:green;">**ze\_voodoo\_islands\_skial\_5**</mark>**    **_<mark style="color:yellow;">**(Re-made as TF2 Map)**</mark>_
 
 [^1]: <mark style="color:yellow;">**Run Record:**</mark>
 
@@ -301,6 +302,11 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 
 [^61]: ![](<../../.gitbook/assets/Surf Froyo Win.png>)
 
-[^62]: ![](<../../.gitbook/assets/Uchiha Win.jpeg>)
+[^62]: <mark style="color:yellow;">**Run Record:**</mark>\
+    <mark style="color:orange;">**\[Stage 1/5]**</mark>
 
-[^63]: &#x20;![](<../../.gitbook/assets/v0u0v Win.jpg>)
+    **\~Record Pending**
+
+[^63]: ![](<../../.gitbook/assets/Uchiha Win.jpeg>)
+
+[^64]: &#x20;![](<../../.gitbook/assets/v0u0v Win.jpg>)

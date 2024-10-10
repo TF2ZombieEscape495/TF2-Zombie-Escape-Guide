@@ -12,6 +12,7 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 * **ze\_boatescape6** ported
 * **ze\_mountain\_escape** ported
+* **ze\_tyranny2** ported
 
 ### 9/6/2024 - Visualizer (Returning Map)
 
