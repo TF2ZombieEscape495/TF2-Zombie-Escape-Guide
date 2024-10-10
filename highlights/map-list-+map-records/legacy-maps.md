@@ -17,7 +17,7 @@
 * <mark style="color:yellow;">**ze\_blindingforest**</mark>
 * <mark style="color:yellow;">**ze\_challenger**</mark>
 * <mark style="color:yellow;">**ze\_christ\_is\_coming**</mark> **\[April Fools] (removed 4/2/2023)**
-* <mark style="color:yellow;">**ze\_contra**</mark> **\[removed 7(?)2024] **~~_**(didnt keep track of date tbh but not keeping it on here as a map record until/unless its fixed)**_~~
+* <mark style="color:yellow;">**ze\_contra**</mark> **\[removed 7(?)2024-ish; **_**never made it into nomlist too long**_**]**
 * <mark style="color:yellow;">**ze\_cruise**</mark>
 * <mark style="color:yellow;">**ze\_death\_star\_escape**</mark>
 * <mark style="color:yellow;">**ze\_expedition**</mark>
@@ -37,6 +37,7 @@
 * <mark style="color:yellow;">**ze\_lotr\_mines\_of\_moria**</mark> **(8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_lotr\_mount\_doom**</mark>
 * <mark style="color:yellow;">**ze\_m0w0m**</mark>
+* <mark style="color:yellow;">**ze\_mountain\_escape**</mark>** (10/10/2024 in nomlist for only a day)**
 * <mark style="color:yellow;">**ze\_neochrome**</mark>
 * <mark style="color:yellow;">**ze\_nomada**</mark>
 * <mark style="color:yellow;">**ze\_obj\_filth**</mark>** (8/24/2024 casualty of map purge)**
