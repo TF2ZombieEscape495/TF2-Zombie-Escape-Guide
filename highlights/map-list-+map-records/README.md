@@ -81,7 +81,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 47. <mark style="color:green;">**ze\_minecraft\_universe\_skial\_2**</mark>
 48. [<mark style="color:green;">**ze\_minimal\_skial\_2**</mark>](#user-content-fn-38)[^38]
 49. [<mark style="color:green;">**ze\_mist\_skial\_3**</mark>](#user-content-fn-39)[^39]
-50. [<mark style="color:red;">**ze\_mountain\_escape\_skial\_1**</mark>](#user-content-fn-40)[^40]
+50. [<mark style="color:red;">**ze\_mountain\_escape\_skial\_1**</mark>](#user-content-fn-40)[^40]&#x20;
 51. [<mark style="color:red;">**ze\_obj\_rampage\_skial\_**</mark>](#user-content-fn-41)[^41]<mark style="color:red;">**2**</mark>
 52. <mark style="color:green;">**ze\_offliner\_skial\_1**</mark>
 53. [<mark style="color:red;">**ze\_outlast\_skial\_**</mark>](#user-content-fn-42)[^42]<mark style="color:red;">**6**</mark>
@@ -134,9 +134,9 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 
 [^7]: <mark style="color:yellow;">**Run Record:**</mark>
 
-    <mark style="color:orange;">**\[Stage ?/?]**</mark>
+    <mark style="color:orange;">**\[Stage 1/1]**</mark>
 
-    **\~Pending Record**
+    **boat...**
 
 [^8]: ![](<../../.gitbook/assets/Breezy Marathon Win.png>)
 
@@ -234,7 +234,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 
 [^40]: <mark style="color:yellow;">**Run Record:**</mark>
 
-    <mark style="color:orange;">**\[Stage ?/?]**</mark>
+    <mark style="color:orange;">**\[Stage ?/?]**</mark>** **_**(Variant version; not sure how many variant stages)**_
 
     **\~Pending Record**
 
