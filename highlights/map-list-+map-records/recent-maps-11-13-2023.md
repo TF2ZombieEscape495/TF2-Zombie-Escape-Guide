@@ -8,9 +8,14 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 ## 2024:
 
-### 10/10/2024 - Palace of Minolila
+### 10/10/2024 - Palace of Minolila & Seasonal Maps
 
 * **ze\_palace\_of\_minolila** ported \[5 Stages + 1 Extra Stage | 7 Human Items | 4 Zombie Items]
+*
+* **ze\_halloween\_house** (returning seasonally, 1 stage)
+* **ze\_peter\_griffin's\_burger\_emporium** (returning seasonally, 6 stages)
+
+
 
 ### 10/9/2024 - 2 new maps
 
