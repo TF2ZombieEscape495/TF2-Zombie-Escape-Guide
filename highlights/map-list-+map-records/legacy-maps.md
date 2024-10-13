@@ -24,13 +24,11 @@
 * <mark style="color:yellow;">**ze\_experiment**</mark>
 * <mark style="color:yellow;">**ze\_fxii\_westersand**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_ffxiv\_wanderers\_palace**</mark>** (8/24/2024 casualty of map purge)**
-* <mark style="color:yellow;">**ze\_halloween\_house**</mark>
 * <mark style="color:yellow;">**ze\_honkai\_impact\_cyberpunk\_city**</mark>
 * <mark style="color:yellow;">**ze\_infected\_tramway**</mark>
 * <mark style="color:yellow;">**ze\_jungle\_lab**</mark>
 * <mark style="color:yellow;">**ze\_jurassic\_park\_story**</mark>
 * <mark style="color:yellow;">**ze\_kebab\_immigrant**</mark>
-* <mark style="color:yellow;">**ze\_kitchen**</mark>
 * <mark style="color:yellow;">**ze\_laboratoire**</mark>
 * <mark style="color:yellow;">**ze\_laserhell**</mark> _**(original laserhell, not current remake version)**_
 * <mark style="color:yellow;">**ze\_lotr\_helms\_deep**</mark> **(8/24/2024 casualty of map purge)**
@@ -38,7 +36,6 @@
 * <mark style="color:yellow;">**ze\_lotr\_mount\_doom**</mark>
 * <mark style="color:yellow;">**ze\_m0w0m**</mark>
 * <mark style="color:yellow;">**ze\_mountain\_escape**</mark>** (10/10/2024 in nomlist for only a day)**
-* <mark style="color:yellow;">**ze\_neochrome**</mark>
 * <mark style="color:yellow;">**ze\_nomada**</mark>
 * <mark style="color:yellow;">**ze\_obj\_filth**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_onahole**</mark>
