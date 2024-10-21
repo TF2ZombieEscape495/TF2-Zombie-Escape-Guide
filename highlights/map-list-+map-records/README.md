@@ -9,7 +9,7 @@ coverY: 0
 
 # Map List (+Map Records!)
 
-## Maps available to play: 88 maps [_<mark style="color:blue;">(last updated 10/20/2024)</mark>_](recent-maps-11-13-2023.md)
+## Maps available to play: 89 maps [_<mark style="color:blue;">(last updated 10/20/2024)</mark>_](recent-maps-11-13-2023.md)
 
 {% hint style="success" %}
 #### These are all color coded by all known completions _\[at least once]_ in the community; <mark style="color:red;">(In NORMAL MODE +</mark> <mark style="color:red;"></mark>_<mark style="color:red;">Relatively Full (30+), Non-Friendly S</mark>_<mark style="color:red;">erver.)</mark>
