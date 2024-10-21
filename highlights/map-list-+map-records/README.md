@@ -9,14 +9,14 @@ coverY: 0
 
 # Map List (+Map Records!)
 
-## Maps available to play: 88 maps [_<mark style="color:blue;">(last updated 10/10/2024)</mark>_](recent-maps-11-13-2023.md)
+## Maps available to play: 88 maps [_<mark style="color:blue;">(last updated 10/20/2024)</mark>_](recent-maps-11-13-2023.md)
 
 {% hint style="success" %}
 #### These are all color coded by all known completions _\[at least once]_ in the community; <mark style="color:red;">(In NORMAL MODE +</mark> <mark style="color:red;"></mark>_<mark style="color:red;">Relatively Full (30+), Non-Friendly S</mark>_<mark style="color:red;">erver.)</mark>
 
 _**Got a new**** **<mark style="color:green;">**win**</mark>** ****screenshot that fulfills this? Send it to**** **<mark style="color:green;">**@not\_pickles (Myuri)**</mark>** ****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`13 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`14 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>** = `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -72,7 +72,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 35. <mark style="color:green;">**ze\_hydroponic\_garden\_s\_2**</mark>
 36. <mark style="color:green;">**ze\_icecap\_escape\_skial\_o2**</mark>
 37. <mark style="color:green;">**ze\_johnny\_nukem\_skial\_6**</mark>
-38. <mark style="color:green;">**ze\_kitchen\_skial\_6**</mark>
+38. <mark style="color:green;">**ze\_kitchen\_skial\_7**</mark>
 39. [<mark style="color:green;">**ze\_krusty\_krab\_skial\_4**</mark>](#user-content-fn-29)[^29]   _<mark style="color:yellow;">**(TF2-exclusive bonus stages)**</mark>_
 40. [<mark style="color:green;">**ze\_l0v0l\_v1**</mark>](#user-content-fn-30)[^30]
 41. [<mark style="color:red;">**ze\_laserheaven\_v2a**</mark>](#user-content-fn-31)[^31]   _<mark style="color:yellow;">**(TF2 map)**</mark>_
@@ -112,17 +112,18 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 75. [<mark style="color:green;">**ze\_shroomforest3\_skial\_1**</mark> ](#user-content-fn-59)[^59]
 76. [<mark style="color:green;">**ze\_sonic\_3\_skial\_3**</mark>](#user-content-fn-60)[^60]
 77. <mark style="color:green;">**ze\_squid\_game\_skial\_6**</mark>
-78. [<mark style="color:green;">**ze\_star\_wars\_prequel\_skial\_10**</mark>](#user-content-fn-61)[^61]
-79. <mark style="color:green;">**ze\_sunlight\_skial\_1**</mark>
-80. <mark style="color:green;">**ze\_surf\_facility\_skial\_b1**</mark>
-81. [<mark style="color:green;">**ze\_surf\_froyo\_b**</mark>](#user-content-fn-62)[^62]<mark style="color:green;">**3**</mark>
-82. <mark style="color:green;">**ze\_surf\_sahok\_skial\_4**</mark>
-83. <mark style="color:green;">**ze\_surf\_vortex\_skial\_6**</mark>
-84. [<mark style="color:red;">**ze\_tyranny2\_skial\_1**</mark>](#user-content-fn-63)[^63]
-85. [<mark style="color:green;">**ze\_uchiha\_legacy\_skial\_8**</mark>](#user-content-fn-64)[^64]
-86. <mark style="color:green;">**ze\_visualizer\_skial\_3**</mark>
-87. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-65)[^65]
-88. <mark style="color:green;">**ze\_voodoo\_islands\_skial\_5**</mark>**    **_<mark style="color:yellow;">**(Re-made as TF2 Map)**</mark>_
+78. [<mark style="color:red;">**ze\_stalker\_ultimate\_s3**</mark>](#user-content-fn-61)[^61]
+79. [<mark style="color:green;">**ze\_star\_wars\_prequel\_skial\_10**</mark>](#user-content-fn-62)[^62]
+80. <mark style="color:green;">**ze\_sunlight\_skial\_1**</mark>
+81. <mark style="color:green;">**ze\_surf\_facility\_skial\_b1**</mark>
+82. [<mark style="color:green;">**ze\_surf\_froyo\_b**</mark>](#user-content-fn-63)[^63]<mark style="color:green;">**3**</mark>
+83. <mark style="color:green;">**ze\_surf\_sahok\_skial\_4**</mark>
+84. <mark style="color:green;">**ze\_surf\_vortex\_skial\_6**</mark>
+85. [<mark style="color:red;">**ze\_tyranny2\_skial\_1**</mark>](#user-content-fn-64)[^64]
+86. [<mark style="color:green;">**ze\_uchiha\_legacy\_skial\_8**</mark>](#user-content-fn-65)[^65]
+87. <mark style="color:green;">**ze\_visualizer\_skial\_3**</mark>
+88. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-66)[^66]
+89. <mark style="color:green;">**ze\_voodoo\_islands\_skial\_5**</mark>**    **_<mark style="color:yellow;">**(Re-made as TF2 Map)**</mark>_
 
 [^1]: <mark style="color:yellow;">**Run Record:**</mark>
 
@@ -314,15 +315,20 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
 [^60]: ![](<../../.gitbook/assets/Sonic3 Win.jpg>)
 
-[^61]: ![](<../../.gitbook/assets/Star Wars Win.jpg>)
-
-[^62]: ![](<../../.gitbook/assets/Surf Froyo Win.png>)
-
-[^63]: <mark style="color:yellow;">**Run Record:**</mark>\
+[^61]: <mark style="color:yellow;">**Run Record:**</mark>\
     <mark style="color:orange;">**\[Stage 1/5]**</mark>
 
     **\~Pending record...**
 
-[^64]: ![](<../../.gitbook/assets/Uchiha Win.jpeg>)
+[^62]: ![](<../../.gitbook/assets/Star Wars Win.jpg>)
 
-[^65]: &#x20;![](<../../.gitbook/assets/v0u0v Win.jpg>)
+[^63]: ![](<../../.gitbook/assets/Surf Froyo Win.png>)
+
+[^64]: <mark style="color:yellow;">**Run Record:**</mark>\
+    <mark style="color:orange;">**\[Stage 1/5]**</mark>
+
+    **\~Pending record...**
+
+[^65]: ![](<../../.gitbook/assets/Uchiha Win.jpeg>)
+
+[^66]: &#x20;![](<../../.gitbook/assets/v0u0v Win.jpg>)

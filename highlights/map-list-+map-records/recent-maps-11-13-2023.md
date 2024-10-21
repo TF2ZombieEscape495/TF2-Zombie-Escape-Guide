@@ -1,4 +1,4 @@
-# Recent Maps 10/10/2024
+# Recent Maps 10/20/2024
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -7,6 +7,10 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 {% endhint %}
 
 ## 2024:
+
+### 10/17/2024 - Stalker Ultimate
+
+* **ze\_stalker\_ultimate** ported \[5 Stages]
 
 ### 10/10/2024 - Palace of Minolila & Seasonal Maps
 
