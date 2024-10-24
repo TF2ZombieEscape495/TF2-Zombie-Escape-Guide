@@ -1,10 +1,13 @@
-# Gamemode Changes 9/21/2024
-
-
+# Gamemode Changes 10/24/2024
 
 {% hint style="info" %}
 <mark style="color:yellow;">**Note:**</mark> Here's a quick page highlighting any recent significant changes to 'balance' changes that aren't just weapon changes; usually enzymes. The rest of the enzyme capabilities can be found in [**Zombie Overviews**](../general-overview/how-to-play-as-zombies/zombie-mutations-overview.md) **(Simplified)** and [**Meet The Zombies subpages**](../human-zombie-guides-stats-here/meet-the-zombies/) **(Detailed.)**
 {% endhint %}
+
+### **10/24/2024 - Maps re-added + Map CD Increase**
+
+* [16 Maps Re-Added ](map-list-+map-records/recent-maps-11-13-2023.md#id-10-24-2024-16-maps-re-added)
+* Map CD increased to **20 map cooldown**
 
 ### **9/21/2024 - Normal Mode Change**
 

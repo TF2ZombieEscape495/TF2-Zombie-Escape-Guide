@@ -1,4 +1,4 @@
-# Recent Maps 10/20/2024
+# Recent Maps 10/24/2024
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -7,6 +7,24 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 {% endhint %}
 
 ## 2024:
+
+### 10/24/2024 - 16 Maps re-added
+
+* 3Valley
+* Atix Apocalypse
+* Bowser in The Fire Sea
+* Challenger
+* Evernight
+* Icecap (Other Version)
+* LOTR Helms Deep
+* LOTR Mines of Moria
+* Persona
+* Saw
+* Subway
+* Sorrento
+* Swamp Facility
+* Timesplitters
+* Titanic
 
 ### 10/17/2024 - Stalker Ultimate
 
@@ -18,8 +36,6 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 *
 * **ze\_halloween\_house** (returning seasonally, 1 stage)
 * **ze\_peter\_griffin's\_burger\_emporium** (returning seasonally, 6 stages)
-
-
 
 ### 10/9/2024 - 2 new maps
 
