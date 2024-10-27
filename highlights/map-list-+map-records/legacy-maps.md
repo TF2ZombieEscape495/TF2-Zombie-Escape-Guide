@@ -9,10 +9,10 @@
 * <mark style="color:yellow;">**ze\_aooka**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_aot\_trost**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_attackontitan\_troster**</mark>
-* <mark style="color:yellow;">**ze\_bowser\_in\_the\_fire\_sea**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_biohazard2\_rpd**</mark>
 * <mark style="color:yellow;">**ze\_black\_lagoon**</mark>
 * <mark style="color:yellow;">**ze\_blindingforest**</mark>
+* <mark style="color:yellow;">**ze\_boatescape6**</mark>
 * <mark style="color:yellow;">**ze\_christ\_is\_coming**</mark> **\[April Fools] (removed 4/2/2023)**
 * <mark style="color:yellow;">**ze\_contra**</mark> **\[removed 7(?)2024-ish; **_**never made it into nomlist too long**_**]**
 * <mark style="color:yellow;">**ze\_cruise**</mark>
