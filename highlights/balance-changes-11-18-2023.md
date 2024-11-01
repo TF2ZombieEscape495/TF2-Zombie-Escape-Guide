@@ -8,6 +8,7 @@
 
 * [16 Maps Re-Added ](map-list-+map-records/recent-maps-11-13-2023.md#id-10-24-2024-16-maps-re-added)
 * Map CD increased to **20 map cooldown**
+* **Map RTV timer removed (no longer have to wait 10 minutes to RTV on a map)**
 
 ### **9/21/2024 - Normal Mode Change**
 
