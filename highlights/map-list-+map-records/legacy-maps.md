@@ -2,6 +2,8 @@
 
 {% hint style="info" %}
 **Maps that were /once/ within the nomination pool but **<mark style="color:red;">**removed from the server**</mark>** due to any number of reasons - most commonly due to causing server issues. (A-Z)**
+
+Some of these are admin-only nominations and you might see them on EU or as an event if you're lucky.
 {% endhint %}
 
 * <mark style="color:yellow;">**ze\_aperturescience**</mark>
@@ -14,7 +16,7 @@
 * <mark style="color:yellow;">**ze\_blindingforest**</mark>
 * <mark style="color:yellow;">**ze\_boatescape6**</mark>
 * <mark style="color:yellow;">**ze\_christ\_is\_coming**</mark> **\[April Fools] (removed 4/2/2023)**
-* <mark style="color:yellow;">**ze\_contra**</mark> **\[removed 7(?)2024-ish; **_**never made it into nomlist too long**_**]**
+* <mark style="color:yellow;">**ze\_contra**</mark> **\[removed 7(?)2024-ish; **_**never made it into nomlist**_**]**
 * <mark style="color:yellow;">**ze\_cruise**</mark>
 * <mark style="color:yellow;">**ze\_death\_star\_escape**</mark>
 * <mark style="color:yellow;">**ze\_expedition**</mark>
