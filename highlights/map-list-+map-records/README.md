@@ -232,7 +232,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
     <mark style="color:orange;">**\[Stage 2 Random Variant Stages]**</mark>
 
-    **\[Meteor]**
+    <mark style="color:green;">**\[Meteor]**</mark>
 
     <mark style="color:green;">**\[Snow]**</mark>
 
