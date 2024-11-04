@@ -34,5 +34,4 @@ The Soldier Enzyme simply has **one** function - and that's beefing up your mele
 \
 Mostly left in the mud enzyme-wise after the removal of their prior enzyme.
 
-## _\[Pending new enzyme gif? Probably not...]_
-
+~~_\[Enzyme gif never]_~~

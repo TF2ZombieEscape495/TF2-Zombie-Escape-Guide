@@ -33,4 +33,4 @@ On using his Mutation, humans within a radius around him will be coated in Jarat
 
 **Most dangerously, however, is going be his Bushwacka.** Pair that with his ability and you can one-shot kill any class regardless of overheal. When you kill a human rather than infect them, you won't be stunned. So, if you're able to pop your Mutation and launch yourself into a crowd of humans, expect a big trim.
 
-<figure><img src="../../.gitbook/assets/Sniper Enzyme Reference.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Sniper Enzyme Reference.gif" alt=""><figcaption><p>Insta-killing (no infect) a soldier who otherwise might've had extra HP</p></figcaption></figure>

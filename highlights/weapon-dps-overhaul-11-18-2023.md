@@ -7,7 +7,7 @@ description: >-
 # Weapon DPS Overhaul 11/18/2023
 
 {% hint style="info" %}
-<mark style="color:yellow;">**Note:**</mark>** This page will be archived when weapons are adjusted again, but here's a highlight on what you will find changed! These descriptive notes are directly from the weapon balancers **_**(not the person writing guide.)**_
+<mark style="color:yellow;">**Note:**</mark>** This page will be archived when/or if weapons are adjusted again, but here's a highlight on what you will find changed! These descriptive notes are directly from the weapon balancers **_**(not the person writing guide.)**_
 {% endhint %}
 
 {% hint style="warning" %}

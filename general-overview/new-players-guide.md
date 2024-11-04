@@ -20,7 +20,11 @@ The sections of this guide that will be most likely be relevant to you will be t
 
 [**Where to Play**](where-to-play.md) _**(Skial ZE Server IPs)**_
 
-The rest of it? Well... don't sweat it! You can learn as you go or feel free to read up on it if you want. This guide is meant for anybody interested in the game mode, so there will be _**a lot**_ of information provided for reference.
+{% hint style="info" %}
+The rest of it? Well... don't sweat it! You can learn as you go or feel free to read up on it if you want - the guide's search bar is your friend here in finding obscure pages/subpages that you might not have noticed.\
+\
+This guide is meant for anybody interested in the game mode, so there will be _**a lot**_ of information provided for reference.&#x20;
+{% endhint %}
 
 Not necessarily every round will roll out the same way in a dynamic, player-driven mode like ZE - so while a lot of this guide might have specific takes on how you should play - there isn't really a definitive, one-note type of strategy for every map; don't be afraid to experiment around the edges!
 

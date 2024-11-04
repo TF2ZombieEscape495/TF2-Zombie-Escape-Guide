@@ -32,4 +32,4 @@ Similar to being the fastest human, Scout is also the fastest zombie. Sacrificin
 \
 **Scout's Mutation gives him a speed boost, indicated by a **_**banner effect**_** underneath the user.** This is useful for closing in on stallers unexpectedly to make them panic. Do note that this will lower your health significantly, so you will more than likely be shot dead before reaching the humans. This doesn't mean it isn't a great support tool as it can be used effectively to apply mild pressure on fallbacks.
 
-#### _\[Scout Enzyme Gif Missing Placeholder]_
+#### _\[Scout Enzyme Gif Missing]_

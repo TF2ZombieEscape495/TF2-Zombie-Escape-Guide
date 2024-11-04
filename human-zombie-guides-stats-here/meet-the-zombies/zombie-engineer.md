@@ -25,4 +25,4 @@ His mutation particularly specializes in punishing overdefenders that are far to
 
 On using his Mutation, there will be half a second delay before the Engineer will stun himself and a human nearby him for approximately <mark style="color:yellow;">**\~1 second.**</mark> This isn't all that useful if you're by _yourself_ as both you and the trapped human will break free at the same time. With teammates backing you, it's a different story. This is the type of Mutation that has to be popped with a bunch of other zombies following in tow. When you see lone overdefenders like a Pyro trying to stall up close or a slow Heavy trying to run away, you can use your ability to freeze them while your teammates rush in for the kill.
 
-<figure><img src="../../.gitbook/assets/Engineer Enzyme Reference.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Engineer Enzyme Reference.gif" alt=""><figcaption><p>Demonstration of how close-range you'll need to be to land this enzyme</p></figcaption></figure>

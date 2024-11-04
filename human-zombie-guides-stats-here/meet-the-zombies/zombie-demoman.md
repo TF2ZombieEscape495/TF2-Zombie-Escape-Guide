@@ -35,4 +35,4 @@ The **Tide Turner** really makes a huge difference in getting zombie demo kills/
 
 The other shields can't really compare despite their higher resistances and/or recharge rate. This is due to the aforementioned shields, but they can only do so much. Playing Demo will be really niche where it's best for you to focus on soloing out overdefenders or stragglers. Charge at them as soon as they turn and least expect it; and if they're unprepared for a second charge, _do it again!_
 
-<figure><img src="../../.gitbook/assets/Demo Charge Reference.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Demo Charge Reference.gif" alt=""><figcaption><p>A random straggler pyro unable to fend</p></figcaption></figure>

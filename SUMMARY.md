@@ -85,7 +85,7 @@
 * [Zombie Meta Discussion](human-zombie-guides-stats-here/zombie-meta-discussion/README.md)
   * [Mutation/Enzyme Chaining](human-zombie-guides-stats-here/zombie-meta-discussion/mutation-enzyme-chaining.md)
   * [Enzyme Combos + Alt Win Conditions](human-zombie-guides-stats-here/zombie-meta-discussion/enzyme-combos-+-alt-win-conditions.md)
-  * [Offensive Class Discussion](human-zombie-guides-stats-here/zombie-meta-discussion/offensive-class-discussion.md)
+  * [Zombie Offensive Class Discussion](human-zombie-guides-stats-here/zombie-meta-discussion/offensive-class-discussion.md)
   * [Defensive Class Discussion](human-zombie-guides-stats-here/zombie-meta-discussion/defensive-class-discussion.md)
   * [Support Class Discussion](human-zombie-guides-stats-here/zombie-meta-discussion/support-class-discussion.md)
 

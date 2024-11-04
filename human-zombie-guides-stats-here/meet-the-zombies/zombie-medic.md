@@ -26,5 +26,5 @@ This enzyme **also has a very large usage range** so make out of that what you c
 
 **The Solemn Vow** allows for Zombie Medic to view the HP of humans on their crosshair - allowing for zombie medic to reliably gauge when players are low enough in health (via crosshair) to pop the enzyme for a nasty finisher combo from a melee and to not be penalized for damage like the amputator is. It's also a very useful tool to trim down pesky dead-ringer spies by making them waste their dead-ringer charge earlier than they expected.
 
-<figure><img src="../../.gitbook/assets/New Medic Enzyme.gif" alt=""><figcaption><p>Damage values are a little dated - this will only be doing halved damage now, but still a good way to utilize it!</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/New Medic Enzyme.gif" alt=""><figcaption><p>Damage values are a little dated - this will be doing less damage now - but still a good way to utilize it if you have more ZM medics</p></figcaption></figure>
 

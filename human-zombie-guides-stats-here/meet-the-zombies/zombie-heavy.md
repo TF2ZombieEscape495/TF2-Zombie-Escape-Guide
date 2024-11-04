@@ -28,4 +28,4 @@ Luckily, if you need to force yourselves forward, you can use your Mutation. On 
 \
 Inherent to Heavy is his reduced knockback from almost all damage sources - 50% less than other classes. For weapons, try using the Warrior's Spirit for its added damage to help one-shot humans or use the Fists of Steel if you want to survive the gunfire. Alternatively, actually _do use_ the Holiday Punch if you want to stop Übered humans in their tracks. Show those Spies a taste of their own medicine and hit them from behind after they become Übered off a backstab.
 
-<figure><img src="../../.gitbook/assets/Heavy Enzyme Reference.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Heavy Enzyme Reference.gif" alt=""><figcaption><p>Using heavy enzyme around a corner to break in and kill an edger</p></figcaption></figure>

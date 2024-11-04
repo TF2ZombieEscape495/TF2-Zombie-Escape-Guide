@@ -37,7 +37,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ **If you would like a more in-dep
 
 ## Color Coded Stats
 
-Weapon stats and attributes in the _next_ _subpages_ are **color coded** to give the weapon pages some more spice.
+Weapon stats and attributes in the _next_ _subpages_ are **color coded** to give the weapon pages a better flow - although the consistency is a bit messy.
 
 * <mark style="color:red;">**RED**</mark> will connotate as reductions or negative stats.
 * <mark style="color:blue;">**BLU**</mark> will connotate as buffs or positive stats.

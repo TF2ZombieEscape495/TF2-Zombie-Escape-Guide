@@ -36,4 +36,4 @@ _For melee weapons, there is a few picks to play around with;_
 * If you want to **take out Medics healing any overdefenders**, use the Third Degree to damage both the defender _and_ the Medic.&#x20;
 * If you want **increased damage**, use the Back Scratcher to reliably one-shot classes with extra health.
 
-<figure><img src="../../.gitbook/assets/pyro bomb head.gif" alt=""><figcaption><p>Here's a gif of a pyro getting the full timer explosion at pointblank (without) being shot at.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pyro bomb head.gif" alt=""><figcaption><p>Here's a gif of a pyro getting the full timer explosion at pointblank (without) being shot at to have a (second) pyro boosted up and blow the team away.</p></figcaption></figure>

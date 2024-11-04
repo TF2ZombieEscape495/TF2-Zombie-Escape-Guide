@@ -8,6 +8,6 @@ coverY: 0
 \
 **A very special thanks to FreedVoid and Tranquility for making this all possible, this guide wouldn't be possible without them!**
 
-**Credit due to the** [**TF2 Wiki**](https://wiki.teamfortress.com/wiki/Team\_Fortress\_2) **for much of the weapon renders/icons used throughout here.**
+**Also big credit due to the** [**TF2 Wiki**](https://wiki.teamfortress.com/wiki/Team\_Fortress\_2) **for much of the weapon renders/icons used throughout the guide.**
 
 <figure><img src="../.gitbook/assets/217b6f772fe44df6.jpg" alt=""><figcaption><p>momiji best touhou, fight me</p></figcaption></figure>
