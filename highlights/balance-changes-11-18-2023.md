@@ -6,19 +6,25 @@ description: A place to quickly find gamemode to Skial ZE changes by date.
 
 ### **11/6/2024 - Leader Nominations**
 
-* Specific maps can now _only_ be nominated by an in-game [**leader**](../general-overview/leading.md)
+* Specific maps can now _only_ be nominated by an in-game [**leader**](../general-overview/leading.md) **(A-Z)**
+  * Best Korea
+  * Dark Souls
+  * Diddle
+  * Djinn
   * Doom
+  * Fall Guys
+  * Frostdrake
+  * Frozentemple
+  * Garten of Banban
   * Johnny Nukem
   * Lucid
-  * Visualizer
-  * OBJ (both maps)
-  * Diddle
-  * Banban
-  * Fall Guys
-  * Rush B
-  * Djinn
+  * Meatropolis
   * Neochrome
+  * OBJ Filth/NPST/Rampage
+  * Rush B
   * Shroomforest 2
+  * Stalker Ultimate
+  * Visualizer
 
 ### **10/24/2024 - Maps re-added + Map CD Increase**
 
