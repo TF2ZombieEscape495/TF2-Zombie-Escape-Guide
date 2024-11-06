@@ -76,14 +76,14 @@ It won't adjust _their_ audio levels however - so a quiet mic will still be very
 
 ## Overtalking
 
-~~This isn't a do or die sort of thing, and **heavily depends** from person to person on leading styles on whether they even care or not - but in the more difficult to coordinate maps like split defense or item-heavy maps; _ex **`ze_visualizer`** or **`ze_serpentis_temple`**_ where communication will be absolutely key, it's recommended to keep any _**extra**_ voice-chatter to a minimum unless **integral** to the map like calling out a losing defense, item usage, and so forth.~~&#x20;
+Culturally throughout Zombie Escape servers - this isn't a do or die sort of thing, and **heavily depends** from person to person on leading styles on whether they even care or not - but in the more difficult to coordinate maps like split defense or item-heavy maps; _ex **`ze_visualizer`** or **`ze_serpentis_temple`**_ where communication will be absolutely key, it's recommended to keep any _**extra**_ voice-chatter to a minimum unless **integral** to the map like calling out a losing defense, item usage, and so forth.&#x20;
 
-~~Going on a _<mark style="color:red;">**30 minute rant of how you're evading taxes, and that CSS is better than CS2, I soloed your mom last night;**</mark>_~~ ~~might just get you ignored in VC by the leader or a few other people there to try and fish out a victory as it could drown out any important callouts. The same can really be said for **backseat leading** or **double leading** - unless the current leader has forgotten something or needs any confusion cleared up on a tactic.~~
+Going on a _<mark style="color:red;">**30 minute rant of how you're evading taxes, and that CSS is better than CS2, I soloed your mom last night;**</mark>_ might just get you ignored in VC by the leader or a few other people there to try and fish out a victory as it could drown out any important callouts. The same can really be said for **backseat leading** or **double leading** - unless the current leader has forgotten something or needs any confusion cleared up on a tactic.
 
-~~Again though, this isn't like _**"always be silent during leading hours forever"**_ - but is just more another pointer to read the room.~~
+Again though, this isn't like _**"always be silent during leading hours forever"**_ - but is just more another pointer to read the room!&#x20;
 
 {% hint style="info" %}
-### _<mark style="color:yellow;">Note:</mark>_ Overtalking should no longer be problematic  - any voice chatters that _aren't_ the leader are <mark style="color:red;">automatically muted</mark> when the leader is speaking on voice-comms _(if the leader opts to enable it.)_
+### _<mark style="color:yellow;">Note:</mark>_ In the event of problematic vocal players over-speaking leader constantly, you can opt into Leader VC priority - _(this will disable all other mics except leader when they're speaking)_
 
-## _<mark style="color:yellow;">This can be toggled by the leader via the</mark><mark style="color:yellow;">**`!leadermenu`**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">command.</mark>_
+## _<mark style="color:yellow;">This can function toggled by the leader via the</mark><mark style="color:yellow;">**`!leadermenu`**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">command.</mark>_
 {% endhint %}

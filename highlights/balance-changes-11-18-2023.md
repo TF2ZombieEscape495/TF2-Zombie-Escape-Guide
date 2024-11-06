@@ -1,8 +1,24 @@
-# Gamemode Changes 10/24/2024
+---
+description: A place to quickly find gamemode to Skial ZE changes by date.
+---
 
-{% hint style="info" %}
-<mark style="color:yellow;">**Note:**</mark> Here's a quick page highlighting any recent significant changes to 'balance' changes that aren't just weapon changes; usually enzymes. The rest of the enzyme capabilities can be found in [**Zombie Overviews**](../general-overview/how-to-play-as-zombies/zombie-mutations-overview.md) **(Simplified)** and [**Meet The Zombies subpages**](../human-zombie-guides-stats-here/meet-the-zombies/) **(Detailed.)**
-{% endhint %}
+# Gamemode Changes 11/6/2024
+
+### **11/6/2024 - Leader Nominations**
+
+* Specific maps can now _only_ be nominated by an in-game [**leader**](../general-overview/leading.md)
+  * Doom
+  * Johnny Nukem
+  * Lucid
+  * Visualizer
+  * OBJ (both maps)
+  * Diddle
+  * Banban
+  * Fall Guys
+  * Rush B
+  * Djinn
+  * Neochrome
+  * Shroomforest 2
 
 ### **10/24/2024 - Maps re-added + Map CD Increase**
 
