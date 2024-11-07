@@ -7,6 +7,7 @@ description: A place to quickly find gamemode to Skial ZE changes by date.
 ### **11/6/2024 - Leader Nominations**
 
 * Specific maps can now _only_ be nominated by an in-game [**leader**](../general-overview/leading.md) **(A-Z)**
+  * A\_E\_S\_T\_H\_E\_T\_I\_C
   * Best Korea
   * Dark Souls
   * Diddle
@@ -16,9 +17,11 @@ description: A place to quickly find gamemode to Skial ZE changes by date.
   * Frostdrake
   * Frozentemple
   * Garten of Banban
+  * Hydroponic Garden
   * Johnny Nukem
   * Lucid
   * Meatropolis
+  * Mist
   * Neochrome
   * OBJ Filth/NPST/Rampage
   * Rush B
