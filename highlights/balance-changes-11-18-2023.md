@@ -19,7 +19,7 @@ description: A place to quickly find gamemode to Skial ZE changes by date.
   * Garten of Banban
   * Hydroponic Garden
   * Johnny Nukem
-  * Lucid
+  * Lucid (Both Versions)
   * Meatropolis
   * Mist
   * Neochrome
