@@ -1,4 +1,4 @@
-# Legacy Maps 11/6/2024
+# Legacy Maps 11/9/2024
 
 {% hint style="info" %}
 **Maps that were /once/ within the nomination pool but **<mark style="color:red;">**removed from the server**</mark>** due to any number of reasons - most commonly due to causing server issues. (A-Z)**
@@ -23,6 +23,7 @@ Some of these are admin-only nominations and you might see them on EU or as an e
 * <mark style="color:yellow;">**ze\_experiment**</mark>
 * <mark style="color:yellow;">**ze\_fxii\_westersand**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_ffxiv\_wanderers\_palace**</mark>** (8/24/2024 casualty of map purge)**
+* <mark style="color:yellow;">**ze\_halloween\_house**</mark>** (11/9/2024 Halloween-seasonal only map)**
 * <mark style="color:yellow;">**ze\_honkai\_impact\_cyberpunk\_city**</mark>
 * <mark style="color:yellow;">**ze\_infected\_tramway**</mark>
 * <mark style="color:yellow;">**ze\_jungle\_lab**</mark>
@@ -38,7 +39,7 @@ Some of these are admin-only nominations and you might see them on EU or as an e
 * <mark style="color:yellow;">**ze\_onahole**</mark>
 * <mark style="color:yellow;">**ze\_oot\_shadowtemple**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_parkour\_paradise**</mark> **(removed 3/17/2024)**
-* <mark style="color:yellow;">**ze\_peter\_griffin\_burger\_emporium\_v1**</mark>** (removed 3/31/2024)**
+* <mark style="color:yellow;">**ze\_peter\_griffin\_burger\_emporium\_v1**</mark>** (11/9/2024 Halloween-seasonal only map)**
 * <mark style="color:yellow;">**ze\_predator\_ultimate**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_raiin**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_realm**</mark>
