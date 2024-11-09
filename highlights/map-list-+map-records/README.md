@@ -16,7 +16,7 @@ coverY: 0
 
 _**Got a new**** **<mark style="color:green;">**win**</mark>** ****screenshot that fulfills this? Send it to**** **<mark style="color:green;">**@not\_pickles (Myuri)**</mark>** ****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`14 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`13 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>** = `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -133,7 +133,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 96. <mark style="color:green;">**ze\_surf\_sahok\_skial\_4**</mark>
 97. <mark style="color:green;">**ze\_surf\_vortex\_skial\_6**</mark>
 98. <mark style="color:green;">**ze\_swamp\_facility\_b2d**</mark>**  **_<mark style="color:yellow;">**(TF2 map)**</mark>_
-99. [<mark style="color:red;">**ze\_tyranny2\_skial\_**</mark>](#user-content-fn-64)[^64]<mark style="color:red;">**6**</mark>
+99. [<mark style="color:green;">**ze\_tyranny2\_skial\_6**</mark>](#user-content-fn-64)[^64]
 100. <mark style="color:green;">**ze\_timesplitters\_skial\_2**</mark>
 101. <mark style="color:green;">**ze\_titanic\_skial\_13**</mark>
 102. [<mark style="color:green;">**ze\_uchiha\_legacy\_skial\_8**</mark>](#user-content-fn-65)[^65]
@@ -340,10 +340,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
 [^63]: ![](<../../.gitbook/assets/Surf Froyo Win.png>)
 
-[^64]: <mark style="color:yellow;">**Run Record:**</mark>\
-    <mark style="color:orange;">**\[Stage 1/5]**</mark>
-
-    **\~Pending record...**
+[^64]: ![](<../../.gitbook/assets/Tyranny2 Win.jpg>)
 
 [^65]: ![](<../../.gitbook/assets/Uchiha Win.jpeg>)
 
