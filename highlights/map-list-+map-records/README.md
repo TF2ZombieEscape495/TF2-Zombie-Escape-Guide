@@ -16,7 +16,7 @@ coverY: 0
 
 _**Got a new**** **<mark style="color:green;">**win**</mark>** ****screenshot that fulfills this? Send it to**** **<mark style="color:green;">**@not\_pickles (Myuri)**</mark>** ****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`15 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`14 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>** = `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -35,7 +35,7 @@ _<mark style="color:yellow;">**Note 2:**</mark>_ If you want want to skip downlo
 
 _**`[The numerical listing doesn't mean anything; it just helps track map total easily, otherwise this is A-Z]`**_
 
-1. [<mark style="color:red;">**ze\_2049\_tf2**</mark>](#user-content-fn-1)[^1]<mark style="color:red;">**\_f1**</mark>
+1. [<mark style="color:green;">**ze\_2049\_tf2\_f1**</mark>](#user-content-fn-1)[^1]
 2. <mark style="color:green;">**ze\_3\_valley\_skial\_8**</mark>**  **_<mark style="color:yellow;">**(TF2 map)**</mark>_
 3. <mark style="color:green;">**ze\_**</mark>[<mark style="color:green;">**666\_crazy\_escape\_skial\_v2**</mark>](#user-content-fn-2)[^2]
 4. [<mark style="color:green;">**ze\_A\_E\_S\_T\_H\_E\_T\_I\_C\_p3**</mark>](#user-content-fn-3)[^3] <mark style="color:purple;">**(LEADER)**</mark>
@@ -141,11 +141,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 104. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-66)[^66]
 105. <mark style="color:green;">**ze\_voodoo\_islands\_skial\_5**</mark>**    **_<mark style="color:yellow;">**(Re-made as TF2 Map)**</mark>_
 
-[^1]: <mark style="color:yellow;">**Run Record:**</mark>
-
-    <mark style="color:orange;">**\[Stage 1/2]**</mark>
-
-    **\~Pending Record**
+[^1]: ![](<../../.gitbook/assets/2049 win.jpg>)
 
 [^2]: ![](<../../.gitbook/assets/666 Crazy Escape Win (1).jpg>)
 
