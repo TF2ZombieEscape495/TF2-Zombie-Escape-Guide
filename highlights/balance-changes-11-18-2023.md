@@ -6,7 +6,8 @@ description: A place to quickly find gamemode to Skial ZE changes by date.
 
 ### **11/6/2024 - Leader Nominations**
 
-* Specific maps can now _only_ be nominated by an in-game [**leader**](../general-overview/leading.md) **(A-Z)**
+* Specific maps can now _only_ be nominated by an in-game [**leader**](../general-overview/leading.md) **(A-Z)**\
+  _**If I forget to update this list specifically, you'll see leader-locked maps tagged @**_ [_**Map List**_](map-list-+map-records/)
   * A\_E\_S\_T\_H\_E\_T\_I\_C
   * Best Korea
   * Dark Souls
