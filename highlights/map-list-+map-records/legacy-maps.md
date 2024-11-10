@@ -11,6 +11,7 @@ Some of these are admin-only nominations and you might see them on EU or as an e
 * <mark style="color:yellow;">**ze\_aooka**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_aot\_trost**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_attackontitan\_troster**</mark>
+* <mark style="color:yellow;">**ze\_atix\_apocalypse**</mark>** (11/6/2024 removed for crashes)**
 * <mark style="color:yellow;">**ze\_biohazard2\_rpd**</mark>
 * <mark style="color:yellow;">**ze\_black\_lagoon**</mark>
 * <mark style="color:yellow;">**ze\_blindingforest**</mark>
