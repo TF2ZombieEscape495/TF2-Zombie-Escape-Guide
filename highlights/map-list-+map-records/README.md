@@ -198,7 +198,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
 [^23]: <mark style="color:yellow;">**Run Record:**</mark>
 
-    <mark style="color:orange;">**\[Stage 1/4 + ZM Mode]**</mark>
+    <mark style="color:orange;">**\[Stage 1/4]**</mark>
 
     **\~Pending Record...**
 
@@ -284,14 +284,14 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
     <mark style="color:orange;">**\[Stage 2/2 - Underground Lab]**</mark>&#x20;
 
-    **-Billy Boss Fight (Near Finale)**
+    **-Finale DPS Check**
 
 [^47]: ![](<../../.gitbook/assets/Otakuroom Win.jpg>)
 
 [^48]: <mark style="color:yellow;">**Run Record:**</mark>\
-    <mark style="color:orange;">**\[Stage 1/5]**</mark>
+    <mark style="color:orange;">**\[Stage 4/5]**</mark>
 
-    **\~Pending record...**
+    **\~Laser Boss**
 
 [^49]: ![](<../../.gitbook/assets/Persona Win (1).png>)
 
