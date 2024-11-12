@@ -1,4 +1,4 @@
-# Recent Maps 11/11/2024
+# Recent Maps 11/12/2024
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -8,9 +8,17 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 ## 2024:
 
+### 11/12/2024 - Grau
+
+* Grau ported - <mark style="color:yellow;">**\[CSS/CSGO map]**</mark> _\[3 Stages, 2 RTV Stages]_ <mark style="color:purple;">**(Leader)**</mark>
+* **Returning Maps:**
+  * Aooka <mark style="color:purple;">**(Leader)**</mark>
+  * Nomada <mark style="color:purple;">**(Leader)**</mark>
+  * Wanderers Palace (v5) <mark style="color:purple;">**(Leader)**</mark>
+
 ### 11/11/2024
 
-* **All OBJ maps universally reduced movespeed on both teams by -23%; was too fast paced on TF2 movement/weapons.**
+* **All OBJ maps universally reduced move-speed on both teams by -23%**
 
 ### 10/26/2024
 
@@ -41,9 +49,8 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 ### 10/10/2024 - Palace of Minolila & Seasonal Maps
 
 * **ze\_palace\_of\_minolila** ported \[5 Stages + 1 Extra Stage | 7 Human Items | 4 Zombie Items]
-*
-* **ze\_halloween\_house** (returning seasonally, 1 stage)
-* **ze\_peter\_griffin's\_burger\_emporium** (returning seasonally, 6 stages)
+* **ze\_halloween\_house** _(returning seasonally, 1 stage)_
+* **ze\_peter\_griffin's\_burger\_emporium** _(returning seasonally, 6 stages)_
 
 ### 10/9/2024 - 2 new maps
 

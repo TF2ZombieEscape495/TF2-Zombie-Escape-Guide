@@ -8,7 +8,6 @@ Some of these are admin-only nominations and you might see them on EU or as an e
 
 * <mark style="color:yellow;">**ze\_aperturescience**</mark>
 * <mark style="color:yellow;">**ze\_among\_us\_green\_screen\_car\_crash \[April Fools]**</mark>** (removed 4/2/2024)**
-* <mark style="color:yellow;">**ze\_aooka**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_aot\_trost**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_attackontitan\_troster**</mark>
 * <mark style="color:yellow;">**ze\_atix\_apocalypse**</mark>** (11/6/2024 removed for crashes)**
@@ -23,7 +22,6 @@ Some of these are admin-only nominations and you might see them on EU or as an e
 * <mark style="color:yellow;">**ze\_expedition**</mark>
 * <mark style="color:yellow;">**ze\_experiment**</mark>
 * <mark style="color:yellow;">**ze\_fxii\_westersand**</mark>** (8/24/2024 casualty of map purge)**
-* <mark style="color:yellow;">**ze\_ffxiv\_wanderers\_palace**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_halloween\_house**</mark>** (11/9/2024 Halloween-seasonal only map)**
 * <mark style="color:yellow;">**ze\_honkai\_impact\_cyberpunk\_city**</mark>
 * <mark style="color:yellow;">**ze\_infected\_tramway**</mark>
@@ -35,14 +33,12 @@ Some of these are admin-only nominations and you might see them on EU or as an e
 * <mark style="color:yellow;">**ze\_lotr\_mount\_doom**</mark>
 * <mark style="color:yellow;">**ze\_m0w0m**</mark>
 * <mark style="color:yellow;">**ze\_mountain\_escape**</mark>** (10/10/2024 in nomlist for only a day)**
-* <mark style="color:yellow;">**ze\_nomada**</mark>
 * <mark style="color:yellow;">**ze\_obj\_filth**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_onahole**</mark>
 * <mark style="color:yellow;">**ze\_oot\_shadowtemple**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_parkour\_paradise**</mark> **(removed 3/17/2024)**
 * <mark style="color:yellow;">**ze\_peter\_griffin\_burger\_emporium\_v1**</mark>** (11/9/2024 Halloween-seasonal only map)**
 * <mark style="color:yellow;">**ze\_predator\_ultimate**</mark>** (8/24/2024 casualty of map purge)**
-* <mark style="color:yellow;">**ze\_raiin**</mark>** (8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_realm**</mark>
 * <mark style="color:yellow;">**ze\_shoplift**</mark>
 * <mark style="color:yellow;">**ze\_skyrim**</mark>
