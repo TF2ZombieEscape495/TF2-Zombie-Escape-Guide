@@ -359,9 +359,9 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 [^70]: ![](<../../.gitbook/assets/Sonic3 Win.jpg>)
 
 [^71]: <mark style="color:yellow;">**Run Record:**</mark>\
-    <mark style="color:orange;">**\[Stage 1/5]**</mark>
+    <mark style="color:orange;">**\[Stage 5/5]**</mark>
 
-    **\~Pending record...**
+    **\~2nd Laser Boss**
 
 [^72]: ![](<../../.gitbook/assets/Star Wars Win.jpg>)
 
