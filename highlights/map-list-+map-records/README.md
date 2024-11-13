@@ -110,7 +110,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 73. <mark style="color:green;">**ze\_quicksand\_v1e**</mark>**   **_<mark style="color:yellow;">**(TF2 map)**</mark>_&#x20;
 74. [<mark style="color:green;">**ze\_raiin\_v2**</mark>](#user-content-fn-57)[^57] _<mark style="color:yellow;">**(TF2 map)**</mark>_&#x20;
 75. <mark style="color:green;">**ze\_random\_skial\_7**</mark>&#x20;
-76. [<mark style="color:red;">**ze\_randomizer\_p2**</mark>](#user-content-fn-58)[^58]
+76. [<mark style="color:red;">**ze\_randomizer\_p2**</mark>](#user-content-fn-58)[^58] <mark style="color:purple;">**(LEADER)**</mark>
 77. [<mark style="color:green;">**ze\_rizomata\_skial\_8**</mark>](#user-content-fn-59)[^59]
 78. [<mark style="color:green;">**ze\_rush\_b\_skial\_6**</mark>](#user-content-fn-60)[^60] <mark style="color:purple;">**(LEADER)**</mark>
 79. [<mark style="color:green;">**ze\_ryujin\_v3**</mark>](#user-content-fn-61)[^61]   _<mark style="color:yellow;">**(TF2 map)**</mark>_
