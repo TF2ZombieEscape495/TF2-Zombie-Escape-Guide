@@ -123,7 +123,7 @@ If the boss you're fighting against nerfs/disables healing, you can settle for b
 * <mark style="color:yellow;">**Wrangler**</mark>
 * <mark style="color:yellow;">**Eureka Effect**</mark>
 
-Being able to set up buildings that only your team can phase through, it makes sense that you'd want to use them as some sort of blockade. They aren't tanky enough to be reliable on their own, requiring you to constantly repair them. If you want to get more out of Mini-sentries, use the <mark style="color:yellow;">**Wrangler**</mark> shield to help them absorb more damage, and increase their build time significantly. Alternatively, you can stay away and repair from afar with the <mark style="color:yellow;">**Rescue Ranger**</mark>. This type of playstyle is fairly niche and is for maps with doorways and narrow hallways, but does show utility from time to time in stopping Heavy Mutations and ÜberCharge zombies.
+Being able to set up buildings that only your team can phase through, it makes sense that you'd want to use them as some sort of blockade. **They aren't tanky enough to be reliable on their own, requiring you to constantly repair them.** If you want to get more out of Mini-sentries, use the <mark style="color:yellow;">**Wrangler**</mark> shield to help them absorb more damage, and increase their build time significantly. Alternatively, you can stay away and repair from afar with the <mark style="color:yellow;">**Rescue Ranger**</mark>. This type of playstyle is fairly niche and is for maps with doorways and narrow hallways or long-distance jumps like during Frostdrake's boss.
 
 ### Rapid Deployer
 
