@@ -39,7 +39,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 2. <mark style="color:green;">**ze\_3\_valley\_skial\_8**</mark>**  **_<mark style="color:yellow;">**(TF2 map)**</mark>_
 3. <mark style="color:green;">**ze\_**</mark>[<mark style="color:green;">**666\_crazy\_escape\_skial\_v2**</mark>](#user-content-fn-2)[^2]
 4. [<mark style="color:green;">**ze\_A\_E\_S\_T\_H\_E\_T\_I\_C\_p3**</mark>](#user-content-fn-3)[^3] <mark style="color:purple;">**(LEADER)**</mark>
-5. [<mark style="color:green;">ze\_aooka\_skial\_2</mark>](#user-content-fn-4)[^4] <mark style="color:purple;">**(LEADER)**</mark>
+5. [<mark style="color:green;">**ze\_aooka\_skial\_2**</mark>](#user-content-fn-4)[^4] <mark style="color:purple;">**(LEADER)**</mark>
 6. <mark style="color:green;">**ze\_ascension\_v6b**</mark>**   **_<mark style="color:yellow;">**(TF2 map)**</mark>_
 7. <mark style="color:green;">**ze\_atix\_panic\_skial\_5**</mark>
 8. [<mark style="color:green;">**ze\_bathroom\_skial\_8**</mark> ](#user-content-fn-5)[^5]
@@ -118,7 +118,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 81. [<mark style="color:green;">**ze\_sandstone\_v2**</mark>](#user-content-fn-63)[^63]   _<mark style="color:yellow;">**(TF2 map)**</mark>_
 82. [<mark style="color:red;">**ze\_santassination\_s4**</mark>](#user-content-fn-64)[^64]
 83. <mark style="color:green;">**ze\_saw\_final\_skial\_8**</mark>
-84. [<mark style="color:green;">**ze\_scp\_skial\_4**</mark>](#user-content-fn-65)[^65]
+84. [<mark style="color:green;">**ze\_scp\_skial\_4**</mark>](#user-content-fn-65)[^65] <mark style="color:purple;">**(LEADER)**</mark>
 85. [<mark style="color:green;">**ze\_serpentis\_temple\_skial\_4**</mark>](#user-content-fn-66)[^66]
 86. [<mark style="color:green;">**ze\_shroomforest\_skial\_7**</mark> ](#user-content-fn-67)[^67]
 87. [<mark style="color:green;">**ze\_shroomforest2\_skial\_1**</mark> ](#user-content-fn-68)[^68] <mark style="color:purple;">**(LEADER)**</mark>
