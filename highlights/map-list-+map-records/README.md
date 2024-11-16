@@ -307,7 +307,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 [^52]: <mark style="color:yellow;">**Run Record:**</mark>\
     <mark style="color:orange;">**\[Stage 4/5]**</mark>
 
-    **\~Laser Boss**
+    **\~Past Laser Boss**
 
 [^53]: ![](<../../.gitbook/assets/Persona Win (1).png>)
 
