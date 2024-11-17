@@ -20,7 +20,7 @@ _**Got a new**** **<mark style="color:green;">**win**</mark>** ****screenshot th
 
 <mark style="color:red;">**RED**</mark>** = `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
-<mark style="color:green;">**GREEN**</mark> = **`Full Completion - annotated with win screenshots!`**~~_**`(Mostly.)`**_~~
+<mark style="color:green;">**GREEN**</mark> = **`Full Completion - annotated with win screenshots!`**_**`(Mostly. A lot of these were cleared prior to Valve adding 64 players.)`**_
 {% endhint %}
 
 {% hint style="warning" %}
