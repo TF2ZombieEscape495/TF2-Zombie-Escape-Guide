@@ -201,9 +201,9 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
 [^19]: <mark style="color:yellow;">**Run Record:**</mark>
 
-    <mark style="color:orange;">**\[Stage 1/8]**</mark>
+    <mark style="color:orange;">**\[Stage 3/8]**</mark>
 
-    **\~Pending Record...**
+    **\~spinner lasers**
 
 [^20]: ![](<../../.gitbook/assets/Evernight Win.png>)
 
@@ -313,7 +313,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
     <mark style="color:orange;">**\[Stage 1/1]**</mark>
 
-    **\~Pending Record...**
+    **\~First surface area defense (outside)**
 
 [^52]: ![](<../../.gitbook/assets/Offliner Win (2).png>)
 
