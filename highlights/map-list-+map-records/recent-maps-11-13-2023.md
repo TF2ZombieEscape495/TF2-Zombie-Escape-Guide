@@ -8,11 +8,12 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 ## 2024:
 
-### 11/17/2024 - 3 New Maps
+### 11/17/2024 - 4 New Maps
 
-* **Echo Boatescape Extended  **_**\[1 Stage]**_ <mark style="color:yellow;">**\[CSS/CSGO map]**</mark>
-* **Black Mesa Escape Final **_**\[1 Stage]**_ <mark style="color:yellow;">**\[CSS/CSGO map]**</mark>
-* **Eerie Escape Redux **_**\[7 Stages + SECRET Stage 8, Lasers]**_ <mark style="color:purple;">**(Leader)**</mark>** **<mark style="color:yellow;">**\[CSS/CSGO map]**</mark>
+* **Echo Boatescape Extended  **_**\[1 Stage]**_ <mark style="color:yellow;">**\[CSS Map]**</mark>
+* **Black Mesa Escape Final **_**\[1 Stage]**_ <mark style="color:yellow;">**\[CSS Map]**</mark>
+* **Eerie Escape Redux **_**\[7 Stages + SECRET Stage 8, Lasers]**_ <mark style="color:purple;">**(Leader)**</mark>** **<mark style="color:yellow;">**\[CSS Map]**</mark>
+* **Night Cinema \[6 Stages] **<mark style="color:yellow;">**\[CSS Map]**</mark>
 
 ### 11/12/2024 - Grau
 
