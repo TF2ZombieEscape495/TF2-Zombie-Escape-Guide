@@ -1,4 +1,4 @@
-# Recent Maps 11/12/2024
+# Recent Maps 11/17/2024
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -7,6 +7,12 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 {% endhint %}
 
 ## 2024:
+
+### 11/17/2024 - 3 New Maps
+
+* **Echo Boatescape Extended  **_**\[1 Stage]**_ <mark style="color:yellow;">**\[CSS/CSGO map]**</mark>
+* **Black Mesa Escape Final **_**\[1 Stage]**_ <mark style="color:yellow;">**\[CSS/CSGO map]**</mark>
+* **Eerie Escape Redux **_**\[7 Stages + SECRET Stage 8, Lasers]**_ <mark style="color:purple;">**(Leader)**</mark>** **<mark style="color:yellow;">**\[CSS/CSGO map]**</mark>
 
 ### 11/12/2024 - Grau
 
