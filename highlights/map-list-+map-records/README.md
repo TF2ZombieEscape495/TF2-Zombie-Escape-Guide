@@ -16,7 +16,7 @@ coverY: 0
 
 _**Got a new**** **<mark style="color:green;">**win**</mark>** ****screenshot that fulfills this? Send it to**** **<mark style="color:green;">**@not\_pickles (Myuri)**</mark>** ****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`15 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`18 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>** = `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
