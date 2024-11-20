@@ -77,7 +77,7 @@ At the top of the screen during rounds, you'll notice a timer. When it reaches <
 * Players will be able to either extend the current map or vote for the next map among a selection that has been randomly selected or player-nominated.
 * Humans losing <mark style="color:yellow;">**3**</mark> times in a row disables the map extension. It can be regained by Humans winning the round _after_ the 3rd loss in a row before the automatic vote has been triggered. Each map is typically limited to <mark style="color:yellow;">**2**</mark> extensions.
 * If the team restarts a round before reaching <mark style="color:yellow;">**5:00**</mark> on the Map Timer, they will be able to play a round of the map before leaving.
-* After a map has been played, it will be on cooldown. Players will not be able to nominate and play that map until enough other maps have been cycled through. _<mark style="color:yellow;">**(Currently 20 Map CD)**</mark>_
+* After a map has been played, it will be on cooldown. Players will not be able to nominate and play that map until enough other maps have been cycled through. _<mark style="color:yellow;">**(Currently 3 Map CD)**</mark>_
 * Players may also force a map vote if enough people use the **RTV** command ~~after <mark style="color:yellow;">**600 seconds (10 minutes)**</mark>~~ _**(No longer forced to wait this long to RTV)**_ of a map have passed; or through the usage of Skial Credits _(That method will always show a 'Don't Change' option to extend.)_
 
 ### Modes
