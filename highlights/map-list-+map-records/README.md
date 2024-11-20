@@ -103,7 +103,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 66. [<mark style="color:red;">**ze\_obj\_filth\_skial\_3**</mark>](#user-content-fn-50)[^50] <mark style="color:purple;">**(LEADER)**</mark>
 67. [<mark style="color:red;">**ze\_obj\_npst\_tf2\_f1**</mark>](#user-content-fn-51)[^51] <mark style="color:purple;">**(LEADER)**</mark>
 68. [<mark style="color:red;">**ze\_obj\_rampage\_skial\_**</mark>](#user-content-fn-52)[^52]<mark style="color:red;">**2**</mark> <mark style="color:purple;">**(LEADER)**</mark>
-69. [<mark style="color:green;">**ze\_offliner\_skial\_1**</mark>](#user-content-fn-53)[^53]
+69. [<mark style="color:green;">**ze\_offliner\_skial\_1**</mark>](#user-content-fn-53)[^53] <mark style="color:purple;">**(LEADER)**</mark>
 70. [<mark style="color:red;">**ze\_outlast\_skial\_**</mark>](#user-content-fn-54)[^54]<mark style="color:red;">**6**</mark>
 71. [<mark style="color:green;">**ze\_otakuroom\_skial\_4**</mark> ](#user-content-fn-55)[^55]
 72. [<mark style="color:red;">**ze\_palace\_of\_minolila\_skial\_**</mark>](#user-content-fn-56)[^56]<mark style="color:red;">**4**</mark>
