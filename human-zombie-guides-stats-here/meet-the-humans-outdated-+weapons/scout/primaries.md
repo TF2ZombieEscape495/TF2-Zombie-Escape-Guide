@@ -2,7 +2,7 @@
 description: Scout Primary Options
 ---
 
-# Primaries
+# Scout Primaries
 
 ## Scattergun    ![](<../../../.gitbook/assets/100px-Item\_icon\_Scattergun (1).png>)
 
@@ -20,20 +20,20 @@ The Scattergun is probably the Scout's most reliable primary weapon in base TF2.
 
 ## Force-A-Nature    <img src="../../../.gitbook/assets/100px-Item_icon_Force-A-Nature (1).png" alt="" data-size="original">
 
-| Attributes                                                                                    |
-| --------------------------------------------------------------------------------------------- |
-| **Clip Size - 12 Shots**                                                                      |
-| **Weapon Spread: 15:1**                                                                       |
-| <mark style="color:blue;">**+75% Faster Firing Speed**</mark>                                 |
-| <mark style="color:blue;">**+20% Bullet Per Shot**</mark>                                     |
-| <mark style="color:blue;">**+100% Damage vs Players**</mark>                                  |
-| <mark style="color:red;">**-12% Damage Penalty**</mark>                                       |
-| <mark style="color:red;">**When Held: -7.7% Movement Speed on Wearer**</mark>                 |
-| <mark style="color:red;">**-25% Slower Reload Time**</mark>                                   |
-| <mark style="color:red;">**-100% Less Accurate**</mark>                                       |
-| <mark style="color:orange;">**Self-Knockback Disabled**</mark>                                |
-| <mark style="color:orange;">**Successive shots become less accurate**</mark>                  |
-| <mark style="color:orange;">**When Held: Attrib\_Scattergun\_NoReloadSingle (Hidden)**</mark> |
+| Attributes                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Clip Size - 12 Shots**                                                                                                                                                                                      |
+| **Weapon Spread: 15:1**                                                                                                                                                                                       |
+| <mark style="color:blue;">**+75% Faster Firing Speed**</mark>                                                                                                                                                 |
+| <mark style="color:blue;">**+20% Bullet Per Shot**</mark>                                                                                                                                                     |
+| <mark style="color:blue;">**+100% Damage vs Players**</mark>                                                                                                                                                  |
+| <mark style="color:red;">**-12% Damage Penalty**</mark>                                                                                                                                                       |
+| <mark style="color:red;">**When Held: -7.7% Movement Speed on Wearer**</mark>                                                                                                                                 |
+| <mark style="color:red;">**-25% Slower Reload Time**</mark>                                                                                                                                                   |
+| <mark style="color:red;">**-100% Less Accurate**</mark>                                                                                                                                                       |
+| <mark style="color:orange;">**Self-Knockback Disabled**</mark>                                                                                                                                                |
+| <mark style="color:orange;">**Successive shots become less accurate**</mark>                                                                                                                                  |
+| <mark style="color:orange;">**When Held: Attrib\_Scattergun\_NoReloadSingle (Hidden)**</mark><mark style="color:orange;">** **</mark>_<mark style="color:orange;">**(Clip will reload all at once!)**</mark>_ |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.165</td><td>TEC: 1.98 seconds</td><td>Reload Time (First): 1.815 seconds</td><td>Full Reload Time: 1.815 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 63.3 per shot</td><td><strong>Real DPS:</strong> 200.347 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 384 DPS</td><td></td></tr></tbody></table>
 
@@ -67,16 +67,16 @@ Playing into Scout's niche, the Baby Face's Blaster allows him to push way past 
 
 ## Shortstop    ![](<../../../.gitbook/assets/100px-Item\_icon\_Shortstop (2).png>)
 
-| Attributes                                                                                    |
-| --------------------------------------------------------------------------------------------- |
-| **Clip Size - 12 Shots**                                                                      |
-| **Weapon Spread: 50:1**                                                                       |
-| <mark style="color:blue;">**+50% Faster Firing Speed**</mark>                                 |
-| <mark style="color:blue;">**+25% Bullets Per Shot**</mark>                                    |
-| <mark style="color:blue;">**+25% Damage vs Players**</mark>                                   |
-| <mark style="color:red;">**-17.5% Damage Penalty**</mark>                                     |
-| <mark style="color:red;">**-50% Slower Reload (Hidden)**</mark>                               |
-| <mark style="color:orange;">**When Held: Attrib\_Scattergun\_NoReloadSingle (Hidden)**</mark> |
+| Attributes                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Clip Size - 12 Shots**                                                                                                                                                                                      |
+| **Weapon Spread: 50:1**                                                                                                                                                                                       |
+| <mark style="color:blue;">**+50% Faster Firing Speed**</mark>                                                                                                                                                 |
+| <mark style="color:blue;">**+25% Bullets Per Shot**</mark>                                                                                                                                                    |
+| <mark style="color:blue;">**+25% Damage vs Players**</mark>                                                                                                                                                   |
+| <mark style="color:red;">**-17.5% Damage Penalty**</mark>                                                                                                                                                     |
+| <mark style="color:red;">**-50% Slower Reload (Hidden)**</mark>                                                                                                                                               |
+| <mark style="color:orange;">**When Held: Attrib\_Scattergun\_NoReloadSingle (Hidden)**</mark><mark style="color:orange;">** **</mark>_<mark style="color:orange;">**(Clip will reload all at once!)**</mark>_ |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.18</td><td>TEC: 2.16 seconds</td><td>Reload Time (First): 1.53 seconds</td><td>Full Reload Time: 1.53 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 49.5 per shot</td><td><strong>Real DPS:</strong> 160.975 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 275 DPS</td><td></td></tr></tbody></table>
 

@@ -6,7 +6,7 @@ description: The terminology section just wasn't enough to cut it for boosting, 
 
 ## Boosting!
 
-Off the get-go, boosting in Zombie Escape is an action of launching <mark style="color:red;">**zombies**</mark> _**towards**_ a defending team - or the map's objective in enough of a way to hinder a team into losing a defense, or even the round. Even if it was done unintentionally, it's still widely regarded as a _'**boost,'**_ such as a Soldier who just wants to build a [**Conch**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/soldier/secondaries.md#concheror) to help the team healthy, but launches a zombie into the backlines of defense with explosion splash. Generally, boosting can be highly detrimental and this is here to give insight as to how to do it **less.**
+Off the get-go, boosting in Zombie Escape is an action of launching <mark style="color:red;">**zombies**</mark> _**towards**_ a defending team - or the map's objective in enough of a way to hinder a team into losing a defense, or even the round. Even if it was done unintentionally, it's still widely regarded as a _'**boost,'**_ such as a Soldier who just wants to build a [**Conch**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/soldier/secondaries.md#concheror) to help the team healthy, but launches a zombie into the backlines of defense with explosion splash or into an area where zombies will have a height advantage. Generally, boosting can be highly detrimental and this is here to give insight as to how to do it **less.**
 
 ## **Z-Velocity Stats?**
 
@@ -26,7 +26,7 @@ In fact, technically _**any**_ class can 'boost' in certain conditions, such as 
   * Rockets
 * <mark style="color:blue;">**Pyro**</mark>
   * Airblast
-  * Flares
+  * **Flares**
 * <mark style="color:blue;">**Demoman**</mark>
   * Grenades
 * <mark style="color:blue;">**Engineer**</mark>
@@ -36,7 +36,7 @@ In fact, technically _**any**_ class can 'boost' in certain conditions, such as 
 
 In most connotations, a speed-boost isn't necessarily a bad thing - it can allow for players or classes to make their retreat into a safer defending area much quicker.&#x20;
 
-However, at times people might speed-boost _or also just 'boost'_ for the sole purpose of throwing off player movement _(as the extra speed can be unpredictable if you don't know when it'll wear out);_ commonly causing demises on parkour segments of maps due to slippery fast speed.
+However, at times people might speed-boost _or also just 'boost'_ for the sole purpose of trolling to by throwing off player movement _(as the extra speed can be unpredictable if you don't know when it'll wear in and out);_ commonly causing teams to fail on parkour segments of maps.
 
 There's about three main ways this can happen to <mark style="color:blue;">**BLU**</mark> team for the moment - and only two that are 'controllable' - <mark style="color:red;">**the server will relay anyone using those in the console if problematic enough to call them out on it.**</mark>
 

@@ -64,7 +64,7 @@ _Triggering will also <mark style="color:red;">**forcefully move Zombie Spawns f
 {% hint style="danger" %}
 _**With that in mind, be mindful when any leader communicates to **<mark style="color:red;">**NOT**</mark>_ _<mark style="color:red;">**trigger**</mark>** right away** -_ as the team may be imminently within the zombie teleport range/area from either missing a fall back or purposely over-defending an easier area.&#x20;
 
-_**(Ex. Past the SECOND Frostdrake tree log, Shroomforest2 elevator trigger, V0u0v post-S3/S6 boss door.)**_
+_**(Ex. Past the SECOND Frostdrake tree log, V0u0v post-S3/S6 boss door.)**_
 {% endhint %}
 
 There should only be as many people going for them as there are the amount of triggers; _so two players for two buttons on two sides._&#x20;
@@ -73,16 +73,16 @@ So, if you're already familiar with where they are and how to get them, and if y
 
 ### Trigger Classes
 
-Although any person can usually go trigger - there's a few sub-loadouts or weapons that will allow you to compete for triggers/items much more reliably than any 'random' player holding **W** into Ultima and dying with it - sometimes you'll have to beat those kinds of players by using the exact same loadout or deviate a bit.
+Although any person can usually go trigger - there's a few sub-loadouts or weapons that will allow you to compete for triggers/items much more reliably than any 'random' player holding **W** into Ultima and using it immediately - sometimes you'll have to beat those kinds of players by using the exact same loadout or deviate a bit.
 
 _Ordered albeit messily, each has their own niche or usage across the board in competing here._
 
 * <mark style="color:yellow;">**\[ANY]**</mark> [**(Medi-Gun)**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/medic/secondaries.md) _<mark style="color:yellow;">**(PLUS+)**</mark>_ [**(BFB)**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/scout/primaries.md#baby-faces-blaster) <mark style="color:yellow;">**Scout**</mark>
   * Reliant on having a **BFB** Scout - Medics can **Medi-Gun beam** a Scout using the **BFB** to become **even faster than** the Scout. Commonly called 'leeching' and scummy to do, but sometimes a necessity to secure important items from the wrong hands. BFB isn't a _necessity_ - as the speed increase on beam works on any Scout or fast class really.
 * #### &#x20;  [**(Baby Face's Blaster)**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/scout/primaries.md#baby-faces-blaster) <mark style="color:yellow;">Scout</mark>
-  * Independently one of the most consistently fastest classes in ZE at both triggering and item grabbing - Does lose out to any other method here if items spawn round-start as you need to wait for Zombies to spawn.
+  * Independently one of the most consistently fastest classes in ZE at both triggering and item grabbing - Does lose out to any other method here if items spawn round-start as you need to wait for Zombies to spawn to gain Boost.
 * [**(Atomizer)**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/scout/melees.md#atomizer) <mark style="color:yellow;">**Scout**</mark>
-  * The **Atomizer** _**(+3% Speed When HELD)**_ gives you JUST enough of an edge that when held you'll outpace default Scouts, without the whole flaw of running BFB in general.
+  * The **Atomizer** _**(+3% Speed When HELD)**_ gives you JUST enough of an edge that when held you'll **outpace default Scouts**, without the whole flaw of running BFB in general.
 * [**(Sapper)**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/spy/sappers.md#sapper) <mark style="color:yellow;">**(AND)**</mark> [**(Dead Ringer)**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/spy/secondaries.md#dead-ringer) <mark style="color:yellow;">**Spy**</mark>
   * Spies with the **Sapper** _**(+2% Speed when HELD)**_ will find similar speeds to default Scouts - but combined with the DR and taking _any_ damage, can speed-run through a specific area with the feign death speed boost selfishly outpacing most players.
 * [**(Splendid Screen)**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/demoman/secondaries.md#splendid-screen) <mark style="color:yellow;">**(AND)**</mark> [**(Pain Train)**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/demoman/melees.md#pain-train) <mark style="color:yellow;">**Demoman**</mark>

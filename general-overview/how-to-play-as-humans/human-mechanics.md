@@ -41,9 +41,7 @@ description: A brief description of all the special abilities exclusive to the H
 
 ## Melee Knockback
 
-_<mark style="color:red;">**(Placeholder for Image)**</mark>_
-
-* While in most cases you shouldn't be meleeing zombies _(as they have longer reach and will often one shot you,)_ there is a small buff to Human Melees to make them not otherwise worthless.
+* While in most cases you shouldn't be meleeing zombies _**(as they have longer reach and will often one shot you,)**_ there is a small buff to Human Melees to make them not otherwise worthless.
 * Humans universally have a **small knockback effect** on their melees - this can send zombies flying away in niche cases where classes can't push a zombie off a specific platform or area with conventional methods.
 
 ## Engineer Buildings
@@ -92,7 +90,7 @@ _<mark style="color:red;">**(Placeholder for Image)**</mark>_
 * So long as you are **above** <mark style="color:green;">**\[208]**</mark> health, you will more than likely survive a hit from a zombie.&#x20;
 * Extra factors play into this, such as the weapons the zombies are using and any debuffs placed on you, but this is a generalization for most scenarios. Some examples here:
 * You need to be **above** <mark style="color:green;">**\[300]**</mark> health to survive a backstab from a Zombie Spy.
-* You need to be **above** <mark style="color:green;">**\[270]**</mark> health to survive a backstab from a Warrior's Spirit Heavy
+* You need to be **above** <mark style="color:green;">**\[270]**</mark> health to survive a melee from a Zombie Warrior's Spirit Heavy or Zombie Backscratcher Pyro
 
 ## Infection
 
@@ -107,7 +105,7 @@ _<mark style="color:red;">**(Placeholder for Image)**</mark>_
 ![](../../.gitbook/assets/ClassLimitsIcon.png)
 
 * So you don't absolutely steamroll with Heavies and to encourage a wider class variety, some classes have a cap on the amount playable.&#x20;
-* Heavy and Engineer are currently now the only two capped classes; with a class limit of **\[8] slots** available on each.
+* **Heavy and Engineer are currently now the only two capped classes; with a class limit of \[8] slots available on each.**
 * All other classes have no class limit.
 * Class limits do not apply to the Zombie Team.
 

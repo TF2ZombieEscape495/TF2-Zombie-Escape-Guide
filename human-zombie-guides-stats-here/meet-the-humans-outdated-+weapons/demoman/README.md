@@ -15,18 +15,19 @@ description: Brief overview of the Human Demoman
 
 * Detonated stickies can cause an AoE stun
 * Extremely effective at group stalling
-* Can tank one Zombie hit with a rechargeable shield
+* Can tank one Zombie hit with a [rechargeable shield](secondaries.md#splendid-screen)
 
 <mark style="color:red;">**Cons**</mark>
 
-* **Slowest** base class speed _(without the Pain Train)_
+* **Slowest** base class speed _(without the_ [_Pain Train_](melees.md#pain-train)_)_
 * Up close, zombies can overwhelm easily due to lack of reliable knockback
-* Stickies will slide off any moving geometry; making it VERY hard to properly stun zombies on them
+* Stickies will slide off any moving geometry; making it **VERY** hard to properly stun zombies on them
 * Stun immunity makes more Demos exponentially less effective
 
 \
-Demoman's main job in Zombie Escape is to slow and stun hordes of zombies during fallbacks while also stunning certain dangerous zombies during defenses. The sticky bomb's area of effect can slow multiple zombies down or stun them outright if they deal enough damage. Zombies will gain stun immunity for 3 seconds after they've been stunned once, so multiple Demomen and Snipers will become less effective.\
+Demoman's main job in Zombie Escape is to slow and stun hordes of zombies during fallbacks while also stunning certain dangerous zombies during defenses. The sticky bomb's area of effect can slow multiple zombies down or **stun** them outright if they deal enough damage. **Zombies will gain stun immunity for **<mark style="color:yellow;">**3 seconds**</mark>** after they've been stunned once, so multiple Demomen and Snipers can become less effective as you won't be getting any 'more' stuns.**\
 \
-Also be mindful that, while a zombie is stunned, they cannot be knocked back unless airblasted. This means stunning them up close allows them to bodyblock your team's bullets, so zombies behind them can push forward. If you do want to knock back zombies or launch them into map hazards, your grenade launchers can achieve this at the risk of boosting them into your team.\
+Also be mindful that, while a zombie is stunned, they cannot be knocked back unless airblasted. This means stunning them up close allows them to bodyblock your team's bullets, so zombies behind them can push forward. If you do want to knock back zombies or launch them into map hazards, your grenade launchers can achieve this at the risk of boosting somewhat.
+
 \
-Alternatively, if you wish to fight up close, there's always the Demoknight subclass that lets you tank a hit with your shield. When fully charged, shields will ﻿give you ÜberCharge upon receiving any sort of damage from a zombie. While useful for blocking Heavies trying to force their way through with Mutations, it also procs off of Medic and pyro Mutations making it extremely ineffective against multiple Mutation spam. Aside from helping deal with Heavies and a few other niche scenarios, Demoknight is incredibly ineffective.
+Alternatively, if you wish to fight up close, there's always the Demoknight subclass that lets you tank a hit with your shield. **When fully charged,** [**Shields**](secondaries.md#splendid-screen) **will ﻿give you ÜberCharge upon receiving any sort of damage from a zombie.** While useful for blocking Heavies trying to force their way through with Mutations, _it also procs off of Medic and pyro Mutations_ making it extremely ineffective against multiple Mutation spam. Aside from helping deal with Heavies and a few other niche scenarios, Demoknight is ineffective on defense - but not outright useless in good hands.
