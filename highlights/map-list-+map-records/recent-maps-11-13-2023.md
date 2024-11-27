@@ -8,10 +8,12 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ## 2024:
 
-### 11/27/2024 - Mario & Pkmn
+### 11/27/2024 - 4 new maps
 
 * **Pkmn Adventure&#x20;**_**(not to be mistaken with Pokemon Adventure)**_  _**\[5 Stages]**_**&#x20;**<mark style="color:yellow;">**\[CSS Map]**</mark>**&#x20;**<mark style="color:purple;">**(Leader)**</mark>
-* **Mario Tower \[1 Stage]&#x20;**<mark style="color:yellow;">**\[CSS/CSGO map]**</mark>
+* **Mario Tower \[1 Stage(?)]&#x20;**<mark style="color:yellow;">**\[CSS map]**</mark>
+* **Dodge or Die \[3 Stages]&#x20;**<mark style="color:yellow;">**\[CSS map]**</mark>
+* **Harry Potter \[12 Stages] &#x20;**<mark style="color:yellow;">**\[CSS map]**</mark>**&#x20;**<mark style="color:purple;">**(Leader)**</mark>
 
 #### **Returning:**
 
