@@ -1,17 +1,13 @@
 # Zombie Sniper
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Icon_sniper_zombie.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Icon_sniper_zombie.jpg" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 ### _<mark style="color:yellow;">**Note:**</mark>_ The Razorback typically does not function while playing as a Human against stabs; _<mark style="color:blue;">however, it does work when playing Zombie!</mark>_&#x20;
 
 ### You can utilize it as a means of anti-backstab when holding [Zombie Items](../../elements-of-zombie-escape/items/common-items.md#zombie-items) and generally wall off cheeky chainstab-farming spies.
 
-![](../../.gitbook/assets/100px-Item\_icon\_Razorback.png)
+![](../../.gitbook/assets/100px-Item_icon_Razorback.png)
 {% endhint %}
 
 <mark style="color:yellow;">**Speed:**</mark> _**272.5v HU/s (90.8% base TF2 speed)**_\
@@ -19,8 +15,8 @@
 
 <mark style="color:blue;">**Pros**</mark>
 
-* **Excellent Zombie Item Candidiate **_**(Won't get backstabbed in most cases via**_ [_**Razorback**_](../meet-the-humans-outdated-+weapons/sniper/secondaries.md#razorback) _**equip)**_
-* **Enzyme effectively shuts down **_**(reveals)**_** cloaked spies/can take out DR spies/overhealed classes**
+* **Excellent Zombie Item Candidiate&#x20;**_**(Won't get backstabbed in most cases via**_ [_**Razorback**_](../meet-the-humans-outdated-+weapons/sniper/secondaries.md#razorback) _**equip)**_
+* **Enzyme effectively shuts down&#x20;**_**(reveals)**_**&#x20;cloaked spies/can take out DR spies/overhealed classes**
   * **Enzyme can make Map Hazards/NPCs deal more damage against Humans**
 
 <mark style="color:red;">**Cons**</mark>

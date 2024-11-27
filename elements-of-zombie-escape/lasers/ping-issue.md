@@ -13,7 +13,7 @@ Just because information is being received much later for those with higher ping
 <figure><img src="../../.gitbook/assets/Ping Issue.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:yellow;">**This image is**</mark><mark style="color:yellow;">** **</mark>_<mark style="color:yellow;">**not**</mark>_<mark style="color:yellow;">** **</mark><mark style="color:yellow;">**a placeholder.**</mark>
+<mark style="color:yellow;">**This image is**</mark><mark style="color:yellow;">**&#x20;**</mark>_<mark style="color:yellow;">**not**</mark>_<mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**a placeholder.**</mark>
 
 * The top side represents a player with high ping and the bottom represents a player with low ping.&#x20;
 * The <mark style="color:red;">**red**</mark> laser is where it appears on one's screen

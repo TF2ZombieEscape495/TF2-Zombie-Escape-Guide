@@ -2,12 +2,12 @@
 
 <figure><img src="../../.gitbook/assets/Meet The Zombies Test.png" alt="" width="479"><figcaption></figcaption></figure>
 
-Below are descriptions for each class of the Zombie team, their Mutations, and weapons if they are of note. There isn't as varied a weapon pool as the Human team since they are restricted to only melees. As a result, this section will not be as extensive as the Meet the Humans section but will provide enough information for you to fully understand how to play as a zombie. For more in-depth playstyle  strategies, see the [**Zombie Meta Discussion**](../zombie-meta-discussion/) **- and for additional mechanics not covered here **~~_**(until/unless author finds a way to cohesively merge that here)**_~~** view** [**Zombie Mechanics**](../../general-overview/how-to-play-as-zombies/zombie-mechanics.md)
+Below are descriptions for each class of the Zombie team, their Mutations, and weapons if they are of note. There isn't as varied a weapon pool as the Human team since they are restricted to only melees. As a result, this section will not be as extensive as the Meet the Humans section but will provide enough information for you to fully understand how to play as a zombie. For more in-depth playstyle  strategies, see the [**Zombie Meta Discussion**](../zombie-meta-discussion/) **- and for additional mechanics not covered here&#x20;**~~_**(until/unless author finds a way to cohesively merge that here)**_~~**&#x20;view** [**Zombie Mechanics**](../../general-overview/how-to-play-as-zombies/zombie-mechanics.md)
 
 ## Items & Enzyme...
 
 {% hint style="danger" %}
-### <mark style="color:yellow;">**Picking up items as a zombie will completely disable your own Mutation**</mark><mark style="color:yellow;">** **</mark>_<mark style="color:yellow;">**(Enzyme)**</mark>_<mark style="color:yellow;">** **</mark><mark style="color:yellow;">**function.**</mark>
+### <mark style="color:yellow;">**Picking up items as a zombie will completely disable your own Mutation**</mark><mark style="color:yellow;">**&#x20;**</mark>_<mark style="color:yellow;">**(Enzyme)**</mark>_<mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**function.**</mark>
 {% endhint %}
 
 ## Health Scaling

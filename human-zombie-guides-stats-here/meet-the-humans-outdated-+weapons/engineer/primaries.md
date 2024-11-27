@@ -2,9 +2,9 @@
 description: Engineer Primary Options
 ---
 
-# Primaries
+# Engineer Primaries
 
-## Frontier Justice  ![](<../../../.gitbook/assets/100px-Item\_icon\_Frontier\_Justice (2).png>)
+## Frontier Justice  ![](<../../../.gitbook/assets/100px-Item_icon_Frontier_Justice (2).png>)
 
 | Attributes                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -22,7 +22,7 @@ The Frontier Justice is a weapon that rewards Engineers who play in tandem with 
 
 Instead, this weapon plays into its current niche in Zombie Escape **as the weapon with the highest DPS among all the shotguns;** (at \~190 DPS) falling only flat at stopping waves of zombies in your face due a small clip, but nothing a short circuit or pistol swap between this can't handle.
 
-## Panic Attack   ![](<../../../.gitbook/assets/100px-Item\_icon\_Panic\_Attack (3).png>)
+## Panic Attack   ![](<../../../.gitbook/assets/100px-Item_icon_Panic_Attack (3).png>)
 
 | Attributes                                                                   |
 | ---------------------------------------------------------------------------- |
@@ -42,11 +42,11 @@ Instead, this weapon plays into its current niche in Zombie Escape **as the weap
 
 The Panic Attack in base TF2 has gone through many revisions. It was originally a charged burst weapon that fired much faster the lower one’s health was. Now, it’s a rapid-fire burst weapon that loses accuracy the longer one keeps firing. These modifications follow the trend of the latter, as this weapon has been reworked into an immediate response option for players caught out by groups of zombies.
 
-Currently the weapon stands as the **fastest-firing yet slowest-reloading** shotgun. With a TEC time of 2.43 seconds and a FRT of 5.4 seconds, this produces an extremely low uptime-downtime ratio of 0.45. This means that this weapon is **highly unsustainable for long-term defenses** and should only be used if necessary. This weapon has a 37% damage penalty, leading to the lowest sustained DPS among all shotguns at \~130. But, because this weapon boasts an extremely high fire rate, its nonstop DPS is actually **one of the highest among all weapons at 420 **_**(provided that you have an**_ [_**ammo item.**_](../../../elements-of-zombie-escape/items/common-items.md#human-items)_**)**_
+Currently the weapon stands as the **fastest-firing yet slowest-reloading** shotgun. With a TEC time of 2.43 seconds and a FRT of 5.4 seconds, this produces an extremely low uptime-downtime ratio of 0.45. This means that this weapon is **highly unsustainable for long-term defenses** and should only be used if necessary. This weapon has a 37% damage penalty, leading to the lowest sustained DPS among all shotguns at \~130. But, because this weapon boasts an extremely high fire rate, its nonstop DPS is actually **one of the highest among all weapons at 420&#x20;**_**(provided that you have an**_ [_**ammo item.**_](../../../elements-of-zombie-escape/items/common-items.md#human-items)_**)**_
 
 Even if this weapon has low sustained DPS, it evens out by being given a damage bonus to players in an attempt to make it more effective for close-range knockback in hitting multiple zombies due to the spread 'penalty' applying to extra pellets. With all this in effect, hopefully this becomes a weapon Pyros, Heavies, and Soldiers can consider as an option should they tend to over-defend or get caught out often. The low damage and high spread also make this weapon less appealing for fast-moving boss fights, so try to _avoid_ using it on maps that require optimal DPS or accurate shots to win unless you're comfortable with getting up close.
 
-## Shotgun   ![](<../../../.gitbook/assets/100px-Item\_icon\_Shotgun (3).png>)
+## Shotgun   ![](<../../../.gitbook/assets/100px-Item_icon_Shotgun (3).png>)
 
 | Attributes                                                    |
 | ------------------------------------------------------------- |
@@ -62,7 +62,7 @@ The stock shotgun is pretty much the de facto weapon used by new players or thos
 
 Reliable as a mid ranged option, the stock Shotgun is still a good choice for Engineer since it has a large clip size to cover yourself with; but tends to be overshadowed by the Frontier Justice in terms of damage, only having a slightly higher fire rate to compensate for that too.
 
-## Rescue Ranger   ![](<../../../.gitbook/assets/100px-Item\_icon\_Rescue\_Ranger (1).png>)
+## Rescue Ranger   ![](<../../../.gitbook/assets/100px-Item_icon_Rescue_Ranger (1).png>)
 
 | Attributes                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------- |
@@ -87,7 +87,7 @@ In Zombie Escape, the Rescue Ranger satisfies a couple niches by being given pen
 
 It also lets you safely repair buildings from a distance without putting yourself in danger, which is great if you're using them as blockades. One more beneficial thing worth mentioning is that it also beefs up your sentry gun's damage (knockback) power. However, the Rescue Ranger is far worse at _holding zombies back_ compared to the shotgun options and <mark style="color:red;">**can't damage NPCs or Bosses.**</mark>
 
-## Widowmaker   ![](<../../../.gitbook/assets/100px-Item\_icon\_Widowmaker (1).png>)
+## Widowmaker   ![](<../../../.gitbook/assets/100px-Item_icon_Widowmaker (1).png>)
 
 | Attributes                                                                                   |
 | -------------------------------------------------------------------------------------------- |
@@ -112,7 +112,7 @@ On maps with tighter enclosures the weapon can get some decent mileage going in 
 
 Also falling into the same problem as the other gimmicky Engineer weapons - **you'll be doing almost no damage to bosses** with this, _(very, very minimal.)_
 
-## Pomson 6000   ![](<../../../.gitbook/assets/100px-Item\_icon\_Pomson\_6000 (2).png>)
+## Pomson 6000   ![](<../../../.gitbook/assets/100px-Item_icon_Pomson_6000 (2).png>)
 
 | Attributes                                                                          |
 | ----------------------------------------------------------------------------------- |

@@ -2,49 +2,37 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 11/6/2024
+# Gamemode Changes 11/26/2024
+
+### **11/26/2024 - General**
+
+* **Map RTV Cooldown reduced back to global 3 map cooldown**
+* **Adjustments made to sources of zombie boosting&#x20;**_**(this will probably throw off a lot of mention of boosting mechanics throughout the whole guide depending on whether or not it's adjusted any further)**_
 
 ### **11/6/2024 - Leader Nominations**
 
-* Specific maps can now _only_ be nominated by an in-game [**leader**](../general-overview/leading.md) **(A-Z)**\
-  _**If I forget to update this list specifically, you'll see leader-locked maps tagged @**_ [_**Map List**_](map-list-+map-records/)
-  * A\_E\_S\_T\_H\_E\_T\_I\_C
-  * Best Korea
-  * Dark Souls
-  * Diddle
-  * Djinn
-  * Doom
-  * Fall Guys
-  * Frostdrake
-  * Frozentemple
-  * Garten of Banban
-  * Hydroponic Garden
-  * Johnny Nukem
-  * Lucid (Both Versions)
-  * Meatropolis
-  * Mist
-  * Neochrome
-  * OBJ Filth/NPST/Rampage
-  * Rush B
-  * Shroomforest 2
-  * Stalker Ultimate
-  * Visualizer
+* **Specific maps can now&#x20;**_**only**_**&#x20;be nominated by an in-game** [**leader**](../general-overview/leading.md) **but are guaranteed to show on nom-list if it's a leader-map (A-Z)**
+* **Nomination-stacking a map also now prioritizes whichever maps have the highest nom-counts into showing up on the RTV screen - but there is now a cap of 3 possible maps max (and 4 maps if leader nomination is there)**
+
+{% hint style="info" %}
+_<mark style="color:yellow;">**Note:**</mark>_ **You can view what Leader maps are tagged as&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;@** [**Map List**](map-list-+map-records/) **or can view them in-game at the end of the nomination list.**
+{% endhint %}
 
 ### **10/24/2024 - Maps re-added + Map CD Increase**
 
 * [16 Maps Re-Added ](map-list-+map-records/recent-maps-11-13-2023.md#id-10-24-2024-16-maps-re-added)
-* Map CD increased to **20 map cooldown**
-* **Map RTV timer removed (no longer have to wait 10 minutes to RTV on a map)**
+* ~~Map CD increased to **20 map cooldown**~~
+* **Map RTV timer lowered to 30 seconds (no longer have to wait 10 minutes to RTV on a map)**
 
 ### **9/21/2024 - Normal Mode Change**
 
-* ~~_**(Unknown specific date)**_~~** Universal 40% map damage reduction reverted/removed on** [<mark style="color:orange;">**Normal Mode.**</mark>](../general-overview/mod-mechanics.md#modes)
+* ~~_**(Unknown specific date)**_~~**&#x20;Universal 40% map damage reduction reverted/removed on** [<mark style="color:orange;">**Normal Mode.**</mark>](../general-overview/mod-mechanics.md#modes)
 * &#x20;_tl;dr a lot of intended 1-shot mechanics like map traps/zombie items were 'broken' prior to this, and could just be tanked/or healed off without punishment; but should work again now. As a result, many maps will feel 'harder' again as you'll be taking lots more damage generally._
 
 ### **9/14/2024 - Leader Changes**
 
 * **Leader functionality (markers and leadermenu) will be disabled upon Leader's death - they will still retain the role and can !transferleader to another player or hold it until next round.**
-* _**(Admin only/event only?)**_** Leader vip mode toggle added to leader options (round will instantly end on leader death)**
+* _**(Admin only/event only?)**_**&#x20;Leader vip mode toggle added to leader options (round will instantly end on leader death)**
 
 ### 8/24/2024 - 23 maps purged
 
@@ -89,7 +77,7 @@ _(A-Z)_
 
 * **Noob Mode renamed to Casual difficulty.**
 * **Map Damage Reduction Universally changed to 40% on Normal Mode, additive with Casual Mode (70% total)**
-* **Overall Zombie Slowdown via being shot on Normal reduced **_**(exact value currently unknown)**_
+* **Overall Zombie Slowdown via being shot on Normal reduced&#x20;**_**(exact value currently unknown)**_
 
 ### 2/07/2024 Balance Change
 
@@ -99,7 +87,7 @@ _(A-Z)_
 
 ### 11/18/2023 Balance Change
 
-<mark style="color:yellow;">**\~Human Demomen now have 200 HP with sticky/scottish/quickie equipped, still 175 if using a shield or jumper!**</mark>** (This generally brings them up to par on NPCs/bosses with being able to take the same amount of hits as most other people.)**
+<mark style="color:yellow;">**\~Human Demomen now have 200 HP with sticky/scottish/quickie equipped, still 175 if using a shield or jumper!**</mark>**&#x20;(This generally brings them up to par on NPCs/bosses with being able to take the same amount of hits as most other people.)**
 
 ### 11/7/2023 Enzyme Change
 
@@ -111,15 +99,15 @@ _(A-Z)_
 
 #### <mark style="color:red;">Zombie Medic</mark>
 
-* <mark style="color:yellow;">**Enzyme damage reduced by 50%**</mark>** (averages to about \~20 raw damage on successful hit.)**
+* <mark style="color:yellow;">**Enzyme damage reduced by 50%**</mark>**&#x20;(averages to about \~20 raw damage on successful hit.)**
 
 ### 9/24/2023 Balance & Enzyme Change
 
-<mark style="color:yellow;">**-Enzyme**</mark><mark style="color:yellow;">** **</mark>_<mark style="color:yellow;">**only increases**</mark>_<mark style="color:yellow;">** **</mark><mark style="color:yellow;">**upon taking damage and decays after a while;**</mark>** **<mark style="color:orange;">**(Enzyme count decays after \[30] seconds)**</mark> **(In other words; you can't indefinitely hold onto an enzyme activate them en masse after being jailed a long time.)**
+<mark style="color:yellow;">**-Enzyme**</mark><mark style="color:yellow;">**&#x20;**</mark>_<mark style="color:yellow;">**only increases**</mark>_<mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**upon taking damage and decays after a while;**</mark>**&#x20;**<mark style="color:orange;">**(Enzyme count decays after \[30] seconds)**</mark> **(In other words; you can't indefinitely hold onto an enzyme activate them en masse after being jailed a long time.)**
 
-<mark style="color:yellow;">**-Correlating with the above; Enzyme on being hit increased by around \[6-8?] per damage tick**</mark>** (Build enzyme much faster against damage.)**
+<mark style="color:yellow;">**-Correlating with the above; Enzyme on being hit increased by around \[6-8?] per damage tick**</mark>**&#x20;(Build enzyme much faster against damage.)**
 
-<mark style="color:yellow;">**-Human melees no longer do increased damage and instead will do a sizeable knockback.**</mark>** (Still damages heavy enzymes greatly.)**
+<mark style="color:yellow;">**-Human melees no longer do increased damage and instead will do a sizeable knockback.**</mark>**&#x20;(Still damages heavy enzymes greatly.)**
 
 ### 7/28/2023 Enzyme Changes
 
@@ -139,7 +127,7 @@ _(A-Z)_
 
 #### <mark style="color:red;">Zombie Pyro</mark>
 
-<mark style="color:yellow;">**-Zombie Pyros now gain a giant bomb head upon enzyme, does immense damage at close range; has a wind-up AoE explosion that launches zombies forwards if not shot before it times out.**</mark>** **_**(No longer has the flame particles around him visually.)**_
+<mark style="color:yellow;">**-Zombie Pyros now gain a giant bomb head upon enzyme, does immense damage at close range; has a wind-up AoE explosion that launches zombies forwards if not shot before it times out.**</mark>**&#x20;**_**(No longer has the flame particles around him visually.)**_
 
 #### <mark style="color:red;">Zombie Demoman</mark>
 

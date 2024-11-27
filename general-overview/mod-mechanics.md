@@ -38,7 +38,7 @@ Round is won when the Human team has "escaped" the map, survived long enough, or
 * Different classes with unique playstyles, strengths, and weaknesses
   * HP and Speed are modified from base-game TF2
   * Some mechanics have been modified
-  * Have unique abilities called ~~**Mutations**~~** Enzymes**
+  * Have unique abilities called ~~**Mutations**~~**&#x20;Enzymes**
 * Round is _not_ lost when all zombies are dead
 
 Round is won when all the humans have died. Round is _not_ lost when all zombies die unless during map-specific sections.
@@ -54,7 +54,7 @@ As a <mark style="color:red;">**Zombie**</mark>, you will have to have either ju
 * Everyone will start on the <mark style="color:blue;">**Human**</mark> team until the warmup timer ends.
 * The auto-infect system will pick humans to become zombies until <mark style="color:yellow;">**15%**</mark> of the amount of players on the server are <mark style="color:red;">**Zombies.**</mark>
   * _A <mark style="color:yellow;">**32**</mark> player server will have <mark style="color:yellow;">**\[27]**</mark>_ _<mark style="color:blue;">**Humans**</mark> and <mark style="color:yellow;">**\[5]**</mark>_ _<mark style="color:red;">**Zombies.**</mark>_
-  * _A <mark style="color:yellow;">**64**</mark> player server will have <mark style="color:yellow;">**\[51]**</mark>_ _<mark style="color:blue;">**Humans**</mark> and <mark style="color:yellow;">**\[10]**</mark>** **<mark style="color:red;">**Zombies**</mark>._
+  * _A <mark style="color:yellow;">**64**</mark> player server will have <mark style="color:yellow;">**\[51]**</mark>_ _<mark style="color:blue;">**Humans**</mark> and <mark style="color:yellow;">**\[10]**</mark>**&#x20;**<mark style="color:red;">**Zombies**</mark>._
 * **`Spectators`** will be placed at the front of the queue, meaning that the more recently you joined as <mark style="color:blue;">**BLU;**</mark> _or if you AFKed long enough to be moved into spectator your priority for zombie will increase._
 
 {% hint style="info" %}
@@ -62,7 +62,7 @@ As a <mark style="color:red;">**Zombie**</mark>, you will have to have either ju
 
 <mark style="color:yellow;">**Per every 24 hours you will have ONE auto-infect 'immunity' upon joining, preventing you from becoming a zombie for the current/or next starting round.**</mark>
 
-**If you've expended this immunity and late-join into an ongoing round, you still might be **_**very likely**_** to get selected as a mother-zombie.**
+**If you've expended this immunity and late-join into an ongoing round, you still might be&#x20;**_**very likely**_**&#x20;to get selected as a mother-zombie.**
 
 _Check or bind the_ [_**ze\_queue**_](useful-commands.md) _command to know whether or not you'll be zombie next round._
 {% endhint %}
@@ -78,7 +78,7 @@ At the top of the screen during rounds, you'll notice a timer. When it reaches <
 * Humans losing <mark style="color:yellow;">**3**</mark> times in a row disables the map extension. It can be regained by Humans winning the round _after_ the 3rd loss in a row before the automatic vote has been triggered. Each map is typically limited to <mark style="color:yellow;">**2**</mark> extensions.
 * If the team restarts a round before reaching <mark style="color:yellow;">**5:00**</mark> on the Map Timer, they will be able to play a round of the map before leaving.
 * After a map has been played, it will be on cooldown. Players will not be able to nominate and play that map until enough other maps have been cycled through. _<mark style="color:yellow;">**(Currently 3 Map CD)**</mark>_
-* Players may also force a map vote if enough people use the **RTV** command ~~after <mark style="color:yellow;">**600 seconds (10 minutes)**</mark>~~ _**(No longer forced to wait this long to RTV)**_ of a map have passed; or through the usage of Skial Credits _(That method will always show a 'Don't Change' option to extend.)_
+* Players may also force a map vote if enough people use the **RTV** command after <mark style="color:yellow;">**30 seconds**</mark> of a map change; or through the usage of Skial Credits _(That method will always show a 'Don't Change' option to extend.)_
 
 ### Modes
 
@@ -89,7 +89,7 @@ At the top of the screen during rounds, you'll notice a timer. When it reaches <
 \
 <mark style="color:green;">**Casual Difficulty**</mark> - _A more relaxed take on the game mode, useful for learning or practicing a map:_
 
-* **Humans take less damage,** _(**-70%(?) **_~~_**\[Possibly 30% now]**_~~_** ****Map Damage Reduction**; Stackable with Battalions.)_
+* **Humans take less damage,** _(**-70%(?)&#x20;**_~~_**\[Possibly 30% now]**_~~_**&#x20;****Map Damage Reduction**; Stackable with Battalions.)_
 * Zombies are slowed for much longer, _(**+1 second** to slow duration.)_
 * Even individual _**pellets**_ will slow zombies from afar, granting _**solo-stalling capability almost exponentially.**_
 
@@ -99,13 +99,13 @@ _The server will automatically engage a vote for <mark style="color:green;">**Ca
 
 There _are_ other zombie-esque game modes available on TF2!
 
-Years ago, it was primarily <mark style="color:orange;">**Zombie Fortress (ZF)**</mark>** - n**_ow,_ the zombie genre has branched out quite a bit each having their own unique spin on things.&#x20;
+Years ago, it was primarily <mark style="color:orange;">**Zombie Fortress (ZF)**</mark>**&#x20;- n**_ow,_ the zombie genre has branched out quite a bit each having their own unique spin on things.&#x20;
 
-* [<mark style="color:orange;">**Super Zombie Fortress (SZF)**</mark>](https://wiki.teamfortress.com/wiki/Zombie\_Fortress)
-* <mark style="color:orange;">**Zombie Escape (ZE)**</mark>** **_**(You're here!)**_
-* [<mark style="color:orange;">**Zombie Survival (ZS)**</mark>](https://wiki.teamfortress.com/wiki/Zombie\_Survival)
-* [<mark style="color:orange;">**Zombie Riot (ZR)**</mark>](https://wiki.teamfortress.com/wiki/Zombie\_Riot)
-* [<mark style="color:orange;">**Zombie Infection (ZI)**</mark>](https://wiki.teamfortress.com/wiki/Zombie\_Infection) **(**_**Recently, TF2 has seen**** **<mark style="color:orange;">**Zombie Infection**</mark>** ****join the party into official Valve matchmaking Casual servers as a Halloween-exclusive game-mode.)**_
+* [<mark style="color:orange;">**Super Zombie Fortress (SZF)**</mark>](https://wiki.teamfortress.com/wiki/Zombie_Fortress)
+* <mark style="color:orange;">**Zombie Escape (ZE)**</mark>**&#x20;**_**(You're here!)**_
+* [<mark style="color:orange;">**Zombie Survival (ZS)**</mark>](https://wiki.teamfortress.com/wiki/Zombie_Survival)
+* [<mark style="color:orange;">**Zombie Riot (ZR)**</mark>](https://wiki.teamfortress.com/wiki/Zombie_Riot)
+* [<mark style="color:orange;">**Zombie Infection (ZI)**</mark>](https://wiki.teamfortress.com/wiki/Zombie_Infection) **(**_**Recently, TF2 has seen****&#x20;**<mark style="color:orange;">**Zombie Infection**</mark>**&#x20;****join the party into official Valve matchmaking Casual servers as a Halloween-exclusive game-mode.)**_
 
 Other servers do host ZE, such as Otaku.tf. Do note that while some of the things discussed here may be applicable to both in terms of game-sense, versions of ZE for Skial and Otaku vary **significantly** in gameplay, map rotation, and the tools available for use on the server.
 
@@ -115,7 +115,7 @@ Those familiar with Zombie Escape on CS:S, CS:GO, and GMod may find many similar
 
 ### Healing?
 
-* Mostly to nudge away at the ignorant misconception of TF2 Healing mechanics nullifying the balance of a boss or map; <mark style="color:yellow;">**healing mechanics are commonly disabled by maps that are typically newer ports**</mark> _**(eg,**** **<mark style="color:yellow;">**Santassination, Mako V6, Djinn**</mark>**, etc...)**_
+* Mostly to nudge away at the ignorant misconception of TF2 Healing mechanics nullifying the balance of a boss or map; <mark style="color:yellow;">**healing mechanics are commonly disabled by maps that are typically newer ports**</mark> _**(eg,****&#x20;**<mark style="color:yellow;">**Santassination, Mako V6, Djinn**</mark>**, etc...)**_
 * _Some of the_ **older ports or TF2-made maps** _might be balanced around keeping healing on specifically and instead, bosses will do higher damage or still have their insta-kills to compensate enough. **(Uchiha, Offliner, Sandstone, Breezy, etc...)**_
 
 [^1]: **Options > Multiplayer > Advanced >Ensure** `Suicide after choosing a player class` **is** **checked.**

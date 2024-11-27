@@ -1,24 +1,20 @@
 # Zombie Spy
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Icon_spy_zombie.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Icon_spy_zombie.jpg" alt=""><figcaption></figcaption></figure></div>
 
 <mark style="color:yellow;">**Speed:**</mark> _**291v HU/s (97.0% base TF2 speed)**_\
 <mark style="color:red;">**Damage:**</mark> _**128**_\
 <mark style="color:red;">**Damage (backstab):**</mark> _**300**_
 
 {% hint style="danger" %}
-## <mark style="color:red;">**All knives**</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**aside from**</mark>_<mark style="color:red;">** **</mark><mark style="color:red;">**the Stock knife are banned.**</mark>
+## <mark style="color:red;">**All knives**</mark><mark style="color:red;">**&#x20;**</mark>_<mark style="color:red;">**aside from**</mark>_<mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**the Stock knife are banned.**</mark>
 {% endhint %}
 
 <mark style="color:blue;">**Pros**</mark>
 
 * **Can take out base HP Human Heavies/bonus HP classes instantly via backstab**
 * **Second-fastest base Zombie Speed**
-* **Enzyme excels in maps with flanks that aren't being watched or wider open defense areas **_**(gif below)**_
+* **Enzyme excels in maps with flanks that aren't being watched or wider open defense areas&#x20;**_**(gif below)**_
 
 <mark style="color:red;">**Cons**</mark>
 

@@ -4,7 +4,7 @@ description: Brief overview of the Human Sniper
 
 # 🇳🇿 Sniper
 
-![](../../../.gitbook/assets/Icon\_sniper\_blue.jpg)
+![](../../../.gitbook/assets/Icon_sniper_blue.jpg)
 
 **`Class Cap: N/A`**
 
@@ -23,11 +23,11 @@ description: Brief overview of the Human Sniper
 * Hard to play effectively.
 * Can be outperformed in stuns by Demomen for less effort.
 * Low average DPS against NPCs and bosses.
-* <mark style="color:red;">**Is the only**</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**class WITHOUT**</mark>_<mark style="color:red;">** **</mark><mark style="color:red;">**any form of movement buffing weapon**</mark> - making him consistently the slowest class at beating other players to items or triggers.
+* <mark style="color:red;">**Is the only**</mark><mark style="color:red;">**&#x20;**</mark>_<mark style="color:red;">**class WITHOUT**</mark>_<mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**any form of movement buffing weapon**</mark> - making him consistently the slowest class at beating other players to items or triggers.
 * No particular useful niche that he excels at.
 
 \
-Sniper in Zombie Escape is simple in concept but hard to play in practice. His main job is zombie deterrence and stalling either from afar or up close if you're cheeky enough. This is thanks to his ability to stun zombies on headshot. Target zombies that pop their Mutations to shut them down completely or stall them before they can reach your teammates. **Like Demoman, Zombies have a universal **<mark style="color:yellow;">**three second**</mark>** stun immunity before they can be stunned once more.** There will be a lot of nuance to playing Sniper and things you have to watch for, but, played effectively, it can feel very rewarding.\
+Sniper in Zombie Escape is simple in concept but hard to play in practice. His main job is zombie deterrence and stalling either from afar or up close if you're cheeky enough. This is thanks to his ability to stun zombies on headshot. Target zombies that pop their Mutations to shut them down completely or stall them before they can reach your teammates. **Like Demoman, Zombies have a universal&#x20;**<mark style="color:yellow;">**three second**</mark>**&#x20;stun immunity before they can be stunned once more.** There will be a lot of nuance to playing Sniper and things you have to watch for, but, played effectively, it can feel very rewarding.\
 \
 Akin to his name, the Sniper is able to snipe zombies from afar to deal large amounts of damage. Base value, this will be _\~900 dmg_ on headshot with modifiers according to buffs or debuffs the zombies may have. As more and more humans die, this base damage will increase even while the zombies' starting health decreases. Bodyshotting zombies will deal the same amount of damage in vanilla TF2 and is therefore useless due to the high hp scaling of Zombies. Only when zombies are extremely low in hp does it serve a niche for quick dispatching if there's no time to scope in.\
 \

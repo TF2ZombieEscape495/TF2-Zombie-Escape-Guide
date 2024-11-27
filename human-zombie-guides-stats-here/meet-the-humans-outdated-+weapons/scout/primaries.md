@@ -4,7 +4,7 @@ description: Scout Primary Options
 
 # Scout Primaries
 
-## Scattergun    ![](<../../../.gitbook/assets/100px-Item\_icon\_Scattergun (1).png>)
+## Scattergun    ![](<../../../.gitbook/assets/100px-Item_icon_Scattergun (1).png>)
 
 | Attributes                                                    |
 | ------------------------------------------------------------- |
@@ -20,20 +20,20 @@ The Scattergun is probably the Scout's most reliable primary weapon in base TF2.
 
 ## Force-A-Nature    <img src="../../../.gitbook/assets/100px-Item_icon_Force-A-Nature (1).png" alt="" data-size="original">
 
-| Attributes                                                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Clip Size - 12 Shots**                                                                                                                                                                                      |
-| **Weapon Spread: 15:1**                                                                                                                                                                                       |
-| <mark style="color:blue;">**+75% Faster Firing Speed**</mark>                                                                                                                                                 |
-| <mark style="color:blue;">**+20% Bullet Per Shot**</mark>                                                                                                                                                     |
-| <mark style="color:blue;">**+100% Damage vs Players**</mark>                                                                                                                                                  |
-| <mark style="color:red;">**-12% Damage Penalty**</mark>                                                                                                                                                       |
-| <mark style="color:red;">**When Held: -7.7% Movement Speed on Wearer**</mark>                                                                                                                                 |
-| <mark style="color:red;">**-25% Slower Reload Time**</mark>                                                                                                                                                   |
-| <mark style="color:red;">**-100% Less Accurate**</mark>                                                                                                                                                       |
-| <mark style="color:orange;">**Self-Knockback Disabled**</mark>                                                                                                                                                |
-| <mark style="color:orange;">**Successive shots become less accurate**</mark>                                                                                                                                  |
-| <mark style="color:orange;">**When Held: Attrib\_Scattergun\_NoReloadSingle (Hidden)**</mark><mark style="color:orange;">** **</mark>_<mark style="color:orange;">**(Clip will reload all at once!)**</mark>_ |
+| Attributes                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Clip Size - 12 Shots**                                                                                                                                                                                           |
+| **Weapon Spread: 15:1**                                                                                                                                                                                            |
+| <mark style="color:blue;">**+75% Faster Firing Speed**</mark>                                                                                                                                                      |
+| <mark style="color:blue;">**+20% Bullet Per Shot**</mark>                                                                                                                                                          |
+| <mark style="color:blue;">**+100% Damage vs Players**</mark>                                                                                                                                                       |
+| <mark style="color:red;">**-12% Damage Penalty**</mark>                                                                                                                                                            |
+| <mark style="color:red;">**When Held: -7.7% Movement Speed on Wearer**</mark>                                                                                                                                      |
+| <mark style="color:red;">**-25% Slower Reload Time**</mark>                                                                                                                                                        |
+| <mark style="color:red;">**-100% Less Accurate**</mark>                                                                                                                                                            |
+| <mark style="color:orange;">**Self-Knockback Disabled**</mark>                                                                                                                                                     |
+| <mark style="color:orange;">**Successive shots become less accurate**</mark>                                                                                                                                       |
+| <mark style="color:orange;">**When Held: Attrib\_Scattergun\_NoReloadSingle (Hidden)**</mark><mark style="color:orange;">**&#x20;**</mark>_<mark style="color:orange;">**(Clip will reload all at once!)**</mark>_ |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.165</td><td>TEC: 1.98 seconds</td><td>Reload Time (First): 1.815 seconds</td><td>Full Reload Time: 1.815 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 63.3 per shot</td><td><strong>Real DPS:</strong> 200.347 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 384 DPS</td><td></td></tr></tbody></table>
 
@@ -44,39 +44,39 @@ Pushing more into the explosive aspect defensive support does come with a cost; 
 It’s a bit of a high-commitment weapon that encourages Scouts to be up close to push zombies back and dish out massive damage. Compared to the other scatterguns, this offers burst damage to bosses that get too close and serves as an emergency response to defenses about to be lost.\
 
 
-## Baby Face's Blaster    ![](<../../../.gitbook/assets/100px-Item\_icon\_Baby\_Face's\_Blaster (1).png>)
+## Baby Face's Blaster    ![](<../../../.gitbook/assets/100px-Item_icon_Baby_Face's_Blaster (1).png>)
 
-| Attributes                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Clip Size - 6 Shots**                                                                                                                                                                           |
-| **Weapon Spread: 40:1**                                                                                                                                                                           |
-| <mark style="color:blue;">**+60% Faster Firing Speed**</mark>                                                                                                                                     |
-| <mark style="color:blue;">**+65% Faster Reload Time**</mark>                                                                                                                                      |
-| <mark style="color:blue;">**+5% Damage Bonus**</mark>                                                                                                                                             |
-| <mark style="color:blue;">**+25% More Accurate**</mark>                                                                                                                                           |
-| <mark style="color:red;">**-19.5% Slower Move Speed on Wearer**</mark>                                                                                                                            |
-| <mark style="color:orange;">**Wearer never takes fall damage**</mark>                                                                                                                             |
-| <mark style="color:orange;">**On Hit: Builds Boost**</mark>                                                                                                                                       |
-| <mark style="color:orange;">**Boost Increases Run Speed**</mark><mark style="color:orange;">** **</mark>_<mark style="color:orange;">**(Max Move Speed is \~116% of normal Scout speed)**</mark>_ |
-| <mark style="color:orange;">**Boost Reduced on Air Jumps**</mark>                                                                                                                                 |
-| <mark style="color:orange;">**Boost Reduced When Hit**</mark>                                                                                                                                     |
+| Attributes                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Clip Size - 6 Shots**                                                                                                                                                                                |
+| **Weapon Spread: 40:1**                                                                                                                                                                                |
+| <mark style="color:blue;">**+60% Faster Firing Speed**</mark>                                                                                                                                          |
+| <mark style="color:blue;">**+65% Faster Reload Time**</mark>                                                                                                                                           |
+| <mark style="color:blue;">**+5% Damage Bonus**</mark>                                                                                                                                                  |
+| <mark style="color:blue;">**+25% More Accurate**</mark>                                                                                                                                                |
+| <mark style="color:red;">**-19.5% Slower Move Speed on Wearer**</mark>                                                                                                                                 |
+| <mark style="color:orange;">**Wearer never takes fall damage**</mark>                                                                                                                                  |
+| <mark style="color:orange;">**On Hit: Builds Boost**</mark>                                                                                                                                            |
+| <mark style="color:orange;">**Boost Increases Run Speed**</mark><mark style="color:orange;">**&#x20;**</mark>_<mark style="color:orange;">**(Max Move Speed is \~116% of normal Scout speed)**</mark>_ |
+| <mark style="color:orange;">**Boost Reduced on Air Jumps**</mark>                                                                                                                                      |
+| <mark style="color:orange;">**Boost Reduced When Hit**</mark>                                                                                                                                          |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.255</td><td>TEC: 1.53 seconds</td><td>Reload Time (First): 0.255 seconds</td><td>Reload Time (Consec.): 0.18 seconds</td><td>Full Reload Time: 1.155 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 63 per shot</td><td><strong>Real DPS:</strong> 140.781 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 247.058 DPS</td><td></td><td></td></tr></tbody></table>
 
 Playing into Scout's niche, the Baby Face's Blaster allows him to push way past his base speed. This allows him to get triggers even faster, at the cost of his high DPS. Do be mindful of maps with NPCs, bosses, or map hazards that damage you. **It only takes 25 damage to bring your boost down from 100 to 0 and you'll be left slowed down if there are no zombies to shoot at to regain your boost.** The little bit of accuracy it has can help mitigate that by hitting zombies with it from afar. Some of the best secondaries to pair with the BFB are Bonk! Atomic Punch or any of the pistols. Use the Bonk! Atomic Punch with maximum BFB boost to move _even faster_, or the Winger to compensate for the BFB's low DPS. Fall damage is no longer a worry either with this equipped, so this should let you easily grab triggers on maps that have it enabled!
 
-## Shortstop    ![](<../../../.gitbook/assets/100px-Item\_icon\_Shortstop (2).png>)
+## Shortstop    ![](<../../../.gitbook/assets/100px-Item_icon_Shortstop (2).png>)
 
-| Attributes                                                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Clip Size - 12 Shots**                                                                                                                                                                                      |
-| **Weapon Spread: 50:1**                                                                                                                                                                                       |
-| <mark style="color:blue;">**+50% Faster Firing Speed**</mark>                                                                                                                                                 |
-| <mark style="color:blue;">**+25% Bullets Per Shot**</mark>                                                                                                                                                    |
-| <mark style="color:blue;">**+25% Damage vs Players**</mark>                                                                                                                                                   |
-| <mark style="color:red;">**-17.5% Damage Penalty**</mark>                                                                                                                                                     |
-| <mark style="color:red;">**-50% Slower Reload (Hidden)**</mark>                                                                                                                                               |
-| <mark style="color:orange;">**When Held: Attrib\_Scattergun\_NoReloadSingle (Hidden)**</mark><mark style="color:orange;">** **</mark>_<mark style="color:orange;">**(Clip will reload all at once!)**</mark>_ |
+| Attributes                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Clip Size - 12 Shots**                                                                                                                                                                                           |
+| **Weapon Spread: 50:1**                                                                                                                                                                                            |
+| <mark style="color:blue;">**+50% Faster Firing Speed**</mark>                                                                                                                                                      |
+| <mark style="color:blue;">**+25% Bullets Per Shot**</mark>                                                                                                                                                         |
+| <mark style="color:blue;">**+25% Damage vs Players**</mark>                                                                                                                                                        |
+| <mark style="color:red;">**-17.5% Damage Penalty**</mark>                                                                                                                                                          |
+| <mark style="color:red;">**-50% Slower Reload (Hidden)**</mark>                                                                                                                                                    |
+| <mark style="color:orange;">**When Held: Attrib\_Scattergun\_NoReloadSingle (Hidden)**</mark><mark style="color:orange;">**&#x20;**</mark>_<mark style="color:orange;">**(Clip will reload all at once!)**</mark>_ |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.18</td><td>TEC: 2.16 seconds</td><td>Reload Time (First): 1.53 seconds</td><td>Full Reload Time: 1.53 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 49.5 per shot</td><td><strong>Real DPS:</strong> 160.975 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 275 DPS</td><td></td></tr></tbody></table>
 
@@ -84,7 +84,7 @@ The Shortstop is a bit of a weird weapon that has gone through many revisions in
 
 These attributes make it something to consider in situations where players may need to accurately shoot down targets; it could be utilized well for single-target stalling against zombies, fast-moving bosses with smaller hitboxes, or far-away DPS checks. Pistols can, of course, serve this same purpose, but Scouts may want to consider this weapon if running support items like the Mad Milk or Bonk! Atomic Punch.
 
-## Soda Popper    ![](<../../../.gitbook/assets/100px-Item\_icon\_Soda\_Popper (1).png>)
+## Soda Popper    ![](<../../../.gitbook/assets/100px-Item_icon_Soda_Popper (1).png>)
 
 | Attributes                                                                                    |
 | --------------------------------------------------------------------------------------------- |

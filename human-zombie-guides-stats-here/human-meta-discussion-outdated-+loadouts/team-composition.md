@@ -14,15 +14,15 @@ Some maps will have bosses scaled to the point where they will kill you _**alway
 
 In most cases, these weapons provide the easiest use to squeeze out that higher end spectrum of DPS _**(without learning a weird gimmick or niche to the weapon that might otherwise lower your DPS for not using it the proper way or get you killed.)**_
 
-* <mark style="color:yellow;">**Scouts**</mark>** can use the** [**Scattergun**](../meet-the-humans-outdated-+weapons/scout/primaries.md#scattergun) **\[170 DPS] **_**(or**_ [_**Shortstop**_](../meet-the-humans-outdated-+weapons/scout/primaries.md#shortstop) _**\[160 DPS] if full clip reload is hard to focus; during lasers...)**_
-* <mark style="color:yellow;">**Soldiers**</mark>** can use the** [**Direct Hit**](../meet-the-humans-outdated-+weapons/soldier/primaries.md#direct-hit) **\[191 DPS] **_**(or choice of**_ [_**Shotgun**_](../meet-the-humans-outdated-+weapons/soldier/secondaries.md#reserve-shooter) _**if bullet-based or hard to land hits.)**_
-* <mark style="color:yellow;">**Pyros**</mark>** can use the** [**Flare Gun**](../meet-the-humans-outdated-+weapons/pyro/secondaries.md#flare-gun) **\[160 DPS] **_**(or choice of**_ [_**Shotgun**_](../meet-the-humans-outdated-+weapons/pyro/secondaries.md#reserve-shooter) _**if bullet-based or hard to land hits.)**_
-* <mark style="color:yellow;">**Demomen**</mark>** can use the** [**Iron Bomber**](../meet-the-humans-outdated-+weapons/demoman/primaries.md#iron-bomber) **\[159 DPS] or** [**Grenade Launcher**](../meet-the-humans-outdated-+weapons/demoman/primaries.md#grenade-launcher) **\[159 DPS.]**
-* <mark style="color:yellow;">**Heavies**</mark>** can use the** [**Minigun**](../meet-the-humans-outdated-+weapons/heavy/primaries.md#minigun) **\[320 DPS.]**
-* <mark style="color:yellow;">**Engineers**</mark>** will want the** [**Frontier Justice**](../meet-the-humans-outdated-+weapons/engineer/primaries.md#frontier-justice) **\[190 DPS.]**&#x20;
-* <mark style="color:yellow;">**Medics**</mark>** will want the** [**Syringe Gun**](../meet-the-humans-outdated-+weapons/medic/primaries.md#syringe-gun) **\[182 DPS.]**
-* <mark style="color:yellow;">**Snipers**</mark>** can use either the** [**SMG**](../meet-the-humans-outdated-+weapons/sniper/secondaries.md#smg) **\[170 DPS] or** [**Cleaner's Carbine**](../meet-the-humans-outdated-+weapons/sniper/secondaries.md#cleaners-carbine) **\[170 DPS.]**
-* <mark style="color:yellow;">**Spies**</mark>** will want to have the** [**Revolver**](../meet-the-humans-outdated-+weapons/spy/primaries.md#revolver) **\[171 DPS.]**
+* <mark style="color:yellow;">**Scouts**</mark>**&#x20;can use the** [**Scattergun**](../meet-the-humans-outdated-+weapons/scout/primaries.md#scattergun) **\[170 DPS]&#x20;**_**(or**_ [_**Shortstop**_](../meet-the-humans-outdated-+weapons/scout/primaries.md#shortstop) _**\[160 DPS] if full clip reload is hard to focus; during lasers...)**_
+* <mark style="color:yellow;">**Soldiers**</mark>**&#x20;can use the** [**Direct Hit**](../meet-the-humans-outdated-+weapons/soldier/primaries.md#direct-hit) **\[191 DPS]&#x20;**_**(or choice of**_ [_**Shotgun**_](../meet-the-humans-outdated-+weapons/soldier/secondaries.md#reserve-shooter) _**if bullet-based or hard to land hits.)**_
+* <mark style="color:yellow;">**Pyros**</mark>**&#x20;can use the** [**Flare Gun**](../meet-the-humans-outdated-+weapons/pyro/secondaries.md#flare-gun) **\[160 DPS]&#x20;**_**(or choice of**_ [_**Shotgun**_](../meet-the-humans-outdated-+weapons/pyro/secondaries.md#reserve-shooter) _**if bullet-based or hard to land hits.)**_
+* <mark style="color:yellow;">**Demomen**</mark>**&#x20;can use the** [**Iron Bomber**](../meet-the-humans-outdated-+weapons/demoman/primaries.md#iron-bomber) **\[159 DPS] or** [**Grenade Launcher**](../meet-the-humans-outdated-+weapons/demoman/primaries.md#grenade-launcher) **\[159 DPS.]**
+* <mark style="color:yellow;">**Heavies**</mark>**&#x20;can use the** [**Minigun**](../meet-the-humans-outdated-+weapons/heavy/primaries.md#minigun) **\[320 DPS.]**
+* <mark style="color:yellow;">**Engineers**</mark>**&#x20;will want the** [**Frontier Justice**](../meet-the-humans-outdated-+weapons/engineer/primaries.md#frontier-justice) **\[190 DPS.]**&#x20;
+* <mark style="color:yellow;">**Medics**</mark>**&#x20;will want the** [**Syringe Gun**](../meet-the-humans-outdated-+weapons/medic/primaries.md#syringe-gun) **\[182 DPS.]**
+* <mark style="color:yellow;">**Snipers**</mark>**&#x20;can use either the** [**SMG**](../meet-the-humans-outdated-+weapons/sniper/secondaries.md#smg) **\[170 DPS] or** [**Cleaner's Carbine**](../meet-the-humans-outdated-+weapons/sniper/secondaries.md#cleaners-carbine) **\[170 DPS.]**
+* <mark style="color:yellow;">**Spies**</mark>**&#x20;will want to have the** [**Revolver**](../meet-the-humans-outdated-+weapons/spy/primaries.md#revolver) **\[171 DPS.]**
 
 ### **Max DPS: Harder to Use**
 
@@ -32,17 +32,17 @@ Many of these weapons stray into the territory of having a major negative downsi
 
 Attached to most of these suggestions are dumbed down descriptive notes that explain why the weapon <mark style="color:red;">**might be harder for the average person to pick up on the fly**</mark> when seeking the most optimal damage-dealing methods under their mechanics.
 
-* <mark style="color:yellow;">**Scouts**</mark>** can use the** [**Force-A-Nature**](../meet-the-humans-outdated-+weapons/scout/primaries.md#force-a-nature) **\[200 DPS]**&#x20;
+* <mark style="color:yellow;">**Scouts**</mark>**&#x20;can use the** [**Force-A-Nature**](../meet-the-humans-outdated-+weapons/scout/primaries.md#force-a-nature) **\[200 DPS]**&#x20;
   * _Large spread, movement de-buff and vulnerability on user for holding out._&#x20;
-* <mark style="color:yellow;">**Soldiers**</mark>** can use the** [**Rocket Jumper**](../meet-the-humans-outdated-+weapons/soldier/primaries.md#rocket-jumper) **\[200 DPS]**&#x20;
+* <mark style="color:yellow;">**Soldiers**</mark>**&#x20;can use the** [**Rocket Jumper**](../meet-the-humans-outdated-+weapons/soldier/primaries.md#rocket-jumper) **\[200 DPS]**&#x20;
   * _Weapon may kill user via splash, nearly impossible to hit moving targets with, insanely vulnerable on defenses with this out._
-* <mark style="color:yellow;">**Demomen**</mark>** can use the** [**Loose Cannon**](../meet-the-humans-outdated-+weapons/demoman/primaries.md#loose-cannon) **\[192 DPS]**
+* <mark style="color:yellow;">**Demomen**</mark>**&#x20;can use the** [**Loose Cannon**](../meet-the-humans-outdated-+weapons/demoman/primaries.md#loose-cannon) **\[192 DPS]**
   * _User may cause self-damage via overcharging shot during bosses that don't allow healing. Can allow demoman to damage bosses that pills might normally bounce off, via timed splash damage._
-* <mark style="color:yellow;">**Heavies**</mark>** can use the** [**Brass Beast**](../meet-the-humans-outdated-+weapons/heavy/primaries.md#brass-beast) **\[380 DPS]**
+* <mark style="color:yellow;">**Heavies**</mark>**&#x20;can use the** [**Brass Beast**](../meet-the-humans-outdated-+weapons/heavy/primaries.md#brass-beast) **\[380 DPS]**
   * _User must hard commit to rev-ups on defense, risky to deploy if bosses can push or pull you off arena._
-* <mark style="color:yellow;">**Snipers**</mark>** can use the** [**Machina**](../meet-the-humans-outdated-+weapons/sniper/primaries.md#machina) **\[300 DPS]**
+* <mark style="color:yellow;">**Snipers**</mark>**&#x20;can use the** [**Machina**](../meet-the-humans-outdated-+weapons/sniper/primaries.md#machina) **\[300 DPS]**
   * _User must commit to a full scope-in for 5 second intervals; suspectible to many boss attacks like Brass Beast is._
-* <mark style="color:yellow;">**Spies**</mark>** can use the** [**Enforcer**](../meet-the-humans-outdated-+weapons/spy/primaries.md#enforcer) **\[191 DPS]**
+* <mark style="color:yellow;">**Spies**</mark>**&#x20;can use the** [**Enforcer**](../meet-the-humans-outdated-+weapons/spy/primaries.md#enforcer) **\[191 DPS]**
   * _**User must repeatedly fully equip a disguise between firing shots for efficient DPS output; may lead to poor DPS if timing isn't precise.**_
 
 {% hint style="info" %}

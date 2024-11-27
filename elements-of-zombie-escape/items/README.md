@@ -32,7 +32,7 @@ Also know that some item effects are bound to the physical item itself. As a res
 
 ## What Do They Do?
 
-They can do a **wide variety** of things - anything the mapper can successfully implement. They are primarily meant to assist the human team in defending, retreating from zombies, fighting bosses, etc.
+They can do a _**wide variety**_ of things - anything the mapper can successfully implement. They are primarily meant to assist the human team in defending, retreating from zombies, fighting bosses, etc.
 
 For the zombie team, they help with killing humans usually through self or team buffs or by negatively affecting humans. While there is a plethora of items scattered throughout all ZE maps, most items can primarily be categorized as the following:
 
@@ -62,7 +62,7 @@ In only a few cases do these affect only the opposing team. In most, you'll find
 
 ### Heals
 
-Heal items are used to heal teammates. These can be important for humans **during boss fights where healing may be nerfed or removed entirely.** They can also serve as a secondary source of health against map hazards or zombies that chain Mutations to constantly pressure humans. For zombies, these may be less important but still provide the utility of healing if a group of zombies are low on health but would like to coordinate a push.
+Heal items are used to heal teammates. These can be important for humans **during boss fights where healing may be nerfed or removed entirely.** They can also serve as a secondary source of health against map hazards or zombies that chain Mutations to constantly pressure humans. On specific maps, these also grant full zombie immunity for the duration. For zombies, these may be less important but provide utility in healing other zombie item users from dying.
 
 ### Damage
 
@@ -78,3 +78,17 @@ Here are some item descriptors you might occasionally hear.
 
 <table><thead><tr><th width="211">Term</th><th>Description</th></tr></thead><tbody><tr><td><strong>Recharge</strong></td><td>How long it takes for you to use an item again. On most maps, this is around 60 seconds, but this can vary significantly.</td></tr><tr><td><strong>Charge Time/Windup</strong></td><td>How long it takes for the effect of an item to fully activate after using it.</td></tr><tr><td><strong>Uses</strong></td><td>The amount of times you can use an item</td></tr><tr><td><strong>Linear</strong></td><td>The item affects a line in front of it</td></tr><tr><td><strong>AoE</strong></td><td>The item affects a radius around it</td></tr><tr><td><strong>Static</strong></td><td>The item remains in-place wherever it was used</td></tr><tr><td><strong>"Follows You"</strong></td><td>The item follows you while it's active</td></tr></tbody></table>
 
+## Item Levelling&#x20;
+
+Some maps may feature item levelling mechanics; wherein items available will be weaker unless you either <mark style="color:blue;">**Survive**</mark> the round-end as Human to gain an item level to gain access to stronger item pickups, or the levels are given upon <mark style="color:blue;">**Picking Up**</mark> an item and will dynamically increase any item's strength that you use.
+
+Typically these go up to **3x or 5x**
+
+**Maps that include item levelling currently:**
+
+* **Evernight (both on&#x20;**<mark style="color:blue;">**pickup**</mark>**&#x20;and&#x20;**<mark style="color:blue;">**surviving**</mark>**)&#x20;**<mark style="color:yellow;">**max 5x**</mark>
+* **Harry Potter&#x20;**<mark style="color:blue;">**(surviving**</mark>**&#x20;a round)&#x20;**<mark style="color:yellow;">**max 5x**</mark>
+* **Minas Tirith (**<mark style="color:blue;">**surviving**</mark>**&#x20;a round)&#x20;**<mark style="color:yellow;">**max 5x**</mark>
+* **Mako Reactor (v5) (win a round; items universally levelled)&#x20;**<mark style="color:yellow;">**max 3x**</mark>
+* **Mako Reactor (v6) (on&#x20;**<mark style="color:blue;">**pickup**</mark>**)&#x20;**<mark style="color:yellow;">**max 3x**</mark>
+* **Malgo Reactor (on&#x20;**<mark style="color:blue;">**pickup**</mark>**)&#x20;**<mark style="color:yellow;">**max 3x**</mark>

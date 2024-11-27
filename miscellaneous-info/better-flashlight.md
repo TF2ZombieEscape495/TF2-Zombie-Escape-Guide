@@ -33,7 +33,7 @@ bind f "impulse 100"
 <figure><img src="../.gitbook/assets/2644628345_preview_mp and plugin flashlight.png" alt=""><figcaption><p><strong>Plugin + MP Flashlight</strong></p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:yellow;">**You can also use the built-in flashlight**</mark><mark style="color:yellow;">** **</mark>_<mark style="color:yellow;">**with**</mark>_<mark style="color:yellow;">** **</mark><mark style="color:yellow;">**the plugin flashlight!**</mark>
+<mark style="color:yellow;">**You can also use the built-in flashlight**</mark><mark style="color:yellow;">**&#x20;**</mark>_<mark style="color:yellow;">**with**</mark>_<mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**the plugin flashlight!**</mark>
 {% endhint %}
 
 Pretty neat, right? Note that when using them on the server, the HL2 flashlight is much brighter and will stay in-place on your screen, whereas the plugin flashlight will follow along the surfaces in front of you. Feel free to explore other variables you can modify for the flashlight. You won't be able to use them on the server, but you can play around with them on a local server if you wish.

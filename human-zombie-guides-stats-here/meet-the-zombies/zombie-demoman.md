@@ -1,30 +1,26 @@
 # Zombie Demoman
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Icon_demoman_zombie.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Icon_demoman_zombie.jpg" alt=""><figcaption></figcaption></figure></div>
 
 <mark style="color:yellow;">**Speed:**</mark> _**254.50v HU/s (84.8% base TF2 speed)**_\
 <mark style="color:red;">**Damage:**</mark> _**163**_
 
 <mark style="color:blue;">**Pros**</mark>
 
-* **Double Shield Charge **_**(via Enzyme)**_** is decent chase tool against lone, fleeing Humans**
+* **Double Shield Charge&#x20;**_**(via Enzyme)**_**&#x20;is decent chase tool against lone, fleeing Humans**
 * **Can overcome base damage weakness via shield charge minicrits**
 
 <mark style="color:red;">**Cons**</mark>
 
-* **Weak Base Damage **_**(2x Hits to Infect 200+ HP Human)**_
+* **Weak Base Damage&#x20;**_**(2x Hits to Infect 200+ HP Human)**_
 * **Shield Charge halted upon taking any damage**
-  * **Shield Charge also halted by any elevating geometry **_**(ramps/slopes)**_
+  * **Shield Charge also halted by any elevating geometry&#x20;**_**(ramps/slopes)**_
 * **Slowest Base Zombie Class in the gamemode**
 
 {% hint style="info" %}
-### _<mark style="color:yellow;">**Note:**</mark>_ Trimping mechanics are disabled, though **you **_<mark style="color:blue;">**can**</mark>_** still get a movement increase** from the Ali Baba's Wee Booties/Bootlegger as Zombie Demoman _(as long as a shield is equipped.)_
+### _<mark style="color:yellow;">**Note:**</mark>_ Trimping mechanics are disabled, though **you&#x20;**_<mark style="color:blue;">**can**</mark>_**&#x20;still get a movement increase** from the Ali Baba's Wee Booties/Bootlegger as Zombie Demoman _(as long as a shield is equipped.)_
 
-![](../../.gitbook/assets/100px-Item\_icon\_Ali\_Baba's\_Wee\_Booties.png)![](../../.gitbook/assets/100px-Item\_icon\_Bootlegger.png)
+![](../../.gitbook/assets/100px-Item_icon_Ali_Baba's_Wee_Booties.png)![](../../.gitbook/assets/100px-Item_icon_Bootlegger.png)
 {% endhint %}
 
 Those accustomed to TF2 might be familiar with the Demoknight - a man restricted to only his intense desire to slash, wack, and slice with his melees, bash people with his shields, and float around in his booties. While he may get to play around with these three in vanilla TF2, Demo here gets half the fun.\
@@ -35,4 +31,4 @@ The **Tide Turner** really makes a huge difference in getting zombie demo kills/
 
 The other shields can't really compare despite their higher resistances and/or recharge rate. This is due to the aforementioned shields, but they can only do so much. Playing Demo will be really niche where it's best for you to focus on soloing out overdefenders or stragglers. Charge at them as soon as they turn and least expect it; and if they're unprepared for a second charge, _do it again!_
 
-<figure><img src="../../.gitbook/assets/Demo Charge Reference.gif" alt=""><figcaption><p>A random straggler pyro unable to fend</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Demo Charge Reference.gif" alt=""><figcaption><p>A random straggler pyro being caught out before they react.</p></figcaption></figure>

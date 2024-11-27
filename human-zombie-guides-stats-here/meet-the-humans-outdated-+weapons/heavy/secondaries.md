@@ -2,9 +2,9 @@
 description: Heavy Secondary Options
 ---
 
-# Secondaries
+# Heavy Secondaries
 
-## Shotgun   ![](<../../../.gitbook/assets/100px-Item\_icon\_Shotgun (3).png>)
+## Shotgun   ![](<../../../.gitbook/assets/100px-Item_icon_Shotgun (3).png>)
 
 | Attributes                                                    |
 | ------------------------------------------------------------- |
@@ -20,7 +20,7 @@ The stock shotgun is pretty much the de facto weapon used by new players or thos
 
 Reliable as a mid ranged option, the stock Shotgun is an excellent choice for Heavies that don't want to have a gimmicky secondary and are in need of a cover option after pulling away a minigun or are in a defense where they can't safely draw a minigun; or even during a boss where the Heavy might be jumping over specific attacks.
 
-## Family Business   ![](<../../../.gitbook/assets/100px-Item\_icon\_Family\_Business (1).png>)
+## Family Business   ![](<../../../.gitbook/assets/100px-Item_icon_Family_Business (1).png>)
 
 | Attributes                                                    |
 | ------------------------------------------------------------- |
@@ -39,7 +39,7 @@ This means that this weapon can suppress zombies for a longer duration (with pre
 
 As for the new dynamic this adds to the Heavy, it is still a shotgun that is risky to use with his playstyle. Heavies primarily defend with miniguns and, after doing so, take time to unrevv. This creates a period in which zombies can quite easily reach them. The large spread of normal shotguns can be much more beneficial for slowing larger groups of them down than high-accuracy weapons that hit fewer zombies. This is a risk players can take if they prefer other miniguns over the Tomislav but still need high accuracy to deal with certain DPS checks or boss fights.
 
-## Panic Attack   ![](<../../../.gitbook/assets/100px-Item\_icon\_Panic\_Attack (3).png>)
+## Panic Attack   ![](<../../../.gitbook/assets/100px-Item_icon_Panic_Attack (3).png>)
 
 | Attributes                                                                   |
 | ---------------------------------------------------------------------------- |
@@ -59,11 +59,11 @@ As for the new dynamic this adds to the Heavy, it is still a shotgun that is ris
 
 The Panic Attack in base TF2 has gone through many revisions. It was originally a charged burst weapon that fired much faster the lower one’s health was. Now, it’s a rapid-fire burst weapon that loses accuracy the longer one keeps firing. These modifications follow the trend of the latter, as this weapon has been reworked into an immediate response option for players caught out by groups of zombies.
 
-Currently the weapon stands as the **fastest-firing yet slowest-reloading** shotgun. With a TEC time of 2.43 seconds and a FRT of 5.4 seconds, this produces an extremely low uptime-downtime ratio of 0.45. This means that this weapon is **highly unsustainable for long-term defenses** and should only be used if necessary. This weapon has a 37% damage penalty, leading to the lowest sustained DPS among all shotguns at \~130. But, because this weapon boasts an extremely high fire rate, its nonstop DPS is actually **one of the highest among all weapons at 420 **_**(provided that you have an**_ [_**ammo item.**_](../../../elements-of-zombie-escape/items/common-items.md#human-items)_**)**_
+Currently the weapon stands as the **fastest-firing yet slowest-reloading** shotgun. With a TEC time of 2.43 seconds and a FRT of 5.4 seconds, this produces an extremely low uptime-downtime ratio of 0.45. This means that this weapon is **highly unsustainable for long-term defenses** and should only be used if necessary. This weapon has a 37% damage penalty, leading to the lowest sustained DPS among all shotguns at \~130. But, because this weapon boasts an extremely high fire rate, its nonstop DPS is actually **one of the highest among all weapons at 420&#x20;**_**(provided that you have an**_ [_**ammo item.**_](../../../elements-of-zombie-escape/items/common-items.md#human-items)_**)**_
 
 Even if this weapon has low sustained DPS, it evens out by being given a damage bonus to players in an attempt to make it more effective for close-range knockback in hitting multiple zombies due to the spread 'penalty' applying to extra pellets. With all this in effect, hopefully this becomes a weapon Pyros, Heavies, and Soldiers can consider as an option should they tend to over-defend or get caught out often. The low damage and high spread also make this weapon less appealing for fast-moving boss fights, so try to _avoid_ using it on maps that require optimal DPS or accurate shots to win unless you're comfortable with getting up close.
 
-## Dalokoh's Bar   ![](../../../.gitbook/assets/100px-Item\_icon\_Dalokohs\_Bar.png)
+## Dalokoh's Bar   ![](../../../.gitbook/assets/100px-Item_icon_Dalokohs_Bar.png)
 
 | Attributes                                                                                        |
 | ------------------------------------------------------------------------------------------------- |
@@ -79,7 +79,7 @@ Even if this weapon has low sustained DPS, it evens out by being given a damage 
 
 While more health is always more useful, the increased health that the Dalokohs Bar provides isn't as impactful on any _normal loadout._ The Dalokohs Bar brings your HP up to 350 passively while giving you 400 HP if you eat the bar. The problem being that most zombies **will still two hit you** like they normally do with your 300 HP. One niche of this that brings it higher tier-wise here is that when paired with the Eviction Notice - it can at least offset the HP penalty and move you up to 250 HP; this is elaborated on a bit more in [**Versatile Heavy**](../../human-meta-discussion-outdated-+loadouts/class-loadouts-demoman-heavy-engineer.md#versatile-heavy) loadout.
 
-## Sandvich   ![](<../../../.gitbook/assets/100px-Item\_icon\_Sandvich (1).png>)
+## Sandvich   ![](<../../../.gitbook/assets/100px-Item_icon_Sandvich (1).png>)
 
 | Attributes                                                                                          |
 | --------------------------------------------------------------------------------------------------- |
@@ -94,7 +94,7 @@ While more health is always more useful, the increased health that the Dalokohs 
 
 Healing for survivors is generally plentiful and typically covered by other classes making lunchbox items not particularly that useful. They also prevent Heavies, one of the slowest classes in ZE, from safely falling back and defending themselves with a shotgun at the mercy of his team hopefully covering him. Although lunchbox items may help you heal off the damage you may take from zombies as the only class to be able to tank a regular zombie hit, **a shotgun will help prevent you from getting hit in the first place!** It's better to use the Warrior's Spirit to heal off any damage you may recieve for those solo Heavies instead of wasting time eating and not defending. They can help you heal your team but other sources of healing far surpasses what the lunchbox items can provide.
 
-## Second Banana   ![](<../../../.gitbook/assets/100px-Item\_icon\_Second\_Banana (1).png>)
+## Second Banana   ![](<../../../.gitbook/assets/100px-Item_icon_Second_Banana (1).png>)
 
 | Attributes                                                                                     |
 | ---------------------------------------------------------------------------------------------- |
@@ -111,7 +111,7 @@ Healing for survivors is generally plentiful and typically covered by other clas
 
 The Second Banana provides a slight increase to move speed while active, serving as an alternative to the GRU and synergizing with the Eviction Notice's passive move speed bonus (though it will not let you outrun Scouts in most cases). A massive holster penalty should discourage it being used to kite zombies and then swapping to the Minigun to halt pursuers.
 
-## Buffalo Steak Sandvich   ![](<../../../.gitbook/assets/100px-Item\_icon\_Buffalo\_Steak\_Sandvich (1).png>)
+## Buffalo Steak Sandvich   ![](<../../../.gitbook/assets/100px-Item_icon_Buffalo_Steak_Sandvich (1).png>)
 
 | Attributes                                                                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -2,9 +2,9 @@
 description: Demoman Secondary Options
 ---
 
-# Secondaries
+# Demoman Secondaries
 
-## Quickiebomb Launcher   ![](<../../../.gitbook/assets/100px-Item\_icon\_Quickiebomb\_Launcher (1).png>)
+## Quickiebomb Launcher   ![](<../../../.gitbook/assets/100px-Item_icon_Quickiebomb_Launcher (1).png>)
 
 | Attributes                                                                                            |
 | ----------------------------------------------------------------------------------------------------- |
@@ -31,7 +31,7 @@ What the weapon excels in _over stock_ is the functionality dishing out stuns en
 
 All at the cost of only being halved a clip compared to alternatives, and some less baseline (uncharged) sticky damage. What that means is your uncharged stickies will be far less likely to stun a zombie that you need to slow or hinder; leaving you a little more vulnerable at the frontlines if you just try to panic spam them like stock.
 
-## Stickybomb Launcher   ![](<../../../.gitbook/assets/100px-Item\_icon\_Stickybomb\_Launcher (1).png>)
+## Stickybomb Launcher   ![](<../../../.gitbook/assets/100px-Item_icon_Stickybomb_Launcher (1).png>)
 
 | Attributes                                                                                            |
 | ----------------------------------------------------------------------------------------------------- |
@@ -39,7 +39,7 @@ All at the cost of only being halved a clip compared to alternatives, and some l
 | **Max Stickies Out - 8**                                                                              |
 | **Blast Radius: 146**                                                                                 |
 | **Projectile Speed: 925.38**                                                                          |
-| **Projectile Speed **_**(Max Charge)**_**: 2409.2**                                                   |
+| **Projectile Speed&#x20;**_**(Max Charge)**_**: 2409.2**                                              |
 | <mark style="color:blue;">**+25 Max Health on Wearer**</mark>                                         |
 | <mark style="color:blue;">**+25% Faster Reload Time**</mark>                                          |
 | <mark style="color:blue;">**+25% Damage Bonus**</mark>                                                |
@@ -55,7 +55,7 @@ The fully charged bonus is a way for players to make more of an impact with stic
 
 Do note that while zombies do have stun immunity momentarily and that your sticky at full charge will fire just in time to re-stun the same zombie - it might be better as a whole to _forego_ the mechanic on this by spamming (uncharged) stickies on masses of zombies to stun the ones that _haven't_ been recently stunned yet; you'll still apply slowdown to the ones already resistant to stun anyway.
 
-## Scottish Resistance   ![](<../../../.gitbook/assets/100px-Item\_icon\_Scottish\_Resistance (1).png>)
+## Scottish Resistance   ![](<../../../.gitbook/assets/100px-Item_icon_Scottish_Resistance (1).png>)
 
 | Attributes                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------ |
@@ -63,7 +63,7 @@ Do note that while zombies do have stun immunity momentarily and that your stick
 | **Max Stickies Out - 10**                                                                                    |
 | **Blast Radius: 146**                                                                                        |
 | **Projectile Speed: 925.38**                                                                                 |
-| **Projectile Speed **_**(Max Charge)**_**: 2409.2**                                                          |
+| **Projectile Speed&#x20;**_**(Max Charge)**_**: 2409.2**                                                     |
 | <mark style="color:blue;">**+25 Max Health on Wearer**</mark>                                                |
 | <mark style="color:blue;">**+25% Faster Reload Time**</mark>                                                 |
 | <mark style="color:blue;">**+25% Damage Bonus**</mark>                                                       |
@@ -77,7 +77,7 @@ Do note that while zombies do have stun immunity momentarily and that your stick
 
 With an ability to have two more pipebombs out, the Scottish resistance allows Demoman to stun dangerous zombies much quicker during defenses (pre-emptively.) While it could be better at defending, you have to remember that stunned zombies take no knockback; so if stunned too close they could pose a threat, but otherwise like all the other stickies its an excellent method of stalling. The much slower arm bomb time means you have preemptively plant stickies on fallbacks forcing you to play much more passively. The ability to trigger stickies only when you look at them _does_ allow you to cover multiple paths at once.
 
-## Splendid Screen   ![](../../../.gitbook/assets/100px-Item\_icon\_Splendid\_Screen.png)
+## Splendid Screen   ![](../../../.gitbook/assets/100px-Item_icon_Splendid_Screen.png)
 
 | Attributes                                                                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -92,7 +92,7 @@ With an ability to have two more pipebombs out, the Scottish resistance allows D
 
 With the increase in Charge recharge rate stat, the Splendid Screen allows Demoman to act as a Demoknight to block and tank zombie hits more often than the other shields making this the best shield out of the 3 in utility. Keep in mind _**any**_ damage from a zombie will trigger the uber proc - be it a stray medic enzyme chipping you for -4 HP or one of the many pyro enzymes, so you might lose it randomly!
 
-## Tide Turner   ![](../../../.gitbook/assets/100px-Item\_icon\_Tide\_Turner.png)
+## Tide Turner   ![](../../../.gitbook/assets/100px-Item_icon_Tide_Turner.png)
 
 | Attributes                                                                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -107,7 +107,7 @@ With the increase in Charge recharge rate stat, the Splendid Screen allows Demom
 
 For more aggressive Demoknights, the melee kills refilling 75% of your charge meter can be very helpful if you're consistently killing Heavies or Pyros using their Mutations. The inconsistency of the ÜberCharge activating despite being quickly recharged after you kill a zombie does make this less reliable than the Splendid Screen.
 
-## Chargin' Targe   ![](../../../.gitbook/assets/100px-Item\_icon\_Chargin'\_Targe.png)
+## Chargin' Targe   ![](../../../.gitbook/assets/100px-Item_icon_Chargin'_Targe.png)
 
 | Attributes                                                                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -120,11 +120,11 @@ For more aggressive Demoknights, the melee kills refilling 75% of your charge me
 
 While the Chargin' Targe does boast the highest resistance, the most relevant thing the resistances affect is the afterburn and explosion damage from Pyro Mutations, which is barely a threat in most cases. Having no other redeemable qualities than that makes it the least ideal out of the 3 available shields.
 
-## Sticky Jumper   ![](<../../../.gitbook/assets/100px-Item\_icon\_Sticky\_Jumper (5).png>)
+## Sticky Jumper   ![](<../../../.gitbook/assets/100px-Item_icon_Sticky_Jumper (5).png>)
 
 | Attributes                                                                                            |
 | ----------------------------------------------------------------------------------------------------- |
-| **Clip Size - 1 Shot **_**(Starts with 8)**_                                                          |
+| **Clip Size - 1 Shot&#x20;**_**(Starts with 8)**_                                                     |
 | **Max Stickies Out - 2**                                                                              |
 | **Blast Radius: 182.5**                                                                               |
 | **Projectile Speed: 925.38**                                                                          |

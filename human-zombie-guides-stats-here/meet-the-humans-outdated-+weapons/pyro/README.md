@@ -4,7 +4,7 @@ description: Brief overview of the Human Pyro
 
 # 🔥 Pyro
 
-![](../../../.gitbook/assets/Icon\_pyro\_blue.jpg)
+![](../../../.gitbook/assets/Icon_pyro_blue.jpg)
 
 **`Class Cap: N/A`**
 
@@ -19,7 +19,7 @@ description: Brief overview of the Human Pyro
 <mark style="color:red;">**Cons**</mark>
 
 * Low DPS for bosses and NPCs\
-  _(flames essentially do 0 to no damage to them!)_
+  &#xNAN;_(flames essentially do 0 to no damage to them!)_
 * Not many sources of teammates on fire to extinguish for self-healing
 * Has to be up close to zombies to be effective
 * Can Boost Zombies VERY high _via_ specific flares

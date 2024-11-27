@@ -2,9 +2,9 @@
 description: Spy Melee Options
 ---
 
-# Melees
+# Spy Melees
 
-## Knife   ![](../../../.gitbook/assets/100px-Item\_icon\_Knife.png)
+## Knife   ![](../../../.gitbook/assets/100px-Item_icon_Knife.png)
 
 | Attributes                                                                                         |
 | -------------------------------------------------------------------------------------------------- |
@@ -12,20 +12,20 @@ description: Spy Melee Options
 
 The stock Knife is your standard weapon of choice. You gain ÜberCharge and a speed boost on backstab without any of the potential downsides of other knives. Reliable and consistent though do note that very rarely, the knife will glitch out and not give you the ÜberCharge or speedboost on back stab although this applies to all knives. But then again, when aren't backstabs glitchy?
 
-## Big Earner ![](<../../../.gitbook/assets/100px-Item\_icon\_Big\_Earner (1).png>)
+## Big Earner ![](<../../../.gitbook/assets/100px-Item_icon_Big_Earner (1).png>)
 
-| Attributes                                                                                                                                                                                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="color:blue;">**+30% Cloak on Kill**</mark>                                                                                                                                                                                                                       |
-| <mark style="color:blue;">**+10% Cloak on Hit**</mark>                                                                                                                                                                                                                        |
-| <mark style="color:red;">**-25 Max Health on Wearer**</mark>                                                                                                                                                                                                                  |
-| <mark style="color:orange;">**When Held:**</mark> <mark style="color:orange;">**Marked for death and for a brief period after switching weapons**</mark>                                                                                                                      |
-| <mark style="color:orange;">**On Hit:**</mark> <mark style="color:orange;">**+5 seconds of speed boost**</mark><mark style="color:orange;">** **</mark>_<mark style="color:orange;">**(overrides 3s speed boost on backstab, doesn't stack, works with face stabs!)**</mark>_ |
-| <mark style="color:orange;">**You become ÜberCharged on a backstab (halved time!)**</mark>                                                                                                                                                                                    |
+| Attributes                                                                                                                                                                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <mark style="color:blue;">**+30% Cloak on Kill**</mark>                                                                                                                                                                                                                            |
+| <mark style="color:blue;">**+10% Cloak on Hit**</mark>                                                                                                                                                                                                                             |
+| <mark style="color:red;">**-25 Max Health on Wearer**</mark>                                                                                                                                                                                                                       |
+| <mark style="color:orange;">**When Held:**</mark> <mark style="color:orange;">**Marked for death and for a brief period after switching weapons**</mark>                                                                                                                           |
+| <mark style="color:orange;">**On Hit:**</mark> <mark style="color:orange;">**+5 seconds of speed boost**</mark><mark style="color:orange;">**&#x20;**</mark>_<mark style="color:orange;">**(overrides 3s speed boost on backstab, doesn't stack, works with face stabs!)**</mark>_ |
+| <mark style="color:orange;">**You become ÜberCharged on a backstab (halved time!)**</mark>                                                                                                                                                                                         |
 
-Although the Big Earner lets you get cloak upon getting a kill, you typically want to be at full cloak when going for backstabs as the Dead Ringer is usually the preferred choice among spies - in a pinch though, you can quickly build back any cloak or dead ringer to get away. <mark style="color:red;">**You also only get**</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**half the Übercharge time**</mark>_ _<mark style="color:red;">**on stab and**</mark>_<mark style="color:red;">** **</mark><mark style="color:red;">**the**</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**s**</mark>_<mark style="color:red;">**peed-boost only applies upon actually killing a zombie with a backstab;**</mark> making this less optimal than stock at chaining unless you hit all of your stabs. Though the -25 max hp and only getting a speedboost upon backstab kill isn't as crippling of downsides as the other knives, and getting a face-stab if a zombie turns around can provide a smooth getaway speed-boost. Risky!
+Although the Big Earner lets you get cloak upon getting a kill, you typically want to be at full cloak when going for backstabs as the Dead Ringer is usually the preferred choice among spies - in a pinch though, you can quickly build back any cloak or dead ringer to get away. <mark style="color:red;">**You also only get**</mark><mark style="color:red;">**&#x20;**</mark>_<mark style="color:red;">**half the Übercharge time**</mark>_ _<mark style="color:red;">**on stab and**</mark>_<mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**the**</mark><mark style="color:red;">**&#x20;**</mark>_<mark style="color:red;">**s**</mark>_<mark style="color:red;">**peed-boost only applies upon actually killing a zombie with a backstab;**</mark> making this less optimal than stock at chaining unless you hit all of your stabs. Though the -25 max hp and only getting a speedboost upon backstab kill isn't as crippling of downsides as the other knives, and getting a face-stab if a zombie turns around can provide a smooth getaway speed-boost. Risky!
 
-## Spy-Cicle   ![](../../../.gitbook/assets/100px-Item\_icon\_Spy-cicle.png)
+## Spy-Cicle   ![](../../../.gitbook/assets/100px-Item_icon_Spy-cicle.png)
 
 | Attributes                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------- |
@@ -39,7 +39,7 @@ Although the Big Earner lets you get cloak upon getting a kill, you typically wa
 
 The niche of the Spy-Cicle's afterburn resistance isn't exactly all too useful in Zombie Escape due to the lack of most fire sources other than Pyro enzyme and ammo boxes are scarce due to most maps being ported from CS. Instead, **its given a far larger stab range** to strengthen minor backstabs _(like one or two zombies breaching in)_ due to it being way easier to land a backstab; but struggles around chain-stabbing crowds of zombies with its swing penalty.
 
-## Conniver's Kunai   ![](../../../.gitbook/assets/100px-Item\_icon\_Conniver's\_Kunai.png)
+## Conniver's Kunai   ![](../../../.gitbook/assets/100px-Item_icon_Conniver's_Kunai.png)
 
 | Attributes                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -49,7 +49,7 @@ The niche of the Spy-Cicle's afterburn resistance isn't exactly all too useful i
 
 The Conniver's Kunai is an interesting choice as it **instead** overheals you to 300 hp on a backstab kill. In almost all cases, an ÜberCharge gained from other knives will save you just as well if not more so. Backstabs, Bushwhacka snipers using their Mutation or even two consecutive zombie hits will kill you that an ÜberCharge could have saved you from. It's also worth mentioning that it gives you less max HP, making damage against NPCs and bosses even more deadly when you have no zombies to backstab. As a result, the main benefit of this knife will be the burst healing it provides in the very small off chance you need the health over Über to survive.
 
-## Your Eternal Reward   ![](<../../../.gitbook/assets/100px-Item\_icon\_Your\_Eternal\_Reward (1).png>)
+## Your Eternal Reward   ![](<../../../.gitbook/assets/100px-Item_icon_Your_Eternal_Reward (1).png>)
 
 | Attributes                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------- |

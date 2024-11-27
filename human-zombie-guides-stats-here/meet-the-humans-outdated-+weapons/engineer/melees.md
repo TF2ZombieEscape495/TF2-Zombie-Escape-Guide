@@ -2,9 +2,9 @@
 description: Engineer Melee Options
 ---
 
-# Melees
+# Engineer Melees
 
-## Southern Hospitality   ![](../../../.gitbook/assets/100px-Item\_icon\_Southern\_Hospitality.png)
+## Southern Hospitality   ![](../../../.gitbook/assets/100px-Item_icon_Southern_Hospitality.png)
 
 | Attributes                                                                                  |
 | ------------------------------------------------------------------------------------------- |
@@ -21,7 +21,7 @@ For the aggressive Engineer who likes to be in the fight as often as possible, t
 
 Despite all of these penalties, the insane building speed of your sentry makes this one of the Engineer's strongest wrenches as it significantly decreases the downtime Engineer may spend setting up allowing him to focus on defending. Also, don't forget about the god-send speed buff - always something to appreciate in ZE. The fire damage vulnerability is largely negligible due to the plentiful healing that most teams have and that fact that you yourself can set up Dispensers
 
-## Jag   ![](../../../.gitbook/assets/100px-Item\_icon\_Jag.png)
+## Jag   ![](../../../.gitbook/assets/100px-Item_icon_Jag.png)
 
 | Attributes                                                                                     |
 | ---------------------------------------------------------------------------------------------- |
@@ -34,9 +34,9 @@ Despite all of these penalties, the insane building speed of your sentry makes t
 | <mark style="color:orange;">**Building Cost (Sentry/Dispenser = 140 Metal)**</mark>            |
 | <mark style="color:orange;">**Building HP (Sentry 100 HP \| Dispenser 150/180/216 HP)**</mark> |
 
-The Jag is an alternative option for Engineers who want to set up and upgrade all buildings quickly at the cost of setting up Mini-sentries near instantly. This wrench also doesn't have the building HP penalty, letting you barricade with your buildings nearly on demand and set up in B_oss Arenas that have Healing Enabled_. It's also able to replenish ammo for your sentry much quicker which is extremely helpful as Engineer sentries start out with so little ammo. The only downsides the Jag has compared to the other wrenches is that it's on the lower end of sentry firing speed at 50% compared to the other wrenches' 60% to 70% firing speed. The slower repair rate is somewhat offset by the faster firing speed.
+The Jag is an alternative option for Engineers who want to set up and upgrade all buildings quickly at the cost of setting up Mini-sentries near instantly. This wrench also doesn't have the building HP penalty, letting you barricade with your buildings nearly on demand and set up in &#x42;_&#x6F;ss Arenas that have Healing Enabled_. It's also able to replenish ammo for your sentry much quicker which is extremely helpful as Engineer sentries start out with so little ammo. The only downsides the Jag has compared to the other wrenches is that it's on the lower end of sentry firing speed at 50% compared to the other wrenches' 60% to 70% firing speed. The slower repair rate is somewhat offset by the faster firing speed.
 
-## Wrench   ![](../../../.gitbook/assets/100px-Item\_icon\_Wrench.png)
+## Wrench   ![](../../../.gitbook/assets/100px-Item_icon_Wrench.png)
 
 | Attributes                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------- |
@@ -51,7 +51,7 @@ The Jag is an alternative option for Engineers who want to set up and upgrade al
 
 The stock Wrench is also a good option as a default melee if you're not too concerned about selective buffs and debuffs, as it boasts a bit of everything one could want. The main appeal with this wrench is its increase to Dispenser range that, when paired with the Wrangler, buffs it ridiculously. This is extremely beneficial for boss fights that don't nerf healing giving your Dispensers a significantly larger AoE heal. Even for normal defenses, it's beneficial by allowing your teammates to push further while still receiving heals. The sentry range is usually meaningless since a constantly approaching horde of zombies will keep causing them to target those nearby. Although, it can be useful for defending parkour sections by shooting at zombies further back thus maintaining greater spacing. The extra build speed helps it from lacking behind as much as being without a jag - coupled with the building cost itself, and you aren't penalized on repairing them when needed. Honestly the go-to if you plan on using wrangled sentries to block doorways and alike.
 
-## Eureka Effect   ![](../../../.gitbook/assets/100px-Item\_icon\_Eureka\_Effect.png)
+## Eureka Effect   ![](../../../.gitbook/assets/100px-Item_icon_Eureka_Effect.png)
 
 | Attributes                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------- |
@@ -68,7 +68,7 @@ In contrast to the Southern Hospitality, the Eureka Effect promotes a more passi
 \
 While it does boast the best defensive sentry power; when you're forced to stall, zombies pushing into a defense can easily cause your hard-built sentry to be destroyed, instantly making all the effort carrying it along worthless. Most defenses tend to be too short for it to matter as you could have easily spent that time actually defending instead of carrying it about or building, so it's **highly recommended** to use the [**Sentinel Engineer**](../../human-meta-discussion-outdated-+loadouts/class-loadouts-demoman-heavy-engineer.md#sentinel-engineer) loadout if you want _even more kick_ to it and quicker build times.
 
-## Gunslinger   ![](../../../.gitbook/assets/100px-Item\_icon\_Gunslinger.png)
+## Gunslinger   ![](../../../.gitbook/assets/100px-Item_icon_Gunslinger.png)
 
 | Attributes                                                                                     |
 | ---------------------------------------------------------------------------------------------- |

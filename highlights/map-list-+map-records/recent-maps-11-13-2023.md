@@ -1,19 +1,28 @@
-# Recent Maps 11/17/2024
+# Recent Maps 11/27/2024
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
 
-If you're looking for the [**entire map list (or dying to know what maps **_**aren't**_** completed yet), then check here.**](./)
+If you're looking for the [**entire map list (or dying to know what maps&#x20;**_**aren't**_**&#x20;completed yet), then check here.**](./)
 {% endhint %}
 
 ## 2024:
 
+### 11/27/2024 - Mario & Pkmn
+
+* **Pkmn Adventure&#x20;**_**(not to be mistaken with Pokemon Adventure)**_  _**\[5 Stages]**_**&#x20;**<mark style="color:yellow;">**\[CSS Map]**</mark>**&#x20;**<mark style="color:purple;">**(Leader)**</mark>
+* **Mario Tower \[1 Stage]&#x20;**<mark style="color:yellow;">**\[CSS/CSGO map]**</mark>
+
+#### **Returning:**
+
+* **FFXII Westersand \[5 Stages + ZM]&#x20;**<mark style="color:purple;">**(Leader)**</mark>
+
 ### 11/17/2024 - 4 New Maps
 
-* **Echo Boatescape Extended  **_**\[1 Stage]**_ <mark style="color:yellow;">**\[CSS Map]**</mark>
-* **Black Mesa Escape Final **_**\[1 Stage]**_ <mark style="color:yellow;">**\[CSS Map]**</mark>
-* **Eerie Escape Redux **_**\[7 Stages + SECRET Stage 8, Lasers]**_ <mark style="color:purple;">**(Leader)**</mark>** **<mark style="color:yellow;">**\[CSS Map]**</mark>
-* **Night Cinema \[6 Stages] **<mark style="color:yellow;">**\[CSS Map]**</mark>
+* **Echo Boatescape Extended &#x20;**_**\[1 Stage]**_ <mark style="color:yellow;">**\[CSS Map]**</mark>
+* **Black Mesa Escape Final&#x20;**_**\[1 Stage]**_ <mark style="color:yellow;">**\[CSS Map]**</mark>
+* **Eerie Escape Redux&#x20;**_**\[7 Stages + SECRET Stage 8, Lasers]**_ <mark style="color:yellow;">**\[CSS Map]**</mark>**&#x20;**<mark style="color:purple;">**(Leader)**</mark>
+* **Night Cinema \[6 Stages]&#x20;**<mark style="color:yellow;">**\[CSS Map]**</mark>
 
 ### 11/12/2024 - Grau
 
@@ -70,13 +79,13 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 ### 8/2/2024 - 2049
 
-* [**ze\_2049**](https://gamebanana.com/mods/429605) **ported **<mark style="color:yellow;">**(CSGO/CSS Map)**</mark>
+* [**ze\_2049**](https://gamebanana.com/mods/429605) **ported&#x20;**<mark style="color:yellow;">**(CSGO/CSS Map)**</mark>
 * **\[2 Stages | X Human Items]**
 
 ### 7/24/2024 - Malgo
 
-* [**ze\_ffvii\_malgo\_reactor**](https://gamebanana.com/mods/79693) **ported **<mark style="color:yellow;">**(CSS Map)**</mark>
-* **\[6 Stages | All Mako V6 Human Items + ZM Materia Infuse | Item leveling system **_**(Per pickup, max lvl 3)**_** ]**
+* [**ze\_ffvii\_malgo\_reactor**](https://gamebanana.com/mods/79693) **ported&#x20;**<mark style="color:yellow;">**(CSS Map)**</mark>
+* **\[6 Stages | All Mako V6 Human Items + ZM Materia Infuse | Item leveling system&#x20;**_**(Per pickup, max lvl 3)**_**&#x20;]**
 
 ### **7/24/2024 - Breezy V5 Update**
 
@@ -164,7 +173,7 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 ### ~~8/27/2023 - AOT Trost~~
 
-* ~~**`ze_aot_trost`**** **<mark style="color:yellow;">**added! (CS Port)**</mark>~~
+* ~~**`ze_aot_trost`****&#x20;**<mark style="color:yellow;">**added! (CS Port)**</mark>~~
 
 ### ~~8/23/2023 - Aooka~~
 
@@ -211,25 +220,25 @@ If you're looking for the [**entire map list (or dying to know what maps **_**ar
 
 ### ~~5/26/2023 - Kitchen~~
 
-* ~~**`ze_kitchen_skial_1`**** **<mark style="color:yellow;">**added! (CS Port)**</mark>~~
+* ~~**`ze_kitchen_skial_1`****&#x20;**<mark style="color:yellow;">**added! (CS Port)**</mark>~~
 
 ### 5/24/2023 - Diddle
 
-* **`ze_diddle_skial_1` **<mark style="color:yellow;">**added! (CS Port)**</mark>
+* **`ze_diddle_skial_1`&#x20;**<mark style="color:yellow;">**added! (CS Port)**</mark>
 
 ### 5/21/2023 - Mist
 
-* **`ze_mist_skial_1` **<mark style="color:yellow;">**added! (CS Port)**</mark>
+* **`ze_mist_skial_1`&#x20;**<mark style="color:yellow;">**added! (CS Port)**</mark>
 
 ### 5/20/2023 - Outlast
 
-* **`ze_outlast_skial_1` **<mark style="color:yellow;">**added! (CS Port)**</mark>
+* **`ze_outlast_skial_1`&#x20;**<mark style="color:yellow;">**added! (CS Port)**</mark>
 
 ### 5/14/2023 - Laserhell
 
-* **`ze_laserhell_v1` **<mark style="color:yellow;">**added! (TF2 Original Map)**</mark>
+* **`ze_laserhell_v1`&#x20;**<mark style="color:yellow;">**added! (TF2 Original Map)**</mark>
 
 ### 4/26/2023 - Ryujin
 
-* **`ze_ryujin_skial_1` **<mark style="color:yellow;">**added! (TF2 Original Map)**</mark>
+* **`ze_ryujin_skial_1`&#x20;**<mark style="color:yellow;">**added! (TF2 Original Map)**</mark>
 

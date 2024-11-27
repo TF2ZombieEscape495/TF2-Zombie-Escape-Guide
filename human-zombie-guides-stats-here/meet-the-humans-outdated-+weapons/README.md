@@ -23,9 +23,9 @@ layout:
 
 Note that in the weapons sections, **all the weapons will be ordered from top to bottom in what we feel are the most useful to the least useful as a Human**. As of the last major overhaul; _most_ weapons are relatively equal in terms of power in the DPS department - so don't sweat it too much on what you actually _**need**_ unless a map specifically calls for the [**highest damage**](../human-meta-discussion-outdated-+loadouts/team-composition.md#optimal-dps-easy-to-use).&#x20;
 
-<mark style="color:red;">**Reskins will not be mentioned**</mark>** as they will share the same stats as their stock counterpart.**
+<mark style="color:red;">**Reskins will not be mentioned**</mark>**&#x20;as they will share the same stats as their stock counterpart.**
 
-**Melees in this game are primarily judged on **<mark style="color:yellow;">**utility**</mark>** rather than damage;**
+**Melees in this game are primarily judged on&#x20;**<mark style="color:yellow;">**utility**</mark>**&#x20;rather than damage;**
 
 * Since you're fighting near invincible enemies who can kill you at close range in one shot, it makes little sense to use it for combat.
 * Since you're fighting near invincible enemies who can kill you at close range in one shot, it makes little sense to use it for combat. The only time you would is for zombies near death, Heavy Mutations (the most applicable scenario), and when you're the last survivor with the melee buff.
@@ -57,5 +57,5 @@ ZE base movement speed _(from fastest to slowest; not accounting in any modifier
 7. Demoman
 
 {% hint style="danger" %}
-**Moving backwards universally **<mark style="color:red;">**decreases movement speed**</mark>** to 90% - effectively meaning zombies can situationally outspeed you whilst backpedalling.**
+**Moving backwards universally&#x20;**<mark style="color:red;">**decreases movement speed**</mark>**&#x20;to 90% - effectively meaning zombies can situationally outspeed you whilst backpedalling.**
 {% endhint %}

@@ -16,7 +16,7 @@ Defending is primarily just holding areas until new ones open up, until people h
 
 In order to properly _**over-defend**_, you will need to have a solid understanding of the map or a good leader who'll ensure you won't defend 'til an unexpected death.\
 \
-_But, to Over-Defend at your own discretion or rally others to help, you should know <mark style="color:yellow;">**the following:**</mark>_
+&#xNAN;_&#x42;ut, to Over-Defend at your own discretion or rally others to help, you should know <mark style="color:yellow;">**the following:**</mark>_
 
 * <mark style="color:yellow;">**The timings of the map (extent to which you can hold before TP or death.)**</mark>
 * <mark style="color:yellow;">**Locations of zombie TPs.**</mark>
@@ -24,10 +24,10 @@ _But, to Over-Defend at your own discretion or rally others to help, you should 
 * <mark style="color:yellow;">**Whether or not people will actually defend with you.**</mark>
 * <mark style="color:yellow;">**Whether or not the pros outweigh the cons.**</mark>
 
-_That being said, the bonuses of **Over-Defending in the**** **<mark style="color:blue;">**right situations**</mark> can make a massive difference in the flow of a round:_
+_That being said, the bonuses of **Over-Defending in the****&#x20;**<mark style="color:blue;">**right situations**</mark> can make a massive difference in the flow of a round:_
 
 * <mark style="color:blue;">**Proper execution of an overdefense can majorly lessen the pressure on the Human team, resulting in fewer deaths.**</mark>
-* <mark style="color:blue;">**Sometimes it'll be**</mark><mark style="color:blue;">** **</mark>_<mark style="color:blue;">**significantly**</mark>_<mark style="color:blue;">** **</mark><mark style="color:blue;">**easier to overdefend previous or current areas rather than newly opened ones.**</mark><mark style="color:blue;">** **</mark>_<mark style="color:blue;">**A tight chokepoint is significantly easier to defend than a wide open area after all.**</mark>_
+* <mark style="color:blue;">**Sometimes it'll be**</mark><mark style="color:blue;">**&#x20;**</mark>_<mark style="color:blue;">**significantly**</mark>_<mark style="color:blue;">**&#x20;**</mark><mark style="color:blue;">**easier to overdefend previous or current areas rather than newly opened ones.**</mark><mark style="color:blue;">**&#x20;**</mark>_<mark style="color:blue;">**A tight chokepoint is significantly easier to defend than a wide open area after all.**</mark>_
 * <mark style="color:blue;">**It may even be a necessary strategy to beat the round - such as sending only a few people to the end area.**</mark>
 * <mark style="color:blue;">**In some cases, you'll be able to do it yourself with an item, while in other cases, it'll be a team effort.**</mark>
 
@@ -53,16 +53,16 @@ Some people may fall back early to look for triggers to allow the team to progre
 
 _Mechanically these will consist of several differing methods:_
 
-* <mark style="color:yellow;">**Trigger Buttons/Levers**</mark><mark style="color:yellow;">** **</mark>_<mark style="color:yellow;">**(+Use/Melee needed.)**</mark>_
-* <mark style="color:yellow;">**Entering Specific Area**</mark><mark style="color:yellow;">** **</mark>_<mark style="color:yellow;">**(Ex. Bottom of Mako Reactor, Past the first Frostdrake tree log.)**</mark>_
-  * <mark style="color:yellow;">**Similarly, simply**</mark><mark style="color:yellow;">** **</mark>_<mark style="color:yellow;">**touching**</mark>_<mark style="color:yellow;">** **</mark><mark style="color:yellow;">**Specific Map Doors or Obstacles can also trigger them.**</mark>
+* <mark style="color:yellow;">**Trigger Buttons/Levers**</mark><mark style="color:yellow;">**&#x20;**</mark>_<mark style="color:yellow;">**(+Use/Melee needed.)**</mark>_
+* <mark style="color:yellow;">**Entering Specific Area**</mark><mark style="color:yellow;">**&#x20;**</mark>_<mark style="color:yellow;">**(Ex. Bottom of Mako Reactor, Past the first Frostdrake tree log.)**</mark>_
+  * <mark style="color:yellow;">**Similarly, simply**</mark><mark style="color:yellow;">**&#x20;**</mark>_<mark style="color:yellow;">**touching**</mark>_<mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**Specific Map Doors or Obstacles can also trigger them.**</mark>
 * <mark style="color:yellow;">**Destroying a Breakable Object/NPC.**</mark>
-* <mark style="color:yellow;">**Using Map Item to Activate**</mark><mark style="color:yellow;">** **</mark>_<mark style="color:yellow;">**(Ex. Shroomforest2 key.)**</mark>_
+* <mark style="color:yellow;">**Using Map Item to Activate**</mark><mark style="color:yellow;">**&#x20;**</mark>_<mark style="color:yellow;">**(Ex. Shroomforest2 key.)**</mark>_
 
 _Triggering will also <mark style="color:red;">**forcefully move Zombie Spawns forward**</mark> to prevent them from falling too far behind as a threat. (Unless the map doesn't move teleports or gives Zombies a new route instead.)_&#x20;
 
 {% hint style="danger" %}
-_**With that in mind, be mindful when any leader communicates to **<mark style="color:red;">**NOT**</mark>_ _<mark style="color:red;">**trigger**</mark>** right away** -_ as the team may be imminently within the zombie teleport range/area from either missing a fall back or purposely over-defending an easier area.&#x20;
+_**With that in mind, be mindful when any leader communicates to&#x20;**<mark style="color:red;">**NOT**</mark>_ _<mark style="color:red;">**trigger**</mark>**&#x20;right away** -_ as the team may be imminently within the zombie teleport range/area from either missing a fall back or purposely over-defending an easier area.&#x20;
 
 _**(Ex. Past the SECOND Frostdrake tree log, V0u0v post-S3/S6 boss door.)**_
 {% endhint %}
@@ -86,7 +86,7 @@ _Ordered albeit messily, each has their own niche or usage across the board in c
 * [**(Sapper)**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/spy/sappers.md#sapper) <mark style="color:yellow;">**(AND)**</mark> [**(Dead Ringer)**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/spy/secondaries.md#dead-ringer) <mark style="color:yellow;">**Spy**</mark>
   * Spies with the **Sapper** _**(+2% Speed when HELD)**_ will find similar speeds to default Scouts - but combined with the DR and taking _any_ damage, can speed-run through a specific area with the feign death speed boost selfishly outpacing most players.
 * [**(Splendid Screen)**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/demoman/secondaries.md#splendid-screen) <mark style="color:yellow;">**(AND)**</mark> [**(Pain Train)**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/demoman/melees.md#pain-train) <mark style="color:yellow;">**Demoman**</mark>
-  * Demoman in TF2 ZE is by far one of the slowest classes in the mode - but he does come with the niche of **Pain Train **_**(+10% Speed when HELD)**_** -** giving Demoknight having one of the **most consistent short-range mobility bursts** even with a nerfed **charge.** This will reliably let him beat out even pesky BFB scouts within a door that just opened - or on the turn of a corner into an item by charging into it.
+  * Demoman in TF2 ZE is by far one of the slowest classes in the mode - but he does come with the niche of **Pain Train&#x20;**_**(+10% Speed when HELD)**_**&#x20;-** giving Demoknight having one of the **most consistent short-range mobility bursts** even with a nerfed **charge.** This will reliably let him beat out even pesky BFB scouts within a door that just opened - or on the turn of a corner into an item by charging into it.
 * <mark style="color:yellow;">**Honorable Mentions**</mark> [**(Concherer)**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/soldier/secondaries.md#concheror) <mark style="color:yellow;">**&**</mark> [**(Bonk)**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/scout/secondaries.md#bonk-atomic-punch)
   * Both of these speed-boost you, yes. But does that really matter for getting items when _**everyone around you**_ is _also_ gaining that boost too? If anything, this should really only be used for triggers, as **BFB + Conch** can get some _**crazy**_ speed gains in conjunction.
 

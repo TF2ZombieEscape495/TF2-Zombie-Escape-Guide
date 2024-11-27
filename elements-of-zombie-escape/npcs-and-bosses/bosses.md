@@ -47,7 +47,7 @@ The best thing to do to survive a boss fight is to make sure you listen! There w
 ## Offliner!
 
 {% hint style="info" %}
-<mark style="color:yellow;">**Note:**</mark> **With Offliner's boss, the attacks are done in a random cycle; there will never be repeat attack types **_**UNLESS**_** the current cycle is finished and the same attack is randomly selected on the 2nd cycle.**
+<mark style="color:yellow;">**Note:**</mark> **With Offliner's boss, the attacks are done in a random cycle; there will never be repeat attack types&#x20;**_**UNLESS**_**&#x20;the current cycle is finished and the same attack is randomly selected on the 2nd cycle.**
 
 **You can use this as a process of elimination to determine what attacks might be coming next in the cycle to better prepare for instakills.**
 {% endhint %}

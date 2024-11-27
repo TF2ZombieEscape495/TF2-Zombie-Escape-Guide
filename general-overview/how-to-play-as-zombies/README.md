@@ -19,7 +19,7 @@ layout:
 
 ## **You'll also need a LOT of patience as a Zombie...**
 
-Ideally striking at moments or places where Humans will be slipping up, remember that rounds can go afar as <mark style="color:yellow;">**\[30+]**</mark> **minutes depending on map.** <mark style="color:red;">**Zombie gameplay isn't going to be an instant roll for holding your W key and occasionally pressing E - it'll be "boring" to get launched backwards on repeat**</mark> - but if you've killed _one Human_; that c_an_ be the momentum needed to roll the snowball effect into stopping them from winning or progressing to the next stage.&#x20;
+Ideally striking at moments or places where Humans will be slipping up, remember that rounds can go afar as <mark style="color:yellow;">**\[30+]**</mark> **minutes depending on map.** <mark style="color:red;">**Zombie gameplay isn't going to be an instant roll for holding your W key and occasionally pressing E - it'll be "boring" to get launched backwards on repeat**</mark> - but if you've killed _one Human_; that &#x63;_&#x61;n_ be the momentum needed to roll the snowball effect into stopping them from winning or progressing to the next stage.&#x20;
 
 ~~_Or you just killed one of the many useless backstab farming spies, but hey maybe they'll switch to a good zombie class immediately after dying like an idiot._~~
 

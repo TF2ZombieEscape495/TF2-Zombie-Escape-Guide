@@ -10,7 +10,7 @@ Off the get-go, boosting in Zombie Escape is an action of launching <mark style=
 
 ## **Z-Velocity Stats?**
 
-_<mark style="color:yellow;">**Minus**</mark>_<mark style="color:yellow;">** **</mark><mark style="color:yellow;">**Z-Velocity**</mark> is an attribute that can be found on several custom weapons _(and this is explained on their respective pages too)_ to outright circumvent boosting concerns; _(Direct Hit, Loose Cannon, Flare Gun, and Mannmelter.)_&#x20;
+_<mark style="color:yellow;">**Minus**</mark>_<mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**Z-Velocity**</mark> is an attribute that can be found on several custom weapons _(and this is explained on their respective pages too)_ to outright circumvent boosting concerns; _(Direct Hit, Loose Cannon, Flare Gun, and Mannmelter.)_&#x20;
 
 _But what does it do?_ Instead of 'boosting' the zombies vertically into the sky or onto a ledge where the zombie will have an advantageous momentum - <mark style="color:yellow;">**Minus Z-Velocity**</mark> will effectively 'spike' them downwards upon taking damage from any weapons with this attribute. _Incredibly_ useful if you need to deny zombie(s) from jumping over an object or ledge as they'll be repeatedly be forced down!
 

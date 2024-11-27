@@ -1,10 +1,6 @@
 # Zombie Pyro
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Icon_pyro_zombie.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Icon_pyro_zombie.jpg" alt=""><figcaption></figcaption></figure></div>
 
 <mark style="color:yellow;">**Speed:**</mark> _**272.50 HU/s (90.8% base TF2 speed)**_\
 <mark style="color:red;">**Damage:**</mark> _**208**_
@@ -26,11 +22,11 @@ As a zombie, the pyro has a lot of utility at his disposal with the different ef
 * On death, and depending on how long your enzyme charged (5s max) - he will explode, causing scaling fire damage _(50 damage max)_ to up to 10 humans.
 * Alone, this won't offer much due to the many healing sources at the Human team's disposal. As a result, it's best to use it in tandem with Mutations to stack damage.
 * Weakened players via enzyme can be infected at range via pyro's bomb - _(and can destroy an entire team from the backlines after getting infected.)_
-* <mark style="color:red;">**If the bomb head is NOT shot at and manages to fuse all the way down naturally,**</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**among getting close enough to Humans**</mark>_<mark style="color:red;">** **</mark><mark style="color:red;">**- the explosion can launch both Zombies and Humans alike; sending either into unfavorable positions where Humans might get killed.**</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**You can use this to your advantage by timing your explosion to go off just before specific teleports.**</mark>_
+* <mark style="color:red;">**If the bomb head is NOT shot at and manages to fuse all the way down naturally,**</mark><mark style="color:red;">**&#x20;**</mark>_<mark style="color:red;">**among getting close enough to Humans**</mark>_<mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**- the explosion can launch both Zombies and Humans alike; sending either into unfavorable positions where Humans might get killed.**</mark><mark style="color:red;">**&#x20;**</mark>_<mark style="color:red;">**You can use this to your advantage by timing your explosion to go off just before specific teleports.**</mark>_
 
 Given that most people don't like being will panic if they lose too much health, you can generally use this enzyme as a tool to disrupt the Human team. You'll be able to take care of backtracking overdefenders if they miss their shots, as the bomb will very likely trim someone off at point-blank by pushing them somewhere undesirable.\
 \
-_For melee weapons, there is a few picks to play around with;_
+&#xNAN;_&#x46;or melee weapons, there is a few picks to play around with;_
 
 * &#x20;If you need to **move** **fast** but can handle the knockback from the damage vulnerability, you can use the Powerjack.&#x20;
 * If you want to **take out Medics healing any overdefenders**, use the Third Degree to damage both the defender _and_ the Medic.&#x20;

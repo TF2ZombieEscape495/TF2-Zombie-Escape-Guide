@@ -4,7 +4,7 @@ description: Brief overview of the Human Soldier
 
 # 🚀 Soldier
 
-![](../../../.gitbook/assets/Icon\_soldier\_blue.jpg)
+![](../../../.gitbook/assets/Icon_soldier_blue.jpg)
 
 **`Class Cap: N/A`**
 
@@ -32,7 +32,7 @@ A Soldier's main job in Zombie Escape is to support the team with various banner
 This will come in the form of team-wide buffs that are situational but very strong if timed correctly. His [**Buff Banner**](secondaries.md#buff-banner) can provide **mini-crits** to deal more damage _(against zombies)_ and, consequently, **more knockback**. His [**Battallion's Backup**](secondaries.md#battalions-backup) can provide **damage resistance** to protect against some sources of damage _(this includes damage taken from bosses.)_ Finally, his [**Concheror**](secondaries.md#concheror), one of the best utilities in the game, can provide **speed boosts** and **health regen upon damaging zombies.** All this allows him to juggle between being a supportive defender, staller, or retreater depending on what best fits the situation.&#x20;
 
 {% hint style="info" %}
-One **VERY** important thing to note about Soldier banners is that all of his P**rimaries have damage fall-off **_**(against Zombies only)**_** based on range!**&#x20;
+One **VERY** important thing to note about Soldier banners is that all of his P**rimaries have damage fall-off&#x20;**_**(against Zombies only)**_**&#x20;based on range!**&#x20;
 
 This means you'll be building <mark style="color:red;">**less banner**</mark> per hit the further Zombies away from you are. (_The **Cow Mangler's** secondary fire can work around this via burn damage from afar.)_
 {% endhint %}

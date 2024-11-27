@@ -2,15 +2,15 @@
 description: Pyro Secondary Options
 ---
 
-# Secondaries
+# Pyro Secondaries
 
 {% hint style="danger" %}
-## <mark style="color:red;">The Thermal Thruster is banned and unable to be used.</mark>   ![](../../../.gitbook/assets/100px-Item\_icon\_Thermal\_Thruster.png)
+## <mark style="color:red;">The Thermal Thruster is banned and unable to be used.</mark>   ![](../../../.gitbook/assets/100px-Item_icon_Thermal_Thruster.png)
 {% endhint %}
 
 
 
-## Shotgun   ![](<../../../.gitbook/assets/100px-Item\_icon\_Shotgun (3).png>)
+## Shotgun   ![](<../../../.gitbook/assets/100px-Item_icon_Shotgun (3).png>)
 
 | Attributes                                                    |
 | ------------------------------------------------------------- |
@@ -26,7 +26,7 @@ The stock shotgun is pretty much the de facto weapon used by new players or thos
 
 Reliable as a mid ranged option, the stock Shotgun is the premier choice for pyros in ZE. Since flamethrowers are short ranged weapons, the Shotgun is a good way of keeping zombies a safer distance away - especially in cases where your airblast isn't going to work on knocking zombies back. The Shotgun also lets pyros damage NPCs and bosses as flamethrower fire does nearly zero damage against them _(or if they can't land their flares.)_ This is just a solid, reliable option.
 
-## Reserve Shooter   ![](<../../../.gitbook/assets/100px-Item\_icon\_Reserve\_Shooter (3).png>)
+## Reserve Shooter   ![](<../../../.gitbook/assets/100px-Item_icon_Reserve_Shooter (3).png>)
 
 | Attributes                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------ |
@@ -47,7 +47,7 @@ What can instead be taken advantage of is its faster deployment time, allowing p
 
 The goal of these attributes is to provide a higher-accuracy hitscan weapon for the Pyro and Soldier. They reduce the weapon's horde-stoppability while making it great for fighting bosses or NPCs that are **far away or fast-moving**. To an extent, this can make it less effective for fallbacks with larger hordes but greater for single-target stalling. The smaller clip size and higher accuracy may be a bit more perilous for Pyros defending up close and for Soldiers boosting zombies in front of them. In a pinch, the faster deployment time can help, but, in the heat of the moment, the smaller clip size and lesser spread may prove fatal.
 
-## Panic Attack   ![](<../../../.gitbook/assets/100px-Item\_icon\_Panic\_Attack (3).png>)
+## Panic Attack   ![](<../../../.gitbook/assets/100px-Item_icon_Panic_Attack (3).png>)
 
 | Attributes                                                                   |
 | ---------------------------------------------------------------------------- |
@@ -67,11 +67,11 @@ The goal of these attributes is to provide a higher-accuracy hitscan weapon for 
 
 The Panic Attack in base TF2 has gone through many revisions. It was originally a charged burst weapon that fired much faster the lower one’s health was. Now, it’s a rapid-fire burst weapon that loses accuracy the longer one keeps firing. These modifications follow the trend of the latter, as this weapon has been reworked into an immediate response option for players caught out by groups of zombies.
 
-Currently the weapon stands as the **fastest-firing yet slowest-reloading** shotgun. With a TEC time of 2.43 seconds and a FRT of 5.4 seconds, this produces an extremely low uptime-downtime ratio of 0.45. This means that this weapon is **highly unsustainable for long-term defenses** and should only be used if necessary. This weapon has a 37% damage penalty, leading to the lowest sustained DPS among all shotguns at \~130. But, because this weapon boasts an extremely high fire rate, its nonstop DPS is actually **one of the highest among all weapons at 420 **_**(provided that you have an**_ [_**ammo item.**_](../../../elements-of-zombie-escape/items/common-items.md#human-items)_**)**_
+Currently the weapon stands as the **fastest-firing yet slowest-reloading** shotgun. With a TEC time of 2.43 seconds and a FRT of 5.4 seconds, this produces an extremely low uptime-downtime ratio of 0.45. This means that this weapon is **highly unsustainable for long-term defenses** and should only be used if necessary. This weapon has a 37% damage penalty, leading to the lowest sustained DPS among all shotguns at \~130. But, because this weapon boasts an extremely high fire rate, its nonstop DPS is actually **one of the highest among all weapons at 420&#x20;**_**(provided that you have an**_ [_**ammo item.**_](../../../elements-of-zombie-escape/items/common-items.md#human-items)_**)**_
 
 Even if this weapon has low sustained DPS, it evens out by being given a damage bonus to players in an attempt to make it more effective for close-range knockback in hitting multiple zombies due to the spread 'penalty' applying to extra pellets. With all this in effect, hopefully this becomes a weapon Pyros, Heavies, and Soldiers can consider as an option should they tend to over-defend or get caught out often. The low damage and high spread also make this weapon less appealing for fast-moving boss fights, so try to _avoid_ using it on maps that require optimal DPS or accurate shots to win unless you're comfortable with getting up close.
 
-## Detonator   ![](<../../../.gitbook/assets/100px-Item\_icon\_Detonator (1).png>)
+## Detonator   ![](<../../../.gitbook/assets/100px-Item_icon_Detonator (1).png>)
 
 | Attributes                                                               |
 | ------------------------------------------------------------------------ |
@@ -96,7 +96,7 @@ Since it doesn't pack a -z velocity attribute like the other flares for balance 
 
 While it can _theoretically_ perma-slow zombies, it requires much more skill than either the Flamethrower or the Short Circuit, and a well-timed and placed detonation to send zombies off pitfalls - or at the worst boost them in the air some; the detonator also has some lower-end damage against NPCs/bosses in pyro secondaries; but it's ranked higher due to the skill ceiling in being able to launch away groups of zombies from specific angles.
 
-## Manmelter   ![](<../../../.gitbook/assets/100px-Item\_icon\_Manmelter (1).png>)
+## Manmelter   ![](<../../../.gitbook/assets/100px-Item_icon_Manmelter (1).png>)
 
 | Attributes                                                                                             |
 | ------------------------------------------------------------------------------------------------------ |
@@ -118,7 +118,7 @@ The Manmelter in base TF2 is probably among the least-used Pyro secondaries. It 
 
 What this weapon now works as is something like a rapid-fire unlimited ammo, igniting pistol with <mark style="color:orange;">**-125 z velocity**</mark> applied on hit; continuously pulling down multiple zombies attempting to jump in the air as they take damage from afterburn.
 
-## Flare gun   ![](<../../../.gitbook/assets/100px-Item\_icon\_Flare\_Gun (1).png>)
+## Flare gun   ![](<../../../.gitbook/assets/100px-Item_icon_Flare_Gun (1).png>)
 
 | Attributes                                                                     |
 | ------------------------------------------------------------------------------ |
@@ -134,7 +134,7 @@ The stock Flare Gun is a weapon that can be satisfying to use if one can land th
 
 Essentially, each class has a weapon that deals damage significantly greater than the average damage output of their secondaries or primaries. The Flare Gun acts as this option for Pyros, in which they can specialize in damage at the cost of their defensive potency, self-protection, and the potential liability of unfavorable boosts. Hitscan will still be easier to land, so shotguns will remain a decent option, but this opens the door slightly for squeezing out a bit of extra damage should it be necessary.
 
-## **Scorch Shot** ![](<../../../.gitbook/assets/100px-Item\_icon\_Scorch\_Shot (1).png>)
+## **Scorch Shot** ![](<../../../.gitbook/assets/100px-Item_icon_Scorch_Shot (1).png>)
 
 | Attributes                                                                                   |
 | -------------------------------------------------------------------------------------------- |
@@ -161,7 +161,7 @@ The knockback mechanic of the flares being so powerful may have been why this we
 
 For those worried, currently the server plugin makes it such that players launched will either be flung back and to the sides at ridiculous angles or find themselves flung directly upwards with little to no momentum to air-strafe around and take advantage of it. As a precaution, this weapon has also been given 0% self-damage force **to prevent "rocket-jumping" with it.**
 
-## Gas Passer   ![](../../../.gitbook/assets/100px-Item\_icon\_Gas\_Passer.png)
+## Gas Passer   ![](../../../.gitbook/assets/100px-Item_icon_Gas_Passer.png)
 
 | Attributes                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------- |

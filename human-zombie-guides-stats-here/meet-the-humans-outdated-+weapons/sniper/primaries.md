@@ -2,9 +2,9 @@
 description: Sniper Primary Options
 ---
 
-# Primaries
+# Sniper Primaries
 
-## Hitman's Heatmaker   ![](<../../../.gitbook/assets/100px-Item\_icon\_Hitman's\_Heatmaker (1).png>)
+## Hitman's Heatmaker   ![](<../../../.gitbook/assets/100px-Item_icon_Hitman's_Heatmaker (1).png>)
 
 | Attributes                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,7 +31,7 @@ This can be very strong in Zombie Escape by allowing players to rapidly stun zom
 * With a 30% faster reload rate, this can deal \~140 DPS with nonstop, 0%-charged shots
 * \~110 DPS with nonstop, fully-charged shots.
 
-## Sniper Rifle   ![](<../../../.gitbook/assets/100px-Item\_icon\_Sniper\_Rifle (1).png>)
+## Sniper Rifle   ![](<../../../.gitbook/assets/100px-Item_icon_Sniper_Rifle (1).png>)
 
 | Attributes                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -52,24 +52,24 @@ In Zombie Escape, one could say it works the same, especially with most sniper r
 
 This makes it simple to use and a decent option for those unconcerned about any new mechanics necessary to achieve maximal DPS values.
 
-## Bazaar Bargain   ![](<../../../.gitbook/assets/100px-Item\_icon\_Bazaar\_Bargain (2).png>)
+## Bazaar Bargain   ![](<../../../.gitbook/assets/100px-Item_icon_Bazaar_Bargain (2).png>)
 
-| Attributes                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <mark style="color:blue;">**+33.3% Damage vs Players**</mark>                                                                                                      |
-| <mark style="color:red;">**-200% Damage Penalty**</mark>                                                                                                           |
-| <mark style="color:red;">**-100% Damage on Body Shot**</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**\[0 damage; no knockback!)**</mark>_ |
-| <mark style="color:red;">**-50% Slower Power Charge**</mark>                                                                                                       |
-| <mark style="color:orange;">**On Full Charge:**</mark>** **<mark style="color:blue;">**+600% Damage Per Shot**</mark>                                              |
-| <mark style="color:orange;">**Base Charge Rate Decreased by 50%**</mark>                                                                                           |
-| <mark style="color:orange;">**Each scoped headshot kill increases this weapon's charge rate.**</mark>                                                              |
-| <mark style="color:orange;">**Headshots stun zombies, have a base dmg of 1200 that ramps up the less humans there are alive**</mark>                               |
+| Attributes                                                                                                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <mark style="color:blue;">**+33.3% Damage vs Players**</mark>                                                                                                           |
+| <mark style="color:red;">**-200% Damage Penalty**</mark>                                                                                                                |
+| <mark style="color:red;">**-100% Damage on Body Shot**</mark><mark style="color:red;">**&#x20;**</mark>_<mark style="color:red;">**\[0 damage; no knockback!)**</mark>_ |
+| <mark style="color:red;">**-50% Slower Power Charge**</mark>                                                                                                            |
+| <mark style="color:orange;">**On Full Charge:**</mark>**&#x20;**<mark style="color:blue;">**+600% Damage Per Shot**</mark>                                              |
+| <mark style="color:orange;">**Base Charge Rate Decreased by 50%**</mark>                                                                                                |
+| <mark style="color:orange;">**Each scoped headshot kill increases this weapon's charge rate.**</mark>                                                                   |
+| <mark style="color:orange;">**Headshots stun zombies, have a base dmg of 1200 that ramps up the less humans there are alive**</mark>                                    |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Scope-In Time: 1.5</td><td>Delay after Scope-In to Headshot: 0.15</td><td>Charge Time: 5.85</td><td>Charge Time [Max Boost; 6 Heads]: 1.35</td><td>Attack Interval: 1.5</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 4 per shot</td><td>Base Nonstop DPS [0% Charge]: 2.66</td><td><strong>Base Nonstop (Real) DPS [Full Charge]: 100</strong></td><td><strong>Base Nonstop (Real) DPS [Full Charge &#x26; Max Boost]: 250</strong></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 2 per shot</td><td>Base Nonstop DPS [0% Charge]: 1.333</td><td><strong>Base Nonstop (Real) DPS [Full Charge]: 50</strong></td><td><strong>Base Nonstop (Real) DPS [Full Charge &#x26; Max Boost]: 125</strong></td><td></td></tr></tbody></table>
 
 The Bazaar Bargain in base TF2 is a weapon usually used by Snipers capable of quickscoping consistently for kills. Its longer initial charge makes this rifle less worth it to use for charged shots until enough headshot kills are acquired, such that the charge rate becomes faster than the stock Sniper Rifle.&#x20;
 
-Since headshot kills are so important, their role in Zombie Escape encourages this due to the increased headshot damage of \~1200 via the plugin, making it a good tool to tunnel in on Zombie Item users or particularly dangerous zombies - but you should be doing that with any rifle really. **Body-shots with this weapon will **<mark style="color:red;">**deal 0 damage,**</mark>** meaning that you cannot body-shot to knockback a zombie whilst fleeing!**
+Since headshot kills are so important, their role in Zombie Escape encourages this due to the increased headshot damage of \~1200 via the plugin, making it a good tool to tunnel in on Zombie Item users or particularly dangerous zombies - but you should be doing that with any rifle really. **Body-shots with this weapon will&#x20;**<mark style="color:red;">**deal 0 damage,**</mark>**&#x20;meaning that you cannot body-shot to knockback a zombie whilst fleeing!**
 
 _(A few maps here and there might give Zombies healing items or upwards of a base \~50K HP, rendering the whole gimmick of the weapon pointless if you can't actually claim a head.)_
 
@@ -81,7 +81,7 @@ In regards to DPS, this can deal up to:
 
 It's a weapon meant to make Snipers good enough at landing their shots, with the added bonus of increased DPS should they kill enough zombies.
 
-## Sydney Sleeper   ![](<../../../.gitbook/assets/100px-Item\_icon\_Sydney\_Sleeper (2).png>)
+## Sydney Sleeper   ![](<../../../.gitbook/assets/100px-Item_icon_Sydney_Sleeper (2).png>)
 
 | Attributes                                                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -108,7 +108,7 @@ Currently, the Sydney Sleeper’s role in zombie escape is to rapidly apply the 
 * 900 damage on a fully-charged headshot
 * It deals \~150 DPS, both with continuous non-charged and fully-charged firing.
 
-## Huntsman   ![](<../../../.gitbook/assets/100px-Item\_icon\_Huntsman (1).png>)
+## Huntsman   ![](<../../../.gitbook/assets/100px-Item_icon_Huntsman (1).png>)
 
 | Attributes                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -122,7 +122,7 @@ Currently, the Sydney Sleeper’s role in zombie escape is to rapidly apply the 
 
 If you aren't the best at aiming headshots or want to play Sniper more casually, the Huntsman might be the best fit for you. It still provides the ability to stun on headshot and you can spam arrows relatively fast. You can even light arrows on fire a bit of fire damage. The biggest downside, however, is that it uses arrows. They can be quite inconsistent and doesn't let you get as many shots in as the rifles' bullets. <mark style="color:red;">**They won't be able to damage NPCs or bosses leaving you quite incapable of doing much unless you have an SMG equipped.**</mark> The extra bit of bleed proc being dished out won't really do anything special but maybe slightly annoy the zombies you're hitting with this some more.
 
-## Machina   ![](<../../../.gitbook/assets/100px-Item\_icon\_Machina (2).png>)
+## Machina   ![](<../../../.gitbook/assets/100px-Item_icon_Machina (2).png>)
 
 | Attributes                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -135,7 +135,7 @@ If you aren't the best at aiming headshots or want to play Sniper more casually,
 | <mark style="color:red;">**-300% Slower Deploy Speed**</mark>                                                                       |
 | <mark style="color:red;">**-100% Slower Holster Speed**</mark>                                                                      |
 | <mark style="color:orange;">**Cannot Fire Unless Zoomed**</mark>                                                                    |
-| <mark style="color:orange;">**On Full Charge:**</mark>** **<mark style="color:blue;">**+76.5% Damage per Shot**</mark>              |
+| <mark style="color:orange;">**On Full Charge:**</mark>**&#x20;**<mark style="color:blue;">**+76.5% Damage per Shot**</mark>         |
 | <mark style="color:orange;">**On Full Charge: Projectile Penetrates Players**</mark>                                                |
 | <mark style="color:orange;">**Fires Tracer Rounds**</mark>                                                                          |
 | <mark style="color:orange;">**Headshots stun zombies, have a base dmg of 900 that ramps up the less humans there are alive**</mark> |
@@ -164,7 +164,7 @@ Because this weapon can be so formidable at killing both zombies and bosses, it 
 
 _True values may differ slightly._
 
-## Classic   ![](<../../../.gitbook/assets/100px-Item\_icon\_Classic (1).png>)
+## Classic   ![](<../../../.gitbook/assets/100px-Item_icon_Classic (1).png>)
 
 | Attributes                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
