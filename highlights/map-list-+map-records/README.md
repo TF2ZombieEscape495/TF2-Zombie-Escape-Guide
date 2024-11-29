@@ -350,9 +350,9 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 [^58]: ![](<../../.gitbook/assets/Otakuroom Win.jpg>)
 
 [^59]: <mark style="color:yellow;">**Run Record:**</mark>\
-    <mark style="color:orange;">**\[Stage 4/5]**</mark>
+    <mark style="color:orange;">**\[Stage 5/5]**</mark>
 
-    **\~Past Laser Boss**
+    **\~Stage 5 Lasers**
 
 [^60]: ![](<../../.gitbook/assets/Persona Win (1).png>)
 
