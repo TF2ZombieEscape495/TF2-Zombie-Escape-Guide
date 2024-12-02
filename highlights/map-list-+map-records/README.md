@@ -331,7 +331,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
     <mark style="color:orange;">**\[Stage 1/1]**</mark>
 
-    **\~Pending Record...**
+    **\~Roughly 15% of map**
 
 [^55]: <mark style="color:yellow;">**Run Record:**</mark>
 
