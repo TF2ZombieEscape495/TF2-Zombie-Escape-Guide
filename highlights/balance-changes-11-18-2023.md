@@ -2,7 +2,11 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 11/26/2024
+# Gamemode Changes 12/9/2024
+
+## 12/9/2024 - Bhopping Update
+
+* **Bhopping mechanics enabled on both Zombie Escape servers&#x20;**_**(mostly uncapped, momentum should be capped at stairs and ramps)**_
 
 ### **11/26/2024 - General**
 

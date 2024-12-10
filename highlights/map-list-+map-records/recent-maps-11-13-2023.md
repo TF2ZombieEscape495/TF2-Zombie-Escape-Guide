@@ -6,9 +6,14 @@ Another page to <mark style="color:yellow;">**highlight**</mark> when new maps a
 If you're looking for the [**entire map list (or dying to know what maps&#x20;**_**aren't**_**&#x20;completed yet), then check here.**](./)
 {% endhint %}
 
-## 2024:
+## 2024:&#x20;
 
-### 11/27/2024 - 4 new maps
+### **12/9/2024 - Italy Town & Malgo Update**
+
+* **Italy Town added \[4 Stages]&#x20;**<mark style="color:yellow;">**\[CSS/CSGO map]**</mark>&#x20;
+* **Malgo Reactor updated to v5&#x20;**_**(new layouts + GG EZ Extreme added)**_
+
+### 11/27/2024 - 3 new maps
 
 * **Pkmn Adventure&#x20;**_**(not to be mistaken with Pokemon Adventure)**_  _**\[5 Stages]**_**&#x20;**<mark style="color:yellow;">**\[CSS Map]**</mark>**&#x20;**<mark style="color:purple;">**(Leader)**</mark>
 * **Mario Tower \[1 Stage(?)]&#x20;**<mark style="color:yellow;">**\[CSS map]**</mark>
