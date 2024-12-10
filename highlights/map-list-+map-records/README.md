@@ -44,20 +44,20 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 7. <mark style="color:green;">**ze\_atix\_panic\_skial\_5**</mark>
 8. [<mark style="color:green;">**ze\_bathroom\_skial\_8**</mark> ](#user-content-fn-5)[^5]
 9. [<mark style="color:green;">**ze\_best\_korea\_skial\_4**</mark>](#user-content-fn-6)[^6]  <mark style="color:purple;">**(LEADER)**</mark>
-10. [<mark style="color:green;">**ze\_bioluminescent\_v2**</mark>](#user-content-fn-7)[^7]
+10. [<mark style="color:green;">**ze\_bioluminescent\_v2**</mark>](#user-content-fn-7)[^7] <mark style="color:purple;">**(LEADER)**</mark>
 11. [<mark style="color:red;">**ze\_blackmesa\_escape\_final\_s1**</mark>](#user-content-fn-8)[^8]
 12. <mark style="color:green;">**ze\_bowser\_in\_the\_fire\_sea\_skial\_6**</mark>
 13. [<mark style="color:green;">**ze\_breezy\_**</mark>](#user-content-fn-9)[^9]<mark style="color:green;">**v5**</mark>**&#x20;&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_
 14. <mark style="color:green;">**ze\_challenger\_skial4**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_
 15. [<mark style="color:green;">**ze\_crazy\_escape\_skial\_2**</mark>](#user-content-fn-10)[^10]
 16. [<mark style="color:green;">**ze\_dark\_souls\_skial\_2**</mark>](#user-content-fn-11)[^11] <mark style="color:purple;">**(LEADER)**</mark>
-17. [<mark style="color:green;">**ze\_deadcore\_skial\_5**</mark>](#user-content-fn-12)[^12]
+17. [<mark style="color:green;">**ze\_deadcore\_skial\_5**</mark>](#user-content-fn-12)[^12] <mark style="color:purple;">**(LEADER)**</mark>
 18. [<mark style="color:green;">**ze\_defense3002\_skial\_2**</mark>](#user-content-fn-13)[^13]
 19. [<mark style="color:red;">**ze\_diddle\_skial\_6**</mark>](#user-content-fn-14)[^14]  <mark style="color:purple;">**(LEADER)**</mark>
 20. [<mark style="color:green;">**ze\_djinn\_skial\_2**</mark>](#user-content-fn-15)[^15]  <mark style="color:purple;">**(LEADER)**</mark>
 21. [<mark style="color:red;">**ze\_dodge\_or\_die\_final\_s1**</mark>](#user-content-fn-16)[^16]
 22. [<mark style="color:green;">**ze\_DOOM\_skial\_3**</mark>](#user-content-fn-17)[^17]  <mark style="color:purple;">**(LEADER)**</mark>
-23. [<mark style="color:green;">**ze\_dreamin\_b2**</mark> ](#user-content-fn-18)[^18]
+23. [<mark style="color:green;">**ze\_dreamin\_b2**</mark> ](#user-content-fn-18)[^18] <mark style="color:purple;">**(LEADER)**</mark>
 24. [<mark style="color:green;">**ze\_echo\_boatescape\_extended\_s1**</mark>](#user-content-fn-19)[^19]
 25. [<mark style="color:red;">**ze\_eerie\_escape\_redux\_s2**</mark>](#user-content-fn-20)[^20] <mark style="color:purple;">**(LEADER)**</mark>
 26. [<mark style="color:green;">**ze\_evernight\_skial\_1**</mark>](#user-content-fn-21)[^21]
@@ -118,12 +118,12 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 81. [<mark style="color:red;">**ze\_pkmn\_adventure\_s1**</mark>](#user-content-fn-64)[^64]
 82. [<mark style="color:green;">**ze\_portal\_story\_skial\_6**</mark>](#user-content-fn-65)[^65]
 83. <mark style="color:green;">**ze\_quicksand\_v1e**</mark>**&#x20; &#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_&#x20;
-84. [<mark style="color:green;">**ze\_raiin\_v2**</mark>](#user-content-fn-66)[^66] _<mark style="color:yellow;">**(TF2 map)**</mark>_&#x20;
+84. [<mark style="color:green;">**ze\_raiin\_v2**</mark>](#user-content-fn-66)[^66] _<mark style="color:yellow;">**(TF2 map)**</mark>_ &#x20;
 85. <mark style="color:green;">**ze\_random\_skial\_7**</mark>&#x20;
 86. [<mark style="color:red;">**ze\_randomizer\_p2**</mark>](#user-content-fn-67)[^67] <mark style="color:purple;">**(LEADER)**</mark>
 87. [<mark style="color:green;">**ze\_rizomata\_skial\_8**</mark>](#user-content-fn-68)[^68]
 88. [<mark style="color:green;">**ze\_rush\_b\_skial\_6**</mark>](#user-content-fn-69)[^69] <mark style="color:purple;">**(LEADER)**</mark>
-89. [<mark style="color:green;">**ze\_ryujin\_v3**</mark>](#user-content-fn-70)[^70]   _<mark style="color:yellow;">**(TF2 map)**</mark>_
+89. [<mark style="color:green;">**ze\_ryujin\_v3**</mark>](#user-content-fn-70)[^70]   _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
 90. [<mark style="color:green;">**ze\_S\_A\_M\_skial\_9**</mark>](#user-content-fn-71)[^71]
 91. [<mark style="color:green;">**ze\_sandstone\_v2**</mark>](#user-content-fn-72)[^72]   _<mark style="color:yellow;">**(TF2 map)**</mark>_
 92. [<mark style="color:red;">**ze\_santassination\_s4**</mark>](#user-content-fn-73)[^73]
@@ -142,7 +142,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 105. <mark style="color:green;">**ze\_sunlight\_skial\_1**</mark>
 106. <mark style="color:green;">**ze\_surf\_facility\_skial\_b1**</mark>
 107. [<mark style="color:green;">**ze\_surf\_froyo\_b**</mark>](#user-content-fn-82)[^82]<mark style="color:green;">**3**</mark>
-108. <mark style="color:green;">**ze\_surf\_sahok\_skial\_4**</mark>
+108. <mark style="color:green;">**ze\_surf\_sahok\_skial\_4**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
 109. <mark style="color:green;">**ze\_surf\_vortex\_skial\_6**</mark>
 110. <mark style="color:green;">**ze\_swamp\_facility\_b2d**</mark>**&#x20;&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_
 111. [<mark style="color:green;">**ze\_tyranny2\_skial\_6**</mark>](#user-content-fn-83)[^83]
@@ -152,7 +152,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 115. [<mark style="color:green;">**ze\_visualizer\_skial\_3**</mark>](#user-content-fn-85)[^85] <mark style="color:purple;">**(LEADER)**</mark>
 116. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-86)[^86]
 117. <mark style="color:green;">**ze\_voodoo\_islands\_skial\_5**</mark>**&#x20;&#x20;**_<mark style="color:yellow;">**(Re-made as TF2 Map)**</mark>_
-118. [<mark style="color:red;">**ze\_warlab\_v5**</mark>](#user-content-fn-87)[^87] _<mark style="color:yellow;">**(TF2 map)**</mark>_
+118. [<mark style="color:red;">**ze\_warlab\_v5**</mark>](#user-content-fn-87)[^87] _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
 
 [^1]: ![](<../../.gitbook/assets/2049 win.jpg>)
 
