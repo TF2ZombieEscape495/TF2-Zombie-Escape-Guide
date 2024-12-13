@@ -6,9 +6,9 @@ description: A place to quickly find gamemode to Skial ZE changes by date.
 
 ## 12/9/2024 - Bhopping Update
 
-* **Bhopping mechanics enabled on both Zombie Escape servers&#x20;**_**(mostly uncapped, momentum should be capped at stairs and ramps)**_
+* **Bhopping mechanics enabled on both Zombie Escape servers&#x20;**_**(capped to 500 at max, momentum should also be capped at stairs and ramps)**_
 * **Bhopping momentum halted upon being shot/can't boost yourself by getting shot in specific ways.**
-* **Bhopping velocity halted upon using Zombie Heavy or Spy Enzymes.**
+* **Bhopping velocity limited to 250 upon using Zombie Enzymes.**
 
 ### **11/26/2024 - General**
 
