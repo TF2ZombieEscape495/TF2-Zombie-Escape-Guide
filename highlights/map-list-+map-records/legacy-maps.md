@@ -1,4 +1,4 @@
-# Legacy Maps 11/9/2024
+# Legacy Maps 12/14/2024
 
 {% hint style="info" %}
 **Maps that were /once/ within the nomination pool but&#x20;**<mark style="color:red;">**removed from the server**</mark>**&#x20;due to any number of reasons - most commonly due to causing server issues. (A-Z)**
@@ -31,6 +31,7 @@ Some of these are admin-only nominations and you might see them on EU or as an e
 * <mark style="color:yellow;">**ze\_laserhell**</mark> _**(original laserhell, not current remake version)**_
 * <mark style="color:yellow;">**ze\_lotr\_mount\_doom**</mark>
 * <mark style="color:yellow;">**ze\_m0w0m**</mark>
+* <mark style="color:yellow;">**ze\_mario\_tower**</mark>**&#x20;(12/14/2024)&#x20;**_**\[removed earlier than this but too lazy to find out when]**_
 * <mark style="color:yellow;">**ze\_mountain\_escape**</mark>**&#x20;(10/10/2024 in nomlist for only a day)**
 * <mark style="color:yellow;">**ze\_onahole**</mark>
 * <mark style="color:yellow;">**ze\_oot\_shadowtemple**</mark>**&#x20;(8/24/2024 casualty of map purge)**

@@ -1,4 +1,4 @@
-# Recent Maps 11/27/2024
+# Recent Maps 12/14/2024
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -7,6 +7,10 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 {% endhint %}
 
 ## 2024:&#x20;
+
+### 12/14/2024 Rooftop Xmas
+
+* **rooftop runaway xmas added&#x20;**<mark style="color:yellow;">**\[CSS map]**</mark>
 
 ### **12/9/2024 - Italy Town & Malgo Update**
 
