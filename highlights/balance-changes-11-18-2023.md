@@ -2,9 +2,17 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 12/9/2024
+# Gamemode Changes 12/16/2024
 
-## 12/9/2024 - Bhopping Update
+### 12/16/2024 - Crouching + Jump
+
+* _Normally_ in TF2, you can't hold crouch _and then_ jump _(not to be mistaken with jumping and tapping crouching for more height)_
+* **As of now on ZE servers, you can now 'crouch-jump' without having to sit through an awkward un-crouch animation.**
+* **More bhop adjustments&#x20;**_**(may not be final)**_
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+### 12/9/2024 - Bhopping Update
 
 * **Bhopping mechanics enabled on both Zombie Escape servers&#x20;**_**(capped to 500 at max, momentum should also be capped at stairs and ramps)**_
 * **Bhopping momentum halted upon being shot/can't boost yourself by getting shot in specific ways.**
