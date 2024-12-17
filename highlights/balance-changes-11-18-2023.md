@@ -8,7 +8,7 @@ description: A place to quickly find gamemode to Skial ZE changes by date.
 
 * **More bhop adjustments/fixes&#x20;**_**(may not be final)**_
 * _Normally_ in TF2, you can't hold crouch _and then_ jump _(not to be mistaken with jumping and tapping crouching for more height)_
-* **As of now on ZE servers, you can now 'crouch-jump' without having to sit through an awkward un-crouch animation;&#x20;**_**this may be disabled on maps that disable Bhop as its done in the same plugin.**_
+* **As of now on ZE servers, you can now 'crouch-jump' without having to sit through an awkward un-crouch animation.**
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
