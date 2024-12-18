@@ -12,7 +12,7 @@ description: Scout Primary Options
 | **Weapon Spread: 30:1**                                       |
 | <mark style="color:blue;">**+60% Faster Firing Speed**</mark> |
 | <mark style="color:blue;">**+65% Faster Reload Time**</mark>  |
-| <mark style="color:blue;">**+25% Damage Bonus**</mark>        |
+| <mark style="color:blue;">**+88% Damage Bonus**</mark>        |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.255</td><td>TEC: 4.59 seconds</td><td>Reload Time (First): 0.255 seconds</td><td>Reload Time (Consec.): 0.18 seconds</td><td>Full Reload Time: 3.315 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 75 per shot</td><td><strong>Real DPS:</strong> 170.777 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 294.117 DPS</td><td></td><td></td></tr></tbody></table>
 

@@ -2,9 +2,9 @@
 description: Engineer Secondary Options
 ---
 
-# Secondaries
+# Engineer Secondaries
 
-## Short Circuit   ![](<../../../.gitbook/assets/100px-Item\_icon\_Short\_Circuit (1).png>)
+## Short Circuit   ![](<../../../.gitbook/assets/100px-Item_icon_Short_Circuit (1).png>)
 
 | Attributes                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------- |
@@ -21,13 +21,13 @@ Seemingly useless at first glance, you might think the Short Circuit is in the s
 
 With the function of it's M1 attack, it only lasts about \~7 seconds of fire-time but can provide a burst-knockback option for any imminent dangers - otherwise that use of the weapon isn't too useful due to the short range. _With plentiful dispensers_ supplying it ammo, its potential for burst DPS has the potential to be extremely strong, going from a \~165 sustained DPS to a \~280 nonstop.
 
-## Pistol    ![](<../../../.gitbook/assets/100px-Item\_icon\_Pistol (1).png>)
+## Pistol    ![](<../../../.gitbook/assets/100px-Item_icon_Pistol (1).png>)
 
 | Attributes                                                    |
 | ------------------------------------------------------------- |
 | **Clip Size - 48 shots**                                      |
 | **Weapon Spread: 100:1**                                      |
-| <mark style="color:blue;">**+27.5% Damage Bonus**</mark>      |
+| <mark style="color:blue;">**+53% Damage Bonus**</mark>        |
 | <mark style="color:blue;">**+33% Faster Firing Speed**</mark> |
 | <mark style="color:blue;">**+50% More Accurate**</mark>       |
 | <mark style="color:red;">**-50% Slower Reload Time**</mark>   |
@@ -38,7 +38,7 @@ The Pistol serves as Scout and Engineer’s trusty follow-up weapon the majority
 
 What this weapon does now excel at is accuracy, which is emphasized by its decreased bullet spread to 100:1. This makes the Pistol one of the better picks for single-target stalling and for shooting at fast-moving or far-away bosses, assuming one can track well. As an engineer, the pistol is a great choice of pick to have a consistent no-brainer output of damage if you plan on running any of the gimmicky, non-damaging primaries.
 
-## Wrangler   ![](../../../.gitbook/assets/100px-Item\_icon\_Wrangler.png)
+## Wrangler   ![](../../../.gitbook/assets/100px-Item_icon_Wrangler.png)
 
 | Attributes                                                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- |

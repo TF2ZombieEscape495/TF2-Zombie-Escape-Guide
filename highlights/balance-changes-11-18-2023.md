@@ -2,7 +2,16 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 12/16/2024
+# Gamemode Changes 12/18/2024
+
+### 12/18/2024 - Weapon tweaks
+
+_(NOT FINAL; SUBJECT TO ADDITIONAL CHANGES)_ _**This doesn't mechanically change weapon gimmicks across the board**_ - instead just makes most sources of bullet damage rely less on heavies. _(A lot of weapon DAMAGE stats changed specifically.)_
+
+* Miniguns now have a **4 second reload time** _**(they need to be un-revved to reload; no animation but you'll reset to 140 ammo)**_
+  * Miniguns now have a 15 second uptime&#x20;
+  * **Miniguns also all have a No Ammo From Dispensers When Active** trait to lean towards use of reload mechanic.
+* **Many weapon damage stat**s **increased by 25-50%** across the board _(varies; currently have not re-calculated the exact stats for many of these but this will make a lot of the DPS calculations off on the stat pages depending on the scope of it)_
 
 ### 12/16/2024 - Crouching + Jump
 
