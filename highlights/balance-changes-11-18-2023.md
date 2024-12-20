@@ -2,16 +2,23 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 12/18/2024
+# Gamemode Changes 12/19/2024
+
+### 12/19/2024 - Class Cap + KB Adjust
+
+* Class cap for heavy has been removed, you can now have more than 8.
+* **Additional adjustments to knockback on non-heavy weapons adjusted/fixed to compensate heavy being weakened.**
 
 ### 12/18/2024 - Weapon tweaks
 
+{% hint style="info" %}
 _(NOT FINAL; SUBJECT TO ADDITIONAL CHANGES)_ _**This doesn't mechanically change weapon gimmicks across the board**_ - instead just makes most sources of bullet damage rely less on heavies. _(A lot of weapon DAMAGE stats changed specifically.)_
+{% endhint %}
 
 * Miniguns now have a **4 second reload time** _**(they need to be un-revved to reload; no animation but you'll reset to 140 ammo)**_
   * Miniguns now have a 15 second uptime&#x20;
   * **Miniguns also all have a No Ammo From Dispensers When Active** trait to lean towards use of reload mechanic.
-* **Many weapon damage stat**s **increased by 25-50%** across the board _(varies; currently have not re-calculated the exact stats for many of these but this will make a lot of the DPS calculations off on the stat pages depending on the scope of it)_
+* **Many weapon damage stat**s **increased by 25-50%** across the board _(varies, <mark style="color:red;">**currently have not re-calculated the exact stats for many of these; this will make a lot of the DPS calculations off**</mark>_ _<mark style="color:red;">**on the stat pages**</mark> depending on the scope of changes done - giving this time to settle before comprehensively writing down every adjusted weapon stat.)_
 
 ### 12/16/2024 - Crouching + Jump
 

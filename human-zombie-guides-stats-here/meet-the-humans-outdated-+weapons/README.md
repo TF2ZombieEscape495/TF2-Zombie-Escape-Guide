@@ -19,7 +19,11 @@ layout:
 
 <figure><img src="../../.gitbook/assets/Meet The Humans Test.png" alt="" width="479"><figcaption></figcaption></figure>
 
-**In the subpages** below are descriptions of each class and the stats of their respective weapons (modified for ZE). If you would like a more in-depth look into specific loadouts, check out the [**Human Strategies**](../human-meta-discussion-outdated-+loadouts/) section of the guide.
+{% hint style="info" %}
+<mark style="color:yellow;">**In the SUBPAGES**</mark> <mark style="color:yellow;">**for each class are the stats & attributes**</mark> <mark style="color:yellow;">**of their respective weapons**</mark> _<mark style="color:yellow;">**(modified for ZE)**</mark>_<mark style="color:yellow;">**.**</mark> If you would like a more in-depth look into specific loadout suggestions, check out the [**Human Strategies**](../human-meta-discussion-outdated-+loadouts/) section of the guide.
+
+<mark style="color:red;">**Disclaimer:**</mark> [_**As of 12/18/2024**_](../../highlights/balance-changes-11-18-2023.md#id-12-18-2024-weapon-tweaks) _**-**_**&#x20;some of these weapons may have incorrect DPS calculations and/or damage stats&#x20;**_**(knockback) - eventually they'll get fixed here once they've all been re-calculated; but most of the other attributes are untouched.**_
+{% endhint %}
 
 Note that in the weapons sections, **all the weapons will be ordered from top to bottom in what we feel are the most useful to the least useful as a Human**. As of the last major overhaul; _most_ weapons are relatively equal in terms of power in the DPS department - so don't sweat it too much on what you actually _**need**_ unless a map specifically calls for the [**highest damage**](../human-meta-discussion-outdated-+loadouts/team-composition.md#optimal-dps-easy-to-use).&#x20;
 

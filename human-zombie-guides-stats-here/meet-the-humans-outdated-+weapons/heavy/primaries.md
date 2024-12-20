@@ -4,13 +4,14 @@ description: Heavy Primary Options
 
 # Heavy Primaries
 
-## Minigun   ![](<../../../.gitbook/assets/100px-Item\_icon\_Minigun (1).png>)
+## Minigun   ![](<../../../.gitbook/assets/100px-Item_icon_Minigun (1).png>)
 
-| Attributes                                                  |
-| ----------------------------------------------------------- |
-| **Weapon Spread: 25:1**                                     |
-| <mark style="color:blue;">**+25% Damage vs Players**</mark> |
-| <mark style="color:red;">**-6.5% Damage Penalty**</mark>    |
+| Attributes                                                                         |
+| ---------------------------------------------------------------------------------- |
+| **Weapon Spread: 25:1**                                                            |
+| <mark style="color:blue;">**+25% Damage vs Players**</mark>                        |
+| <mark style="color:red;">**-6.5% Damage Penalty**</mark>                           |
+| <mark style="color:red;">**When Held: Does not gain ammo from Dispensers.**</mark> |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.105</td><td>TEC: 91.923 seconds</td><td>Full Reload Time: 17.5 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 33.66 per shot</td><td>Sustained DPS<strong>:</strong> 268.569 DPS</td><td>Clip DPS (<em><strong>Nonstop; Real DPS for Miniguns!</strong></em>): 320.571 DPS</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 16 per shot</td><td>Sustained DPS<strong>:</strong> 127.661 DPS</td><td>Clip DPS (<em><strong>Nonstop; Real DPS for Miniguns</strong></em>): 152.38 DPS</td></tr></tbody></table>
 
@@ -22,7 +23,7 @@ One should not underestimate just how strong the stock Minigun is compared to th
 
 Until something concrete is decided to knock it down a peg in some regard, the miniguns will always remain great options in carrying a team.
 
-## Brass Beast   ![](<../../../.gitbook/assets/100px-Item\_icon\_Brass\_Beast (1).png>)
+## Brass Beast   ![](<../../../.gitbook/assets/100px-Item_icon_Brass_Beast (1).png>)
 
 | Attributes                                                                                    |
 | --------------------------------------------------------------------------------------------- |
@@ -32,6 +33,7 @@ Until something concrete is decided to knock it down a peg in some regard, the m
 | <mark style="color:blue;">**+25% Damage vs Players**</mark>                                   |
 | <mark style="color:red;">**-5% Damage Penalty**</mark>                                        |
 | <mark style="color:red;">**-50% Slower Spin Up Time**</mark>                                  |
+| <mark style="color:red;">**When Held: Does not gain ammo from Dispensers.**</mark>            |
 | <mark style="color:red;">**-60% Slower Move Speed when Deployed**</mark>                      |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.09</td><td>TEC: 45.001 seconds</td><td>Full Reload Time: 17.5 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 34.2 per shot</td><td>Sustained DPS<strong>:</strong> 272.081 DPS</td><td>Clip DPS (<em><strong>Nonstop; Real DPS for Miniguns!</strong></em>): 380 DPS</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 17 per shot</td><td>Sustained DPS<strong>:</strong> 135.244 DPS</td><td>Clip DPS (<em><strong>Nonstop; Real DPS for Miniguns</strong></em>): 188.888 DPS</td></tr></tbody></table>
@@ -42,7 +44,7 @@ In Zombie Escape, it plays the same role, albeit with greater emphasis on the dr
 
 As a small compensation, the Brass Beast’s damage resistance when spun up at half health or lower has been raised to 33% from its default value of 20%. This makes it somewhat less punishing to run during boss fights or when assaulted by multiple mutations during defenses.
 
-## Natascha  ![](<../../../.gitbook/assets/100px-Item\_icon\_Natascha (3).png>)
+## Natascha  ![](<../../../.gitbook/assets/100px-Item_icon_Natascha (3).png>)
 
 | Attributes                                                                                    |
 | --------------------------------------------------------------------------------------------- |
@@ -54,6 +56,7 @@ As a small compensation, the Brass Beast’s damage resistance when spun up at h
 | <mark style="color:red;">**-59.7% Damage Penalty**</mark>                                     |
 | <mark style="color:red;">**-25% Less Accurate**</mark>                                        |
 | <mark style="color:red;">**-30% Slower Spin Up Time**</mark>                                  |
+| <mark style="color:red;">**When Held: Does not gain ammo from Dispensers.**</mark>            |
 | <mark style="color:orange;">**Sets weapon mode #1.0 (Hidden)**</mark>                         |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.075</td><td>TEC: 26.251 seconds</td><td>Full Reload Time: 17.5 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 21.762 per shot</td><td>Sustained DPS<strong>:</strong> 172.44 DPS</td><td>Clip DPS (<em><strong>Nonstop; Real DPS for Miniguns!</strong></em>): 290.16 DPS</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 21.762 per shot</td><td>Sustained DPS<strong>:</strong> 79.239 DPS</td><td>Clip DPS (<em><strong>Nonstop; Real DPS for Miniguns</strong></em>): 133.333 DPS</td></tr></tbody></table>
@@ -66,17 +69,18 @@ Due to its increased rate of fire, the minigun will expend ammo far faster in ap
 
 ~~Also has a nice sound to its rev up.~~
 
-## Tomislav   ![](<../../../.gitbook/assets/100px-Item\_icon\_Tomislav (2).png>)  &#x20;
+## Tomislav   ![](<../../../.gitbook/assets/100px-Item_icon_Tomislav (2).png>)  &#x20;
 
-| Attributes                                                                 |
-| -------------------------------------------------------------------------- |
-| **Weapon Spread: 50:1**                                                    |
-| <mark style="color:blue;">**+60% Faster Spin Up Time**</mark>              |
-| <mark style="color:blue;">**+50% More Accurate**</mark>                    |
-| <mark style="color:blue;">**+25% Damage vs Players**</mark>                |
-| <mark style="color:red;">**-7% Damage Penalty**</mark>                     |
-| <mark style="color:red;">**-20% Slower Firing Speed**</mark>               |
-| <mark style="color:orange;">**Silent Killer: No barrel spin sound**</mark> |
+| Attributes                                                                         |
+| ---------------------------------------------------------------------------------- |
+| **Weapon Spread: 50:1**                                                            |
+| <mark style="color:blue;">**+60% Faster Spin Up Time**</mark>                      |
+| <mark style="color:blue;">**+50% More Accurate**</mark>                            |
+| <mark style="color:blue;">**+25% Damage vs Players**</mark>                        |
+| <mark style="color:red;">**-7% Damage Penalty**</mark>                             |
+| <mark style="color:red;">**-20% Slower Firing Speed**</mark>                       |
+| <mark style="color:red;">**When Held: Does not gain ammo from Dispensers.**</mark> |
+| <mark style="color:orange;">**Silent Killer: No barrel spin sound**</mark>         |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.12</td><td>TEC: 420.42 seconds</td><td>Full Reload Time: 17.5 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 33.48 per shot</td><td>Sustained DPS<strong>:</strong> 267.691 DPS</td><td>Clip DPS (<em><strong>Nonstop; Real DPS for Miniguns!</strong></em>): 279 DPS</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 16 per shot</td><td>Sustained DPS<strong>:</strong> 127.928 DPS</td><td>Clip DPS (<em><strong>Nonstop; Real DPS for Miniguns</strong></em>): 133.333 DPS</td></tr></tbody></table>
 
@@ -86,7 +90,7 @@ The spread bonus allows this weapon to remain more accurate, which can be helpfu
 
 Notably, this weapon's nonstop DPS is the lowest among all miniguns. For scenarios involving long boss fights with dispensers available for support, this may not be an ideal pick if one wants to maximize their damage output. Aside from that, this weapon is probably the best weapon for sustained defenses, as its lessened fire rate coupled with the server's ammo regeneration of \~8 ammo/s means that it takes much longer to deplete all its ammo—so much longer that it'd take around <mark style="color:yellow;">**\~420 seconds or \~7 minutes**</mark> to run out even without dispenser support. While this does make it extremely consistent as a defensive option, it may still be less powerful compared to other miniguns when supplemented by dispensers. High fire rates are needed to reliably push back or hold off zombies, but even then, this weapon remains at the highest end of it in spite of the penalties.
 
-## Huo-Long Heater   ![](<../../../.gitbook/assets/100px-Item\_icon\_Huo-Long\_Heater (1).png>)
+## Huo-Long Heater   ![](<../../../.gitbook/assets/100px-Item_icon_Huo-Long_Heater (1).png>)
 
 | Attributes                                                                         |
 | ---------------------------------------------------------------------------------- |

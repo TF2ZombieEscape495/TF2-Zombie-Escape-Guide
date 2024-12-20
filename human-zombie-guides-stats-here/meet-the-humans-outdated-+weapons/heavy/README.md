@@ -4,7 +4,7 @@ description: Brief overview of the Human Heavy
 
 # 👊 Heavy
 
-![](../../../.gitbook/assets/Icon\_heavy\_blue.jpg)
+![](../../../.gitbook/assets/Icon_heavy_blue.jpg)
 
 **`Class Cap: 8 Slots`**
 
@@ -22,7 +22,8 @@ description: Brief overview of the Human Heavy
 
 * Slow base speed
 * Vulnerable when unrevving
-* Miniguns can outpace ammo regeneration
+* Miniguns require manually reloading by un-revving for 4 seconds.
+* Miniguns gain no ammo from dispensers while active/held out.
 
 \
 With his massive guns and arsenal of weapons, Heavy's main job in Zombie escape is being the premier defender. Be at the frontlines and use your [Minigun options](primaries.md) to knock back and hold off zombies or provide cover for your teammates on retreat. If there are any NPCs or bosses around, he can shift position to becoming the peak damage dealer to mow them down due to his miniguns' high fire rate and high DPS.\
