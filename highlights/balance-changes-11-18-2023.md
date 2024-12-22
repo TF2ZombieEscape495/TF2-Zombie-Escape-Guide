@@ -6,7 +6,8 @@ description: A place to quickly find gamemode to Skial ZE changes by date.
 
 ### 12/19/2024 - Class Cap + KB Adjust
 
-* Class cap for heavy has been removed, you can now have more than 8.
+* Class cap for heavy has been removed
+* Class cap for engineer has been removed
 * **Additional adjustments to knockback on non-heavy weapons adjusted/fixed to compensate heavy being weakened.**
 
 ### 12/18/2024 - Weapon tweaks
