@@ -17,6 +17,7 @@ _(NOT FINAL; SUBJECT TO ADDITIONAL CHANGES)_ _**This doesn't mechanically change
 
 * Miniguns now have a **4 second reload time** _**(they need to be un-revved to reload; no animation but you'll reset to 140 ammo)**_
   * Miniguns now have a 15 second uptime&#x20;
+  * To reload, press your R key _(this should visually show on HUD)_
   * **Miniguns also all have a No Ammo From Dispensers When Active** trait to lean towards use of reload mechanic.
 * **Many weapon damage stat**s **increased by 25-50%** across the board _(varies, <mark style="color:red;">**currently have not re-calculated the exact stats for many of these; this will make a lot of the DPS calculations off**</mark>_ _<mark style="color:red;">**on the stat pages**</mark> depending on the scope of changes done - giving this time to settle before comprehensively writing down every adjusted weapon stat.)_
 
