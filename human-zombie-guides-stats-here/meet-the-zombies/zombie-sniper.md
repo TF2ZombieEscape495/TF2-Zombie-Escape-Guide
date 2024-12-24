@@ -27,6 +27,6 @@ The Sniper acts like your standard zombie, there's not many gimmicks he can rely
 \
 On using his Mutation, humans within a radius around him will be coated in Jarate for several seconds. **Their visibility will be impaired while they take increased damage from most sources of damage, such as from zombie hits, explosions, and even map-sourced damage.**
 
-**Most dangerously, however, is going be his Bushwacka.** Pair that with his ability and you can one-shot kill any class regardless of overheal. When you kill a human rather than infect them, you won't be stunned. So, if you're able to pop your Mutation and launch yourself into a crowd of humans, expect a big trim.
+**Most dangerously, however, is going be his Bushwacka.** Pair that with his ability and you can one-shot kill any class regardless of overheal. When you kill a human rather than infect them, you won't be stunned. So, if you're able to pop your Mutation and launch yourself into a crowd of humans, expect a big trim. Note that you will take more knockback and damage with it equipped though.
 
 <figure><img src="../../.gitbook/assets/Sniper Enzyme Reference.gif" alt=""><figcaption><p>Insta-killing (no infect) a soldier who otherwise might've had extra HP</p></figcaption></figure>

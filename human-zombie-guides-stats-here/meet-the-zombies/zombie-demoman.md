@@ -8,7 +8,7 @@
 <mark style="color:blue;">**Pros**</mark>
 
 * **Double Shield Charge&#x20;**_**(via Enzyme)**_**&#x20;is decent chase tool against lone, fleeing Humans**
-* **Can overcome base damage weakness via shield charge minicrits**
+* **Can overcome base damage weakness via shield-charge minicrits**
 
 <mark style="color:red;">**Cons**</mark>
 
