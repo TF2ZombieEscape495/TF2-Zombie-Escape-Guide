@@ -10,7 +10,7 @@ description: A place to quickly find gamemode to Skial ZE changes by date.
 
 * New scoreboard tracking _(displayed at round end)_ for top infections and damage.
 * **Addtional adjustment to Heavy Miniguns&#x20;**_**(they now reload in the background so you're not stuck at 0 ammo)**_
-* Several existing maps made leader-only:
+* Several existing maps made <mark style="color:purple;">**leader-only:**</mark>
   * **Dodge Or Die**
   * **Sandstone**
   * **Parkour Paradise&#x20;**_**(yes its back)**_
