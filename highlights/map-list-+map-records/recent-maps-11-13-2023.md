@@ -1,4 +1,4 @@
-# Recent Maps 12/14/2024
+# Recent Maps 12/26/2024
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -7,6 +7,10 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 {% endhint %}
 
 ## 2024:&#x20;
+
+### 12/26/2024 :crab: Return of Parkour Paradise :crab:
+
+* **Parkour Paradise re-added as&#x20;**<mark style="color:purple;">**Leader-nomination**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_
 
 ### 12/14/2024 Rooftop Xmas
 

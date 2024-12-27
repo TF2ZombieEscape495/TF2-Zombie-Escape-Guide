@@ -2,7 +2,22 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 12/19/2024
+# Gamemode Changes 12/26/2024
+
+### 12/26/2024 Round-end Stats, Return of PKP, Leader-noms...
+
+<div align="left"><figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
+
+* New scoreboard tracking _(displayed at round end)_ for top infections and damage.
+* **Addtional adjustment to Heavy Miniguns&#x20;**_**(they now reload in the background so you're not stuck at 0 ammo)**_
+* Several existing maps made leader-only:
+  * **Dodge Or Die**
+  * **Sandstone**
+  * **Parkour Paradise&#x20;**_**(yes its back)**_
+  * **Raiin**
+  * **Night Cinema**
+* **DOOM** leader-requirement removed
+* **Surf Sahok** removed from nominations
 
 ### 12/19/2024 - Class Cap + KB Adjust
 

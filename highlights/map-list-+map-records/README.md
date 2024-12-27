@@ -9,10 +9,10 @@ coverY: 0
 
 # Map List (+Map Records!)
 
-## Maps available to play: 119 maps [_<mark style="color:blue;">(last updated 12/14/2024)</mark>_](recent-maps-11-13-2023.md)
+## Maps available to play: 119 maps [_<mark style="color:blue;">(last updated 12/26/2024)</mark>_](recent-maps-11-13-2023.md)
 
 {% hint style="success" %}
-#### These are all color coded by all known completions _\[at least once]_ in the community; <mark style="color:red;">(In NORMAL MODE +</mark> <mark style="color:red;"></mark>_<mark style="color:red;">Relatively Full (Usually 30+), Non-Friendly S</mark>_<mark style="color:red;">erver.)</mark>
+#### These are all color coded by all known completions _\[at least once]_ in the community; <mark style="color:red;">(In NORMAL MODE +</mark> <mark style="color:red;"></mark>_<mark style="color:red;">Relatively Full (Usually 30-ish), Non-Friendly S</mark>_<mark style="color:red;">erver.)</mark>
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
@@ -55,8 +55,8 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 18. [<mark style="color:green;">**ze\_defense3002\_skial\_2**</mark>](#user-content-fn-13)[^13]
 19. [<mark style="color:red;">**ze\_diddle\_skial\_6**</mark>](#user-content-fn-14)[^14]  <mark style="color:purple;">**(LEADER)**</mark>
 20. [<mark style="color:green;">**ze\_djinn\_skial\_2**</mark>](#user-content-fn-15)[^15]  <mark style="color:purple;">**(LEADER)**</mark>
-21. [<mark style="color:red;">**ze\_dodge\_or\_die\_final\_s1**</mark>](#user-content-fn-16)[^16]
-22. [<mark style="color:green;">**ze\_DOOM\_skial\_3**</mark>](#user-content-fn-17)[^17]  <mark style="color:purple;">**(LEADER)**</mark>
+21. [<mark style="color:red;">**ze\_dodge\_or\_die\_final\_s1**</mark>](#user-content-fn-16)[^16] <mark style="color:purple;">**(LEADER)**</mark>
+22. [<mark style="color:green;">**ze\_DOOM\_skial\_3**</mark>](#user-content-fn-17)[^17]&#x20;
 23. [<mark style="color:green;">**ze\_dreamin\_b2**</mark> ](#user-content-fn-18)[^18] <mark style="color:purple;">**(LEADER)**</mark>
 24. [<mark style="color:green;">**ze\_echo\_boatescape\_extended\_s1**</mark>](#user-content-fn-19)[^19]
 25. [<mark style="color:red;">**ze\_eerie\_escape\_redux\_s2**</mark>](#user-content-fn-20)[^20] <mark style="color:purple;">**(LEADER)**</mark>
@@ -74,7 +74,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 37. [<mark style="color:green;">**ze\_ffxiv\_wanderers\_palace\_skial\_4**</mark>](#user-content-fn-29)[^29] **(v5)&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
 38. [<mark style="color:green;">**ze\_freezy\_v1**</mark>](#user-content-fn-30)[^30]<mark style="color:green;">**d**</mark>**&#x20; &#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_
 39. [<mark style="color:green;">**ze\_frostdrake\_tower\_skial\_3**</mark>](#user-content-fn-31)[^31]
-40. [<mark style="color:red;">**ze\_frozen\_abyss\_skial\_1**</mark>](#user-content-fn-32)[^32]
+40. [<mark style="color:red;">**ze\_frozen\_abyss\_skial\_1**</mark>](#user-content-fn-32)[^32] <mark style="color:purple;">**(LEADER)**</mark>
 41. <mark style="color:green;">**ze\_frozentemple\_skial\_b1**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
 42. [<mark style="color:green;">**ze\_garten\_of\_banban\_laserdance\_awesomeworld\_taylors\_version\_v2**</mark>](#user-content-fn-33)[^33]   _<mark style="color:yellow;">**(TF2 map)**</mark>_ <mark style="color:purple;">**(LEADER)**</mark>
 43. [<mark style="color:red;">**ze\_grau\_fyb**</mark>](#user-content-fn-34)[^34] <mark style="color:purple;">**(LEADER)**</mark>
@@ -102,7 +102,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 65. [<mark style="color:green;">**ze\_minimal\_skial\_2**</mark>](#user-content-fn-48)[^48]
 66. [<mark style="color:green;">**ze\_mist\_skial\_3**</mark>](#user-content-fn-49)[^49] <mark style="color:purple;">**(LEADER)**</mark>
 67. [<mark style="color:green;">**ze\_neochrome\_b1**</mark>](#user-content-fn-50)[^50] <mark style="color:purple;">**(LEADER)**</mark>
-68. [<mark style="color:red;">**ze\_night\_cinema\_s1**</mark>](#user-content-fn-51)[^51]
+68. [<mark style="color:red;">**ze\_night\_cinema\_s1**</mark>](#user-content-fn-51)[^51] <mark style="color:purple;">**(LEADER)**</mark>
 69. [<mark style="color:green;">**ze\_nomada\_h5**</mark> ](#user-content-fn-52)[^52]<mark style="color:purple;">**(LEADER)**</mark>
 70. [<mark style="color:red;">**ze\_obj\_filth\_skial\_3**</mark>](#user-content-fn-53)[^53] <mark style="color:purple;">**(LEADER)**</mark>
 71. [<mark style="color:red;">**ze\_obj\_npst\_tf2\_f1**</mark>](#user-content-fn-54)[^54] <mark style="color:purple;">**(LEADER)**</mark>
@@ -111,49 +111,49 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 74. [<mark style="color:red;">**ze\_outlast\_skial\_**</mark>](#user-content-fn-57)[^57]<mark style="color:red;">**6**</mark>
 75. [<mark style="color:green;">**ze\_otakuroom\_skial\_4**</mark> ](#user-content-fn-58)[^58]
 76. [<mark style="color:red;">**ze\_palace\_of\_minolila\_skial\_**</mark>](#user-content-fn-59)[^59]<mark style="color:red;">**4**</mark>
-77. [<mark style="color:green;">**ze\_persona\_v3\_fix**</mark>](#user-content-fn-60)[^60]  _<mark style="color:yellow;">**(TF2 map)**</mark>_
-78. [<mark style="color:green;">**ze\_pirates\_port\_royal\_skial\_12**</mark>](#user-content-fn-61)[^61]
-79. [<mark style="color:green;">**ze\_pokemon\_adventure\_skial\_11**</mark>](#user-content-fn-62)[^62]
-80. [<mark style="color:red;">**ze\_pkmn\_adventure\_s1**</mark>](#user-content-fn-63)[^63]
-81. [<mark style="color:green;">**ze\_portal\_story\_skial\_6**</mark>](#user-content-fn-64)[^64]
-82. <mark style="color:green;">**ze\_quicksand\_v1e**</mark>**&#x20; &#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_&#x20;
-83. [<mark style="color:green;">**ze\_raiin\_v2**</mark>](#user-content-fn-65)[^65] _<mark style="color:yellow;">**(TF2 map)**</mark>_ &#x20;
-84. <mark style="color:green;">**ze\_random\_skial\_7**</mark>&#x20;
-85. [<mark style="color:red;">**ze\_randomizer\_p2**</mark>](#user-content-fn-66)[^66] <mark style="color:purple;">**(LEADER)**</mark>
-86. [<mark style="color:green;">**ze\_rizomata\_skial\_8**</mark>](#user-content-fn-67)[^67]
-87. [<mark style="color:red;">**ze\_rooftop\_runaway2\_xmas\_s1**</mark>](#user-content-fn-68)[^68]
-88. <mark style="color:green;">**ze\_rooftop\_runaway2\_v5\_skial\_5**</mark>
-89. [<mark style="color:green;">**ze\_rush\_b\_skial\_6**</mark>](#user-content-fn-69)[^69] <mark style="color:purple;">**(LEADER)**</mark>
-90. [<mark style="color:green;">**ze\_ryujin\_v3**</mark>](#user-content-fn-70)[^70]   _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
-91. [<mark style="color:green;">**ze\_S\_A\_M\_skial\_9**</mark>](#user-content-fn-71)[^71]
-92. [<mark style="color:green;">**ze\_sandstone\_v2**</mark>](#user-content-fn-72)[^72]   _<mark style="color:yellow;">**(TF2 map)**</mark>_
-93. [<mark style="color:red;">**ze\_santassination\_s4**</mark>](#user-content-fn-73)[^73]
-94. <mark style="color:green;">**ze\_saw\_final\_skial\_8**</mark>
-95. [<mark style="color:green;">**ze\_scp\_skial\_4**</mark>](#user-content-fn-74)[^74] <mark style="color:purple;">**(LEADER)**</mark>
-96. [<mark style="color:green;">**ze\_serpentis\_temple\_skial\_4**</mark>](#user-content-fn-75)[^75] <mark style="color:purple;">**(LEADER)**</mark>
-97. [<mark style="color:green;">**ze\_shroomforest\_skial\_7**</mark> ](#user-content-fn-76)[^76] **(Shroom1)**
-98. [<mark style="color:green;">**ze\_shroomforest2\_skial\_1**</mark> ](#user-content-fn-77)[^77] **(Shroom2)** <mark style="color:purple;">**(LEADER)**</mark>
-99. [<mark style="color:green;">**ze\_shroomforest3\_skial\_1**</mark> ](#user-content-fn-78)[^78] **(Shroom3)**
-100. [<mark style="color:green;">**ze\_sonic\_3\_skial\_3**</mark>](#user-content-fn-79)[^79]
-101. <mark style="color:green;">**ze\_sorrento\_escape\_skial\_2**</mark>
-102. <mark style="color:green;">**ze\_squid\_game\_skial\_6**</mark>
-103. [<mark style="color:red;">**ze\_stalker\_ultimate\_s3**</mark>](#user-content-fn-80)[^80] <mark style="color:purple;">**(LEADER)**</mark>
-104. [<mark style="color:green;">**ze\_star\_wars\_prequel\_skial\_10**</mark>](#user-content-fn-81)[^81]
-105. <mark style="color:green;">**ze\_subway\_escape\_skial\_9**</mark>**&#x20;&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_
-106. <mark style="color:green;">**ze\_sunlight\_skial\_1**</mark>
-107. <mark style="color:green;">**ze\_surf\_facility\_skial\_b1**</mark>
-108. [<mark style="color:green;">**ze\_surf\_froyo\_b**</mark>](#user-content-fn-82)[^82]<mark style="color:green;">**3**</mark>
-109. <mark style="color:green;">**ze\_surf\_sahok\_skial\_4**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
+77. [<mark style="color:green;">**ze\_parkour\_paradise\_v3d**</mark>](#user-content-fn-60)[^60] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_
+78. [<mark style="color:green;">**ze\_persona\_v3\_fix**</mark>](#user-content-fn-61)[^61]  _<mark style="color:yellow;">**(TF2 map)**</mark>_
+79. [<mark style="color:green;">**ze\_pirates\_port\_royal\_skial\_12**</mark>](#user-content-fn-62)[^62]
+80. [<mark style="color:green;">**ze\_pokemon\_adventure\_skial\_11**</mark>](#user-content-fn-63)[^63]
+81. [<mark style="color:red;">**ze\_pkmn\_adventure\_s1**</mark>](#user-content-fn-64)[^64]
+82. [<mark style="color:green;">**ze\_portal\_story\_skial\_6**</mark>](#user-content-fn-65)[^65]
+83. <mark style="color:green;">**ze\_quicksand\_v1e**</mark>**&#x20; &#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_&#x20;
+84. [<mark style="color:green;">**ze\_raiin\_v2**</mark>](#user-content-fn-66)[^66] _<mark style="color:yellow;">**(TF2 map)**</mark>_  <mark style="color:purple;">**(LEADER)**</mark>
+85. <mark style="color:green;">**ze\_random\_skial\_7**</mark>&#x20;
+86. [<mark style="color:red;">**ze\_randomizer\_p2**</mark>](#user-content-fn-67)[^67] <mark style="color:purple;">**(LEADER)**</mark>
+87. [<mark style="color:green;">**ze\_rizomata\_skial\_8**</mark>](#user-content-fn-68)[^68]
+88. [<mark style="color:red;">**ze\_rooftop\_runaway2\_xmas\_s1**</mark>](#user-content-fn-69)[^69]
+89. <mark style="color:green;">**ze\_rooftop\_runaway2\_v5\_skial\_5**</mark>
+90. [<mark style="color:green;">**ze\_rush\_b\_skial\_6**</mark>](#user-content-fn-70)[^70] <mark style="color:purple;">**(LEADER)**</mark>
+91. [<mark style="color:green;">**ze\_ryujin\_v3**</mark>](#user-content-fn-71)[^71]   _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
+92. [<mark style="color:green;">**ze\_S\_A\_M\_skial\_9**</mark>](#user-content-fn-72)[^72]
+93. [<mark style="color:green;">**ze\_sandstone\_v2**</mark>](#user-content-fn-73)[^73]   _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
+94. [<mark style="color:red;">**ze\_santassination\_s4**</mark>](#user-content-fn-74)[^74]
+95. <mark style="color:green;">**ze\_saw\_final\_skial\_8**</mark>
+96. [<mark style="color:green;">**ze\_scp\_skial\_4**</mark>](#user-content-fn-75)[^75] <mark style="color:purple;">**(LEADER)**</mark>
+97. [<mark style="color:green;">**ze\_serpentis\_temple\_skial\_4**</mark>](#user-content-fn-76)[^76] <mark style="color:purple;">**(LEADER)**</mark>
+98. [<mark style="color:green;">**ze\_shroomforest\_skial\_7**</mark> ](#user-content-fn-77)[^77] **(Shroom1)**
+99. [<mark style="color:green;">**ze\_shroomforest2\_skial\_1**</mark> ](#user-content-fn-78)[^78] **(Shroom2)** <mark style="color:purple;">**(LEADER)**</mark>
+100. [<mark style="color:green;">**ze\_shroomforest3\_skial\_1**</mark> ](#user-content-fn-79)[^79] **(Shroom3)**
+101. [<mark style="color:green;">**ze\_sonic\_3\_skial\_3**</mark>](#user-content-fn-80)[^80]
+102. <mark style="color:green;">**ze\_sorrento\_escape\_skial\_2**</mark>
+103. <mark style="color:green;">**ze\_squid\_game\_skial\_6**</mark>
+104. [<mark style="color:red;">**ze\_stalker\_ultimate\_s3**</mark>](#user-content-fn-81)[^81] <mark style="color:purple;">**(LEADER)**</mark>
+105. [<mark style="color:green;">**ze\_star\_wars\_prequel\_skial\_10**</mark>](#user-content-fn-82)[^82]
+106. <mark style="color:green;">**ze\_subway\_escape\_skial\_9**</mark>**&#x20;&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_
+107. <mark style="color:green;">**ze\_sunlight\_skial\_1**</mark>
+108. <mark style="color:green;">**ze\_surf\_facility\_skial\_b1**</mark>
+109. [<mark style="color:green;">**ze\_surf\_froyo\_b**</mark>](#user-content-fn-83)[^83]<mark style="color:green;">**3**</mark>
 110. <mark style="color:green;">**ze\_surf\_vortex\_skial\_6**</mark>
 111. <mark style="color:green;">**ze\_swamp\_facility\_b2d**</mark>**&#x20;&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_
-112. [<mark style="color:green;">**ze\_tyranny2\_skial\_6**</mark>](#user-content-fn-83)[^83]
+112. [<mark style="color:green;">**ze\_tyranny2\_skial\_6**</mark>](#user-content-fn-84)[^84]
 113. <mark style="color:green;">**ze\_timesplitters\_skial\_2**</mark>
 114. <mark style="color:green;">**ze\_titanic\_skial\_13**</mark>
-115. [<mark style="color:green;">**ze\_uchiha\_legacy\_skial\_8**</mark>](#user-content-fn-84)[^84]
-116. [<mark style="color:green;">**ze\_visualizer\_skial\_3**</mark>](#user-content-fn-85)[^85] <mark style="color:purple;">**(LEADER)**</mark>
-117. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-86)[^86]
+115. [<mark style="color:green;">**ze\_uchiha\_legacy\_skial\_8**</mark>](#user-content-fn-85)[^85]
+116. [<mark style="color:green;">**ze\_visualizer\_skial\_3**</mark>](#user-content-fn-86)[^86] <mark style="color:purple;">**(LEADER)**</mark>
+117. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-87)[^87]
 118. <mark style="color:green;">**ze\_voodoo\_islands\_skial\_5**</mark>**&#x20;&#x20;**_<mark style="color:yellow;">**(Re-made as TF2 Map)**</mark>_
-119. [<mark style="color:red;">**ze\_warlab\_v5**</mark>](#user-content-fn-87)[^87] _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
+119. [<mark style="color:red;">**ze\_warlab\_v5**</mark>](#user-content-fn-88)[^88] _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
 
 [^1]: ![](<../../.gitbook/assets/2049 win.jpg>)
 
@@ -353,45 +353,45 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
     **\~Stage 5 Lasers**
 
-[^60]: ![](<../../.gitbook/assets/Persona Win (1).png>)
+[^60]: ![](<../../.gitbook/assets/Parkour Paradise Win (1).jpg>)
 
-[^61]: ![](<../../.gitbook/assets/Pirates Win.jpg>)
+[^61]: ![](<../../.gitbook/assets/Persona Win (1).png>)
 
-[^62]: ![](<../../.gitbook/assets/Pokemon Win.jpg>)
+[^62]: ![](<../../.gitbook/assets/Pirates Win.jpg>)
 
-[^63]: <mark style="color:yellow;">**Run Record:**</mark>\
+[^63]: ![](<../../.gitbook/assets/Pokemon Win.jpg>)
+
+[^64]: <mark style="color:yellow;">**Run Record:**</mark>\
     <mark style="color:orange;">**\[Stage 5/5]**</mark>
 
     **\~Stage 5 start no extends left**
 
-[^64]: ![](<../../.gitbook/assets/Portal Win.jpg>)
+[^65]: ![](<../../.gitbook/assets/Portal Win.jpg>)
 
-[^65]: ![](<../../.gitbook/assets/Raiin Win (1).jpg>)
+[^66]: ![](<../../.gitbook/assets/Raiin Win (1).jpg>)
 
-[^66]: <mark style="color:yellow;">**Run Record:**</mark>\
+[^67]: <mark style="color:yellow;">**Run Record:**</mark>\
     <mark style="color:orange;">\~</mark><mark style="color:orange;">**Endings 1 & 2 Done**</mark>
 
     **\~70% Complete (100% needed for End 3)**
 
-[^67]: ![](<../../.gitbook/assets/Rizomata Win.jpg>)
+[^68]: ![](<../../.gitbook/assets/Rizomata Win.jpg>)
 
-[^68]: <mark style="color:yellow;">**Run Record:**</mark>
+[^69]: <mark style="color:yellow;">**Run Record:**</mark>
 
     <mark style="color:orange;">**\[Stage 1/1]**</mark>
 
-    **roof**
+    **Random variant stages, win any modifier for completion**
 
-[^69]: ![](<../../.gitbook/assets/Rush B Win.png>)
+[^70]: ![](<../../.gitbook/assets/Rush B Win.png>)
 
-[^70]: ![](<../../.gitbook/assets/Ryujin Win.jpg>)
+[^71]: ![](<../../.gitbook/assets/Ryujin Win.jpg>)
 
-[^71]: ![](<../../.gitbook/assets/SAM Win.jpg>)
+[^72]: ![](<../../.gitbook/assets/SAM Win.jpg>)
 
-[^72]: ![](<../../.gitbook/assets/sandstone win.jpg>)
+[^73]: ![](<../../.gitbook/assets/sandstone win.jpg>)
 
-[^73]: <mark style="color:yellow;">**Run Record:**</mark>&#x20;
-
-    _(Entirely re-ported version with differing mechanics; so past records aren't into account anymore!)_&#x20;
+[^74]: <mark style="color:yellow;">**Run Record:**</mark>&#x20;
 
     <mark style="color:orange;">**\[Normal Complete.]**</mark>
 
@@ -401,36 +401,36 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
     **-Socrates Finale!**
 
-[^74]: ![](<../../.gitbook/assets/SCP Win.png>)
+[^75]: ![](<../../.gitbook/assets/SCP Win.png>)
 
-[^75]: ![](<../../.gitbook/assets/Serpentis Win.PNG>)
+[^76]: ![](<../../.gitbook/assets/Serpentis Win.PNG>)
 
-[^76]: ![](<../../.gitbook/assets/Shroom1 Win.jpg>)
+[^77]: ![](<../../.gitbook/assets/Shroom1 Win.jpg>)
 
-[^77]: ![](<../../.gitbook/assets/Shroom2 Win.jpg>)
+[^78]: ![](<../../.gitbook/assets/Shroom2 Win.jpg>)
 
-[^78]: ![](<../../.gitbook/assets/Shroom 3 Win.jpeg>)
+[^79]: ![](<../../.gitbook/assets/Shroom 3 Win.jpeg>)
 
-[^79]: ![](<../../.gitbook/assets/Sonic3 Win.jpg>)
+[^80]: ![](<../../.gitbook/assets/Sonic3 Win.jpg>)
 
-[^80]: <mark style="color:yellow;">**Run Record:**</mark>\
+[^81]: <mark style="color:yellow;">**Run Record:**</mark>\
     <mark style="color:orange;">**\[Stage 5/5]**</mark>
 
     **\~2nd Laser Boss**
 
-[^81]: ![](<../../.gitbook/assets/Star Wars Win.jpg>)
+[^82]: ![](<../../.gitbook/assets/Star Wars Win.jpg>)
 
-[^82]: ![](<../../.gitbook/assets/Surf Froyo Win.png>)
+[^83]: ![](<../../.gitbook/assets/Surf Froyo Win.png>)
 
-[^83]: ![](<../../.gitbook/assets/Tyranny2 Win.jpg>)
+[^84]: ![](<../../.gitbook/assets/Tyranny2 Win.jpg>)
 
-[^84]: ![](<../../.gitbook/assets/Uchiha Win.jpeg>)
+[^85]: ![](<../../.gitbook/assets/Uchiha Win.jpeg>)
 
-[^85]: ![](<../../.gitbook/assets/Visualizer Win (2).jpg>)
+[^86]: ![](<../../.gitbook/assets/Visualizer Win (2).jpg>)
 
-[^86]: &#x20;![](<../../.gitbook/assets/v0u0v Win.jpg>)
+[^87]: &#x20;![](<../../.gitbook/assets/v0u0v Win.jpg>)
 
-[^87]: <mark style="color:yellow;">**Run Record:**</mark>\
+[^88]: <mark style="color:yellow;">**Run Record:**</mark>\
     <mark style="color:orange;">**\[Normal End Cleared]**</mark>
 
     _**\~Secret End pending win**_

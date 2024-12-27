@@ -4,10 +4,10 @@
 
 ## ⭐ Highlights
 
-* [Gamemode Changes 12/19/2024](highlights/balance-changes-11-18-2023.md)
+* [Gamemode Changes 12/26/2024](highlights/balance-changes-11-18-2023.md)
 * [Map List (+Map Records!)](highlights/map-list-+map-records/README.md)
-  * [Recent Maps 12/14/2024](highlights/map-list-+map-records/recent-maps-11-13-2023.md)
-  * [Legacy Maps 12/14/2024](highlights/map-list-+map-records/legacy-maps.md)
+  * [Recent Maps 12/26/2024](highlights/map-list-+map-records/recent-maps-11-13-2023.md)
+  * [Legacy Maps 12/26/2024](highlights/map-list-+map-records/legacy-maps.md)
 
 ## 📖 General Overview
 
