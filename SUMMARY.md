@@ -108,4 +108,5 @@
 * [Useful Console Commands and Keybinds](miscellaneous-info/useful-console-commands-and-keybinds.md)
 * [Better Flashlight](miscellaneous-info/better-flashlight.md)
 * [Map Guides](miscellaneous-info/map-guides.md)
+* [Editor Notes](miscellaneous-info/editor-notes.md)
 * [⭐Afterword⭐](miscellaneous-info/afterword.md)

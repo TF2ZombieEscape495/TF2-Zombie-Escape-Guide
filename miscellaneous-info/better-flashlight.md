@@ -1,5 +1,6 @@
 ---
 description: How to get a much better flashlight than the Skial ZE flashlight.
+icon: flashlight
 ---
 
 # Better Flashlight

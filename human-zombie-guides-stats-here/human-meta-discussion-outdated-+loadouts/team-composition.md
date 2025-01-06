@@ -6,6 +6,12 @@ description: >-
 
 # \[OPTIMAL DPS] + Team Comps
 
+###
+
+{% hint style="info" %}
+_<mark style="color:yellow;">**As of 12/18/2024**</mark>_-  these listed weapons might\* be inaccurate for a few classes, while still relevant for the majority. Will eventually(tm) edit the visual/text.
+{% endhint %}
+
 ### Optimal DPS: Easy to Use!
 
 <figure><img src="../../.gitbook/assets/Easy 2 Use DPS.png" alt=""><figcaption><p>cba to edit the image but note that Flare + Direct Hit can be pretty interchangeable with Reserve Shooter (or) Stock Shotgun for more consistency on bosses that Flares/Rockets won't hit, bullet counters, etc</p></figcaption></figure>
