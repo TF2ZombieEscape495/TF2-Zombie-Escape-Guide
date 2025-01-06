@@ -10,7 +10,7 @@ _This page has received a small touchup to be on the forefront now that real bho
 
 Similar to surfing, bhopping is a gameplay element with resources available that cover it extensively. If you want to learn how to do it, there are a plethora of guides and video references to look through, as well as maps to practice on. **This section briefly addresses it and its niche usage in TF2 ZE.**
 
-**Prior to** **12/9/2024** - bhopping used to be very negligble in gains as there wasn't a bhop plugin and the gamemode's movement was very central on knowing which speed modifier weapons to use _(those are still relevant on maps that disable bhop outright.)_
+**Prior to** **12/9/2024** - bhopping used to be very negligble in gains as there wasn't a bhop plugin and the gamemode's movement was very central on knowing which speed modifier weapons to use _**(those are still relevant on specific maps that disable bhop outright.)**_
 
 {% hint style="info" %}
 **With the bhop plugin - there's a few caveats on how it flows on TF2;**
@@ -26,7 +26,7 @@ Similar to surfing, bhopping is a gameplay element with resources available that
 Unlike surf mechanics where you might only apply to a few non-surf maps, <mark style="color:yellow;">**bhopping**</mark> is a mechanic you'll find in other source games and learning the essence of it can help translate to those respective games - among being able to apply this movement mechanic to **almost\*** any map that has it enabled. It seriously makes a **massive** difference in your overall playstyle and lets you accomplish so much things faster that holding W into everything falls short of. Such as...
 
 * <mark style="color:yellow;">**Overcome slower class base movement speed**</mark>
-  * Tired of waddling in and out every defense as a demoman or soldier who **typically\*** can't use their TF2 movement mechanics to compensate their slow speed? Bhopping should alleviate this for the most part.
+  * Tired of waddling in and out every defense as a demoman or soldier who **typically\*** can't use their TF2 movement mechanics to compensate their slow base speed? Bhopping should alleviate this for the most part.
 * <mark style="color:yellow;">**Rushing for Triggers**</mark>
   * Lessen the pressure on teammates during tight holds. Having someone rush to the end/next trigger area with this mechanic can cut down on map timeouts and make a defense so much shorter than it needs to be.
 * <mark style="color:yellow;">**Rushing for Items**</mark>
