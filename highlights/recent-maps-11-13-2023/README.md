@@ -1,10 +1,20 @@
-# Recent Maps 12/26/2024
+# Recent Maps 1/7/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
 
-If you're looking for the [**entire map list (or dying to know what maps&#x20;**_**aren't**_**&#x20;completed yet), then check here.**](./)
+If you're looking for the [**entire map list (or dying to know what maps&#x20;**_**aren't**_**&#x20;completed yet), then check here.**](../map-list-+map-records.md)\
+\
+&#xNAN;_**(Moved this out of being a subheader so its easier to glance)**_
 {% endhint %}
+
+##
+
+## 2025:
+
+### 1/7/2025 Chroma
+
+* **Chroma added&#x20;**<mark style="color:yellow;">**\[CSS Map]**</mark> _**\[1 Stage, 4 Human Items, Boss Fight]**_
 
 ## 2024:&#x20;
 

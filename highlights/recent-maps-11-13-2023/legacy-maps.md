@@ -1,4 +1,4 @@
-# Legacy Maps 12/26/2024
+# Legacy Maps 1/7/2025
 
 {% hint style="info" %}
 **Maps that were /once/ within the nomination pool but&#x20;**<mark style="color:red;">**removed from the server**</mark>**&#x20;due to any number of reasons - most commonly due to causing server issues. (A-Z)**
@@ -38,6 +38,7 @@ Some of these are admin-only nominations and you might see them on EU or as an e
 * <mark style="color:yellow;">**ze\_peter\_griffin\_burger\_emporium\_v1**</mark>**&#x20;(11/9/2024 Halloween-seasonal only map)**
 * <mark style="color:yellow;">**ze\_predator\_ultimate**</mark>**&#x20;(8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_realm**</mark>
+* <mark style="color:yellow;">**ze\_rooftop\_runaway\_xmas**</mark>**&#x20;(1/7/2025 Christmas seasonal map)**
 * <mark style="color:yellow;">**ze\_shoplift**</mark>
 * <mark style="color:yellow;">**ze\_skyrim**</mark>
 * <mark style="color:yellow;">**ze\_sorrento\_resonate**</mark>

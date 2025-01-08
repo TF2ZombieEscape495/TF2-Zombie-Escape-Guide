@@ -65,12 +65,12 @@ _(NOT FINAL; SUBJECT TO ADDITIONAL CHANGES)_ _**This doesn't mechanically change
 * **Nomination-stacking a map also now prioritizes whichever maps have the highest nom-counts into showing up on the RTV screen - but there is now a cap of 3 possible maps max (and 4 maps if leader nomination is there)**
 
 {% hint style="info" %}
-_<mark style="color:yellow;">**Note:**</mark>_ **You can view what Leader maps are tagged as&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;@** [**Map List**](map-list-+map-records/) **or can view them in-game at the end of the nomination list.**
+_<mark style="color:yellow;">**Note:**</mark>_ **You can view what Leader maps are tagged as&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;@** [**Map List**](map-list-+map-records.md) **or can view them in-game at the end of the nomination list.**
 {% endhint %}
 
 ### **10/24/2024 - Maps re-added + Map CD Increase**
 
-* [16 Maps Re-Added ](map-list-+map-records/recent-maps-11-13-2023.md#id-10-24-2024-16-maps-re-added)
+* [16 Maps Re-Added ](recent-maps-11-13-2023/#id-10-24-2024-16-maps-re-added)
 * ~~Map CD increased to **20 map cooldown**~~
 * **Map RTV timer lowered to 30 seconds (no longer have to wait 10 minutes to RTV on a map)**
 
@@ -86,7 +86,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ **You can view what Leader maps a
 
 ### 8/24/2024 - 23 maps purged
 
-putting it on the forefront _outside a subpage_ since <mark style="color:red;">**>23 maps were removed**</mark> and [legacy maps](map-list-+map-records/legacy-maps.md) is a bit far too messy messy to find a way to organize into it.
+putting it on the forefront _outside a subpage_ since <mark style="color:red;">**>23 maps were removed**</mark> and [legacy maps](recent-maps-11-13-2023/legacy-maps.md) is a bit far too messy messy to find a way to organize into it.
 
 _(A-Z)_
 

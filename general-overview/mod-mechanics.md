@@ -84,7 +84,7 @@ At the top of the screen during rounds, you'll notice a timer. When it reaches <
 
 <mark style="color:orange;">**Normal Difficulty**</mark> - _The standard way to play. Currently no modifiers._
 
-* As the standard difficulty, it's the **only** way _(new)_ community map records/progress will count towards being completed. View [**Map Records**](../highlights/map-list-+map-records/) notes for any additional requirements.
+* As the standard difficulty, it's the **only** way _(new)_ community map records/progress will count towards being completed. View [**Map Records**](../highlights/map-list-+map-records.md) notes for any additional requirements.
 
 \
 <mark style="color:green;">**Casual Difficulty**</mark> - _A more relaxed take on the game mode, useful for learning or practicing a map:_
