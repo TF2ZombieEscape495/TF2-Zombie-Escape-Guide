@@ -2,7 +2,29 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 12/26/2024
+# Gamemode Changes 1/12/2025
+
+## 2025&#x20;
+
+### 1/12/2025 !zload & soldier enzyme rework
+
+{% hint style="info" %}
+**!zload** mechanics!! _(eventually this might get its own page for every specific)_
+
+tl;dr this is your weapon buy system integrated into TF2 ZE and will mitigate you being stuck on a 'bad' loadout, & being able to switch playstyle depending on weapon.
+
+* EX: <mark style="color:yellow;">**!zload Liberty**</mark> _(to play defensive Soldier)_ -> <mark style="color:yellow;">**!zload Mangler**</mark> _(to play as banner/boss support Soldier)_
+* EX 2: <mark style="color:yellow;">**!zload Baby**</mark> _(to play trigger Scout_ _or grab an item) -_> <mark style="color:yellow;">**!zload Scattergun**</mark> _(to switch to general use defense/boss support)_
+* <mark style="color:red;">**You have a limited use of 3 !zload usages in a round.**</mark>
+*
+
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+{% endhint %}
+
+* Zombie Soldier Enzyme now instead shrinks the user _(and kills them after a certain time.)_
+* !bhop made opt-in **and now is off by default for everyone** unless they !bhop or sm\_bhop bind
+
+## 2024...
 
 ### 12/26/2024 Round-end Stats, Return of PKP, Leader-noms...
 
@@ -133,7 +155,7 @@ _(A-Z)_
 
 * **\~Maps that disable Healing (on bosses etc) no longer completely disable Enzyme mechanics simutaneously.**
 
-## 2023
+## 2023...
 
 ### 11/18/2023 Balance Change
 

@@ -223,7 +223,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
 [^22]: ![](<../.gitbook/assets/Evernight Win.png>)
 
-[^23]: ![](<../.gitbook/assets/image (1).png>)
+[^23]: ![](<../.gitbook/assets/image (1) (1).png>)
 
 [^24]: ![](<../.gitbook/assets/Fapescape Rote Win.jpg>)
 
