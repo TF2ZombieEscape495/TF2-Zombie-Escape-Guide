@@ -8,6 +8,10 @@ coverY: 28
 
 _This page has received a small touchup to be on the forefront now that real bhopping is enabled on TF2 ZE!_
 
+{% hint style="warning" %}
+Bhopping is toggled in-game through the use of <mark style="color:yellow;">**!bhop or an sm\_bhop bind**</mark>**&#x20;- it is off by default.**
+{% endhint %}
+
 Similar to surfing, bhopping is a gameplay element with resources available that cover it extensively. If you want to learn how to do it, there are a plethora of guides and video references to look through, as well as maps to practice on. **This section briefly addresses it and its niche usage in TF2 ZE.**
 
 **Prior to** **12/9/2024** - bhopping used to be very negligble in gains as there wasn't a bhop plugin and the gamemode's movement was very central on knowing which speed modifier weapons to use _**(those are still relevant on specific maps that disable bhop outright.)**_
