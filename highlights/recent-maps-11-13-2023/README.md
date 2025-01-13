@@ -1,4 +1,4 @@
-# Recent Maps 1/7/2025
+# Recent Maps 1/13/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -12,6 +12,10 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ## 2025:
 
+### 1/13/2025 Street Fight With Autism
+
+* **Street Fight with Autism v5** **added** <mark style="color:yellow;">**\[CSS Map]**</mark> _\[??? Stages]_
+
 ### 1/7/2025 Chroma
 
 * **Chroma added&#x20;**<mark style="color:yellow;">**\[CSS Map]**</mark> _**\[1 Stage, 4 Human Items, Boss Fight]**_
@@ -24,7 +28,7 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ### 12/14/2024 Rooftop Xmas
 
-* **rooftop runaway xmas added&#x20;**<mark style="color:yellow;">**\[CSS map]**</mark>
+* **rooftop runaway xmas added&#x20;**_**(only seasonal)**_**&#x20;**<mark style="color:yellow;">**\[CSS map]**</mark>
 
 ### **12/9/2024 - Italy Town & Malgo Update**
 
