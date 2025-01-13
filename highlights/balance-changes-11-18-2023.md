@@ -6,10 +6,10 @@ description: A place to quickly find gamemode to Skial ZE changes by date.
 
 ## 2025&#x20;
 
-### 1/12/2025 !zload & soldier enzyme rework
+### 1/12/2025 !zload, soldier enzyme rework, !noshake
 
 {% hint style="info" %}
-**!zload** mechanics!! _(eventually this might get its own page for every specific)_
+<mark style="color:yellow;">**!zload**</mark> mechanics!! _(eventually this might get its own page for every specific)_
 
 tl;dr this is your weapon buy system integrated into TF2 ZE and will mitigate you being stuck on a 'bad' loadout, & being able to switch playstyle depending on weapon.
 
@@ -21,8 +21,10 @@ tl;dr this is your weapon buy system integrated into TF2 ZE and will mitigate yo
     <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 {% endhint %}
 
-* Zombie Soldier Enzyme now instead shrinks the user _(and kills them after a certain time.)_
-* !bhop made opt-in **and now is off by default for everyone** unless they !bhop or sm\_bhop bind
+* <mark style="color:yellow;">**!bhop**</mark> made opt-in **and now is off by default for everyone** unless they !bhop or sm\_bhop bind
+* <mark style="color:yellow;">**!noshake**</mark> command added - **this will disable screen-shaking mechanics** on maps like Best Korea, Cosmo Canyon, etc...
+  * _(added all the new commands to_ [_**Useful Commands**_](../general-overview/useful-commands.md)_)_
+* <mark style="color:yellow;">**Zombie Soldier Enzyme**</mark> now instead shrinks the user _(and kills them after a certain time.)_
 
 ## 2024...
 
