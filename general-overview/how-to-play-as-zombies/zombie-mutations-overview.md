@@ -10,7 +10,7 @@ For a more in-depth discussion about each zombie class' potential, check out the
 
 <figure><img src="../../.gitbook/assets/MTZ_Scout (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/MTZ_Soldier (1).png" alt=""><figcaption><p>outdated mechanic; pending edit</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MTZ_Soldier (1).png" alt=""><figcaption><p>outdated mechanic; pending edit for visual (and effect)</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/MTZ_Pyro.png" alt=""><figcaption><p>Pending less lazy edit on image; pyro will now gain a bomb head that can charge to deal damage (and boost zombies) if the timer has gone down on its own.</p></figcaption></figure>
 
