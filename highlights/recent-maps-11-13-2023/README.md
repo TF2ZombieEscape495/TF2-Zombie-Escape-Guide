@@ -14,7 +14,7 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ### 1/13/2025 Street Fight With Autism
 
-* **Street Fight with Autism v5** **added** <mark style="color:yellow;">**\[CSS Map]**</mark> _\[??? Stages]_
+* **Street Fight with Autism v5** **added** <mark style="color:yellow;">**\[CSS Map]**</mark> _\[3 Stages, 1 Item]_
 
 ### 1/7/2025 Chroma
 

@@ -422,7 +422,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 [^82]: ![](<../.gitbook/assets/Star Wars Win.jpg>)
 
 [^83]: <mark style="color:yellow;">**Run Record:**</mark>\
-    <mark style="color:orange;">**\[Stage 1/?]**</mark>
+    <mark style="color:orange;">**\[Stage 1/3]**</mark>
 
     **\~Record Pending**
 
