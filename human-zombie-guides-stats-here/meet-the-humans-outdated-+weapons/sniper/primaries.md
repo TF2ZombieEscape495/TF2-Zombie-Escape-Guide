@@ -132,9 +132,10 @@ If you aren't the best at aiming headshots or want to play Sniper more casually,
 | --------------------------------------------------------------------------------------------------------------------------------- |
 | <mark style="color:blue;">**+580% Damage Bonus**</mark>                                                                           |
 | <mark style="color:blue;">**+66.7% Damage vs Players**</mark>                                                                     |
-| <mark style="color:red;">**-33% Slower Reload Time**</mark>                                                                       |
+| <mark style="color:blue;">**On Full Charge: +76% Damage Per Shot**</mark>                                                         |
+| <mark style="color:blue;">**+33% Faster Reload Time**</mark>                                                                      |
 | <mark style="color:red;">**-50.01% Damage on Body Shot**</mark>                                                                   |
-| <mark style="color:red;">**-25% Slower Power Charge**</mark>                                                                      |
+| <mark style="color:red;">**-50% Slower Power Charge**</mark>                                                                      |
 | <mark style="color:red;">**When Held: 6.7% Slower Move Speed on Wearer**</mark>                                                   |
 | <mark style="color:red;">**-300% Slower Deploy Speed**</mark>                                                                     |
 | <mark style="color:red;">**-100% Slower Holster Speed**</mark>                                                                    |
