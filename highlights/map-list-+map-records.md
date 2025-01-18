@@ -16,7 +16,7 @@ coverY: 0
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`23 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`24 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -48,7 +48,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 11. [<mark style="color:red;">**ze\_blackmesa\_escape\_final\_s1**</mark>](#user-content-fn-8)[^8]
 12. <mark style="color:green;">**ze\_bowser\_in\_the\_fire\_sea\_skial\_6**</mark>
 13. [<mark style="color:green;">**ze\_breezy\_**</mark>](#user-content-fn-9)[^9]<mark style="color:green;">**v5**</mark>**&#x20;&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_
-14. <mark style="color:red;">**ze\_challenger\_skial4**</mark><mark style="color:red;">**&#x20;**</mark>_<mark style="color:red;">**(TF2 map)**</mark>_
+14. **ze**<mark style="color:green;">**\_challenger\_skial4**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_
 15. [<mark style="color:red;">**ze\_chroma\_k1**</mark>](#user-content-fn-10)[^10]
 16. [<mark style="color:green;">**ze\_crazy\_escape\_skial\_2**</mark>](#user-content-fn-11)[^11]
 17. [<mark style="color:green;">**ze\_dark\_souls\_skial\_2**</mark>](#user-content-fn-12)[^12] <mark style="color:purple;">**(LEADER)**</mark>
