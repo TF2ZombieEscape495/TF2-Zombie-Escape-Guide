@@ -14,7 +14,7 @@ _<mark style="color:yellow;">**As of 12/18/2024**</mark>_-  these listed weapons
 
 ### Optimal DPS: Easy to Use!
 
-<figure><img src="../../.gitbook/assets/Easy 2 Use DPS.png" alt=""><figcaption><p>cba to edit the image but note that Flare + Direct Hit can be pretty interchangeable with Reserve Shooter (or) Stock Shotgun for more consistency on bosses that Flares/Rockets won't hit, bullet counters, etc</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Easy 2 Use DPS.png" alt=""><figcaption><p>Edit until adjusted; Pyro should be using shotguns/reserve shooter over flare gun for more consistency.</p></figcaption></figure>
 
 Some maps will have bosses scaled to the point where they will kill you _**always**_ before you can kill them. Times like these are for when you go all-in on the damage. The top 4 damaging classes that have the most consistency are **Heavy, Engineer, Spy, and Scout,** though all of the others are brought up here for comparison between one another.
 

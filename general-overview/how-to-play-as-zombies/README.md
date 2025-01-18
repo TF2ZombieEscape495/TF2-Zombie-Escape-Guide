@@ -15,7 +15,9 @@ layout:
 
 # How to Play as Zombies
 
-...amidst all the gunfire, rockets, and anything thrown your way. If you were recently infected, you cannot revive to become a human until the next round, so you have to make the best of your situation and put a stop to your former comrades. Luckily enough, you have **abilities** **unique to each class** _(and sometimes_ [_**items**_](../../elements-of-zombie-escape/items/common-items.md#zombie-items)_)_ to help you out.&#x20;
+<figure><img src="../../.gitbook/assets/Zombie Strategies.png" alt=""><figcaption></figcaption></figure>
+
+As a <mark style="color:red;">**Zombie**</mark>, you're probably very upset that you died, so you have to make sure those humans don't win without you! Your main goal is to make life as hard as possible for the <mark style="color:blue;">**Human**</mark> team. Be a hard target to shoot by constantly moving, jumping around, spreading out the horde, and taking alternate paths that the humans might not expect you to come from! Plus, you've even got [**Mutations**](zombie-mutations-overview.md) to take advantage of or even nifty [**ZM items**](../../elements-of-zombie-escape/items/common-items.md) that the map might let you play around with.
 
 ## **You'll also need a LOT of patience as a Zombie...**
 
@@ -37,5 +39,3 @@ In the follow-up [**overview**](zombie-mutations-overview.md) page contains the 
 {% hint style="info" %}
 <mark style="color:yellow;">**Note:**</mark> In-game _(and throughout the guide),_ almost everybody refers to Mutations simply as **Enzymes** - a common misnomer.
 {% endhint %}
-
-_**\[Possibly pending a page cover image?]**_

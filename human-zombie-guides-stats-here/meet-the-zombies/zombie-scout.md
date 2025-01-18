@@ -27,5 +27,3 @@
 Similar to being the fastest human, Scout is also the fastest zombie. Sacrificing for speed, Scout has his damage towards humans lessened.\
 \
 **Scout's Mutation gives him a speed boost, indicated by a&#x20;**_**banner effect**_**&#x20;underneath the user.** This is useful for closing in on stallers unexpectedly to make them panic. Do note that this will lower your health significantly, so you will more than likely be shot dead before reaching the humans. This doesn't mean it isn't a great support tool as it can be used effectively to apply mild pressure on fallbacks.
-
-#### _\[Scout Enzyme Gif Missing]_

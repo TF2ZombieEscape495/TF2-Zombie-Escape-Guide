@@ -13,18 +13,16 @@
 
 <mark style="color:blue;">**Pros**</mark>
 
-* **Minicrit on demand Enzyme consistently kills bonus HP classes**
 * **Access to the** [**Half-Zatoichi** ](../meet-the-humans-outdated-+weapons/soldier/melees.md#half-zatoichi)**- for longer distance melees**
+* **Smaller hitbox via enzyme should mean you're getting shot less**
 
 <mark style="color:red;">**Cons**</mark>
 
 * **Second-slowest Zombie Class**
-  * **Enzyme Gimmick overshadowed by other Zombie Classes if you can't bhop effectively to mitigate this.**
+* **Enzyme Gimmick overshadowed by other Zombie Classes.**
 
 As a Zombie the Soldier doesn't really offer anything at all on initial glance - the only 'gimmick' he has is the Half-Zatoichi to oneshot any human Demomen or Soldiers using them.
 
-The Soldier Enzyme simply has one function - and that's beefing up your melee damage _(by giving yourself minicrits.)_ This will last for about <mark style="color:yellow;">**(8 seconds)**</mark> before wearing out.
+The Soldier Enzyme simply has one function - and that's shrinking your player model for <mark style="color:yellow;">**(10 seconds)**</mark> before wearing out.
 
-With bhop mechanics having been added, Soldier usually can mitigate themself being hilariously slow and land a **zatoichi extra sword-range melee&#x20;**_**(with a minicrit Enzyme)**_ to obliterate bonus health over-defenders like mad milk Scouts. Zombie Sniper fits a very similar niche here in that - but won't have the extra melee range and they tend to get knocked back harder due to vulnerability on the bushwacka.
-
-~~_\[Enzyme gif never]_~~
+With bhop mechanics having been added, Soldier usually can mitigate themself being hilariously slow and land a **zatoichi extra sword-range melee** to infect overdefenders. Zombie Sniper fits a very similar niche here in that - but won't have the extra melee range and they tend to get knocked back harder due to vulnerability on the bushwacka.

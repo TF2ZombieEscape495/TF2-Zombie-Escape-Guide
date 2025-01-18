@@ -2,9 +2,15 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 1/12/2025
+# Gamemode Changes 1/17/2025
 
 ## 2025&#x20;
+
+### 1/17/2025 Minigun Inf Ammo + Sentry Slow
+
+* [**Heavy minigun 'reload' mechanics**](balance-changes-11-18-2023.md#id-12-18-2024-weapon-tweaks) **reverted** - they now have infinite ammo again and no dispenser penalty. _(minus Huo Long which intentionally had it)_
+  * pending further tweaks to give additional knockback as currently miniguns are weakened defending-wise
+* Sentry snare mechanic re-added _(as sentries apply slowdown on hit,&#x20;_~~_this was turned back on way earlier but forgot to mention it was re-enabled_~~_)_
 
 ### 1/12/2025 !zload, soldier enzyme rework, !noshake
 
@@ -24,7 +30,7 @@ tl;dr this is your weapon buy system integrated into TF2 ZE and will mitigate yo
 * <mark style="color:yellow;">**!bhop**</mark> made opt-in **and now is off by default for everyone** unless they !bhop or sm\_bhop bind
 * <mark style="color:yellow;">**!noshake**</mark> command added - **this will disable screen-shaking mechanics** on maps like Best Korea, Cosmo Canyon, etc...
   * _(added all the new commands to_ [_**Useful Commands**_](../general-overview/useful-commands.md)_)_
-* <mark style="color:yellow;">**Zombie Soldier Enzyme**</mark> now instead shrinks the user _(and kills them after a certain time.)_
+* <mark style="color:yellow;">**Zombie Soldier Enzyme**</mark> now instead shrinks the user _(and kills them if on any odd geometry)_
 
 ## 2024...
 

@@ -4,15 +4,21 @@ description: >-
   bunch of different classes to work with?
 ---
 
-# Enzyme Combos + Alt Win Conditions
+# Niche Combos
 
 ## Combining Enzymes
 
 This is a bit harder to coordinate, but the results can feel even more satisfying. For example, Sniper's Jarate Mutation will coat the Human team in piss, allowing you to deal more damage. This is applied to explosive damage, allowing Pyros to explode and deal more damage. Another example involves Soldier's smokescreen. Used alone, it doesn't pose much of a threat. Combine it with a Pyro Mutation or Heavy ready to pounce and it can be deadly since defenders won't know what's coming. There's a lot of potential to explore.
 
-Example of using Sniper's, Pyro's, then Heavy's Mutation:
+<mark style="color:yellow;">**Example of using Sniper's, Pyro's, then Heavy's Mutation:**</mark>
 
 <figure><img src="../../.gitbook/assets/FreedVoid Jumpscare - Dunk POV.gif" alt=""><figcaption><p>freed jumpscare</p></figcaption></figure>
+
+## Extra Demoknight Range
+
+<figure><img src="../../.gitbook/assets/Demo Range Reference.gif" alt=""><figcaption></figcaption></figure>
+
+Very self explainatory title - zombies _already_ have increased range - and can get niche furhter bonus range with use of Demoman or Soldier sword weapons (albeit less damage) on specific high up Humans.
 
 ## Kill VS Infect
 
@@ -20,7 +26,7 @@ In some instances as zombie (notably zombie sniper) you are given tools to compl
 
 ## Alternative Win Conditions
 
-As mentioned in the [**Zombie Mechanics Guide**](../../general-overview/how-to-play-as-zombies/zombie-mechanics.md#additional-win-conditions), there are alternative win conditions the Zombie team can use to win a round aside from killing all the humans. One condition you can take advantage of is areas that, if zombies enter, will result in an instant loss for the Human team. You will primarily find these in final defenses. Heavies can exploit this the most by forcing themselves into these areas with their Mutations if the humans aren't prepared for them. Couple this with Soldier Mutations and the smoke from Pyro Mutations to completely blindside the Humans when this happens.
+As mentioned in the [**Zombie Mechanics Guide**](zombie-mechanics.md#additional-win-conditions), there are alternative win conditions the Zombie team can use to win a round aside from killing all the humans. One condition you can take advantage of is areas that, if zombies enter, will result in an instant loss for the Human team. You will primarily find these in final defenses. Heavies can exploit this the most by forcing themselves into these areas with their Mutations if the humans aren't prepared for them. Couple this with Soldier Mutations and the smoke from Pyro Mutations to completely blindside the Humans when this happens.
 
 Example of using Mutations to forcefully enter an area and trigger a Human loss:
 

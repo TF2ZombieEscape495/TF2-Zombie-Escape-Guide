@@ -5,7 +5,7 @@
 ## ⭐ Highlights
 
 * [(NEW) Bhopping](highlights/bhopping.md)
-* [Gamemode Changes 1/12/2025](highlights/balance-changes-11-18-2023.md)
+* [Gamemode Changes 1/17/2025](highlights/balance-changes-11-18-2023.md)
 * [Recent Maps 1/13/2025](highlights/recent-maps-11-13-2023/README.md)
   * [Legacy Maps 1/7/2025](highlights/recent-maps-11-13-2023/legacy-maps.md)
 * [Map List (+Map Records!)](highlights/map-list-+map-records.md)
@@ -18,6 +18,7 @@
   * [Human Class Overviews](general-overview/how-to-play-as-humans/human-class-overviews.md)
   * [Human Mechanics](general-overview/how-to-play-as-humans/human-mechanics.md)
 * [How to Play as Zombies](general-overview/how-to-play-as-zombies/README.md)
+  * [Niche Combos](general-overview/how-to-play-as-zombies/enzyme-combos-+-alt-win-conditions.md)
   * [Zombie Mutations Overview](general-overview/how-to-play-as-zombies/zombie-mutations-overview.md)
   * [Zombie Mechanics](general-overview/how-to-play-as-zombies/zombie-mechanics.md)
 * [Leading](general-overview/leading.md)
@@ -82,12 +83,6 @@
   * [Class Loadouts (Scout/Soldier/Pyro)](human-zombie-guides-stats-here/human-meta-discussion-outdated-+loadouts/class-loadouts-scout-soldier-pyro.md)
   * [Class Loadouts (Demoman/Heavy/Engineer)](human-zombie-guides-stats-here/human-meta-discussion-outdated-+loadouts/class-loadouts-demoman-heavy-engineer.md)
   * [Class Loadouts (Medic/Sniper/Spy)](human-zombie-guides-stats-here/human-meta-discussion-outdated-+loadouts/class-loadouts-medic-sniper-spy.md)
-* [Zombie Meta Discussion](human-zombie-guides-stats-here/zombie-meta-discussion/README.md)
-  * [Mutation/Enzyme Chaining](human-zombie-guides-stats-here/zombie-meta-discussion/mutation-enzyme-chaining.md)
-  * [Enzyme Combos + Alt Win Conditions](human-zombie-guides-stats-here/zombie-meta-discussion/enzyme-combos-+-alt-win-conditions.md)
-  * [Zombie Offensive Class Discussion](human-zombie-guides-stats-here/zombie-meta-discussion/offensive-class-discussion.md)
-  * [Defensive Class Discussion](human-zombie-guides-stats-here/zombie-meta-discussion/defensive-class-discussion.md)
-  * [Support Class Discussion](human-zombie-guides-stats-here/zombie-meta-discussion/support-class-discussion.md)
 
 ## 🌀 Elements of Zombie Escape
 

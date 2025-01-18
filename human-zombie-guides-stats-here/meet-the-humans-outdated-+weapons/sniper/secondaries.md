@@ -4,7 +4,7 @@ description: Sniper Secondary Options
 
 # Sniper Secondaries
 
-## Cleaner's Carbine   ![](<../../../.gitbook/assets/100px-Item\_icon\_Cleaner's\_Carbine (1).png>)
+## Cleaner's Carbine   ![](<../../../.gitbook/assets/100px-Item_icon_Cleaner's_Carbine (1).png>)
 
 | Attributes                                                                                         |
 | -------------------------------------------------------------------------------------------------- |
@@ -25,13 +25,13 @@ At an initial glance with and half the clip and a faster reload time, it might s
 
 Currently with a 0.2 multiplier to the charge rate; it'll require at least more than one clip's worth of firing to fully build up, rather than just a few shots under most circumstances. The mini-crit duration of <mark style="color:yellow;">**\~9 seconds**</mark> allows Snipers to empty at least _two full clips_ before it runs out. As a final note, this weapon does also feature a -25% bullet spread penalty, which can help support pushing back or stalling a wider area of zombies over the SMG.
 
-## SMG   ![](<../../../.gitbook/assets/100px-Item\_icon\_SMG (1).png>)
+## SMG   ![](<../../../.gitbook/assets/100px-Item_icon_SMG (1).png>)
 
 | Attributes                                                      |
 | --------------------------------------------------------------- |
 | **Clip Size - 50 Shots**                                        |
 | **Weapon Spread: 80:1**                                         |
-| <mark style="color:blue;">**+180% Damage Bonus**</mark>         |
+| <mark style="color:blue;">**+155% Damage Bonus**</mark>         |
 |  <mark style="color:blue;">**+20% Faster Firing Speed**</mark>  |
 | <mark style="color:red;">**-100% Slower Reload Time**</mark>    |
 
@@ -41,7 +41,7 @@ With an extremely large clip size, you can find yourself shooting at zombies for
 
 Compared to the Sniper's modified sniper rifles, this can act as a **tool for consistent high damage** in both sustained DPS and BPS _(Bullets Per Second)_ for boss fights. It already has a fairly accurate spread of 80:1, so players who can aim well can benefit from this weapon without having to go through the hassle that sniper rifles may pose. This would come at the cost of maximum potential DPS in some cases, but it can be worth it if charging shots poses too much of a risk for the situation at hand.
 
-## Jarate   ![](../../../.gitbook/assets/100px-Item\_icon\_Jarate.png)
+## Jarate   ![](../../../.gitbook/assets/100px-Item_icon_Jarate.png)
 
 | Attributes                                                                                |
 | ----------------------------------------------------------------------------------------- |
@@ -54,7 +54,7 @@ Compared to the Sniper's modified sniper rifles, this can act as a **tool for co
 
 Jarate is the type of item you toss at zombies both with and without care just because you can, but does reward aiming it into larger herds of them. Having several zombies coated in it allows your team to push back slightly more due to mini-crits. This could help in areas where you can knock zombies off platforms into kill/teleport triggers or when they're starting to push a bit too hard and the collective effort of the team will make more of an impact than you alone with an smg. The minicrits, however, are not as impactful as they are in vanilla TF2. The cooldown time is quite long enough to make you want to make you want to pick when to use it selectively, such as aiming it for Zombie Teleports that you know of. The slow time will falter stuff like Heavy Enzymes pretty significantly too, or allow you to get in some more headshots in while they are slowed.
 
-## Cozy Camper   ![](../../../.gitbook/assets/100px-Item\_icon\_Cozy\_Camper.png)
+## Cozy Camper   ![](../../../.gitbook/assets/100px-Item_icon_Cozy_Camper.png)
 
 | Attributes                                                                        |
 | --------------------------------------------------------------------------------- |
@@ -64,7 +64,7 @@ Jarate is the type of item you toss at zombies both with and without care just b
 
 The Cozy Camper is specifically for healing from zombie mutation damage without having to rely on a healing source. Given how plentiful healing is and that you're a backline specialist, this almost never comes into play - though sniper primaries are at least damaging enough to make them work in place of an SMG.
 
-## Darwin's Danger Shield   ![](../../../.gitbook/assets/100px-Item\_icon\_Darwin's\_Danger\_Shield.png)
+## Darwin's Danger Shield   ![](../../../.gitbook/assets/100px-Item_icon_Darwin's_Danger_Shield.png)
 
 | Attributes                                                                 |
 | -------------------------------------------------------------------------- |
@@ -73,7 +73,7 @@ The Cozy Camper is specifically for healing from zombie mutation damage without 
 
 The afterburn from Pyro Mutations is not much of a threat considering how plentiful healing is. If your team has no healing, shouldn't you be running Jarate to save yourself _and_ your team anyway? Or you know, an actual class that can heal?
 
-## Razorback   ![](<../../../.gitbook/assets/100px-Item\_icon\_Razorback (1).png>)
+## Razorback   ![](<../../../.gitbook/assets/100px-Item_icon_Razorback (1).png>)
 
 | Attributes                                                                          |
 | ----------------------------------------------------------------------------------- |

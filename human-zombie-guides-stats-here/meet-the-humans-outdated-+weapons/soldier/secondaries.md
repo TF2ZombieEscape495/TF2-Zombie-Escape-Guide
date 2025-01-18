@@ -42,6 +42,7 @@ Essentially giving you and your team a second life, the Battalion's Backup gives
 | Attributes                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <mark style="color:blue;">**+50% buff duration**</mark>                                                                                                 |
+| <mark style="color:blue;">**When Held: +10% Movement Speed Increase**</mark>                                                                            |
 | <mark style="color:orange;">**Provides an offensive buff that causes nearby team members to do mini-crits. Rage increases through damage done.**</mark> |
 | <mark style="color:orange;">**Rage increases through damage done.**</mark>                                                                              |
 | <mark style="color:yellow;">**600 dmg dealt to fill meter**</mark>                                                                                      |

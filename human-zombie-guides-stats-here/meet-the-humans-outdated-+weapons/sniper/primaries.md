@@ -4,20 +4,24 @@ description: Sniper Primary Options
 
 # Sniper Primaries
 
+{% hint style="info" %}
+The stun mechanics of Sniper rifles have been replaced by knockback mechanics to seperate their niche from sharing stun cooldown with Demoman sticky stuns. _The weapon descriptive text will not accurately reflect this yet._
+{% endhint %}
+
 ## Hitman's Heatmaker   ![](<../../../.gitbook/assets/100px-Item_icon_Hitman's_Heatmaker (1).png>)
 
-| Attributes                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="color:blue;">**+195% Damage Bonus**</mark>                                                                             |
-| <mark style="color:blue;">**+30% Faster Reload Time**</mark>                                                                        |
-| <mark style="color:red;">**-33.3% Damage vs Players**</mark>                                                                        |
-| <mark style="color:red;">**-39% Damage on Body Shots**</mark>                                                                       |
-| <mark style="color:orange;">**Gain Focus on Kills and Assists**</mark>                                                              |
-| <mark style="color:orange;">**Press 'Reload' to activate Focus**</mark>                                                             |
-| <mark style="color:orange;">**In Focus: +25% Faster Charge and No Unscoping**</mark>                                                |
-| <mark style="color:orange;">**Headshots stun zombies, have a base dmg of 900 that ramps up the less humans there are alive**</mark> |
-| <mark style="color:orange;">**When Held: Attrib\_RageGainOnAssists**</mark>                                                         |
-| <mark style="color:orange;">**When Held: Attrib\_SoldierBuffType (Hidden)**</mark>                                                  |
+| Attributes                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| <mark style="color:blue;">**+195% Damage Bonus**</mark>                                                                           |
+| <mark style="color:blue;">**+30% Faster Reload Time**</mark>                                                                      |
+| <mark style="color:red;">**-33.3% Damage vs Players**</mark>                                                                      |
+| <mark style="color:red;">**-39% Damage on Body Shots**</mark>                                                                     |
+| <mark style="color:orange;">**Gain Focus on Kills and Assists**</mark>                                                            |
+| <mark style="color:orange;">**Press 'Reload' to activate Focus**</mark>                                                           |
+| <mark style="color:orange;">**In Focus: +25% Faster Charge and No Unscoping**</mark>                                              |
+| <mark style="color:orange;">**Headshots KB zombies, have a base dmg of 900 that ramps up the less humans there are alive**</mark> |
+| <mark style="color:orange;">**When Held: Attrib\_RageGainOnAssists**</mark>                                                       |
+| <mark style="color:orange;">**When Held: Attrib\_SoldierBuffType (Hidden)**</mark>                                                |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Scope-In Time: 1.05</td><td>Delay after Scope-In to Headshot: 0.15</td><td>Charge Time: 2.85</td><td>Attack Interval: 1.05</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 147.5 per shot</td><td>Base Nonstop <strong>(Real)</strong> DPS [0% Charge]: 140.746</td><td>Base Nonstop <strong>(Real)</strong> DPS [Full Charge]: 109.259</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 73 per shot</td><td>Base Nonstop DPS [0% Charge]: 69.523</td><td>Base Nonstop DPS [Full Charge]: 54.629</td><td></td></tr></tbody></table>
 
@@ -33,11 +37,11 @@ This can be very strong in Zombie Escape by allowing players to rapidly stun zom
 
 ## Sniper Rifle   ![](<../../../.gitbook/assets/100px-Item_icon_Sniper_Rifle (1).png>)
 
-| Attributes                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="color:blue;">**+380% Damage Bonus**</mark>                                                                             |
-| <mark style="color:red;">**-68.75% Damage on Body Shot**</mark>                                                                     |
-| <mark style="color:orange;">**Headshots stun zombies, have a base dmg of 900 that ramps up the less humans there are alive**</mark> |
+| Attributes                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| <mark style="color:blue;">**+380% Damage Bonus**</mark>                                                                           |
+| <mark style="color:red;">**-68.75% Damage on Body Shot**</mark>                                                                   |
+| <mark style="color:orange;">**Headshots KB zombies, have a base dmg of 900 that ramps up the less humans there are alive**</mark> |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Scope-In Time: 1.5</td><td>Delay after Scope-In to Headshot: 0.15</td><td>Charge Time: 2.85</td><td>Attack Interval: 1.5</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 240 per shot</td><td>Base Nonstop <strong>(Real)</strong> DPS [0% Charge]: 160</td><td>Base Nonstop <strong>(Real)</strong> DPS [Full Charge]: 160</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 120 per shot</td><td>Base Nonstop DPS [0% Charge]: 80</td><td>Base Nonstop DPS [Full Charge]: 80</td><td></td></tr></tbody></table>
 
@@ -63,7 +67,7 @@ This makes it simple to use and a decent option for those unconcerned about any 
 | <mark style="color:orange;">**On Full Charge:**</mark>**&#x20;**<mark style="color:blue;">**+600% Damage Per Shot**</mark>                                              |
 | <mark style="color:orange;">**Base Charge Rate Decreased by 50%**</mark>                                                                                                |
 | <mark style="color:orange;">**Each scoped headshot kill increases this weapon's charge rate.**</mark>                                                                   |
-| <mark style="color:orange;">**Headshots stun zombies, have a base dmg of 1200 that ramps up the less humans there are alive**</mark>                                    |
+| <mark style="color:orange;">**Headshots KB zombies, have a base dmg of 1200 that ramps up the less humans there are alive**</mark>                                      |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Scope-In Time: 1.5</td><td>Delay after Scope-In to Headshot: 0.15</td><td>Charge Time: 5.85</td><td>Charge Time [Max Boost; 6 Heads]: 1.35</td><td>Attack Interval: 1.5</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 4 per shot</td><td>Base Nonstop DPS [0% Charge]: 2.66</td><td><strong>Base Nonstop (Real) DPS [Full Charge]: 100</strong></td><td><strong>Base Nonstop (Real) DPS [Full Charge &#x26; Max Boost]: 250</strong></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 2 per shot</td><td>Base Nonstop DPS [0% Charge]: 1.333</td><td><strong>Base Nonstop (Real) DPS [Full Charge]: 50</strong></td><td><strong>Base Nonstop (Real) DPS [Full Charge &#x26; Max Boost]: 125</strong></td><td></td></tr></tbody></table>
 
@@ -110,36 +114,36 @@ Currently, the Sydney Sleeper’s role in zombie escape is to rapidly apply the 
 
 ## Huntsman   ![](<../../../.gitbook/assets/100px-Item_icon_Huntsman (1).png>)
 
-| Attributes                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------- |
-| **Projectile Speed: 1875**                                                                                                          |
-| <mark style="color:blue;">**+100% Damage Bonus**</mark>                                                                             |
-| <mark style="color:blue;">**+20% Faster Reload Time**</mark>                                                                        |
-| <mark style="color:red;">**-50% Damage on Body Shot**</mark>                                                                        |
-| <mark style="color:red;">**Arrows do not damage NPCs or Bosses**</mark>                                                             |
-| <mark style="color:orange;">**On Hit: Bleed for 5 Seconds**</mark>                                                                  |
-| <mark style="color:orange;">**Headshots stun zombies, have a base dmg of 900 that ramps up the less humans there are alive**</mark> |
+| Attributes                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| **Projectile Speed: 1875**                                                                                                        |
+| <mark style="color:blue;">**+100% Damage Bonus**</mark>                                                                           |
+| <mark style="color:blue;">**+20% Faster Reload Time**</mark>                                                                      |
+| <mark style="color:red;">**-50% Damage on Body Shot**</mark>                                                                      |
+| <mark style="color:red;">**Arrows do not damage NPCs or Bosses**</mark>                                                           |
+| <mark style="color:orange;">**On Hit: Bleed for 5 Seconds**</mark>                                                                |
+| <mark style="color:orange;">**Headshots KB zombies, have a base dmg of 900 that ramps up the less humans there are alive**</mark> |
 
 If you aren't the best at aiming headshots or want to play Sniper more casually, the Huntsman might be the best fit for you. It still provides the ability to stun on headshot and you can spam arrows relatively fast. You can even light arrows on fire a bit of fire damage. The biggest downside, however, is that it uses arrows. They can be quite inconsistent and doesn't let you get as many shots in as the rifles' bullets. <mark style="color:red;">**They won't be able to damage NPCs or bosses leaving you quite incapable of doing much unless you have an SMG equipped.**</mark> The extra bit of bleed proc being dished out won't really do anything special but maybe slightly annoy the zombies you're hitting with this some more.
 
 ## Machina   ![](<../../../.gitbook/assets/100px-Item_icon_Machina (2).png>)
 
-| Attributes                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="color:blue;">**+580% Damage Bonus**</mark>                                                                             |
-| <mark style="color:blue;">**+66.7% Damage vs Players**</mark>                                                                       |
-| <mark style="color:red;">**-33% Slower Reload Time**</mark>                                                                         |
-| <mark style="color:red;">**-50.01% Damage on Body Shot**</mark>                                                                     |
-| <mark style="color:red;">**-25% Slower Power Charge**</mark>                                                                        |
-| <mark style="color:red;">**When Held: 6.7% Slower Move Speed on Wearer**</mark>                                                     |
-| <mark style="color:red;">**-300% Slower Deploy Speed**</mark>                                                                       |
-| <mark style="color:red;">**-100% Slower Holster Speed**</mark>                                                                      |
-| <mark style="color:orange;">**Cannot Fire Unless Zoomed**</mark>                                                                    |
-| <mark style="color:orange;">**On Full Charge:**</mark>**&#x20;**<mark style="color:blue;">**+76.5% Damage per Shot**</mark>         |
-| <mark style="color:orange;">**On Full Charge: Projectile Penetrates Players**</mark>                                                |
-| <mark style="color:orange;">**Fires Tracer Rounds**</mark>                                                                          |
-| <mark style="color:orange;">**Headshots stun zombies, have a base dmg of 900 that ramps up the less humans there are alive**</mark> |
-| <mark style="color:orange;">**When Held: Sets weapon mode #2.0 (Hidden)**</mark>                                                    |
+| Attributes                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| <mark style="color:blue;">**+580% Damage Bonus**</mark>                                                                           |
+| <mark style="color:blue;">**+66.7% Damage vs Players**</mark>                                                                     |
+| <mark style="color:red;">**-33% Slower Reload Time**</mark>                                                                       |
+| <mark style="color:red;">**-50.01% Damage on Body Shot**</mark>                                                                   |
+| <mark style="color:red;">**-25% Slower Power Charge**</mark>                                                                      |
+| <mark style="color:red;">**When Held: 6.7% Slower Move Speed on Wearer**</mark>                                                   |
+| <mark style="color:red;">**-300% Slower Deploy Speed**</mark>                                                                     |
+| <mark style="color:red;">**-100% Slower Holster Speed**</mark>                                                                    |
+| <mark style="color:orange;">**Cannot Fire Unless Zoomed**</mark>                                                                  |
+| <mark style="color:orange;">**On Full Charge:**</mark>**&#x20;**<mark style="color:blue;">**+76.5% Damage per Shot**</mark>       |
+| <mark style="color:orange;">**On Full Charge: Projectile Penetrates Players**</mark>                                              |
+| <mark style="color:orange;">**Fires Tracer Rounds**</mark>                                                                        |
+| <mark style="color:orange;">**Headshots KB zombies, have a base dmg of 900 that ramps up the less humans there are alive**</mark> |
+| <mark style="color:orange;">**When Held: Sets weapon mode #2.0 (Hidden)**</mark>                                                  |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Scope-In Time: 1.995</td><td>Delay after Scope-In to Headshot: 0.15</td><td>Charge Time: 3.855</td><td>Attack Interval: 1.995</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 340 per shot</td><td>Base Nonstop <strong>(Real)</strong> DPS [0% Charge]: 170.426</td><td>Base Nonstop <strong>(Real)</strong> DPS [Full Charge]: 300.05</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 170 per shot</td><td>Base Nonstop DPS [0% Charge]: 85.213</td><td>Base Nonstop DPS [Full Charge]: 75</td><td></td></tr></tbody></table>
 
@@ -166,18 +170,18 @@ _True values may differ slightly._
 
 ## Classic   ![](<../../../.gitbook/assets/100px-Item_icon_Classic (1).png>)
 
-| Attributes                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="color:blue;">**+300% Damage Bonus**</mark>                                                                             |
-| <mark style="color:blue;">**+33.3% Damage vs Players**</mark>                                                                       |
-| <mark style="color:blue;">**+100% Charge Rate**</mark>                                                                              |
-| <mark style="color:red;">**-73.7% Damage on Body Shot**</mark>                                                                      |
-| <mark style="color:red;">**-275% Slower Move Speed when Aiming**</mark>                                                             |
-| <mark style="color:orange;">**No Headshots when not Fully Charged**</mark>                                                          |
-| <mark style="color:orange;">**Charge and Fire Shots Independant of Zoom**</mark>                                                    |
-| <mark style="color:orange;">**Headshots stun zombies, have a base dmg of 900 that ramps up the less humans there are alive**</mark> |
-| <mark style="color:orange;">**Fires tracer rounds (Hidden)**</mark>                                                                 |
-| <mark style="color:orange;">**When Held: Sets weapon mode #3.0 (Hidden)**</mark>                                                    |
+| Attributes                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| <mark style="color:blue;">**+300% Damage Bonus**</mark>                                                                           |
+| <mark style="color:blue;">**+33.3% Damage vs Players**</mark>                                                                     |
+| <mark style="color:blue;">**+100% Charge Rate**</mark>                                                                            |
+| <mark style="color:red;">**-73.7% Damage on Body Shot**</mark>                                                                    |
+| <mark style="color:red;">**-275% Slower Move Speed when Aiming**</mark>                                                           |
+| <mark style="color:orange;">**No Headshots when not Fully Charged**</mark>                                                        |
+| <mark style="color:orange;">**Charge and Fire Shots Independant of Zoom**</mark>                                                  |
+| <mark style="color:orange;">**Headshots KB zombies, have a base dmg of 900 that ramps up the less humans there are alive**</mark> |
+| <mark style="color:orange;">**Fires tracer rounds (Hidden)**</mark>                                                               |
+| <mark style="color:orange;">**When Held: Sets weapon mode #3.0 (Hidden)**</mark>                                                  |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Scope-In Time: 1.5</td><td>Delay after Scope-In to Headshot: 0.15</td><td>Charge Time: 1.35</td><td>Attack Interval: 1.5</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 200 per shot</td><td>Base Nonstop <strong>(Real)</strong> DPS [0% Charge]: 133.333</td><td>Base Nonstop <strong>(Real)</strong> DPS [Full Charge]: 200</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 100 per shot</td><td>Base Nonstop DPS [0% Charge]: 66.666</td><td>Base Nonstop DPS [Full Charge]: 100</td><td></td></tr></tbody></table>
 
