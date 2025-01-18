@@ -23,6 +23,6 @@
 
 As a Zombie the Soldier doesn't really offer anything at all on initial glance - the only 'gimmick' he has is the Half-Zatoichi to oneshot any human Demomen or Soldiers using them.
 
-The Soldier Enzyme simply has one function - and that's shrinking your player model for <mark style="color:yellow;">**(10 seconds)**</mark> before wearing out.
+The Soldier Enzyme simply has one function - and that's shrinking your player model for <mark style="color:yellow;">**(10 seconds)**</mark> before wearing out. This can be used to mitigate vents or crouching areas outright by just running through them with smaller size before Humans can react and shoot you.
 
 With bhop mechanics having been added, Soldier usually can mitigate themself being hilariously slow and land a **zatoichi extra sword-range melee** to infect overdefenders. Zombie Sniper fits a very similar niche here in that - but won't have the extra melee range and they tend to get knocked back harder due to vulnerability on the bushwacka.
