@@ -7,7 +7,9 @@ description: Weapon swaps on demand!
 {% hint style="info" %}
 <mark style="color:yellow;">**!zload**</mark> is a new command in which allows you to swap or 'buy' another weapon in place to allow you change gameplay styles instantly; among being able to alleviate being on any suboptimal weapon for specific parts of maps.
 
-<mark style="color:yellow;">**Note:**</mark> Items that don't get loaded by zload - spy sappers and shields, can be done by using **!items** then zloading any item.\
+<mark style="color:yellow;">**Note:**</mark> Items that don't get loaded by zload - spy sappers and shields, can be done by using **!items** then zloading any item.
+
+<mark style="color:yellow;">**Note 2:**</mark> Weapons upon being z-loaded will retain their 'original' TF2 clip value; eg Frontier Justice will have 3 shots - so it might not be worth "rebuying" in most cases for your DPS.\
 \
 Currently, you are restricted to <mark style="color:green;">**3 charges (uses)**</mark> of <mark style="color:yellow;">**!zload**</mark> swaps.
 {% endhint %}
