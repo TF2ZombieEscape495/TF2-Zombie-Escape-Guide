@@ -6,7 +6,7 @@
 
 * [(NEW) Bhopping](highlights/bhopping.md)
 * [(NEW) !zload](highlights/new-zload.md)
-* [Gamemode Changes 1/17/2025](highlights/balance-changes-11-18-2023.md)
+* [Gamemode Changes 1/20/2025](highlights/balance-changes-11-18-2023.md)
 * [Recent Maps 1/13/2025](highlights/recent-maps-11-13-2023/README.md)
   * [Legacy Maps 1/7/2025](highlights/recent-maps-11-13-2023/legacy-maps.md)
 * [Map List (+Map Records!)](highlights/map-list-+map-records.md)

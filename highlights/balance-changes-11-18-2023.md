@@ -2,9 +2,14 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 1/17/2025
+# Gamemode Changes 1/20/2025
 
 ## 2025&#x20;
+
+### 1/20/2025 minor qol
+
+* screen shake effect upon taking damage removed _(you'll still see the red indicators of damage)_
+* machina penetration kill sound blocked
 
 ### 1/17/2025 Minigun Inf Ammo + Sentry Slow
 
