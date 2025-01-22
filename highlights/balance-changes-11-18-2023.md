@@ -2,9 +2,18 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 1/20/2025
+# Gamemode Changes 1/22/2025
 
 ## 2025&#x20;
+
+### 1/22/2025 Weapon KB Fixes
+
+* universal weapon grouping knockback adjustments
+  * this should 'fix' knockback across the board that was intended to be higher for specific weapon groups eg, Pistols, Rockets, Miniguns - _(this is not a revert to old KB._)
+  * a lot of weapons with 'low damage' stats _(miniguns in particular for example having averages of -30% damage)_ should still be doing decent knockback regardless of their stats due to group kb adjustments
+  * **many weapons no longer have damage fall-off** _(this doesn't make weapons kb from 500 miles, instead just brings more consistency, Widowmaker can take advantage of this much better by not needing pointblank range to get more bullet refunds, Soldier rockets still need close range to build banners, etc)_
+  * _possibly might write out a more detailed explanation on this later depending on how much impact this has, adjustments are still ongoing tho_
+* [<mark style="color:green;">**Casual Mode**</mark>](../general-overview/mod-mechanics.md#modes) now disables friction - _tl;dr_ allowing zombies to get knocked back more, makes switching between difficulties more impactful than a simple slowdown.
 
 ### 1/20/2025 minor qol
 

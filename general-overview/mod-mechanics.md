@@ -89,7 +89,8 @@ At the top of the screen during rounds, you'll notice a timer. When it reaches <
 \
 <mark style="color:green;">**Casual Difficulty**</mark> - _A more relaxed take on the game mode, useful for learning or practicing a map:_
 
-* **Humans take less damage,** _(**-70%(?)&#x20;**_~~_**\[Possibly 30% now]**_~~_**&#x20;****Map Damage Reduction**; Stackable with Battalions.)_
+* **Humans take less damage,** _(**-30% Map Damage Reduction**; Stackable with Battalions.)_
+* Friction is disabled; **tl;dr generally allowing zombies to take more knockback.**
 * Zombies are slowed for much longer, _(**+1 second** to slow duration.)_
 * Even individual _**pellets**_ will slow zombies from afar, granting _**solo-stalling capability almost exponentially.**_
 
