@@ -12,17 +12,23 @@ _This page has received a small touchup to be on the forefront now that real bho
 Bhopping is toggled in-game through the use of <mark style="color:yellow;">**!bhop or an sm\_bhop bind**</mark>**&#x20;- it is off by default.**
 {% endhint %}
 
-Similar to surfing, bhopping is a gameplay element with resources available that cover it extensively. If you want to learn how to do it, there are a plethora of guides and video references to look through, as well as maps to practice on. **This section briefly addresses it and its niche usage in TF2 ZE.**
+Similar to surfing, bhopping is a gameplay element with resources available that cover it extensively. If you want to learn how to do it, there are a plethora of guides and video references to look through, as well as maps to practice on. **This section briefly addresses it and its usage in TF2 ZE.**
 
 **Prior to** **12/9/2024** - bhopping used to be very negligble in gains as there wasn't a bhop plugin and the gamemode's movement was very central on knowing which speed modifier weapons to use _**(those are still relevant on specific maps that disable bhop outright.)**_
 
 {% hint style="info" %}
-**With the bhop plugin - there's a few caveats on how it flows on TF2;**
+<mark style="color:yellow;">**With the bhop plugin - there's a few caveats on how it flows on TF2;**</mark>
 
-* &#x43;_**urrently** it is encouraged to spacebar bhop than use traditional scroll-wheel methods._&#x20;
-* _The plugin is VERY lenient on not having to time your jumps and you can get speed built up spamming space bar + strafing (no w key)_
-* **Capped to 500 at max vel;** momentum should also be capped at stairs and ramps
-* **\[ZOMBIE-ONLY]** Bhopping momentum is halted upon being shot/you shouldn't be able to boost yourself by getting shot in specific ways due to slowdown mechanics
+* **Currently** it is encouraged to spacebar bhop than use _traditional_ scroll-wheel methods.
+* The plugin is VERY lenient on not having to time your jumps and you can get speed built up spamming space bar + strafing _(no w key.)_
+* Some maps disable bhopping mechanics for balance - but there isn't any 'indicator' of this. For a quick tell - **you will not be able to jump in crouching state if bhopping** **is disabled.**
+{% endhint %}
+
+{% hint style="info" %}
+<mark style="color:yellow;">**Additional Notes:**</mark>
+
+* **Capped to 500 at max vel;** momentum should also be capped at stairs and ramps.
+* **\[ZOMBIE-ONLY]** Bhopping momentum is halted upon being shot/you shouldn't be able to boost yourself by getting shot in specific ways due to slowdown mechanics.
 * **Bhopping velocity limited to 250 upon using Zombie Enzymes.**
 {% endhint %}
 
@@ -32,7 +38,7 @@ Unlike surf mechanics where you might only apply to a few non-surf maps, <mark s
 
 *   <mark style="color:yellow;">**Overcome slower class base movement speed**</mark>
 
-    * Tired of waddling in and out every defense as a Demoman or Soldier who **typically\*** can't use their TF2 movement mechanics to compensate their slow base speed? Bhopping should alleviate this for the most part.
+    * Tired of waddling in and out every area as a Demoman or Soldier who **typically\*** can't use their TF2 movement mechanics to compensate their slow base speed? Bhopping should alleviate this entirely.
 
     <figure><img src="../.gitbook/assets/demo bhop (2).gif" alt="" width="563"><figcaption><p>outspeeding a majority of players into next area as second slowest base speed class</p></figcaption></figure>
 * <mark style="color:yellow;">**Rushing for Triggers**</mark>
