@@ -4,7 +4,7 @@ description: >-
   bunch of different classes to work with?
 ---
 
-# Niche Combos
+# Niche Mechanic Uses
 
 ## Combining Enzymes
 
@@ -22,7 +22,7 @@ Very self explainatory title - zombies _already_ have increased range - and can 
 
 ## Kill VS Infect
 
-In some instances as zombie (notably zombie sniper) you are given tools to completely **obliterate** even a high HP class like Heavy without being airblasted away or backstabbed during the follow-up stun animation for infection. With the right weapon matchups in **damage vulnerabilities**, such as Warrior's Spirit or Backscratcher vs GRU, Powerjack etc you can easily find yourself outright killing a human rather than infecting them; letting you retain any movement without being committed to a stun on infect - allowing you to go for another _potential_ kill right off the bat where just two might matter to destroy a defense.
+In some instances as zombie (notably zombie sniper) you are given tools to completely **obliterate** even a high HP class like Heavy without being airblasted away or backstabbed during the follow-up stun animation for infection. With the right weapon matchups in **damage vulnerabilities**, such as Warrior's Spirit or Backscratcher vs GRU, Powerjack etc you can easily find yourself outright killing a human rather than infecting them; letting you retain any movement without being committed to a stun on infect - allowing you to go for another _second_ kill right off the bat where just two might matter to destroy a defense.
 
 ## Alternative Win Conditions
 

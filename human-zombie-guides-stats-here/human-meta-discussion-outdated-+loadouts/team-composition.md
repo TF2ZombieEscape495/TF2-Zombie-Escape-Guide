@@ -6,7 +6,7 @@ description: >-
 
 # \[OPTIMAL DPS] + Team Comps
 
-###
+
 
 ### Optimal DPS: Easy to Use!
 
