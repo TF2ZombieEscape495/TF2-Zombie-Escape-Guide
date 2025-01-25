@@ -36,7 +36,7 @@ Similar to surfing, bhopping is a gameplay element with resources available that
 
 Unlike surf mechanics where you might only apply to a few non-surf maps, <mark style="color:yellow;">**bhopping**</mark> is a mechanic you'll find in other source games and learning the essence of it can help translate to those respective games - among being able to apply this movement mechanic to **almost\*** any map that has it enabled. It seriously makes a **massive** difference in your overall playstyle and lets you accomplish so much things faster that holding W into everything falls short of. Such as...
 
-*   <mark style="color:yellow;">**Overcome slower class base movement speed**</mark>
+*   <mark style="color:yellow;">**Nullify slower class base movement speed**</mark>
 
     * Tired of waddling in and out every area as a Demoman or Soldier who **typically\*** can't use their TF2 movement mechanics to compensate their slow base speed? Bhopping should alleviate this entirely.
 

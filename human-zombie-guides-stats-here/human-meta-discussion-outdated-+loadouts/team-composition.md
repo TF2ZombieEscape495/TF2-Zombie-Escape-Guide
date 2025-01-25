@@ -8,10 +8,6 @@ description: >-
 
 ###
 
-{% hint style="info" %}
-_<mark style="color:yellow;">**As of 12/18/2024**</mark>_-  these listed weapons might\* be inaccurate for a few classes, while still relevant for the majority. Will eventually(tm) edit the visual/text.
-{% endhint %}
-
 ### Optimal DPS: Easy to Use!
 
 <figure><img src="../../.gitbook/assets/Easy 2 Use DPS.png" alt=""><figcaption><p>Edit until adjusted; Pyro should be using shotguns/reserve shooter over flare gun for more consistency.</p></figcaption></figure>

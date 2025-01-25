@@ -30,7 +30,7 @@ Until something concrete is decided to knock it down a peg in some regard, the m
 | <mark style="color:blue;">**+10% Faster Firing Speed**</mark>                                 |
 | <mark style="color:blue;">**-33% Damage Resistance when below 50% Health and Spun Up**</mark> |
 | <mark style="color:blue;">**+25% Damage vs Players**</mark>                                   |
-| <mark style="color:red;">**-5% Damage Penalty**</mark>                                        |
+| <mark style="color:red;">**-29% Damage Penalty**</mark>                                       |
 | <mark style="color:red;">**-50% Slower Spin Up Time**</mark>                                  |
 | <mark style="color:red;">**-60% Slower Move Speed when Deployed**</mark>                      |
 

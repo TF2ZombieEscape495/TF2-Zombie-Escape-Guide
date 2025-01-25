@@ -2,9 +2,9 @@
 description: Spy Primary Options
 ---
 
-# Primaries
+# Spy Primaries
 
-## Enforcer   ![](<../../../.gitbook/assets/100px-Item\_icon\_Enforcer (2).png>)
+## Enforcer   ![](<../../../.gitbook/assets/100px-Item_icon_Enforcer (2).png>)
 
 | Attributes                                                                                  |
 | ------------------------------------------------------------------------------------------- |
@@ -23,7 +23,7 @@ But why the damage bonus attribute of +750% while disguised in particular? This 
 
 If this weapon deals 567.8 damage while disguised, this means you could deal upwards of 567.8/2.2 = \~260 DPS if you are able to consistently fire just after disguising. Reacting a bit later, within the range of 2.3 to 2.5 seconds, you deal a range of \~247 to \~227 DPS, which is still significantly greater than the Enforcer's base sustained DPS. Firing your shots in 3-second intervals will dip down to \~189 DPS, becoming less than the Enforcer's normal sustained DPS. <mark style="color:red;">**Reacting much later will only yield worse damage values**</mark>, so timing disguises and shots can be a _difficult endeavor_ if Spies want to reach their maximum damage output.
 
-## Revolver   ![](<../../../.gitbook/assets/100px-Item\_icon\_Revolver (1).png>)
+## Revolver   ![](<../../../.gitbook/assets/100px-Item_icon_Revolver (1).png>)
 
 | Attributes                                                    |
 | ------------------------------------------------------------- |
@@ -31,13 +31,13 @@ If this weapon deals 567.8 damage while disguised, this means you could deal upw
 | **Weapon Spread: 100:1**                                      |
 | <mark style="color:blue;">**+75% Faster Firing Speed**</mark> |
 | <mark style="color:blue;">**+20% More Accurate**</mark>       |
-| <mark style="color:red;">**-15% Damage Penalty**</mark>       |
+| <mark style="color:red;">**-36% Damage Penalty**</mark>       |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Disguise Speed: 2.188</td><td>Attack Interval: 0.135</td><td>TEC: 2.43 seconds</td><td>Full Reload Time: 1.4 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 34 per shot</td><td><strong>Real DPS:</strong> 171.427 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 251.851 DPS</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 17 per shot</td><td><strong>Real DPS:</strong> 85.713 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 125.925 DPS</td><td></td></tr></tbody></table>
 
 The Revolver is a reliable choice for Spies in base TF2. Without any gimmicks, players can simply focus on aiming their shots to dish out decent damage. This has been translated into Zombie Escape, but with an above-average damage output. Its current attributes brings the weapon to \~170 sustained DPS and \~252 nonstop DPS with high accuracy. Altogether, this makes this weapon a decent option for Spies defensively and a great simplistic option for damaging NPCs or bosses.
 
-## L'Etranger   ![](<../../../.gitbook/assets/100px-Item\_icon\_L'Etranger (2).png>)
+## L'Etranger   ![](<../../../.gitbook/assets/100px-Item_icon_L'Etranger (2).png>)
 
 | Attributes                                                             |
 | ---------------------------------------------------------------------- |
@@ -55,7 +55,7 @@ Currently the L'Etranger has a couple niches in Zombie Escape to emulate the fee
 
 The weapon maintains a sustained DPS and BPS _(Bullets Per Second)_ of \~160 and 4.301, respectively, and a nonstop DPS and BPS of \~413 and 11.111, respectively. So, it’s still one of those weapons that are extremely powerful under unique circumstances such as having map-specific [**ammo items**](../../../elements-of-zombie-escape/items/common-items.md#human-items) _(synergy with the weapon's high fire-rate)_ which can serve as a reward for astute players who are actually aware of the weapon changes and their capabilities.
 
-## Ambassador   ![](<../../../.gitbook/assets/100px-Item\_icon\_Ambassador (2).png>)
+## Ambassador   ![](<../../../.gitbook/assets/100px-Item_icon_Ambassador (2).png>)
 
 | Attributes                                                                                     |
 | ---------------------------------------------------------------------------------------------- |
@@ -76,7 +76,7 @@ As a Spy in Zombie Escape, you will most likely wind up close to zombies support
 
 The first thing people will notice when using this weapon is its 20% slower fire rate and 25% longer reload time, which _greatly_ reduce its defensive potential. This weapon has a sustained DPS of \~160, which is slightly less than the average damage of all the revolvers. Players can leverage the DR glitch to reach around \~217 sustained DPS, but other than that, this weapon remains a slightly higher-risk weapon to use in favor of player penetrating shots for AOE damage and slow.
 
-## Diamondback   ![](<../../../.gitbook/assets/100px-Item\_icon\_Diamondback (1).png>)
+## Diamondback   ![](<../../../.gitbook/assets/100px-Item_icon_Diamondback (1).png>)
 
 | Attributes                                                                                      |
 | ----------------------------------------------------------------------------------------------- |
@@ -84,7 +84,7 @@ The first thing people will notice when using this weapon is its 20% slower fire
 | **Weapon Spread: 50:1**                                                                         |
 | <mark style="color:blue;">**+65% Faster Firing Speed**</mark>                                   |
 | <mark style="color:blue;">**+300% Bullets per Shot**</mark>                                     |
-| <mark style="color:red;">**-74% Damage Penalty**</mark>                                         |
+| <mark style="color:red;">**-80% Damage Penalty**</mark>                                         |
 | <mark style="color:red;">**-60% Less Accurate**</mark>                                          |
 | <mark style="color:red;">**-6.25% Move Speed on Wearer**</mark>                                 |
 | _<mark style="color:orange;">**Wearer Cannot Disguise**</mark>_                                 |
