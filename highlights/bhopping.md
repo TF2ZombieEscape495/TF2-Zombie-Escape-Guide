@@ -29,8 +29,11 @@ Similar to surfing, bhopping is a gameplay element with resources available that
 
 Unlike surf mechanics where you might only apply to a few non-surf maps, <mark style="color:yellow;">**bhopping**</mark> is a mechanic you'll find in other source games and learning the essence of it can help translate to those respective games - among being able to apply this movement mechanic to **almost\*** any map that has it enabled. It seriously makes a **massive** difference in your overall playstyle and lets you accomplish so much things faster that holding W into everything falls short of. Such as...
 
-* <mark style="color:yellow;">**Overcome slower class base movement speed**</mark>
-  * Tired of waddling in and out every defense as a demoman or soldier who **typically\*** can't use their TF2 movement mechanics to compensate their slow base speed? Bhopping should alleviate this for the most part.
+*   <mark style="color:yellow;">**Overcome slower class base movement speed**</mark>
+
+    * Tired of waddling in and out every defense as a Demoman or Soldier who **typically\*** can't use their TF2 movement mechanics to compensate their slow base speed? Bhopping should alleviate this for the most part.
+
+    <figure><img src="../.gitbook/assets/demo bhop (2).gif" alt="" width="563"><figcaption><p>outspeeding a majority of players into next area as second slowest base speed class</p></figcaption></figure>
 * <mark style="color:yellow;">**Rushing for Triggers**</mark>
   * Lessen the pressure on teammates during tight holds. Having someone rush to the end/next trigger area with this mechanic can cut down on map timeouts and make a defense so much shorter than it needs to be.
 * <mark style="color:yellow;">**Rushing for Items**</mark>
