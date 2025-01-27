@@ -47,5 +47,8 @@ Unlike surf mechanics where you might only apply to a few non-surf maps, <mark s
   * Rush ahead of teammates to yoink items or save them from a person who won't use them properly.
 * <mark style="color:yellow;">**Falling Back**</mark>
   * Zombies are slightly faster than humans in base speed. Use bhops to outpace them or even make tight timings if falling back particularly late and cover for those who cannot master bhop mechanics - shooting Zombies will stop them from bhopping.
-* <mark style="color:yellow;">**Infecting Fleeing Humans**</mark>
-  * Use that extra speed to catch up faster to humans running away - **especially those who are unable to cover tight corner areas** where you can fly out at full speed for an infect.
+*   <mark style="color:yellow;">**Infecting Fleeing Humans**</mark>
+
+    * Use that extra speed to catch up faster to humans running away - **especially those who are unable to cover tight corner areas** or on steep hills where you can fly out at full speed for an infect.
+
+    <figure><img src="../.gitbook/assets/zm bhop.gif" alt="" width="563"><figcaption><p>bouncing off a heavy's head with bhop downhill for infect</p></figcaption></figure>
