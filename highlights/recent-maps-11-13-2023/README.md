@@ -1,4 +1,4 @@
-# Recent Maps 1/13/2025
+# Recent Maps 1/26/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -11,6 +11,10 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 ##
 
 ## 2025:
+
+### 1/26/2025 Nostromo Redux
+
+* [No**stromo Redux**](https://gamebanana.com/mods/79797) added <mark style="color:yellow;">**\[CSS/CSGO Map]**</mark> **\[1 Stage, 2 Items, 2 Layouts]**
 
 ### 1/13/2025 Street Fight With Autism
 
