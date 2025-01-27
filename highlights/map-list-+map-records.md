@@ -16,7 +16,7 @@ coverY: 0
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`25 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`24 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -105,7 +105,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 68. [<mark style="color:green;">**ze\_neochrome\_b1**</mark>](#user-content-fn-51)[^51] <mark style="color:purple;">**(LEADER)**</mark>
 69. [<mark style="color:red;">**ze\_night\_cinema\_s1**</mark>](#user-content-fn-52)[^52] <mark style="color:purple;">**(LEADER)**</mark>
 70. [<mark style="color:green;">**ze\_nomada\_h5**</mark> ](#user-content-fn-53)[^53]<mark style="color:purple;">**(LEADER)**</mark>
-71. [<mark style="color:red;">**ze\_nostromo\_redux\_s2**</mark>](#user-content-fn-54)[^54]
+71. [<mark style="color:green;">**ze\_nostromo\_redux\_s2**</mark>](#user-content-fn-54)[^54]
 72. [<mark style="color:red;">**ze\_obj\_filth\_skial\_3**</mark>](#user-content-fn-55)[^55] <mark style="color:purple;">**(LEADER)**</mark>
 73. [<mark style="color:red;">**ze\_obj\_npst\_tf2\_f1**</mark>](#user-content-fn-56)[^56] <mark style="color:purple;">**(LEADER)**</mark>
 74. [<mark style="color:red;">**ze\_obj\_rampage\_skial\_**</mark>](#user-content-fn-57)[^57]<mark style="color:red;">**2**</mark> <mark style="color:purple;">**(LEADER)**</mark>
@@ -328,10 +328,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
 [^53]: ![](<../.gitbook/assets/Nomada Win.png>)
 
-[^54]: <mark style="color:yellow;">**Run Record:**</mark>\
-    <mark style="color:orange;">**\[Stage 1/1]**</mark>
-
-    **\~pending record**
+[^54]: ![](<../.gitbook/assets/20250126173534_1 (1).jpg>)
 
 [^55]: <mark style="color:yellow;">**Run Record:**</mark>
 
