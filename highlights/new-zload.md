@@ -14,7 +14,7 @@ description: Weapon swaps on demand!
 Currently, you are restricted to <mark style="color:green;">**3 charges (uses)**</mark> of <mark style="color:yellow;">**!zload**</mark> swaps.
 {% endhint %}
 
-_**Almost any**_ Zombie Escape modified weapon can be zloaded - _albeit if its a disabled weapon_ in the gamemode _<mark style="color:red;">(currently Boots, Mantreads, Base Jumper, Thermal Thruster, Disciplinary Action...)</mark>_ - then it will just force you onto something else like a Flare Gun or Shotgun regardless of the text implying you're given it.
+_**Almost any**_ Zombie Escape modified weapon can be zloaded - _albeit if its a disabled weapon_ in the gamemode _<mark style="color:red;">**(currently Boots, Mantreads, Base Jumper, Thermal Thruster, Disciplinary Action...)**</mark>_ - then it will just force you onto something else like a Flare Gun or Shotgun regardless of the text implying you're given it.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -25,3 +25,5 @@ _**Almost any**_ Zombie Escape modified weapon can be zloaded - _albeit if its a
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Zombies are too dumb to use !zload mechanics, sorry!</p></figcaption></figure>
 
 _No, you can't !zload a minigun as a Spy._
+
+_**\[Pending example gifs of !zload usage]**_

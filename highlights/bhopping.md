@@ -9,7 +9,9 @@ coverY: 28
 _This page has received a small touchup to be on the forefront now that real bhopping is enabled on TF2 ZE!_
 
 {% hint style="warning" %}
-Bhopping is toggled in-game through the use of <mark style="color:yellow;">**!bhop or an sm\_bhop bind**</mark>**&#x20;- it is off by default.**
+Bhopping is toggled in-game through the use of <mark style="color:yellow;">**!bhop or an sm\_bhop bind**</mark>**&#x20;- it is off by default.(?)**\
+\
+**Some maps may disable bhopping mechanics on specific stages or throughout the whole map.**
 {% endhint %}
 
 Similar to surfing, bhopping is a gameplay element with resources available that cover it extensively. If you want to learn how to do it, there are a plethora of guides and video references to look through, as well as maps to practice on. **This section briefly addresses it and its usage in TF2 ZE.**
@@ -20,7 +22,7 @@ Similar to surfing, bhopping is a gameplay element with resources available that
 <mark style="color:yellow;">**With the bhop plugin - there's a few caveats on how it flows on TF2;**</mark>
 
 * **Currently** it is encouraged to spacebar bhop than use _traditional_ scroll-wheel methods.
-* The plugin is VERY lenient on not having to time your jumps and you can get speed built up spamming space bar + strafing _(no w key.)_
+* The plugin is VERY lenient on **not having to time your jumps** and you can get speed built up spamming space bar & strafing _(no w key.)_
 * Some maps disable bhopping mechanics for balance - but there isn't any 'indicator' of this. For a quick tell - **you will not be able to jump in crouching state if bhopping** **is disabled.**
 {% endhint %}
 
@@ -28,7 +30,7 @@ Similar to surfing, bhopping is a gameplay element with resources available that
 <mark style="color:yellow;">**Additional Notes:**</mark>
 
 * **Capped to 500 at max vel;** momentum should also be capped at stairs and ramps.
-* **\[ZOMBIE-ONLY]** Bhopping momentum is halted upon being shot/you shouldn't be able to boost yourself by getting shot in specific ways due to slowdown mechanics.
+* **\[ZOMBIE-ONLY]** Bhopping momentum is halted upon being shot (taking knockback specifically) - this prevents zombies from getting boosted in specific ways.
 * **Bhopping velocity limited to 250 upon using Zombie Enzymes.**
 {% endhint %}
 
