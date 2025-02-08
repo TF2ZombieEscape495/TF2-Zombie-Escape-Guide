@@ -12,7 +12,7 @@ description: Heavy Secondary Options
 | **Weapon Spread: 30:1**                                       |
 | <mark style="color:blue;">**+60% Faster Firing Speed**</mark> |
 | <mark style="color:blue;">**+60% Faster Reload Time**</mark>  |
-| <mark style="color:blue;">**+10% Damage Bonus**</mark>        |
+| <mark style="color:blue;">**+20% Damage Bonus**</mark>        |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.255</td><td>TEC: 4.59 seconds</td><td>Reload Time (First): 0.405 seconds</td><td>Reload Time (Consec.): 0.21 seconds</td><td>Full Reload Time: 3.975 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 72 per shot</td><td><strong>Real DPS:</strong> 151.312 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 282.352 DPS</td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 36 per shot</td><td><strong>Real DPS:</strong> 76.656 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 141.716 DPS</td><td></td><td></td></tr></tbody></table>
 

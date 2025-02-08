@@ -2,9 +2,9 @@
 description: Scout Secondary Options
 ---
 
-# Secondaries
+# Scout Secondaries
 
-## Bonk! Atomic Punch   ![](<../../../.gitbook/assets/100px-Item\_icon\_Bonk!\_Atomic\_Punch (1).png>)
+## Bonk! Atomic Punch   ![](<../../../.gitbook/assets/100px-Item_icon_Bonk!_Atomic_Punch (1).png>)
 
 | Attributes                                                                                               |
 | -------------------------------------------------------------------------------------------------------- |
@@ -16,7 +16,7 @@ description: Scout Secondary Options
 
 Arguably Scout's most useful secondary, Bonk! Atomic Punch allows you to boost yourself and your team for <mark style="color:yellow;">**\[8 seconds.]**</mark> Speed buffs are one of the most useful buffs you can give. Bonk! is extremely helpful on fallbacks, helping slower classes safely retreat and avoid getting caught in TPs. While you can somewhat bodyblock zombies with your invulnerability, zombies can easily knock you away with their melee. You can use the invulnerability to potentially survive timed teleports or even clutch solo wins if timed right. **Be especially mindful that you don't use your Bonk! during parkour sections, as that's a good way to piss off your team and result in getting slayed or banned for griefing.**
 
-## Mad Milk    ![](../../../.gitbook/assets/100px-Item\_icon\_Mad\_Milk.png)
+## Mad Milk    ![](../../../.gitbook/assets/100px-Item_icon_Mad_Milk.png)
 
 | Attributes                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -27,7 +27,7 @@ Arguably Scout's most useful secondary, Bonk! Atomic Punch allows you to boost y
 
 Easily able to save yourself or other people, Mad Milk is a situational utility that allows Humans to heal upon shooting milked zombies. Typically, a team should have Medics, Soldiers, and/or Engineers to provide healing, but things don't always end up going as planned. They might all be dead or not even be picked in the first place! Zombies will capitalize on this by chaining Pyro Mutations to whittle the team's HP down. Mad Milk can easily prevent this from happening and prevent humans from dying from all the Mutation damage. Did I forget to mention that it gives you <mark style="color:green;">**+25 hp**</mark>, allowing you to tank a normal zombie hit and save your life?
 
-## Pretty Boy's Pocket Pistol    ![](<../../../.gitbook/assets/100px-Item\_icon\_Pretty\_Boy's\_Pocket\_Pistol (1).png>)
+## Pretty Boy's Pocket Pistol    ![](<../../../.gitbook/assets/100px-Item_icon_Pretty_Boy's_Pocket_Pistol (1).png>)
 
 | Attributes                                                            |
 | --------------------------------------------------------------------- |
@@ -43,7 +43,7 @@ Easily able to save yourself or other people, Mad Milk is a situational utility 
 
 The Pretty Boy's Pocket Pistol acts as the fastest firing secondary among all Scout pistols; added with the situational upside of healing on hit. NPCs and Bosses **do not** trigger its On Hit effects, and healing is usually plentiful and unneeded when doorhugging. With an infinite ammo item, it can reach the potential of miniguns with 11.111 nonstop BPS _(Bullets Per Second)_ but will still remain strong without it at 7.57 sustained BPS. You could use it in situations where you wish to be a more independent Scout with the BFB or in boss fights where you _can_ shoot the zombies and healing isn't nerfed.
 
-## Winger    ![](<../../../.gitbook/assets/100px-Item\_icon\_Winger (1).png>)
+## Winger    ![](<../../../.gitbook/assets/100px-Item_icon_Winger (1).png>)
 
 | Attributes                                                        |
 | ----------------------------------------------------------------- |
@@ -62,13 +62,13 @@ The Winger is the more damaging variant among all the Pistols at the cost of cli
 
 In consolation, it’s been given a **+25% faster weapon switch** and a smaller bullet spread at 80:1. This is in the hopes of making it a faster and more effective response option as a weapon for single-target stalling or for fighting certain bosses. You can get up close with the pistol to stall and quickly swap to scatterguns if surrounded or vice versa when dealing with bosses that tend to run away. Currently this pistol fits also the niche of hitting the hardest (\~150 DPS) among the other two at cost of its low clip - but you can holster it quicker if caught out during its _many_ downtimes.
 
-## Pistol    ![](<../../../.gitbook/assets/100px-Item\_icon\_Pistol (1).png>)
+## Pistol    ![](<../../../.gitbook/assets/100px-Item_icon_Pistol (1).png>)
 
 | Attributes                                                    |
 | ------------------------------------------------------------- |
 | **Clip Size - 48 shots**                                      |
 | **Weapon Spread: 100:1**                                      |
-| <mark style="color:blue;">**+27.5% Damage Bonus**</mark>      |
+| <mark style="color:blue;">**+30% Damage Bonus**</mark>        |
 | <mark style="color:blue;">**+33% Faster Firing Speed**</mark> |
 | <mark style="color:blue;">**+50% More Accurate**</mark>       |
 | <mark style="color:red;">**-50% Slower Reload Time**</mark>   |
@@ -79,7 +79,7 @@ The Pistol serves as Scout and Engineer’s trusty follow-up weapon the majority
 
 What this weapon does now excel at is accuracy, which is emphasized by its decreased bullet spread to 100:1. This makes the Pistol one of the better picks for single-target stalling and for shooting at fast-moving or far-away bosses, assuming one can track well.
 
-## Crit-a-Cola    ![](<../../../.gitbook/assets/100px-Item\_icon\_Crit-a-Cola (1).png>)
+## Crit-a-Cola    ![](<../../../.gitbook/assets/100px-Item_icon_Crit-a-Cola (1).png>)
 
 | Attributes                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -91,7 +91,7 @@ What this weapon does now excel at is accuracy, which is emphasized by its decre
 
 One would think that the Crit-a-Cola would give AoE crits to your team, similar to how Bonk! Atomic Punch gives an AoE speed boost. The solo minicrits will only slightly even bolster Scout's knockback potential - also can deploy it very quickly.
 
-## Flying Guillotine    ![](<../../../.gitbook/assets/100px-Item\_icon\_Flying\_Guillotine (2).png>)
+## Flying Guillotine    ![](<../../../.gitbook/assets/100px-Item_icon_Flying_Guillotine (2).png>)
 
 | Attributes                                                                                       |
 | ------------------------------------------------------------------------------------------------ |

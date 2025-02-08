@@ -52,7 +52,7 @@ It’s a bit of a high-commitment weapon that encourages Scouts to be up close t
 | **Weapon Spread: 40:1**                                                                                                                                                                                |
 | <mark style="color:blue;">**+60% Faster Firing Speed**</mark>                                                                                                                                          |
 | <mark style="color:blue;">**+65% Faster Reload Time**</mark>                                                                                                                                           |
-| <mark style="color:blue;">**+21% Damage Bonus**</mark>                                                                                                                                                 |
+| <mark style="color:blue;">**+5% Damage Bonus**</mark>                                                                                                                                                  |
 | <mark style="color:blue;">**+25% More Accurate**</mark>                                                                                                                                                |
 | <mark style="color:red;">**-19.5% Slower Move Speed on Wearer**</mark>                                                                                                                                 |
 | <mark style="color:orange;">**Wearer never takes fall damage**</mark>                                                                                                                                  |
@@ -74,7 +74,7 @@ Playing into Scout's niche, the Baby Face's Blaster allows him to push way past 
 | <mark style="color:blue;">**+50% Faster Firing Speed**</mark>                                                                                                                                                      |
 | <mark style="color:blue;">**+25% Bullets Per Shot**</mark>                                                                                                                                                         |
 | <mark style="color:blue;">**+25% Damage vs Players**</mark>                                                                                                                                                        |
-| <mark style="color:red;">**-38% Damage Penalty**</mark>                                                                                                                                                            |
+| <mark style="color:red;">**-18% Damage Penalty**</mark>                                                                                                                                                            |
 | <mark style="color:red;">**-50% Slower Reload (Hidden)**</mark>                                                                                                                                                    |
 | <mark style="color:orange;">**When Held: Attrib\_Scattergun\_NoReloadSingle (Hidden)**</mark><mark style="color:orange;">**&#x20;**</mark>_<mark style="color:orange;">**(Clip will reload all at once!)**</mark>_ |
 

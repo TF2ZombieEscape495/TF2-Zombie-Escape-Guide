@@ -31,7 +31,7 @@ Currently with a 0.2 multiplier to the charge rate; it'll require at least more 
 | --------------------------------------------------------------- |
 | **Clip Size - 50 Shots**                                        |
 | **Weapon Spread: 80:1**                                         |
-| <mark style="color:blue;">**+155% Damage Bonus**</mark>         |
+| <mark style="color:blue;">**+160% Damage Bonus**</mark>         |
 |  <mark style="color:blue;">**+20% Faster Firing Speed**</mark>  |
 | <mark style="color:red;">**-100% Slower Reload Time**</mark>    |
 

@@ -10,7 +10,7 @@ description: Heavy Primary Options
 | ----------------------------------------------------------- |
 | **Weapon Spread: 25:1**                                     |
 | <mark style="color:blue;">**+25% Damage vs Players**</mark> |
-| <mark style="color:red;">**-30% Damage Penalty**</mark>     |
+| <mark style="color:red;">**-6% Damage Penalty**</mark>      |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 0.105</td><td>TEC: 91.923 seconds</td><td>Full Reload Time: 17.5 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 33.66 per shot</td><td>Sustained DPS<strong>:</strong> 268.569 DPS</td><td>Clip DPS (<em><strong>Nonstop; Real DPS for Miniguns!</strong></em>): 320.571 DPS</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 16 per shot</td><td>Sustained DPS<strong>:</strong> 127.661 DPS</td><td>Clip DPS (<em><strong>Nonstop; Real DPS for Miniguns</strong></em>): 152.38 DPS</td></tr></tbody></table>
 
@@ -30,7 +30,7 @@ Until something concrete is decided to knock it down a peg in some regard, the m
 | <mark style="color:blue;">**+10% Faster Firing Speed**</mark>                                 |
 | <mark style="color:blue;">**-33% Damage Resistance when below 50% Health and Spun Up**</mark> |
 | <mark style="color:blue;">**+25% Damage vs Players**</mark>                                   |
-| <mark style="color:red;">**-29% Damage Penalty**</mark>                                       |
+| <mark style="color:red;">**-6% Damage Penalty**</mark>                                        |
 | <mark style="color:red;">**-50% Slower Spin Up Time**</mark>                                  |
 | <mark style="color:red;">**-60% Slower Move Speed when Deployed**</mark>                      |
 

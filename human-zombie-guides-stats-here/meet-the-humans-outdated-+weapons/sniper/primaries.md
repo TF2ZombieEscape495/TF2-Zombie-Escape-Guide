@@ -72,7 +72,7 @@ Currently, the Sydney Sleeper’s role in zombie escape is to rapidly apply the 
 | <mark style="color:orange;">**Fires Tracer Rounds**</mark>                                                                        |
 | <mark style="color:orange;">**Headshots KB zombies, have a base dmg of 900 that ramps up the less humans there are alive**</mark> |
 | <mark style="color:orange;">**When Held: Sets weapon mode #2.0 (Hidden)**</mark>                                                  |
-| <mark style="color:orange;">**Double Headshot kill sound effect is disabled**</mark>                                              |
+| _<mark style="color:orange;">**Double Headshot kill sound effect is disabled**</mark>_                                            |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Scope-In Time: 1.995</td><td>Delay after Scope-In to Headshot: 0.15</td><td>Charge Time: 3.855</td><td>Attack Interval: 1.995</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 340 per shot</td><td>Base Nonstop <strong>(Real)</strong> DPS [0% Charge]: 170.426</td><td>Base Nonstop <strong>(Real)</strong> DPS [Full Charge]: 300.05</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 170 per shot</td><td>Base Nonstop DPS [0% Charge]: 85.213</td><td>Base Nonstop DPS [Full Charge]: 75</td><td></td></tr></tbody></table>
 

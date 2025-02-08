@@ -168,22 +168,22 @@ For the purposes of Zombie Escape, not many attributes of the weapon have been t
 
 ## Rocket Jumper  ![](<../../../.gitbook/assets/100px-Item_icon_Rocket_Jumper (3).png>)
 
-| Attributes                                                                                    |
-| --------------------------------------------------------------------------------------------- |
-| **Clip Size - 1 Shots**                                                                       |
-| **Blast Radius: 182.5**                                                                       |
-| **Projectile Speed: 550**                                                                     |
-| <mark style="color:blue;">**+25% Explosion Radius**</mark>                                    |
-| <mark style="color:blue;">**+1011% Damage Bonus**</mark>**&#x20;**~~_**(no, not a typo.)**_~~ |
-| <mark style="color:red;">**-50% Damage vs Players**</mark>                                    |
-| <mark style="color:red;">**-337% Slower Firing Speed**</mark>                                 |
-| <mark style="color:red;">**When Held: 20% Slower Move Speed on Wearer.**</mark>               |
-| <mark style="color:red;">**-63% Slower Reload Time**</mark>                                   |
-| <mark style="color:red;">**-50% Projectile Speed**</mark>                                     |
-| <mark style="color:red;">**-150% Deploy/Holster Speed**</mark>                                |
-| <mark style="color:red;">**+200% Damage To Self**</mark>                                      |
-| <mark style="color:orange;">**On Hit: Slow target movement by 40% for 3.0s**</mark>           |
-| <mark style="color:orange;">**No Rocket Jumping.**</mark>                                     |
+| Attributes                                                                                |
+| ----------------------------------------------------------------------------------------- |
+| **Clip Size - 1 Shots**                                                                   |
+| **Blast Radius: 182.5**                                                                   |
+| **Projectile Speed: 550**                                                                 |
+| <mark style="color:blue;">**+25% Explosion Radius**</mark>                                |
+| <mark style="color:blue;">**+1011% Damage Bonus**</mark>**&#x20;**_**(no, not a typo.)**_ |
+| <mark style="color:red;">**-50% Damage vs Players**</mark>                                |
+| <mark style="color:red;">**-337% Slower Firing Speed**</mark>                             |
+| <mark style="color:red;">**When Held: 20% Slower Move Speed on Wearer.**</mark>           |
+| <mark style="color:red;">**-63% Slower Reload Time**</mark>                               |
+| <mark style="color:red;">**-50% Projectile Speed**</mark>                                 |
+| <mark style="color:red;">**-150% Deploy/Holster Speed**</mark>                            |
+| <mark style="color:red;">**+200% Damage To Self**</mark>                                  |
+| <mark style="color:orange;">**On Hit: Slow target movement by 40% for 3.0s**</mark>       |
+| <mark style="color:orange;">**No Rocket Jumping.**</mark>                                 |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Attack Interval: 3.51</td><td>TEC: 3.51 seconds</td><td>Reload Time (First): 1.5 seconds</td><td>Reload Time (Consec.): 1.305 seconds</td><td>Full Reload Time: 1.5 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 999.9 per shot</td><td><strong>Real DPS:</strong> 199.58 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 284.871 DPS</td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 1249 per shot</td><td><strong>Real DPS:</strong> 249.301 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 355.84 DPS</td><td></td><td></td></tr></tbody></table>
 

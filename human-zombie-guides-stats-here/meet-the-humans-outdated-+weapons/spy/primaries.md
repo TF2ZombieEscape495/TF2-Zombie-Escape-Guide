@@ -31,7 +31,7 @@ If this weapon deals 567.8 damage while disguised, this means you could deal upw
 | **Weapon Spread: 100:1**                                      |
 | <mark style="color:blue;">**+75% Faster Firing Speed**</mark> |
 | <mark style="color:blue;">**+20% More Accurate**</mark>       |
-| <mark style="color:red;">**-36% Damage Penalty**</mark>       |
+| <mark style="color:red;">**-15% Damage Penalty**</mark>       |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Disguise Speed: 2.188</td><td>Attack Interval: 0.135</td><td>TEC: 2.43 seconds</td><td>Full Reload Time: 1.4 seconds</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 34 per shot</td><td><strong>Real DPS:</strong> 171.427 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 251.851 DPS</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 17 per shot</td><td><strong>Real DPS:</strong> 85.713 DPS</td><td>Clip DPS <em>(Nonstop)</em>: 125.925 DPS</td><td></td></tr></tbody></table>
 
