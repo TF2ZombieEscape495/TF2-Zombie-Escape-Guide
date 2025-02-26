@@ -8,11 +8,16 @@ description: >-
 # Useful Commands
 
 {% hint style="info" %}
-_<mark style="color:yellow;">**Note:**</mark>_ Each command is prefixed by an exclamation mark ( ! ) or a frontslash ( / ).&#x20;
+_<mark style="color:yellow;">**Note:**</mark>_ Each command is prefixed by an exclamation mark **( ! )** or a frontslash **( / )**.&#x20;
 
-Using an exclamation mark ( ! ) broadcasts your commands in chat.&#x20;
+* &#x20;Using an exclamation mark **( ! )** broadcasts your commands in chat.&#x20;
+* Using a frontslash **(/)** silences your commands, effectively stopping them from broadcasting in chat so long as the command is valid. Feel free to use it to avoid chat clutter or if you're feeling shy!
+{% endhint %}
 
-Using a frontslash (/) silences your commands, effectively stopping them from broadcasting in chat so long as the command is valid. Feel free to use it to avoid chat clutter or if you're feeling shy!
+{% hint style="info" %}
+<mark style="color:yellow;">**Note 2:**</mark> While somewhat relevant to commands, note that using custom configs or commands for frame-rate boosts _(like mastercomfig)_ will <mark style="color:red;">**VERY likely cause issues**</mark> with Zombie Escape such as crashing or having invisible models.
+
+Instead, if you want to save some frames you should try using the server's **hideteam** command listed below.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/IcQxz4lj (1).png" alt=""><figcaption></figcaption></figure>
