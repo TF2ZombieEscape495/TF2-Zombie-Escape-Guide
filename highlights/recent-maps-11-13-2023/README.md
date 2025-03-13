@@ -1,4 +1,4 @@
-# Recent Maps 1/26/2025
+# Recent Maps 3/13/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -11,6 +11,10 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 ##
 
 ## 2025:
+
+### 3/13/2025 Train Escape
+
+* **Train Escape added&#x20;**<mark style="color:yellow;">**\[CSS/CSGO Map]**</mark>
 
 ### 1/26/2025 Nostromo Redux
 
