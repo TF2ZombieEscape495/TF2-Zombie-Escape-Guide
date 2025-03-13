@@ -12,9 +12,10 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ## 2025:
 
-### 3/13/2025 Train Escape
+### 3/13/2025 Train & Rocket Escape
 
 * **Train Escape added&#x20;**<mark style="color:yellow;">**\[CSS/CSGO Map]**</mark>
+* **Rocket Escape added&#x20;**<mark style="color:yellow;">**\[CSS/CSGO Map]**</mark>
 
 ### 1/26/2025 Nostromo Redux
 
