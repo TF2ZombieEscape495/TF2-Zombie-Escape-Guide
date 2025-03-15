@@ -1,4 +1,4 @@
-# Recent Maps 3/13/2025
+# Recent Maps 3/14/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -11,6 +11,10 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 ##
 
 ## 2025:
+
+### 3/14/2025 Lila Panic Escape
+
+* **Lila Panic Escape added&#x20;**<mark style="color:yellow;">**\[CSS/CSGO Map]**</mark>**&#x20;\[9 Stages]**
 
 ### 3/13/2025 Train & Rocket Escape
 
