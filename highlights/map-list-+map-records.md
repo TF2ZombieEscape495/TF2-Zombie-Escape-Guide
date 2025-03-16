@@ -86,7 +86,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 49. <mark style="color:green;">**ze\_icecap\_escape\_v5\_skial33**</mark>**&#x20;&#x20;**_<mark style="color:yellow;">**(TF2 version)**</mark>_
 50. [<mark style="color:red;">**ze\_italy\_town\_skial\_2**</mark> ](#user-content-fn-33)[^33]
 51. <mark style="color:green;">**ze\_johnny\_nukem\_skial\_6**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
-52. <mark style="color:green;">**ze\_jurassic\_park\_story\_skial\_5**</mark>
+52. <mark style="color:green;">**ze\_jurassic\_park\_story\_skial\_5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 version)**</mark>_
 53. [<mark style="color:green;">**ze\_kitchen\_skial\_8**</mark>](#user-content-fn-34)[^34]
 54. [<mark style="color:green;">**ze\_krusty\_krab\_skial\_4**</mark>](#user-content-fn-35)[^35]   _<mark style="color:yellow;">**(TF2 bonus stages)**</mark>_
 55. [<mark style="color:green;">**ze\_l0v0l\_v1**</mark>](#user-content-fn-36)[^36]
