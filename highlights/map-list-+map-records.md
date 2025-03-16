@@ -16,7 +16,7 @@ coverY: 0
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`21 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`22 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -92,7 +92,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 55. [<mark style="color:red;">**ze\_laserheaven\_v2a**</mark>](#user-content-fn-37)[^37]   _<mark style="color:yellow;">**(TF2 map)**</mark>_
 56. [<mark style="color:red;">**ze\_laserhell\_v1\_1\_1\_1**</mark>](#user-content-fn-38)[^38]   _<mark style="color:yellow;">**(TF2 map)**</mark>_
 57. [<mark style="color:green;">**ze\_last\_man\_standing\_b1**</mark>](#user-content-fn-39)[^39]
-58. [<mark style="color:red;">**ze\_lila\_panic\_escape\_skial\_2**</mark>](#user-content-fn-40)[^40]
+58. [<mark style="color:green;">**ze\_lila\_panic\_escape\_skial\_2**</mark>](#user-content-fn-40)[^40]
 59. <mark style="color:green;">**ze\_lotr\_helms\_deep\_skial\_9**</mark>
 60. [<mark style="color:green;">**ze\_lotr\_minas\_tirith\_skial\_1**</mark>](#user-content-fn-41)[^41]<mark style="color:green;">**4**</mark>
 61. <mark style="color:green;">**ze\_lotr\_mines\_of\_moria\_skial\_4**</mark>
@@ -127,7 +127,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 90. <mark style="color:green;">**ze\_random\_skial\_7**</mark>&#x20;
 91. [<mark style="color:red;">**ze\_randomizer\_p2**</mark>](#user-content-fn-66)[^66] <mark style="color:purple;">**(LEADER)**</mark>
 92. [<mark style="color:green;">**ze\_rizomata\_skial\_8**</mark>](#user-content-fn-67)[^67]
-93. <mark style="color:green;">**ze\_rocket\_escape\_skial\_1**</mark>
+93. <mark style="color:red;">**ze\_rocket\_escape\_skial\_1**</mark>
 94. <mark style="color:green;">**ze\_rooftop\_runaway2\_v5\_skial\_5**</mark>
 95. [<mark style="color:green;">**ze\_rush\_b\_skial\_6**</mark>](#user-content-fn-68)[^68] <mark style="color:purple;">**(LEADER)**</mark>
 96. [<mark style="color:green;">**ze\_ryujin\_v3**</mark>](#user-content-fn-69)[^69]   _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
@@ -154,7 +154,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 117. <mark style="color:green;">**ze\_surf\_vortex\_skial\_6**</mark>
 118. <mark style="color:green;">**ze\_space\_station\_skial\_2**</mark>
 119. <mark style="color:green;">**ze\_swamp\_facility\_b2d**</mark>**&#x20;&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_
-120. <mark style="color:green;">**ze\_trainescape\_skial\_1**</mark>
+120. <mark style="color:red;">**ze\_trainescape\_skial\_1**</mark>
 121. [<mark style="color:green;">**ze\_tyranny2\_skial\_6**</mark>](#user-content-fn-83)[^83]
 122. <mark style="color:green;">**ze\_timesplitters\_skial\_2**</mark>
 123. <mark style="color:green;">**ze\_titanic\_skial\_13**</mark>
@@ -288,11 +288,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
     ![](<../.gitbook/assets/LMS EX5 Team Win.jpg>)
 
-[^40]: <mark style="color:yellow;">**Run Record:**</mark>
-
-    <mark style="color:orange;">**\[Stage 3/9]**</mark>
-
-    **\~record pending**
+[^40]: ![](<../.gitbook/assets/Lila Panic Escape Win.jpg>)
 
 [^41]: ![](<../.gitbook/assets/Minas Win.jpg>)
 
