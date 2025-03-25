@@ -20,7 +20,7 @@ coverY: 0
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`25 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`24 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -162,15 +162,15 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 121. <mark style="color:green;">**ze\_surf\_vortex\_skial\_6**</mark>
 122. <mark style="color:green;">**ze\_space\_station\_skial\_2**</mark>
 123. <mark style="color:green;">**ze\_swamp\_facility\_b2d**</mark>**&#x20;&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_
-124. <mark style="color:red;">**ze\_trainescape\_skial\_1**</mark>
-125. [<mark style="color:green;">**ze\_tyranny2\_skial\_6**</mark>](#user-content-fn-85)[^85]
+124. [<mark style="color:green;">**ze\_trainescape\_skial\_1**</mark>](#user-content-fn-85)[^85]
+125. [<mark style="color:green;">**ze\_tyranny2\_skial\_6**</mark>](#user-content-fn-86)[^86]
 126. <mark style="color:green;">**ze\_timesplitters\_skial\_2**</mark>
 127. <mark style="color:green;">**ze\_titanic\_skial\_13**</mark>
-128. [<mark style="color:green;">**ze\_uchiha\_legacy\_skial\_8**</mark>](#user-content-fn-86)[^86]
-129. [<mark style="color:green;">**ze\_visualizer\_skial\_3**</mark>](#user-content-fn-87)[^87] <mark style="color:purple;">**(LEADER)**</mark>
-130. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-88)[^88]
+128. [<mark style="color:green;">**ze\_uchiha\_legacy\_skial\_8**</mark>](#user-content-fn-87)[^87]
+129. [<mark style="color:green;">**ze\_visualizer\_skial\_3**</mark>](#user-content-fn-88)[^88] <mark style="color:purple;">**(LEADER)**</mark>
+130. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-89)[^89]
 131. <mark style="color:green;">**ze\_voodoo\_islands\_skial\_5**</mark>**&#x20;&#x20;**_<mark style="color:yellow;">**(Re-made as TF2 Map)**</mark>_
-132. [<mark style="color:red;">**ze\_warlab\_v5**</mark>](#user-content-fn-89)[^89] _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
+132. [<mark style="color:red;">**ze\_warlab\_v5**</mark>](#user-content-fn-90)[^90] _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
 
 [^1]: ![](<../.gitbook/assets/2049 win (1).jpg>)
 
@@ -428,15 +428,17 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
 [^84]: ![](<../.gitbook/assets/Surf Froyo Win.png>)
 
-[^85]: ![](<../.gitbook/assets/Tyranny2 Win.jpg>)
+[^85]: ![](<../.gitbook/assets/Train Escape Win (1).jpg>)
 
-[^86]: ![](<../.gitbook/assets/Uchiha Win.jpeg>)
+[^86]: ![](<../.gitbook/assets/Tyranny2 Win.jpg>)
 
-[^87]: ![](<../.gitbook/assets/Visualizer Win (2).jpg>)
+[^87]: ![](<../.gitbook/assets/Uchiha Win.jpeg>)
 
-[^88]: &#x20;![](<../.gitbook/assets/v0u0v Win.jpg>)
+[^88]: ![](<../.gitbook/assets/Visualizer Win (2).jpg>)
 
-[^89]: <mark style="color:yellow;">**Run Record:**</mark>\
+[^89]: &#x20;![](<../.gitbook/assets/v0u0v Win.jpg>)
+
+[^90]: <mark style="color:yellow;">**Run Record:**</mark>\
     <mark style="color:orange;">**\[Normal End Cleared]**</mark>
 
     _**\~Secret End pending win**_
