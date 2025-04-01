@@ -20,7 +20,7 @@ coverY: 0
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`24 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`23 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -153,7 +153,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 112. <mark style="color:green;">**ze\_squid\_game\_skial\_6**</mark>
 113. [<mark style="color:red;">**ze\_stalker\_ultimate\_s3**</mark>](#user-content-fn-81)[^81] <mark style="color:purple;">**(LEADER)**</mark>
 114. [<mark style="color:green;">**ze\_star\_wars\_prequel\_skial\_10**</mark>](#user-content-fn-82)[^82]
-115. [<mark style="color:red;">**ze\_street\_fight\_with\_autism\_v5\_s1**</mark>](#user-content-fn-83)[^83]
+115. [<mark style="color:green;">**ze\_street\_fight\_with\_autism\_v5\_s1**</mark>](#user-content-fn-83)[^83]
 116. <mark style="color:green;">**ze\_subway\_escape\_skial\_9**</mark>**&#x20;&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_
 117. <mark style="color:green;">**ze\_sunlight\_skial\_1**</mark>
 118. <mark style="color:green;">**ze\_super\_mario\_64\_skial\_3**</mark>
@@ -421,10 +421,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
 [^82]: ![](<../.gitbook/assets/Star Wars Win.jpg>)
 
-[^83]: <mark style="color:yellow;">**Run Record:**</mark>\
-    <mark style="color:orange;">**\[Stage 2/3]**</mark>
-
-    **\~Stage 1 won**
+[^83]: ![](<../.gitbook/assets/Street Fight Win.jpg>)
 
 [^84]: ![](<../.gitbook/assets/Surf Froyo Win.png>)
 
