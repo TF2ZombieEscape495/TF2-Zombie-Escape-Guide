@@ -18,7 +18,7 @@ coverY: 0
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`21 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`20 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -120,7 +120,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 81. [<mark style="color:red;">**ze\_outlast\_skial\_**</mark>](#user-content-fn-58)[^58]<mark style="color:red;">**6**</mark>
 82. [<mark style="color:green;">**ze\_otakuroom\_skial\_4**</mark> ](#user-content-fn-59)[^59]
 83. [<mark style="color:green;">**ze\_oot\_shadowtemple\_skial\_2**</mark>](#user-content-fn-60)[^60]
-84. [<mark style="color:red;">**ze\_palace\_of\_minolila\_skial\_**</mark>](#user-content-fn-61)[^61]<mark style="color:red;">**4**</mark>
+84. [<mark style="color:green;">**ze\_palace\_of\_minolila\_skial\_**</mark>](#user-content-fn-61)[^61]<mark style="color:green;">**4**</mark>
 85. [<mark style="color:green;">**ze\_parkour\_paradise\_v3d**</mark>](#user-content-fn-62)[^62] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_
 86. [<mark style="color:green;">**ze\_persona\_v3\_fix**</mark>](#user-content-fn-63)[^63]  _<mark style="color:yellow;">**(TF2 map)**</mark>_
 87. [<mark style="color:green;">**ze\_pirates\_port\_royal\_skial\_12**</mark>](#user-content-fn-64)[^64]
@@ -355,10 +355,8 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
 [^60]: ![](<../.gitbook/assets/Shadowtemple Win (1).PNG>)
 
-[^61]: <mark style="color:yellow;">**Run Record:**</mark>\
-    <mark style="color:orange;">**\[Stage 5/5]**</mark>
-
-    **\~Stage 5 Lasers**
+[^61]: \
+    ![](<../.gitbook/assets/Minolila Win.jpg>)
 
 [^62]: ![](<../.gitbook/assets/Parkour Paradise Win (1).jpg>)
 
