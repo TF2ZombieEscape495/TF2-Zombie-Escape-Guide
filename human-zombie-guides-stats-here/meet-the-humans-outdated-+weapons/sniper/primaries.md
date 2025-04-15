@@ -167,18 +167,18 @@ It's a weapon meant to make Snipers good enough at landing their shots, with the
 
 ## Classic   ![](<../../../.gitbook/assets/100px-Item_icon_Classic (1).png>)
 
-| Attributes                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="color:blue;">**+300% Damage Bonus**</mark>                                                                           |
-| <mark style="color:blue;">**+33.3% Damage vs Players**</mark>                                                                     |
-| <mark style="color:blue;">**+100% Charge Rate**</mark>                                                                            |
-| <mark style="color:red;">**-73.7% Damage on Body Shot**</mark>                                                                    |
-| <mark style="color:red;">**-275% Slower Move Speed when Aiming**</mark>                                                           |
-| <mark style="color:orange;">**No Headshots when not Fully Charged**</mark>                                                        |
-| <mark style="color:orange;">**Charge and Fire Shots Independant of Zoom**</mark>                                                  |
-| <mark style="color:orange;">**Headshots KB zombies, have a base dmg of 900 that ramps up the less humans there are alive**</mark> |
-| <mark style="color:orange;">**Fires tracer rounds (Hidden)**</mark>                                                               |
-| <mark style="color:orange;">**When Held: Sets weapon mode #3.0 (Hidden)**</mark>                                                  |
+| Attributes                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------- |
+| <mark style="color:blue;">**+300% Damage Bonus**</mark>                                                                                   |
+| <mark style="color:blue;">**+33.3% Damage vs Players**</mark>                                                                             |
+| <mark style="color:blue;">**+100% Charge Rate**</mark>                                                                                    |
+| <mark style="color:red;">**-73.7% Damage on Body Shot**</mark>                                                                            |
+| ~~<mark style="color:red;">**-275% Slower Move Speed when Aiming**</mark>~~ _<mark style="color:red;">**(Stat doesn't function)**</mark>_ |
+| <mark style="color:orange;">**No Headshots when not Fully Charged**</mark>                                                                |
+| <mark style="color:orange;">**Charge and Fire Shots Independant of Zoom**</mark>                                                          |
+| <mark style="color:orange;">**Headshots KB zombies, have a base dmg of 900 that ramps up the less humans there are alive**</mark>         |
+| <mark style="color:orange;">**Fires tracer rounds (Hidden)**</mark>                                                                       |
+| <mark style="color:orange;">**When Held: Sets weapon mode #3.0 (Hidden)**</mark>                                                          |
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>[Timings]</strong></mark></td><td>Scope-In Time: 1.5</td><td>Delay after Scope-In to Headshot: 0.15</td><td>Charge Time: 1.35</td><td>Attack Interval: 1.5</td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Physbox]</strong></mark></td><td>Base Damage: 200 per shot</td><td>Base Nonstop <strong>(Real)</strong> DPS [0% Charge]: 133.333</td><td>Base Nonstop <strong>(Real)</strong> DPS [Full Charge]: 200</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Damage [Func_Breakable]</strong></mark></td><td>Base Damage: 100 per shot</td><td>Base Nonstop DPS [0% Charge]: 66.666</td><td>Base Nonstop DPS [Full Charge]: 100</td><td></td></tr></tbody></table>
 
