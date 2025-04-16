@@ -1,4 +1,4 @@
-# Legacy Maps 1/7/2025
+# Legacy Maps
 
 {% hint style="info" %}
 **Maps that were /once/ within the nomination pool but&#x20;**<mark style="color:red;">**removed from the server**</mark>**&#x20;due to any number of reasons - most commonly due to causing server issues. (A-Z)**
@@ -20,6 +20,8 @@ Some of these are admin-only nominations and you might see them on EU or as an e
 * <mark style="color:yellow;">**ze\_dodge\_or\_die**</mark>
 * <mark style="color:yellow;">**ze\_expedition**</mark>
 * <mark style="color:yellow;">**ze\_experiment**</mark>
+* <mark style="color:yellow;">**ze\_ffxii\_mt\_bur\_omisace\_v6**</mark>**&#x20;(removed for crashing)**
+* <mark style="color:yellow;">**ze\_ffxii\_westersand\_skial\_3**</mark>&#x20;
 * <mark style="color:yellow;">**ze\_halloween\_house**</mark>**&#x20;(11/9/2024 Halloween-seasonal only map)**
 * <mark style="color:yellow;">**ze\_harry\_potter**</mark>
 * <mark style="color:yellow;">**ze\_honkai\_impact\_cyberpunk\_city**</mark>
