@@ -1,4 +1,4 @@
-# Recent Maps 3/14/2025
+# Recent Maps 4/17/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -11,6 +11,12 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 ##
 
 ## 2025:
+
+### 4/17/2025 - M0w0m B4 (Returning, New Ver)
+
+* [**ze\_m0w0m\_b4**](https://gamebanana.com/mods/130856) <mark style="color:yellow;">**\[CSS Map]**</mark>**&#x20;\[6 Stages w/NEW items, layouts, boss hp = bullet counter, npcs = damage counter]**
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### 3/14/2025 Lila Panic Escape
 

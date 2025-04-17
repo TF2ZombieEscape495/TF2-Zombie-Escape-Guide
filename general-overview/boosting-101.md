@@ -6,7 +6,7 @@ description: The terminology section just wasn't enough to cut it for boosting, 
 
 ## Boosting!
 
-Off the get-go, boosting in Zombie Escape is an action of launching <mark style="color:red;">**zombies**</mark> _**towards**_ a defending team - or the map's objective in enough of a way to hinder a team into losing a defense, or even the round. Even if it was done unintentionally, it's still widely regarded as a _'**boost,'**_ such as a Soldier who just wants to build a [**Conch**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/soldier/secondaries.md#concheror) to help the team healthy, but launches a zombie into the backlines of defense with explosion splash or into an area where zombies will have a height advantage. Generally, boosting can be highly detrimental and this is here to give insight as to how to do it **less.**
+Off the get-go, boosting in Zombie Escape is an action of launching <mark style="color:red;">**zombies**</mark> _**towards**_ a defending team - or the map's objective in enough of a way to hinder a team into losing a defense, or even the round. Even if it was done unintentionally, it's still widely regarded as a _'**boost,'**_ such as a Soldier who just wants to build a [**Conch**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/soldier/secondaries.md#concheror) to help the team healthy, but launches a zombie into the frontliners of defense with explosion splash or into an area where zombies will have a height advantage. Generally, boosting can be highly detrimental and this is here to give insight as to how to do it **less.**
 
 ## **Z-Velocity Stats?**
 

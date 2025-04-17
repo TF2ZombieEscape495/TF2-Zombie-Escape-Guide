@@ -4,10 +4,10 @@
 
 ## ⭐ Highlights
 
-* [(NEW) Bhopping](highlights/bhopping.md)
-* [(NEW) !zload](highlights/new-zload.md)
+* [Bhopping](highlights/bhopping.md)
+* [!zload](highlights/zload.md)
 * [Gamemode Changes 1/22/2025](highlights/balance-changes-11-18-2023.md)
-* [Recent Maps 3/14/2025](highlights/recent-maps-11-13-2023/README.md)
+* [Recent Maps 4/17/2025](highlights/recent-maps-11-13-2023/README.md)
   * [Legacy Maps](highlights/recent-maps-11-13-2023/legacy-maps.md)
 * [Map List (+Map Records!)](highlights/map-list-+map-records.md)
 
