@@ -14,7 +14,7 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ### 4/17/2025 - M0w0m B4 (Returning, New Ver)
 
-* [**ze\_m0w0m\_b4**](https://gamebanana.com/mods/130856) <mark style="color:yellow;">**\[CSS Map]**</mark>**&#x20;\[6 Stages w/NEW items, layouts, boss hp = bullet counter, npcs = damage counter]**
+* [**ze\_m0w0m\_b4**](https://gamebanana.com/mods/130856) <mark style="color:yellow;">**\[CSS Map]**</mark>**&#x20;**<mark style="color:purple;">**\[LEADER NOM]**</mark>**&#x20;\[6 Stages w/NEW items, layouts, boss hp = bullet counter, npcs = damage counter]**
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
