@@ -14,11 +14,11 @@ coverY: 0
 {% hint style="success" %}
 #### These are all color coded by all known completions _\[at least once]_ in the community; &#x20;
 
-#### <mark style="color:red;">\~At least have a Relatively Full</mark> <mark style="color:red;"></mark>_<mark style="color:red;">(Usually 30-ish), Non-Friendly S</mark>_<mark style="color:red;">erver. Usually Normal; might exempt for very casual maps.</mark>
+#### <mark style="color:red;">\~At least have a Relatively Full</mark> <mark style="color:red;"></mark>_<mark style="color:red;">(Usually 30-ish), Non-Friendly S</mark>_<mark style="color:red;">erver. Usually Normal; might exempt for very casual maps.</mark> <mark style="color:red;"></mark>_<mark style="color:red;">Eg death star, Eerie, Italy...</mark>_
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`19 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`20 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -102,7 +102,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 63. <mark style="color:green;">**ze\_lotr\_mines\_of\_moria\_skial\_4**</mark>
 64. [<mark style="color:green;">**ze\_luciddreams\_v3\_6\_f2**</mark>](#user-content-fn-44)[^44] **(Old Version)** <mark style="color:purple;">**(LEADER)**</mark>
 65. [<mark style="color:green;">**ze\_luciddreams\_b1**</mark>](#user-content-fn-45)[^45] **(New Version)&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
-66. [<mark style="color:green;">**ze\_m0w0m\_b4\_f1**</mark> ](#user-content-fn-46)[^46]<mark style="color:purple;">**(LEADER)**</mark>
+66. [<mark style="color:red;">**ze\_m0w0m\_b4\_f1**</mark>](#user-content-fn-46)[^46] <mark style="color:purple;">**(LEADER)**</mark>
 67. [<mark style="color:green;">**ze\_meatropolis\_skial\_2**</mark>](#user-content-fn-47)[^47] <mark style="color:purple;">**(LEADER)**</mark>
 68. [<mark style="color:green;">**ze\_minecraft\_adventure\_skial\_6**</mark> ](#user-content-fn-48)[^48]
 69. <mark style="color:green;">**ze\_minecraft\_universe\_skial\_2**</mark>
@@ -301,7 +301,12 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
 [^45]: ![](<../.gitbook/assets/Luciddreams Win (1).PNG>)
 
-[^46]: ![](<../.gitbook/assets/M0w0M Win.jpg>)
+[^46]: _(record reset due to map re-port w/new version changes)_
+
+    <mark style="color:yellow;">**Run Record:**</mark>\
+    <mark style="color:orange;">**\[Stage 6/6]**</mark>
+
+    **\~Pending record...**
 
 [^47]: ![](<../.gitbook/assets/Meatropolis Win.PNG>)
 
