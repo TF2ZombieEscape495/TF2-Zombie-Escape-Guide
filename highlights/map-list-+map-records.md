@@ -18,7 +18,7 @@ coverY: 0
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`20 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`19 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -114,7 +114,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 75. [<mark style="color:green;">**ze\_nostromo\_redux\_s2**</mark>](#user-content-fn-54)[^54]
 76. [<mark style="color:red;">**ze\_obj\_filth\_skial\_3**</mark>](#user-content-fn-55)[^55] <mark style="color:purple;">**(LEADER)**</mark>
 77. [<mark style="color:red;">**ze\_obj\_npst\_tf2\_f1**</mark>](#user-content-fn-56)[^56] <mark style="color:purple;">**(LEADER)**</mark>
-78. [<mark style="color:red;">**ze\_obj\_rampage\_skial\_**</mark>](#user-content-fn-57)[^57]<mark style="color:red;">**2**</mark> <mark style="color:purple;">**(LEADER)**</mark>
+78. [<mark style="color:green;">**ze\_obj\_rampage\_skial\_2**</mark>](#user-content-fn-57)[^57] <mark style="color:purple;">**(LEADER)**</mark>
 79. [<mark style="color:green;">**ze\_offliner\_skial\_1**</mark>](#user-content-fn-58)[^58] <mark style="color:purple;">**(LEADER)**</mark>
 80. [<mark style="color:red;">**ze\_outlast\_skial\_**</mark>](#user-content-fn-59)[^59]<mark style="color:red;">**6**</mark>
 81. [<mark style="color:green;">**ze\_otakuroom\_skial\_4**</mark> ](#user-content-fn-60)[^60]
@@ -334,11 +334,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
     **\~Roughly 15% of map**
 
-[^57]: <mark style="color:yellow;">**Run Record:**</mark>
-
-    <mark style="color:orange;">**\[Stage 1/1]**</mark>
-
-    **\~First surface area defense (outside)**
+[^57]: ![](<../.gitbook/assets/OBJ Rampage Win.png>)
 
 [^58]: ![](<../.gitbook/assets/Offliner Win (2).png>)
 
