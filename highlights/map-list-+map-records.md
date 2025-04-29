@@ -18,7 +18,7 @@ coverY: 0
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`20 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`19 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -65,7 +65,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 26. [<mark style="color:green;">**ze\_DOOM\_skial\_3**</mark>](#user-content-fn-18)[^18]&#x20;
 27. [<mark style="color:green;">**ze\_dreamin\_b2**</mark> ](#user-content-fn-19)[^19] <mark style="color:purple;">**(LEADER)**</mark>
 28. [<mark style="color:green;">**ze\_echo\_boatescape\_extended\_s1**</mark>](#user-content-fn-20)[^20]
-29. [<mark style="color:red;">**ze\_eerie\_escape\_redux\_s2**</mark>](#user-content-fn-21)[^21] <mark style="color:purple;">**(LEADER)**</mark>
+29. [<mark style="color:green;">**ze\_eerie\_escape\_redux\_s2**</mark>](#user-content-fn-21)[^21] <mark style="color:purple;">**(LEADER)**</mark>
 30. [<mark style="color:green;">**ze\_evernight\_skial\_1**</mark>](#user-content-fn-22)[^22]
 31. [<mark style="color:green;">**ze\_fall\_guys\_skial\_2**</mark>](#user-content-fn-23)[^23]
 32. [<mark style="color:green;">**ze\_fapescape\_rote\_skial\_9**</mark>](#user-content-fn-24)[^24]
@@ -221,11 +221,8 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
 [^20]: ![](../.gitbook/assets/20241124092444_1.jpg)
 
-[^21]: <mark style="color:yellow;">**Run Record:**</mark>
+[^21]: ![](<../.gitbook/assets/eerie win.png>)\
 
-    <mark style="color:orange;">**\[Stage 3/8]**</mark>
-
-    **\~spinner lasers**
 
 [^22]: ![](<../.gitbook/assets/Evernight Win.png>)
 
