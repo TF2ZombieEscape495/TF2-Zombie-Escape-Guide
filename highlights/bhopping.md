@@ -4,12 +4,12 @@ cover: ../.gitbook/assets/bhop-commands-1024x576.jpg
 coverY: 28
 ---
 
-# (NEW) Bhopping
+# Bhopping
 
 _This page has received a small touchup to be on the forefront now that real bhopping is enabled on TF2 ZE!_
 
 {% hint style="warning" %}
-Bhopping is toggled in-game through the use of <mark style="color:yellow;">**!bhop or an sm\_bhop bind**</mark>**&#x20;- it is off by default.(?)**\
+Bhopping is toggled in-game through the use of <mark style="color:yellow;">**!bhop or an sm\_bhop bind**</mark>**&#x20;- it should be on by default.**\
 \
 **Some maps may disable bhopping mechanics on specific stages or throughout the whole map.**
 {% endhint %}
