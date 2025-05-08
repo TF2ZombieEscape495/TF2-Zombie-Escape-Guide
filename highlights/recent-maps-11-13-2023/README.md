@@ -1,4 +1,4 @@
-# Recent Maps 4/17/2025
+# Recent Maps 5/8/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -11,6 +11,10 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 ##
 
 ## 2025:
+
+### 5/8/2025 - Alien Shooter
+
+* [**ze\_alien\_shooter**](https://gamebanana.com/mods/130618) <mark style="color:yellow;">**\[CSS Map]**</mark> **\[1 Stage, 5 Items, 2 Bosses, Lasers]**
 
 ### 4/17/2025 - M0w0m B4 (Returning, New Ver)
 
