@@ -11,6 +11,9 @@ coverY: 0
 
 ## Maps available to play: 131 maps [_<mark style="color:blue;">(last updated 4/17/2025)</mark>_](recent-maps-11-13-2023/)
 
+* 58 Leader-Only Nominable Maps - tagged with <mark style="color:purple;">**LEADER**</mark>
+* 73 Non-Leader Nominable Maps
+
 {% hint style="success" %}
 #### These are all color coded by all known completions _\[at least once]_ in the community; &#x20;
 
@@ -143,7 +146,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 104. [<mark style="color:green;">**ze\_scp\_skial\_4**</mark>](#user-content-fn-77)[^77] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
 105. [<mark style="color:green;">**ze\_serpentis\_temple\_skial\_4**</mark>](#user-content-fn-78)[^78] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[5 Stages]**
 106. [<mark style="color:green;">**ze\_shroomforest\_skial\_7**</mark> ](#user-content-fn-79)[^79] **(Shroom1) \[7 Stages]**
-107. [<mark style="color:green;">**ze\_shroomforest2\_skial\_1**</mark> ](#user-content-fn-80)[^80] **(Shroom2)** <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[7 Stages]**
+107. [<mark style="color:green;">**ze\_shroomforest2\_skial\_1**</mark> ](#user-content-fn-80)[^80] **(Shroom2)** **\[7 Stages]**
 108. [<mark style="color:green;">**ze\_shroomforest3\_skial\_1**</mark> ](#user-content-fn-81)[^81] **(Shroom3) \[7 Stages]**
 109. [<mark style="color:green;">**ze\_sonic\_3\_skial\_3**</mark>](#user-content-fn-82)[^82] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[2 Stages]**
 110. <mark style="color:green;">**ze\_sorrento\_escape\_skial\_2**</mark>**&#x20;\[4 Stages]**
