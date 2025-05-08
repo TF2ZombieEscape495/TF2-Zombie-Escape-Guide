@@ -66,11 +66,11 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 27. [<mark style="color:green;">**ze\_dreamin\_b2**</mark> ](#user-content-fn-19)[^19] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[4 Stages]**
 28. [<mark style="color:green;">**ze\_echo\_boatescape\_extended\_s1**</mark>](#user-content-fn-20)[^20] **\[1 Stage]**
 29. [<mark style="color:green;">**ze\_eerie\_escape\_redux\_s2**</mark>](#user-content-fn-21)[^21] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[7 Stages + Bonus Stage]**
-30. [<mark style="color:green;">**ze\_evernight\_skial\_1**</mark>](#user-content-fn-22)[^22] **\[3 Stages]**
+30. [<mark style="color:green;">**ze\_evernight\_skial\_1**</mark>](#user-content-fn-22)[^22] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[3 Stages]**
 31. [<mark style="color:green;">**ze\_fall\_guys\_skial\_2**</mark>](#user-content-fn-23)[^23] **\[1 Stage]**
-32. [<mark style="color:green;">**ze\_fapescape\_rote\_skial\_9**</mark>](#user-content-fn-24)[^24] **\[6 Stages]**
+32. [<mark style="color:green;">**ze\_fapescape\_rote\_skial\_9**</mark>](#user-content-fn-24)[^24] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[6 Stages]**
 33. <mark style="color:green;">**ze\_fapescape\_skial\_4**</mark>**&#x20;\[6 Stages]**
-34. <mark style="color:green;">**ze\_ffvii\_cosmo\_canyon\_b1**</mark>**&#x20;(v5) \[4 Stages]**
+34. <mark style="color:green;">**ze\_ffvii\_cosmo\_canyon\_b1**</mark>**&#x20;(v5)&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[4 Stages]**
 35. [<mark style="color:green;">**ze\_ffvii\_mako\_reactor\_skial\_13**</mark>](#user-content-fn-25)[^25] **(v5, Classic Version) \[4 Stages]**
 36. [<mark style="color:green;">**ze\_ffvii\_mako\_reactor\_v6\_b5**</mark>](#user-content-fn-26)[^26]  **(v6, New Version) \[5 Stages]**
 37. [<mark style="color:green;">**ze\_ffvii\_malgo\_reactor\_v5\_s4fix**</mark>](#user-content-fn-27)[^27] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[6 Stages + 2 Bonus]**
@@ -91,10 +91,10 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 52. <mark style="color:green;">**ze\_jurassic\_park\_story\_skial\_5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 version)**</mark>_**&#x20;\[1 Stage]**
 53. [<mark style="color:green;">**ze\_jurassicpark\_skial\_1**</mark>](#user-content-fn-35)[^35] _**(similar name ^ but diff map)**_**&#x20;\[1 Stage]**
 54. [<mark style="color:green;">**ze\_kitchen\_skial\_8**</mark>](#user-content-fn-36)[^36] **\[3 Stages]**
-55. [<mark style="color:green;">**ze\_krusty\_krab\_skial\_4**</mark>](#user-content-fn-37)[^37]   _<mark style="color:yellow;">**(TF2 bonus stages)**</mark>_**&#x20;\[3 Stages + Truth Ending]**
+55. [<mark style="color:green;">**ze\_krusty\_krab\_skial\_4**</mark>](#user-content-fn-37)[^37]   _<mark style="color:yellow;">**(TF2 bonus stages)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark> **\[3 Stages + Truth Ending]**
 56. [<mark style="color:green;">**ze\_l0v0l\_v1**</mark>](#user-content-fn-38)[^38] **\[4 Stages]**
 57. [<mark style="color:red;">**ze\_laserheaven\_v2a**</mark>](#user-content-fn-39)[^39]   _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[3 Stages + Bonus]**
-58. [<mark style="color:red;">**ze\_laserhell\_v1\_1\_1\_1**</mark>](#user-content-fn-40)[^40]   _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[2 Stages + 4 Stage 2 Alts]**
+58. [<mark style="color:red;">**ze\_laserhell\_v1\_1\_1\_1**</mark>](#user-content-fn-40)[^40]   _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark> **\[2 Stages + 4 Stage 2 Alts]**
 59. [<mark style="color:green;">**ze\_last\_man\_standing\_b1**</mark>](#user-content-fn-41)[^41] **\[10 Stages]**
 60. [<mark style="color:green;">**ze\_lila\_panic\_escape\_skial\_2**</mark>](#user-content-fn-42)[^42] **\[9 Stages]**
 61. <mark style="color:green;">**ze\_lotr\_helms\_deep\_skial\_9**</mark>**&#x20;\[1 Stage]**
@@ -105,7 +105,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 66. [<mark style="color:red;">**ze\_m0w0m\_b4\_f1**</mark>](#user-content-fn-46)[^46] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[6 Stages]**
 67. [<mark style="color:green;">**ze\_meatropolis\_skial\_2**</mark>](#user-content-fn-47)[^47] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[3 Stages]**
 68. [<mark style="color:green;">**ze\_minecraft\_adventure\_skial\_6**</mark> ](#user-content-fn-48)[^48] **\[4 Stages]**
-69. <mark style="color:green;">**ze\_minecraft\_universe\_skial\_2**</mark>**&#x20;\[1 Stage]**
+69. <mark style="color:green;">**ze\_minecraft\_universe\_skial\_2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
 70. [<mark style="color:green;">**ze\_minimal\_skial\_2**</mark>](#user-content-fn-49)[^49] <mark style="color:purple;">**(LEADER)**</mark>**\[4 Stages]**
 71. [<mark style="color:green;">**ze\_mist\_skial\_3**</mark>](#user-content-fn-50)[^50] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
 72. [<mark style="color:green;">**ze\_neochrome\_b1**</mark>](#user-content-fn-51)[^51] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
@@ -116,9 +116,9 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 77. [<mark style="color:red;">**ze\_obj\_npst\_tf2\_f1**</mark>](#user-content-fn-56)[^56] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**&#x20;
 78. [<mark style="color:green;">**ze\_obj\_rampage\_skial\_2**</mark>](#user-content-fn-57)[^57] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
 79. [<mark style="color:green;">**ze\_offliner\_skial\_1**</mark>](#user-content-fn-58)[^58] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
-80. [<mark style="color:red;">**ze\_outlast\_skial\_**</mark>](#user-content-fn-59)[^59]<mark style="color:red;">**6**</mark>**&#x20;\[2 Stages]**
+80. [<mark style="color:red;">**ze\_outlast\_skial\_**</mark>](#user-content-fn-59)[^59]<mark style="color:red;">**6**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[2 Stages]**
 81. [<mark style="color:green;">**ze\_otakuroom\_skial\_4**</mark> ](#user-content-fn-60)[^60]**\[3 Stages]**
-82. [<mark style="color:green;">**ze\_oot\_shadowtemple\_skial\_2**</mark>](#user-content-fn-61)[^61] **\[1 Stage]**
+82. [<mark style="color:green;">**ze\_oot\_shadowtemple\_skial\_2**</mark>](#user-content-fn-61)[^61] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
 83. [<mark style="color:green;">**ze\_palace\_of\_minolila\_skial\_**</mark>](#user-content-fn-62)[^62]<mark style="color:green;">**4**</mark>**&#x20;\[5 Stages + Bonus]**
 84. [<mark style="color:green;">**ze\_parkour\_paradise\_v3d**</mark>](#user-content-fn-63)[^63] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[4 Stages + 3 Bonus]**
 85. [<mark style="color:green;">**ze\_persona\_v3\_fix**</mark>](#user-content-fn-64)[^64]  _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[3 Stages]**
