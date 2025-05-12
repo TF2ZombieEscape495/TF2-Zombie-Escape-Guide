@@ -1,16 +1,20 @@
-# Recent Maps 5/8/2025
+# Recent Maps 5/12/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
 
 If you're looking for the [**entire map list (or dying to know what maps&#x20;**_**aren't**_**&#x20;completed yet), then check here.**](../map-list-+map-records.md)\
 \
-&#xNAN;_**(Moved this out of being a subheader so its easier to glance)**_
+&#xNAN;_**(Moved this out of being a subheader so its easier to notice new maps via date tag)**_
 {% endhint %}
 
 ##
 
 ## 2025:
+
+### 5/12/2025 - Cartender
+
+* **ze\_cartender&#x20;**<mark style="color:yellow;">**\[TF2-made Map]**</mark>**&#x20;\[1 Stage, 1 Boss, Lasers]**
 
 ### 5/8/2025 - Alien Shooter
 
