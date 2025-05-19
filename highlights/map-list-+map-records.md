@@ -11,8 +11,8 @@ coverY: 0
 
 ## Maps available to play: 133 maps [_<mark style="color:blue;">(last updated 5/12/2025)</mark>_](recent-maps-11-13-2023/)
 
-* 73 Non-Leader Nominable Maps
-* 60 Leader-Only Nominable Maps - tagged with <mark style="color:purple;">**LEADER**</mark>
+* 72 Non-Leader Nominable Maps
+* 61 Leader-Only Nominable Maps - tagged with <mark style="color:purple;">**LEADER**</mark>
 
 {% hint style="success" %}
 #### These are all color coded by all known completions _\[at least once]_ in the community; &#x20;
@@ -57,7 +57,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 15. [<mark style="color:green;">**ze\_blackmesa\_escape\_final\_s1**</mark>](#user-content-fn-10)[^10] **\[1 Stage]**
 16. <mark style="color:green;">**ze\_bowser\_in\_the\_fire\_sea\_skial\_6**</mark>**&#x20;\[6 Stages]**
 17. [<mark style="color:green;">**ze\_breezy\_**</mark>](#user-content-fn-11)[^11]<mark style="color:green;">**v5**</mark>**&#x20;&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[3 Stages]**
-18. <mark style="color:red;">**ze\_cartender**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage]**
+18. <mark style="color:red;">**ze\_cartender**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
 19. <mark style="color:green;">**ze\_challenger\_skial4**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage]**
 20. [<mark style="color:red;">**ze\_chroma\_k1**</mark>](#user-content-fn-12)[^12] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
 21. [<mark style="color:green;">**ze\_crazy\_escape\_skial\_2**</mark>](#user-content-fn-13)[^13] **\[3 Stages]**
@@ -96,7 +96,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 54. <mark style="color:green;">**ze\_jurassic\_park\_story\_skial\_5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 version)**</mark>_**&#x20;\[1 Stage]**
 55. [<mark style="color:green;">**ze\_jurassicpark\_skial\_1**</mark>](#user-content-fn-36)[^36] _**(similar name ^ but diff map)**_**&#x20;\[1 Stage]**
 56. [<mark style="color:green;">**ze\_kitchen\_skial\_8**</mark>](#user-content-fn-37)[^37] **\[3 Stages]**
-57. [<mark style="color:green;">**ze\_krusty\_krab\_skial\_4**</mark>](#user-content-fn-38)[^38]  _<mark style="color:yellow;">**(TF2 bonus stages)**</mark>_ **\[3 Stages + Truth Ending]**
+57. [<mark style="color:green;">**ze\_krusty\_krab\_skial\_4**</mark>](#user-content-fn-38)[^38]  _<mark style="color:yellow;">**(TF2 bonus stages)**</mark>_**&#x20;\[3 Stages + Truth Ending]**
 58. [<mark style="color:green;">**ze\_l0v0l\_v1**</mark>](#user-content-fn-39)[^39] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[4 Stages]**&#x20;
 59. [<mark style="color:red;">**ze\_laserheaven\_v2a**</mark>](#user-content-fn-40)[^40]   _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[3 Stages + Bonus]**
 60. [<mark style="color:red;">**ze\_laserhell\_v1\_1\_1\_1**</mark>](#user-content-fn-41)[^41]   _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[2 Stages + 4 Stage 2 Alts]**
