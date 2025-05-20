@@ -2,9 +2,15 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 1/22/2025
+# Gamemode Changes 5/20/2025
 
 ## 2025&#x20;
+
+### 5/20/2025 Hide Adjustment
+
+* Auto Hide Team implemented (this hides people VERY close to you; within 100 units, basically have to be standing on you or next to you)
+  * Is always on regardless of **hideteam** command being toggled.
+  * hides **item users and leader too** _(does not hide the item itself if it has an icon/model)_
 
 ### 1/22/2025 Weapon KB Fixes
 
