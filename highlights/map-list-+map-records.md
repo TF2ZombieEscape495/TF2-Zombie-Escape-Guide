@@ -21,7 +21,7 @@ coverY: 0
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`17 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`16 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -129,7 +129,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 87. [<mark style="color:green;">**ze\_persona\_v3\_fix**</mark>](#user-content-fn-66)[^66]  _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[3 Stages]**
 88. [<mark style="color:green;">**ze\_pirates\_port\_royal\_skial\_12**</mark>](#user-content-fn-67)[^67] **\[5 Stages + Bonus]**
 89. [<mark style="color:green;">**ze\_pokemon\_adventure\_skial\_11**</mark>](#user-content-fn-68)[^68] **\[3 Stages]**
-90. [<mark style="color:red;">**ze\_pkmn\_adventure\_s1**</mark>](#user-content-fn-69)[^69] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[5 Stages]**
+90. [<mark style="color:green;">**ze\_pkmn\_adventure\_s1**</mark> ](#user-content-fn-69)[^69]<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[5 Stages]**
 91. [<mark style="color:green;">**ze\_portal\_story\_skial\_6**</mark>](#user-content-fn-70)[^70] **\[3 Stages]**
 92. <mark style="color:green;">**ze\_predator\_ultimate\_skial\_3**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[4 Stages]**
 93. <mark style="color:green;">**ze\_quicksand\_v1e**</mark>**&#x20; &#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[4 Stages + Bonus]**
@@ -365,10 +365,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
 [^68]: ![](<../.gitbook/assets/Pokemon Win.jpg>)
 
-[^69]: <mark style="color:yellow;">**Run Record:**</mark>\
-    <mark style="color:orange;">**\[Stage 5/5]**</mark>
-
-    **\~Stage 5 start no extends left**
+[^69]: ![](<../.gitbook/assets/pkmn adventure win (1).jpg>)
 
 [^70]: ![](<../.gitbook/assets/Portal Win.jpg>)
 
