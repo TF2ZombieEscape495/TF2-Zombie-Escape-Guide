@@ -21,7 +21,7 @@ coverY: 0
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`18 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`17 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -107,7 +107,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 65. <mark style="color:green;">**ze\_lotr\_mines\_of\_moria\_skial\_4**</mark>**&#x20;\[1 Stage]**
 66. [<mark style="color:green;">**ze\_luciddreams\_v3\_6\_f2**</mark>](#user-content-fn-46)[^46] **(Old Version)** **\[1 Stage]**
 67. [<mark style="color:green;">**ze\_luciddreams\_b1**</mark>](#user-content-fn-47)[^47] **(New Version)&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
-68. [<mark style="color:red;">**ze\_m0w0m\_b4\_f1**</mark>](#user-content-fn-48)[^48] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[6 Stages]**
+68. [<mark style="color:green;">**ze\_m0w0m\_b4\_f1**</mark>](#user-content-fn-48)[^48] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[6 Stages]**
 69. [<mark style="color:green;">**ze\_meatropolis\_skial\_2**</mark>](#user-content-fn-49)[^49] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[3 Stages]**
 70. [<mark style="color:green;">**ze\_minecraft\_adventure\_skial\_6**</mark> ](#user-content-fn-50)[^50] **\[4 Stages]**
 71. <mark style="color:green;">**ze\_minecraft\_universe\_skial\_2**</mark> **\[1 Stage]**
@@ -307,12 +307,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
 [^47]: ![](<../.gitbook/assets/Luciddreams Win (1).PNG>)
 
-[^48]: _(record reset due to map re-port w/new version changes)_
-
-    <mark style="color:yellow;">**Run Record:**</mark>\
-    <mark style="color:orange;">**\[Stage 6/6]**</mark>
-
-    **\~Pending record...**
+[^48]: ![](<../.gitbook/assets/m0w0m new win.png>)
 
 [^49]: ![](<../.gitbook/assets/Meatropolis Win.PNG>)
 
