@@ -17,11 +17,11 @@ coverY: 0
 {% hint style="success" %}
 #### These are all color coded by all known completions _\[at least once]_ in the community; &#x20;
 
-#### <mark style="color:red;">\~At least have a Relatively Full</mark> <mark style="color:red;"></mark>_<mark style="color:red;">(Usually 30-ish), Non-Friendly S</mark>_<mark style="color:red;">erver. Usually Normal; might exempt for very casual maps.</mark> <mark style="color:red;"></mark>_<mark style="color:red;">Eg Italy...</mark>_
+#### <mark style="color:red;">\~At least have a Relatively Full</mark> <mark style="color:red;"></mark>_<mark style="color:red;">(Usually 30-ish), Non-Friendly S</mark>_<mark style="color:red;">erver. Usually on Normal; might exempt for very casual maps.</mark>
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`15 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`14 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -91,7 +91,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 49. <mark style="color:green;">**ze\_hydroponic\_garden\_s\_2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[4 Stages]**
 50. <mark style="color:green;">**ze\_icecap\_escape\_skial\_o2**</mark>**&#x20;\[1 Stage]**
 51. <mark style="color:green;">**ze\_icecap\_escape\_v5\_skial33**</mark>**&#x20;&#x20;**_<mark style="color:yellow;">**(TF2 version)**</mark>_**&#x20;\[1 Stage]**
-52. [<mark style="color:red;">**ze\_italy\_town\_skial\_2**</mark> ](#user-content-fn-36)[^36] **\[4 Stages]**
+52. [<mark style="color:green;">**ze\_italy\_town\_skial\_2**</mark>](#user-content-fn-36)[^36]  **\[4 Stages]**
 53. <mark style="color:green;">**ze\_johnny\_nukem\_skial\_6**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[3 Stages]**
 54. <mark style="color:green;">**ze\_jurassic\_park\_story\_skial\_5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 version)**</mark>_**&#x20;\[1 Stage]**
 55. [<mark style="color:green;">**ze\_jurassicpark\_skial\_1**</mark>](#user-content-fn-37)[^37] _**(similar name ^ but diff map)**_**&#x20;\[1 Stage]**
@@ -261,11 +261,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
 [^35]: ![](<../.gitbook/assets/Banban Win.png>)
 
-[^36]: <mark style="color:yellow;">**Run Record:**</mark>
-
-    <mark style="color:orange;">**\[Stage 1/4]**</mark>
-
-    **\~Record Pending**
+[^36]: ![](<../.gitbook/assets/italy win.png>)
 
 [^37]: ![](<../.gitbook/assets/Jurassic Park (css) Win.jpg>)
 
