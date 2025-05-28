@@ -58,7 +58,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 16. [<mark style="color:green;">**ze\_blackmesa\_escape\_final\_s1**</mark>](#user-content-fn-11)[^11] **\[1 Stage]**
 17. <mark style="color:green;">**ze\_bowser\_in\_the\_fire\_sea\_skial\_6**</mark>**&#x20;\[6 Stages]**
 18. [<mark style="color:green;">**ze\_breezy\_**</mark>](#user-content-fn-12)[^12]<mark style="color:green;">**v5**</mark>**&#x20;&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[3 Stages]**
-19. [<mark style="color:green;">**ze\_cartender\_v1\_6**</mark> ](#user-content-fn-13)[^13]_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
+19. [<mark style="color:green;">**ze\_cartender\_v1\_6**</mark> ](#user-content-fn-13)[^13]_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage - 3 Endings]**
 20. <mark style="color:green;">**ze\_challenger\_skial4**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage]**
 21. [<mark style="color:red;">**ze\_chroma\_k1**</mark>](#user-content-fn-14)[^14] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
 22. [<mark style="color:green;">**ze\_crazy\_escape\_skial\_2**</mark>](#user-content-fn-15)[^15] **\[3 Stages]**
