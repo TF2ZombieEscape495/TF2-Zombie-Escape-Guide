@@ -1,4 +1,4 @@
-# Recent Maps 5/27/2025
+# Recent Maps 5/28/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -11,6 +11,10 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 ##
 
 ## 2025:
+
+### 5/28/2025 - Licciana Escape
+
+* **ze\_licciana\_escape** <mark style="color:yellow;">**\[CS Map]**</mark>
 
 ### 5/27/2025 - Arctic Escape
 
