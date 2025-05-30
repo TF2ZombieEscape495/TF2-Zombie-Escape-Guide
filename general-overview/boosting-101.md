@@ -8,12 +8,6 @@ description: The terminology section just wasn't enough to cut it for boosting, 
 
 Off the get-go, boosting in Zombie Escape is an action of launching <mark style="color:red;">**zombies**</mark> _**towards**_ a defending team - or the map's objective in enough of a way to hinder a team into losing a defense, or even the round. Even if it was done unintentionally, it's still widely regarded as a _'**boost,'**_ such as a Soldier who just wants to build a [**Conch**](../human-zombie-guides-stats-here/meet-the-humans-outdated-+weapons/soldier/secondaries.md#concheror) to help the team healthy, but launches a zombie into the frontliners of defense with explosion splash or into an area where zombies will have a height advantage. Generally, boosting can be highly detrimental and this is here to give insight as to how to do it **less.**
 
-## **Z-Velocity Stats?**
-
-_<mark style="color:yellow;">**Minus**</mark>_<mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**Z-Velocity**</mark> is an attribute that can be found on several custom weapons _(and this is explained on their respective pages too)_ to outright circumvent boosting concerns; _(Direct Hit, Loose Cannon, Flare Gun, and Mannmelter.)_&#x20;
-
-_But what does it do?_ Instead of 'boosting' the zombies vertically into the sky or onto a ledge where the zombie will have an advantageous momentum - <mark style="color:yellow;">**Minus Z-Velocity**</mark> will effectively 'spike' them downwards upon taking damage from any weapons with this attribute. _Incredibly_ useful if you need to deny zombie(s) from jumping over an object or ledge as they'll be repeatedly be forced down!
-
 ## Whose to blame?
 
 Boosting in TF2 ZE is most _commonly_ correlated with the Soldier class the moment a zombie goes flying into an overhead spot or spells the end of a vital defense - but they're <mark style="color:yellow;">**not the only one that can do it!**</mark>&#x20;
@@ -29,8 +23,14 @@ In fact, technically _**any**_ class can 'boost' in certain conditions, such as 
   * **Flares**
 * <mark style="color:blue;">**Demoman**</mark>
   * Grenades
-* <mark style="color:blue;">**Engineer**</mark>
-  * Mini-Sentries
+
+## ~~**Z-Velocity Stats?**~~
+
+~~_<mark style="color:yellow;">**Minus**</mark>_<mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**Z-Velocity**</mark> is an attribute that can be found on several custom weapons _(and this is explained on their respective pages too)_ to outright circumvent boosting concerns; _(Direct Hit, Loose Cannon, Flare Gun, and Mannmelter.)_~~&#x20;
+
+~~_But what does it do?_ Instead of 'boosting' the zombies vertically into the sky or onto a ledge where the zombie will have an advantageous momentum - <mark style="color:yellow;">**Minus Z-Velocity**</mark> will effectively 'spike' them downwards upon taking damage from any weapons with this attribute. _Incredibly_ useful if you need to deny zombie(s) from jumping over an object or ledge as they'll be repeatedly be forced down!~~
+
+Currently does not appear to be working, may need to re-verify on all weapons that have this attribute.
 
 ## Speed-Boosting
 
