@@ -12,10 +12,12 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ## 2025:
 
-### 6/2/2025 - Dangerous Waters & Raccoon Facility
+### 6/2/2025 - 4 New Map Ports
 
 * **ze\_dangerous\_waters** <mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
 * **ze\_raccoon\_facility\_skial\_1** <mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
+* **ZE\_INDUSTRIAL\_DEJAVU\_skial\_1** <mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]**
+* **ze\_inboxed\_skial\_1** <mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]**
 
 ### 5/28/2025 - Licciana Escape
 
