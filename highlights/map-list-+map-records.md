@@ -11,7 +11,7 @@ coverY: 0
 
 ## Maps available to play: 137 maps [_<mark style="color:blue;">(last updated 6/2/2025)</mark>_](recent-maps-11-13-2023/)
 
-* 75 Non-Leader Nominable Maps
+* 76 Non-Leader Nominable Maps
 * 61 Leader-Only Nominable Maps - tagged with <mark style="color:purple;">**LEADER**</mark>
 
 {% hint style="success" %}
