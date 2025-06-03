@@ -1,4 +1,4 @@
-# Recent Maps 5/28/2025
+# Recent Maps 6/2/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -12,9 +12,14 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ## 2025:
 
+### 6/2/2025 - Dangerous Waters & Raccoon Facility
+
+* **ze\_dangerous\_waters** <mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
+* **ze\_raccoon\_facility\_skial\_1** <mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
+
 ### 5/28/2025 - Licciana Escape
 
-* **ze\_licciana\_escape** <mark style="color:yellow;">**\[CS Map]**</mark>
+* **ze\_licciana\_escape** <mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
 
 ### 5/27/2025 - Arctic Escape
 
