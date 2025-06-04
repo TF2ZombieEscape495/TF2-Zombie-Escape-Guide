@@ -19,7 +19,7 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 * **ze\_industrial\_dejavu** <mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]**
 * **ze\_inboxed** <mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]**
 * **ze\_raccoon\_facility** <mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
-* **ze\_star\_wars&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[5 Stages]**
+* **ze\_star\_wars&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[6 Stages]**
 * **ze\_venice\_escape&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
 
 ### 5/28/2025 - Licciana Escape
