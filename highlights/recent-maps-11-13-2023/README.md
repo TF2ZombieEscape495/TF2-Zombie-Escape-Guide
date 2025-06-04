@@ -12,13 +12,14 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ## 2025:
 
-### 6/3/2025 - 6 New Map Ports
+### 6/3/2025 - 7 New Map Ports
 
 * **ze\_biohazard2\_sewer&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
 * **ze\_dangerous\_waters** <mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
-* **ZE\_INDUSTRIAL\_DEJAVU** <mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]**
+* **ze\_industrial\_dejavu** <mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]**
 * **ze\_inboxed** <mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]**
 * **ze\_raccoon\_facility** <mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
+* **ze\_star\_wars&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[5 Stages]**
 * **ze\_venice\_escape&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
 
 ### 5/28/2025 - Licciana Escape
