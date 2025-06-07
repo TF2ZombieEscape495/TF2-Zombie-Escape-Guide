@@ -20,7 +20,6 @@ Some of these are admin-only nominations and you might see them on EU or as an e
 * <mark style="color:yellow;">**ze\_expedition**</mark>
 * <mark style="color:yellow;">**ze\_experiment**</mark>
 * <mark style="color:yellow;">**ze\_ffxii\_mt\_bur\_omisace\_v6**</mark>**&#x20;(removed for crashing)**
-* <mark style="color:yellow;">**ze\_ffxii\_westersand\_skial\_3**</mark>&#x20;
 * <mark style="color:yellow;">**ze\_halloween\_house**</mark>**&#x20;(11/9/2024 Halloween-seasonal only map)**
 * <mark style="color:yellow;">**ze\_harry\_potter**</mark>
 * <mark style="color:yellow;">**ze\_honkai\_impact\_cyberpunk\_city**</mark>
