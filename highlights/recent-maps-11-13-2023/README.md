@@ -1,4 +1,4 @@
-# Recent Maps 6/3/2025
+# Recent Maps 6/10/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -11,6 +11,10 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 ##
 
 ## 2025:
+
+### 6/10/2025 - Simpsons Escape Extreme
+
+* **ze\_simpsons\_escape\_extreme&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages +&#x20;**<mark style="color:yellow;">**TF2 Bonus Stage**</mark>**]**
 
 ### 6/3/2025 - 7 New Map Ports
 
