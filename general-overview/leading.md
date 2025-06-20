@@ -9,7 +9,7 @@ description: Breakdowns of what a Leader does.
 {% hint style="info" %}
 #### Skial's Zombie Escape server offers a leader plugin in the form of <mark style="color:yellow;">**`/vl [Player Name]`**</mark>
 
-You need <mark style="color:yellow;">**5**</mark> <mark style="color:yellow;">**people**</mark> to type this command with the player they would like to vote to be leader so they may have access to the leader commands. In the package comes a neat little tag above their head to indicate that they're in charge of the ~~sh‎it~~show!
+You need <mark style="color:yellow;">**7**</mark> <mark style="color:yellow;">**people**</mark> to type this command with the player they would like to vote to be leader so they may have access to the leader commands. In the package comes a neat little tag above their head to indicate that they're in charge of the ~~sh‎it~~show!
 
 \
 Although leader is **immune** to becoming autobalanced; _leader functions other than <mark style="color:yellow;">**!transferleader playername**</mark> are intentionally disabled upon becoming infected/dying to 'encourage' passing the mantle to another Human who can lead the rest of the round._

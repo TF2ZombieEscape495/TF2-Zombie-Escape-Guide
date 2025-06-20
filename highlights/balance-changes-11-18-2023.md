@@ -2,9 +2,13 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 5/20/2025
+# Gamemode Changes 6/20/2025
 
 ## 2025&#x20;
+
+### 6/20/2025 - /vl Requirement Bump
+
+* **/vl now needs 7&#x20;**_**(formerly 5)**_**&#x20;Human players to vote a leader in.**
 
 ### 5/20/2025 Hide Adjustment
 
