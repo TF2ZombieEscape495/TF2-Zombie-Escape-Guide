@@ -20,7 +20,7 @@ layout:
 
 # Mod Mechanics
 
-### <mark style="color:blue;">Humans</mark>
+## <mark style="color:blue;">Humans</mark>
 
 * Have access to weapons modified from base-game TF2
 * Different classes with unique playstyles, strengths, and weaknesses
@@ -29,7 +29,7 @@ layout:
 
 Round is won when the Human team has "escaped" the map, survived long enough, or completed all objectives. Round is lost when all humans become infected, die or they fail one of the map's conditions.
 
-### <mark style="color:red;">Zombies</mark>
+## <mark style="color:red;">Zombies</mark>
 
 * Have tremendously increased HP
 * Have a near-instant respawn
@@ -61,26 +61,22 @@ As a <mark style="color:red;">**Zombie**</mark>, you will have to have either ju
 <mark style="color:yellow;">**Why am I Zombie Twice sometimes?**</mark> After being picked as a _**mother-zombie**_**,** you will be placed at the back of the queue and will not have to worry about auto-infection for some time, until your queue rolls along to a high enough priority.
 
 <mark style="color:yellow;">**Per every 24 hours you will have ONE auto-infect 'immunity' upon joining, preventing you from becoming a zombie for the current/or next starting round.**</mark>
-
-**If you've expended this immunity and late-join into an ongoing round, you still might be&#x20;**_**very likely**_**&#x20;to get selected as a mother-zombie.**
-
-_Check or bind the_ [_**ze\_queue**_](useful-commands.md) _command to know whether or not you'll be zombie next round._
 {% endhint %}
 
 ### Round Timer
 
 At the top of the screen during rounds, you'll notice a timer. When it reaches <mark style="color:yellow;">**zero**</mark>, the Human team will automatically lose. In most cases, it will be unreasonable to reach this since you would have to stall out at certain areas for an exceedingly long time. Some maps, however, have timers that may just _barely_ be enough to complete the stage.
 
-### Map Votes
+## Map Votes
 
 * A vote will be triggered for the next map at <mark style="color:yellow;">**6:00**</mark> on the **Map Timer** viewable on the Scoreboard _**(Not to be mistaken with the Round-Timer)**_&#x20;
 * Players will be able to either extend the current map or vote for the next map among a selection that has been randomly selected or player-nominated.
 * Humans losing <mark style="color:yellow;">**3**</mark> times in a row disables the map extension. It can be regained by Humans winning the round _after_ the 3rd loss in a row before the automatic vote has been triggered. Each map is typically limited to <mark style="color:yellow;">**2**</mark> extensions.
 * If the team restarts a round before reaching <mark style="color:yellow;">**5:00**</mark> on the Map Timer, they will be able to play a round of the map before leaving.
-* After a map has been played, it will be on cooldown. Players will not be able to nominate and play that map until enough other maps have been cycled through. _<mark style="color:yellow;">**(Currently 3 Map CD)**</mark>_
+* After a map has been played, it will be on cooldown. Players will not be able to nominate and play that map until enough other maps have been cycled through. _<mark style="color:yellow;">**(Currently 3 map CD for non-leader maps, and a SHARED 2 map CD for leader maps)**</mark>_
 * Players may also force a map vote if enough people use the **RTV** command after <mark style="color:yellow;">**30 seconds**</mark> of a map change; or through the usage of Skial Credits _(That method will always show a 'Don't Change' option to extend.)_
 
-### Modes
+## Modes
 
 <mark style="color:orange;">**Normal Difficulty**</mark> - _The standard way to play. Currently no modifiers._
 

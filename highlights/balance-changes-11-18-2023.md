@@ -2,9 +2,13 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 6/20/2025
+# Gamemode Changes 6/25/2025
 
 ## 2025&#x20;
+
+### 6/25/2025 Leader Map CD
+
+* 2 Map Shared Cooldown added for all leader maps - you must play 2 normal maps in-between each leader map.
 
 ### 6/20/2025 - /vl Requirement Bump
 

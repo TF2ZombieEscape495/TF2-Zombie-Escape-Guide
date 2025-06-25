@@ -12,7 +12,7 @@ coverY: 0
 ## Maps available to play: 144 maps [_<mark style="color:blue;">(last updated 6/10/2025)</mark>_](recent-maps-11-13-2023/)
 
 * 80 Non-Leader Nominable Maps
-* 63 Leader-Only Nominable Maps - tagged with <mark style="color:purple;">**LEADER**</mark>
+* 64 Leader-Only Nominable Maps - tagged with <mark style="color:purple;">**LEADER**</mark>
 
 {% hint style="success" %}
 #### These are all color coded by all known completions _\[at least once]_ in the community; &#x20;
@@ -158,7 +158,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 116. [<mark style="color:green;">**ze\_shroomforest\_skial\_7**</mark> ](#user-content-fn-88)[^88] **(Shroom1) \[7 Stages]**
 117. [<mark style="color:green;">**ze\_shroomforest2\_skial\_1**</mark> ](#user-content-fn-89)[^89] **(Shroom2)** **\[7 Stages]**
 118. [<mark style="color:green;">**ze\_shroomforest3\_skial\_1**</mark> ](#user-content-fn-90)[^90] **(Shroom3) \[7 Stages]**
-119. <mark style="color:red;">**ze\_simpsons\_escape\_extreme\_a3\_2**</mark>**&#x20;**<mark style="color:purple;">**(**</mark><mark style="color:purple;">**LEADER)**</mark> **\[4 Stages +&#x20;**<mark style="color:yellow;">**TF2 Bonus Stage**</mark>**]**
+119. <mark style="color:red;">**ze\_simpsons\_escape\_extreme\_a3\_2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark> **\[4 Stages +&#x20;**<mark style="color:yellow;">**TF2 Bonus Stage**</mark>**]**
 120. [<mark style="color:green;">**ze\_sonic\_3\_skial\_3**</mark>](#user-content-fn-91)[^91] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[2 Stages]**
 121. <mark style="color:green;">**ze\_sorrento\_escape\_skial\_2**</mark>**&#x20;\[4 Stages]**
 122. <mark style="color:green;">**ze\_squid\_game\_skial\_6**</mark>**&#x20;\[1 Stage]**
