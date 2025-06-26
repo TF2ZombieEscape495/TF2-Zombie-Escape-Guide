@@ -10,9 +10,10 @@ description: A place to quickly find gamemode to Skial ZE changes by date.
 
 * 2 Map Shared Cooldown added for all leader maps - you must play 2 normal maps in-between each leader map.
 
-### 6/20/2025 - /vl Requirement Bump
+### ~~6/20/2025 - /vl Requirement Bump~~
 
-* **/vl now needs 7&#x20;**_**(formerly 5)**_**&#x20;Human players to vote a leader in.**
+* ~~**/vl now needs 7****&#x20;**_**(formerly 5)**_**&#x20;****Human players to vote a leader in.**~~
+* **reverted**
 
 ### 5/20/2025 Hide Adjustment
 
