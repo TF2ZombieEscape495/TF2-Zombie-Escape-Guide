@@ -16,7 +16,7 @@ Currently, you are restricted to <mark style="color:green;">**3 charges (uses)**
 
 _**Almost any**_ Zombie Escape modified weapon can be zloaded - _albeit if its a disabled weapon_ in the gamemode _<mark style="color:red;">**(currently Boots, Mantreads, Base Jumper, Thermal Thruster, Disciplinary Action...)**</mark>_ - then it will just force you onto something else like a Flare Gun or Shotgun regardless of the text implying you're given it.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Example Uses:
 

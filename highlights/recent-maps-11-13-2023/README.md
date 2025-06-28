@@ -52,7 +52,7 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 * [**ze\_m0w0m\_b4**](https://gamebanana.com/mods/130856) <mark style="color:yellow;">**\[CSS Map]**</mark>**&#x20;**<mark style="color:purple;">**\[LEADER NOM]**</mark>**&#x20;\[6 Stages w/NEW items, layouts, boss hp = bullet counter, npcs = damage counter]**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 3/14/2025 Lila Panic Escape
 
