@@ -21,7 +21,7 @@ coverY: 0
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-<mark style="color:yellow;">**`19 Incomplete Maps Remaining...`**</mark>
+<mark style="color:yellow;">**`20 Incomplete Maps Remaining...`**</mark>
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -125,7 +125,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 83. [<mark style="color:red;">**ze\_night\_cinema\_s1**</mark>](#user-content-fn-59)[^59] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[6 Stages]**
 84. [<mark style="color:green;">**ze\_nomada\_h5**</mark> ](#user-content-fn-60)[^60]<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[3 Stages]**
 85. [<mark style="color:green;">**ze\_nostromo\_redux\_s2**</mark>](#user-content-fn-61)[^61] **\[1 Stage]**
-86. [<mark style="color:red;">**ze\_obj\_filth\_skial\_3**</mark>](#user-content-fn-62)[^62] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
+86. [<mark style="color:green;">**ze\_obj\_filth\_skial\_3**</mark>](#user-content-fn-62)[^62] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
 87. [<mark style="color:red;">**ze\_obj\_npst\_tf2\_f1**</mark>](#user-content-fn-63)[^63] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**&#x20;
 88. [<mark style="color:green;">**ze\_obj\_rampage\_skial\_2**</mark>](#user-content-fn-64)[^64] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
 89. [<mark style="color:green;">**ze\_offliner\_skial\_1**</mark>](#user-content-fn-65)[^65] <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
@@ -354,11 +354,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 
     **\~1/3rd of map (reached split water-way area)**
 
-[^63]: <mark style="color:yellow;">**Run Record:**</mark>
-
-    <mark style="color:orange;">**\[Stage 1/1]**</mark>
-
-    **\~Roughly 15% of map**
+[^63]: ![](<../.gitbook/assets/obj NPST win.png>)
 
 [^64]: ![](<../.gitbook/assets/OBJ Rampage Win.png>)
 
