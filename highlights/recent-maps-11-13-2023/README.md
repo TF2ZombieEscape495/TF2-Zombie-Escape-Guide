@@ -1,4 +1,4 @@
-# Recent Maps 6/10/2025
+# Recent Maps 6/28/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -11,6 +11,12 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 ##
 
 ## 2025:
+
+### 6/28/2025 - 3 New Map Ports
+
+* **ze\_roof\_adventure&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]**
+* **ze\_elevator\_escape&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
+* **ze\_silent\_hill\_2\_illusion&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[3 Stages]**
 
 ### 6/10/2025 - Simpsons Escape Extreme
 

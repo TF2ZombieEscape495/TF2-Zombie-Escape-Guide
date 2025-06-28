@@ -2,9 +2,13 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 6/25/2025
+# Gamemode Changes 6/28/2025
 
 ## 2025&#x20;
+
+### 6/25/2025 Legacy Anti-Boosting code re-added
+
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ### 6/25/2025 Leader Map CD
 
