@@ -15,7 +15,7 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 ### 6/30/2025 - 2 New Map Ports
 
 * **ze\_rooftop\_rogue&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]**
-* **ze\_potc&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]**
+* **ze\_potc&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
 
 ### 6/28/2025 - 3 New Map Ports
 
