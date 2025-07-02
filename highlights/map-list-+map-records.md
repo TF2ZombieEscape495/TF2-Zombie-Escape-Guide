@@ -198,7 +198,7 @@ _**`[The numerical listing doesn't mean anything; it just helps track map total 
 ## RED STATUS/UNCLEARED MAPS
 
 {% hint style="info" %}
-These don't add to the map count above, they're just a means of easily listing/tracking what maps aren't GREEN (cleared) yet.
+**These&#x20;**_**don't**_**&#x20;add to the map count above, they're just a means of easily listing/tracking what maps aren't&#x20;**<mark style="color:green;">**GREEN**</mark>**&#x20;(cleared) yet.**
 {% endhint %}
 
 * <mark style="color:red;">**ze\_chroma\_k1**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
