@@ -190,7 +190,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 30. [<mark style="color:green;">**ze\_l0v0l\_v1**</mark>](#user-content-fn-71)[^71] **\[4 Stages]**&#x20;
 31. [<mark style="color:red;">**ze\_laserheaven\_v2a**</mark>](#user-content-fn-72)[^72]   _<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[3 Stages + Bonus]**
 32. [<mark style="color:green;">**ze\_last\_man\_standing\_b1**</mark>](#user-content-fn-73)[^73]  **\[10 Stages]**
-33. [<mark style="color:green;">**ze\_lotr\_minas\_tirith\_skial\_1**</mark>](#user-content-fn-74)[^74]<mark style="color:green;">**4**</mark> **\[8 Stages]**
+33. [<mark style="color:green;">**ze\_lotr\_minas\_tirith\_skial\_1**</mark>](#user-content-fn-74)[^74]<mark style="color:green;">**4**</mark>**&#x20;\[8 Stages]**
 34. [<mark style="color:green;">**ze\_luciddreams\_b1**</mark>](#user-content-fn-75)[^75] **(New Version)** **\[1 Stage]**
 35. [<mark style="color:green;">**ze\_m0w0m\_b4\_f1**</mark>](#user-content-fn-76)[^76] **\[6 Stages]**
 36. [<mark style="color:green;">**ze\_meatropolis\_skial\_2**</mark>](#user-content-fn-77)[^77] **\[3 Stages]**
@@ -217,7 +217,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 57. [<mark style="color:green;">**ze\_S\_A\_M\_skial\_9**</mark>](#user-content-fn-96)[^96] **\[5 Stages]**
 58. [<mark style="color:green;">**ze\_sandstone\_v2**</mark>](#user-content-fn-97)[^97]   _<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[4 Stages + Bonus]**
 59. [<mark style="color:green;">**ze\_serpentis\_temple\_skial\_4**</mark>](#user-content-fn-98)[^98] **\[5 Stages]**
-60. <mark style="color:red;">**ze\_simpsons\_escape\_extreme\_a3\_2**</mark> **\[4 Stages +&#x20;**<mark style="color:yellow;">**TF2 Bonus Stage**</mark>**]**
+60. <mark style="color:red;">**ze\_simpsons\_escape\_extreme\_a3\_2**</mark>**&#x20;\[4 Stages +&#x20;**<mark style="color:yellow;">**TF2 Bonus Stage**</mark>**]**
 61. [<mark style="color:green;">**ze\_sonic\_3\_skial\_3**</mark>](#user-content-fn-99)[^99] **\[2 Stages]**
 62. [<mark style="color:red;">**ze\_stalker\_ultimate\_s3**</mark>](#user-content-fn-100)[^100] **\[5 Stages]**
 63. [<mark style="color:green;">**ze\_tyranny2\_skial\_6**</mark>](#user-content-fn-101)[^101] **\[5 Stages]**
