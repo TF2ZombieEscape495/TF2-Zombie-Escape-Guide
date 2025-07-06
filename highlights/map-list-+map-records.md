@@ -123,7 +123,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 53. <mark style="color:green;">**ze\_random\_skial\_7**</mark>**&#x20;\[1 Stage - 3 (of) 9 Random Levels]**
 54. [<mark style="color:green;">**ze\_rocket\_escape\_skial\_1**</mark>](#user-content-fn-36)[^36] **\[1 Stage]**
 55. <mark style="color:red;">**ze\_roof\_adventure\_skial\_2**</mark>**&#x20;\[4 Stages]**
-56. <mark style="color:green;">**ze\_rooftop\_runaway2\_v5\_skial\_5**</mark>**&#x20;\[1 Stage]**
+56. <mark style="color:green;">**ze\_rooftop\_runaway1\_skial\_1**</mark>**&#x20;\[1 Stage]**
 57. [<mark style="color:green;">**ze\_rooftop\_rogue\_skial\_2**</mark> ](#user-content-fn-37)[^37] **\[4 Stages]**
 58. [<mark style="color:red;">**ze\_santassination\_s4**</mark>](#user-content-fn-38)[^38] **\[4 Stages - Truth Ending]**
 59. <mark style="color:green;">**ze\_saw\_final\_skial\_9**</mark>**&#x20;\[1 Stage]**
@@ -155,7 +155,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 ## **Leader Maps**
 
 {% hint style="info" %}
-**These maps can only be nominated by someone with the in-game&#x20;**<mark style="color:purple;">**LEADER**</mark>**&#x20;status and have a separate (2) map cooldown between Leader maps on top of the (5) cooldown.**
+**These maps can only be nominated by someone with the in-game&#x20;**<mark style="color:purple;">**LEADER**</mark>**&#x20;status.**
 {% endhint %}
 
 1. [<mark style="color:green;">**ze\_2049\_tf2\_f3**</mark> ](#user-content-fn-49)[^49]**\[2 Stages]**
