@@ -2,9 +2,14 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 6/30/2025
+# Gamemode Changes 7/10/2025
 
 ## 2025&#x20;
+
+### 7/10/2025 - Leader System Changes
+
+* Global whistle sound on leader marker placement
+* (ADMIN ONLY) Admin can make another player co-leader
 
 ### 6/30/2025 KB + Scorch Shot Adjust
 
