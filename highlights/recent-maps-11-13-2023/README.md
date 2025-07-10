@@ -14,7 +14,7 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ### 7/10/2025 - Ridorana Port
 
-* **ze\_ridorana\_cataract&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]**
+* **ze\_ffxii\_ridorana\_cataract&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]**
 
 ### 6/30/2025 - 2 New Map Ports
 
