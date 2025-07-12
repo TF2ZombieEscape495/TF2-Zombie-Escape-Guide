@@ -2,9 +2,24 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 7/10/2025
+# Gamemode Changes 7/11/2025
 
 ## 2025&#x20;
+
+### 7/11/2025 - Pandemic Mode addition
+
+* **New modifier-based difficulty added; you can vote for it after the end of a map vote to apply some 'kickers' to the next map (non-leader only) entirely.**&#x20;
+* <mark style="color:yellow;">**At the start of the round 2 kickers are chosen randomly out of this list - these will change randomly between every round reset:**</mark>
+  * **Low Gravity**
+  * **All mobility enabled&#x20;**_**(Rocket jumping, demo jumping, etc.)**_
+  * **Faster Enzymes**
+  * **1 Touch Infect**
+  * **Tiny Zombies**
+  * **Low Friction**
+  * **Faster Zombies**
+  * **Exploding Zombies**
+  * **Faster Bunny Hopping**
+* <mark style="color:red;">**There is a small chance that ALL of the above can be applied to a round simultaneously.**</mark>
 
 ### 7/10/2025 - Leader System Changes
 
