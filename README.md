@@ -5,20 +5,6 @@ description: >-
 icon: biohazard
 cover: .gitbook/assets/d5b3d8dadd770c460b1cde910a711987.jpg
 coverY: 87.4888558692422
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # What is Zombie Escape?

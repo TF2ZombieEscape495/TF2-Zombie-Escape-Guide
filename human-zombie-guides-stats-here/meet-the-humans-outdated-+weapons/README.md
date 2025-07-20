@@ -2,17 +2,6 @@
 description: >-
   The all in one compendium for /every/ TF2 ZE weapon. Probably what you're
   really looking for here.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Meet The Humans (+Weapons!)

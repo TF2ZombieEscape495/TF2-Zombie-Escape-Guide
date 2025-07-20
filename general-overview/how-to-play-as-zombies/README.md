@@ -1,16 +1,5 @@
 ---
 description: As a Zombie (RED team), your objective is to kill all the humans!
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # How to Play as Zombies
