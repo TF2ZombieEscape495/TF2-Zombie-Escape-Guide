@@ -12,12 +12,22 @@ description: Breakdowns of what a Leader does.
 You need <mark style="color:yellow;">**5**</mark> <mark style="color:yellow;">**people**</mark> to type this command with the player they would like to vote to be leader so they may have access to the leader commands. In the package comes a neat little tag above their head to indicate that they're in charge of the ~~sh‎it~~show!
 
 \
-Although leader is **immune** to becoming autobalanced; _leader functions other than <mark style="color:yellow;">**!transferleader playername**</mark> are intentionally disabled upon becoming infected/dying to 'encourage' passing the mantle to another Human who can lead the rest of the round._
+Although leader is **immune** to becoming autobalanced; _leader functions other than <mark style="color:yellow;">**!transferleader playername**</mark> are intentionally disabled upon becoming infected/dying to encourage passing the mantle to another Human who can lead the rest of the round._&#x20;
+
+
 {% endhint %}
+
+## Markers
 
 <figure><img src="../.gitbook/assets/leader tag.png" alt=""><figcaption></figcaption></figure>
 
-To activate leader actions, you must use TF2's voice commands. Each action below will indicate which voice-line to use. Additionally, a distance parameter is shown underneath the action name that changes depending on how far away one is from a marker.
+To activate leader actions, you must use TF2's voice commands. Each action below will indicate which voice-line to use.&#x20;
+
+Additionally, a distance parameter is shown underneath the action name that changes depending on how far away one is from a marker.&#x20;
+
+Markers can also be used on most **entities** to **Highlight** them a certain color - for example a specific trap, door, etc.
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If you don't have any of these hotkeys binded or find it easier to have them all in one area, you can bind the <mark style="color:yellow;">**!leadermenu**</mark> chat command to open a panel that will allow you to place them.
@@ -46,6 +56,13 @@ If you don't have any of these hotkeys binded or find it easier to have them all
     This action places a <mark style="color:purple;">**"Follow Me"**</mark> marker **above the leader's head**, indicating that your teammates should come to you. The marker will remain active for a few seconds.&#x20;
 
     <figure><img src="../.gitbook/assets/Follow Me.png" alt=""><figcaption><p>Move Up!</p></figcaption></figure>
+
+## Mini Leaders
+
+Mini leaders are effectively co-leaders assignable by the main leader that can place markers _(shared on a global cooldown)_ for people to stick around in case the map has several splits.\
+
+
+Mini leaders are not immune to starting auto-infect.
 
 ## How do I efficiently lead?
 

@@ -60,16 +60,19 @@ At the top of the screen during rounds, you'll notice a timer. When it reaches <
 * Humans losing <mark style="color:yellow;">**3**</mark> times in a row disables the map extension. It can be regained by Humans winning the round _after_ the 3rd loss in a row before the automatic vote has been triggered. Each map is typically limited to <mark style="color:yellow;">**2**</mark> extensions.
 * If the team restarts a round before reaching <mark style="color:yellow;">**5:00**</mark> on the Map Timer, they will be able to play a round of the map before leaving.
 * After a map has been played, it will be on cooldown. Players will not be able to nominate and play that map until enough other maps have been cycled through. _<mark style="color:yellow;">**(Currently 5 map CD)**</mark>_
-* Players may also force a map vote if enough people use the **RTV** command after <mark style="color:yellow;">**30 seconds**</mark> of a map change; or through the usage of Skial Credits _(That method will always show a 'Don't Change' option to extend.)_
+* Players may also force a map vote if enough people use the **RTV** command after <mark style="color:yellow;">**500 seconds**</mark> of a map change; or through the usage of Skial Credits _(That method will always show a 'Don't Change' option to extend.)_
 
 ## Modes
 
-<mark style="color:orange;">**Normal Difficulty**</mark> - _The standard way to play. Currently no modifiers._
+### <mark style="color:orange;">**Normal Difficulty**</mark>&#x20;
+
+_The standard way to play. Currently no modifiers._
 
 * As the standard difficulty, it's the **only** way _(new)_ community map records/progress will count towards being completed. View [**Map Records**](../highlights/map-list-+map-records.md) notes for any additional requirements.
 
-\
-<mark style="color:green;">**Casual Difficulty**</mark> - _A more relaxed take on the game mode, useful for learning or practicing a map:_
+### <mark style="color:green;">**Casual Difficulty**</mark>&#x20;
+
+_A more relaxed take on the game mode, useful for learning or practicing a map:_
 
 * **Humans take less damage,** _(**-30% Map Damage Reduction**; Stackable with Battalions.)_
 * Friction is disabled; **tl;dr generally allowing zombies to take more knockback.**
@@ -77,6 +80,28 @@ At the top of the screen during rounds, you'll notice a timer. When it reaches <
 * Even individual _**pellets**_ will slow zombies from afar, granting _**solo-stalling capability almost exponentially.**_
 
 _The server will automatically engage a vote for <mark style="color:green;">**Casual Difficulty**</mark> after <mark style="color:yellow;">**(2)**</mark> consecutive losses at the start of the following round; until a win is achieved._
+
+### <mark style="color:yellow;">**Pandemic Mode**</mark>
+
+**A modifier-based sub-difficulty; you can vote for it after the end of a map vote to apply some 'kickers' to the next map.**&#x20;
+
+**Vote will not prompted for when selecting a&#x20;**<mark style="color:purple;">**Leader**</mark>**&#x20;map - this mode is meant to spice up some of the less interesting maps like Boat, Atix, etc**
+
+* Co-exists on top of either Casual or Normal mode
+* Requires **60%** of yes votes to enable
+* Will remain enabled until next map is RTVed and cannot be turned off for the duration of map
+  * Players can RTV out of maps with Pandemic mode enabled within a minute
+* <mark style="color:yellow;">**At the start of the round 2 kickers are chosen randomly out of this list - these will change randomly between every round reset:**</mark>
+  * **Low Gravity**
+  * **All mobility enabled&#x20;**_**(Rocket jumping, demo jumping, etc.)**_
+  * **Faster Enzymes**
+  * **1 Touch Infect (all classes can 1 tap humans regardless of overheal/base hp)**
+  * **Tiny Zombies (smaller hitboxes)**
+  * **Low Friction**
+  * **Faster Zombies (base zm speed increase)**
+  * **Exploding Zombies (they will explode being NEAR you)**
+  * **Faster Bunny Hopping (bhop cap increased)**
+* <mark style="color:red;">**There is a small chance that ALL of the above can be applied to a round simultaneously.**</mark>
 
 ## Sidenote
 

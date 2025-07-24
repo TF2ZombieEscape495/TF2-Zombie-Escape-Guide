@@ -22,14 +22,14 @@ Similar to surfing, bhopping is a gameplay element with resources available that
 <mark style="color:yellow;">**With the bhop plugin - there's a few caveats on how it flows on TF2;**</mark>
 
 * **Currently** it is encouraged to spacebar bhop than use _traditional_ scroll-wheel methods.
-* The plugin is VERY lenient on **not having to time your jumps** and you can get speed built up spamming space bar & strafing _(no w key.)_
-* Some maps disable bhopping mechanics for balance - but there isn't any 'indicator' of this. For a quick tell - **you will not be able to jump in crouching state if bhopping** **is disabled.**
+* The plugin is VERY lenient on **not having to time your jumps** and you can get speed built up spamming space bar & strafing _(no w key.) Basically auto-hop._
+* Some maps disable bhopping mechanics for balance - but there isn't any 'indicator' of this. For a quick tell - **you will not be able to jump in crouching state if bhopping** **is disabled on a map.**
 {% endhint %}
 
 {% hint style="info" %}
 <mark style="color:yellow;">**Additional Notes:**</mark>
 
-* **Capped to 500 at max vel;** momentum should also be capped at stairs and ramps.
+* **Capped to 400 at max vel;** momentum should also be capped at stairs and ramps. (Unless playing Pandemic mode.)
 * **\[ZOMBIE-ONLY]** Bhopping momentum is halted upon being shot (taking knockback specifically) - this prevents zombies from getting boosted in specific ways.
 * **Bhopping velocity limited to 250 upon using Zombie Enzymes.**
 {% endhint %}
