@@ -9,10 +9,10 @@ coverY: 0
 
 # Map List (+Map Records!)
 
-## Maps available to play: 150 maps [_<mark style="color:blue;">(last updated 7/10/2025)</mark>_](recent-maps-11-13-2023/)
+## Maps available to play: 149 maps [_<mark style="color:blue;">(last updated 7/10/2025)</mark>_](recent-maps-11-13-2023/)
 
 * 83 Non-Leader Nominable Maps
-* 67 Leader-Only Nominable Maps - tagged with <mark style="color:purple;">**LEADER**</mark>
+* 66 Leader-Only Nominable Maps - tagged with <mark style="color:purple;">**LEADER**</mark>
 
 {% hint style="success" %}
 #### These are all color coded by all known completions _\[at least once]_ in the community; &#x20;
@@ -155,7 +155,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 ## **Leader Maps**
 
 {% hint style="info" %}
-**These maps can only be nominated by someone with the in-game&#x20;**<mark style="color:purple;">**LEADER**</mark>**&#x20;status.**
+**These maps can only be nominated by someone with the in-game&#x20;**<mark style="color:purple;">**LEADER**</mark>**&#x20;status. There is a (1) map cooldown shared between leader-only maps&#x20;**_**(you can't chain them back to back)**_
 {% endhint %}
 
 1. [<mark style="color:green;">**ze\_2049\_tf2\_f3**</mark> ](#user-content-fn-48)[^48]**\[2 Stages]**
@@ -220,11 +220,10 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 60. [<mark style="color:green;">**ze\_serpentis\_temple\_skial\_4**</mark>](#user-content-fn-94)[^94] **\[5 Stages]**
 61. <mark style="color:red;">**ze\_simpsons\_escape\_extreme\_a3\_2**</mark>**&#x20;\[4 Stages +&#x20;**<mark style="color:yellow;">**TF2 Bonus Stage**</mark>**]**
 62. [<mark style="color:green;">**ze\_sonic\_3\_skial\_3**</mark>](#user-content-fn-95)[^95] **\[2 Stages]**
-63. <mark style="color:red;">**ze\_stalker\_ultimate\_s3**</mark> **\[5 Stages]**
-64. [<mark style="color:green;">**ze\_tyranny2\_skial\_6**</mark>](#user-content-fn-96)[^96] **\[5 Stages]**
-65. [<mark style="color:green;">**ze\_visualizer\_skial\_3**</mark>](#user-content-fn-97)[^97] **\[6 Stages]**
-66. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-98)[^98]**\[6 Stages]**
-67. <mark style="color:red;">**ze\_warlab\_v5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage - 2 Endings]**
+63. [<mark style="color:green;">**ze\_tyranny2\_skial\_6**</mark>](#user-content-fn-96)[^96] **\[5 Stages]**
+64. [<mark style="color:green;">**ze\_visualizer\_skial\_3**</mark>](#user-content-fn-97)[^97] **\[6 Stages]**
+65. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-98)[^98]**\[6 Stages]**
+66. <mark style="color:red;">**ze\_warlab\_v5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage - 2 Endings]**
 
 [^1]: ![](<../.gitbook/assets/666 Crazy Escape Win (1).jpg>)
 

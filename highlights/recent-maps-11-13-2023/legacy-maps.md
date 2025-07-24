@@ -39,6 +39,7 @@ Some of these are admin-only nominations and you might see them on EU or as an e
 * <mark style="color:yellow;">**ze\_shoplift**</mark>
 * <mark style="color:yellow;">**ze\_skyrim**</mark>
 * <mark style="color:yellow;">**ze\_sorrento\_resonate**</mark>
+* <mark style="color:yellow;">**ze\_stalker\_ultimate**</mark>
 * <mark style="color:yellow;">**ze\_surf\_sahok**</mark>**&#x20;(12/26/2024 removed)**
 * <mark style="color:yellow;">**ze\_tesv\_skyrim**</mark>**&#x20;(8/24/2024 casualty of map purge)**
 * <mark style="color:yellow;">**ze\_wuhan**</mark>
