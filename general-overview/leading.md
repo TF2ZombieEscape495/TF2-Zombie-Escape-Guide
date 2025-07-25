@@ -7,7 +7,7 @@ description: Breakdowns of what a Leader does.
 ## The Leader Plugin
 
 {% hint style="info" %}
-#### Skial's Zombie Escape server offers a leader plugin in the form of <mark style="color:yellow;">**`/vl [Player Name]`**</mark>
+#### Skial's Zombie Escape server offers a leader plugin in the form of <mark style="color:yellow;">**`/vl [Player Name] & /addleader [Player Name] for mini leaders.`**</mark>
 
 You need <mark style="color:yellow;">**5**</mark> <mark style="color:yellow;">**people**</mark> to type this command with the player they would like to vote to be leader so they may have access to the leader commands. In the package comes a neat little tag above their head to indicate that they're in charge of the ~~sh‎it~~show!
 
