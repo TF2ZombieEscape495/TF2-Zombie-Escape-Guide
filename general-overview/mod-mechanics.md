@@ -93,6 +93,7 @@ _The server will automatically engage a vote for <mark style="color:green;">**Ca
   * Players can RTV out of maps with Pandemic mode enabled within a minute
 * <mark style="color:yellow;">**At the start of the round 2 kickers are chosen randomly out of this list - these will change randomly between every round reset:**</mark>
   * **Low Gravity**
+  * **Random Taunting (forces taunting on players at random)**
   * **All mobility enabled&#x20;**_**(Rocket jumping, demo jumping, etc.)**_
   * **Faster Enzymes**
   * **1 Touch Infect (all classes can 1 tap humans regardless of overheal/base hp)**
