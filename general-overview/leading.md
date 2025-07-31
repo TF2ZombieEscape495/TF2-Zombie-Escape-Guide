@@ -7,7 +7,11 @@ description: Breakdowns of what a Leader does.
 ## The Leader Plugin
 
 {% hint style="info" %}
-#### Skial's Zombie Escape server offers a leader plugin in the form of <mark style="color:yellow;">**`/vl [Player Name] & /addleader [Player Name] for mini leaders.`**</mark>
+#### Skial's Zombie Escape server offers a leader plugin in the form of...
+
+#### <mark style="color:yellow;">**`/vl [Player Name]for primary Leader`**</mark>&#x20;
+
+#### <mark style="color:yellow;">**`/addleader [Player Name] for mini leaders`**</mark><mark style="color:yellow;">**` `**</mark>_<mark style="color:yellow;">**`via`**</mark>_<mark style="color:yellow;">**` `**</mark><mark style="color:yellow;">**`primary leader.`**</mark>
 
 You need <mark style="color:yellow;">**5**</mark> <mark style="color:yellow;">**people**</mark> to type this command with the player they would like to vote to be leader so they may have access to the leader commands. In the package comes a neat little tag above their head to indicate that they're in charge of the ~~sh‎it~~show!
 
@@ -67,17 +71,29 @@ If you don't have any of these hotkeys binded or find it easier to have them all
 <mark style="color:red;">**Through chat commands you can't use spaces in custom text - so REALLY recommend using these in your console sm commands;**</mark>
 
 **placeleadermarker markername** <mark style="color:red;">**R**</mark> <mark style="color:green;">**G**</mark> <mark style="color:blue;">**B**</mark> <mark style="color:yellow;">**Duration**</mark>\
-&#xNAN;**(Console)** **sm\_placeleadermarker "**<mark style="color:$danger;">**zombie shortcut**</mark>**"** <mark style="color:red;">**255**</mark> <mark style="color:green;">**192**</mark> <mark style="color:blue;">**203**</mark> <mark style="color:yellow;">**10**</mark>&#x20;
+&#xNAN;**`(Console)`** **sm\_placeleadermarker "**<mark style="color:$danger;">**zombie shortcut**</mark>**"** <mark style="color:red;">**255**</mark> <mark style="color:green;">**192**</mark> <mark style="color:blue;">**203**</mark> <mark style="color:yellow;">**10**</mark>&#x20;
 
-quotes " are **required** for console - the above color code example should give you a <mark style="color:$danger;">**pink marker**</mark>- and places the marker for <mark style="color:yellow;">**10 seconds.**</mark>
+* Quotes " are **required** for console if your custom text has spaces - the above color code example should give you a <mark style="color:$danger;">**pink marker**</mark>- and places the marker for <mark style="color:yellow;">**10 seconds.**</mark>
+* **Duration Default is 5, Minimum is 3, Maximum is 10**
+* **Character limit for custom text is around 150**&#x20;
+* **Custom Symbols&#x20;**_**(that are compatible with TF2 chat)**_**&#x20;work too, including;**
+  * &#x20;ඞ
+  * ( ͡° ͜ʖ ͡°)
+  * ♕
+
+[**(Redirect for a simple RGB color picker site.)**](https://rgbcolorpicker.com/)
+
+[**(Redirect for Custom Symbols that work in TF2.)**](https://steamcommunity.com/sharedfiles/filedetails/?id=3304832814)
 
 \
-[**(Redirect for a simple RGB color picker site.)**](https://rgbcolorpicker.com/)
+&#xNAN;_**\*Selfish note for own edit later that these will soon™ become sm\_leadermarker**_&#x20;
 {% endhint %}
 
 ## Mini Leaders
 
-#### <mark style="color:yellow;">**`/addleader [Player Name] for mini leaders - must be done by the primary Leader.`**</mark>
+#### <mark style="color:yellow;">**`/addleader & /removeleader [Player Name] for mini leaders - must be done by the primary Leader.`**</mark>
+
+<mark style="color:yellow;">**`Mini leaders can be removed via /removeleader [Player Name] by primary Leader.`**</mark>
 
 Mini leaders are effectively co-leaders _(cap of 4_) assignable by the main leader that can place markers _(shared on a global cooldown)_ for people to stick around in case the map has several splits.
 
