@@ -57,10 +57,29 @@ If you don't have any of these hotkeys binded or find it easier to have them all
 
     <figure><img src="../.gitbook/assets/Follow Me.png" alt=""><figcaption><p>Move Up!</p></figcaption></figure>
 
+## Custom Markers!!
+
+{% hint style="info" %}
+<mark style="color:purple;">**Leaders**</mark><mark style="color:purple;">**&#x20;**</mark>_<mark style="color:purple;">**(and mini-leaders)**</mark>_**&#x20;can now customize their own markers via specific text AND&#x20;**<mark style="color:$primary;">**s**</mark><mark style="color:$info;">**p**</mark><mark style="color:$success;">**e**</mark><mark style="color:$warning;">**c**</mark><mark style="color:$danger;">**if**</mark><mark style="color:blue;">**ic**</mark> <mark style="color:purple;">**c**</mark><mark style="color:orange;">**o**</mark><mark style="color:yellow;">**l**</mark><mark style="color:green;">**o**</mark><mark style="color:red;">**r**</mark>**.**&#x20;
+
+~~_**Effectively, you \*could\* make a boss callout centered bind layout for push, pull, etc, but who would dedicate that many bind keys? Haha...**_~~\
+\
+<mark style="color:red;">**Through chat commands you can't use spaces in custom text - so REALLY recommend using these in your console sm commands;**</mark>
+
+**placeleadermarker markername** <mark style="color:red;">**R**</mark> <mark style="color:green;">**G**</mark> <mark style="color:blue;">**B**</mark> <mark style="color:yellow;">**Duration**</mark>\
+&#xNAN;**(Console)** **sm\_placeleadermarker "**<mark style="color:$danger;">**zombie shortcut**</mark>**"** <mark style="color:red;">**255**</mark> <mark style="color:green;">**192**</mark> <mark style="color:blue;">**203**</mark> <mark style="color:yellow;">**10**</mark>&#x20;
+
+quotes " are **required** for console - the above color code example should give you a <mark style="color:$danger;">**pink marker**</mark>- and places the marker for <mark style="color:yellow;">**10 seconds.**</mark>
+
+\
+[**(Redirect for a simple RGB color picker site.)**](https://rgbcolorpicker.com/)
+{% endhint %}
+
 ## Mini Leaders
 
-Mini leaders are effectively co-leaders assignable by the main leader that can place markers _(shared on a global cooldown)_ for people to stick around in case the map has several splits.\
+#### <mark style="color:yellow;">**`/addleader [Player Name] for mini leaders - must be done by the primary Leader.`**</mark>
 
+Mini leaders are effectively co-leaders _(cap of 4_) assignable by the main leader that can place markers _(shared on a global cooldown)_ for people to stick around in case the map has several splits.
 
 Mini leaders are not immune to starting auto-infect.
 

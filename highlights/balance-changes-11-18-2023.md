@@ -2,9 +2,19 @@
 description: A place to quickly find gamemode to Skial ZE changes by date.
 ---
 
-# Gamemode Changes 7/11/2025
+# Gamemode Changes 7/31/2025
 
 ## 2025&#x20;
+
+### 7/31/2025
+
+_<mark style="color:$danger;">(these weren't done today, just recap of recent stuff)</mark>_
+
+Leaders can now put custom text, color, and duration for their markers. (See [_Leading)_](../general-overview/leading.md)
+
+Markers can also be placed on any entity to highlight it a specific color - like a trigger door, zombie flank door, trap, or boss.
+
+Co-leaders (mini leaders) can be assigned by primary Leader via /addleader
 
 ### 7/11/2025 - Pandemic Mode addition
 
