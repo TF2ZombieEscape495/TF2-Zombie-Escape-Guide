@@ -80,6 +80,7 @@ If you don't have any of these hotkeys binded or find it easier to have them all
   * &#x20;ඞ
   * ( ͡° ͜ʖ ͡°)
   * ♕
+  * ᗜˬᗜ
 
 [**(Redirect for a simple RGB color picker site.)**](https://rgbcolorpicker.com/)
 
