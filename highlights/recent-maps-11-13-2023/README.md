@@ -1,4 +1,4 @@
-# Recent Maps 7/10/2025
+# Recent Maps 8/9/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -12,9 +12,15 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ## 2025:
 
+### 8/9/2025 - Westersand (V8)
+
+_\*this does not replace ze\_ffxii\_westersand\_skial\_5 (v7), its a big overhaul like mako v5 > v6_
+
+* **ze\_ffxii\_westersand\_v8&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[X Stages]&#x20;**<mark style="color:purple;">**\[LEADER NOM]**</mark>&#x20;
+
 ### 7/10/2025 - Ridorana Port
 
-* **ze\_ffxii\_ridorana\_cataract&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]**
+* **ze\_ffxii\_ridorana\_cataract&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]&#x20;**<mark style="color:purple;">**\[LEADER NOM]**</mark>&#x20;
 
 ### 6/30/2025 - 2 New Map Ports
 
@@ -29,7 +35,7 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ### 6/10/2025 - Simpsons Escape Extreme
 
-* **ze\_simpsons\_escape\_extreme&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages +&#x20;**<mark style="color:yellow;">**TF2 Bonus Stage**</mark>**]**
+* **ze\_simpsons\_escape\_extreme&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages +&#x20;**<mark style="color:yellow;">**TF2 Bonus Stage**</mark>**]&#x20;**<mark style="color:purple;">**\[LEADER NOM]**</mark>&#x20;
 
 ### 6/3/2025 - 7 New Map Ports
 
@@ -51,7 +57,7 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ### 5/12/2025 - Cartender
 
-* **ze\_cartender&#x20;**<mark style="color:yellow;">**\[TF2-made Map]**</mark>**&#x20;\[1 Stage, 1 Boss, Lasers]**
+* **ze\_cartender&#x20;**<mark style="color:yellow;">**\[TF2-made Map]**</mark>**&#x20;\[1 Stage, 1 Boss, Lasers]&#x20;**<mark style="color:purple;">**\[LEADER NOM]**</mark>&#x20;
 
 ### 5/8/2025 - Alien Shooter
 
