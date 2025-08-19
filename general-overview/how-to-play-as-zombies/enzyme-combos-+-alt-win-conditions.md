@@ -14,6 +14,10 @@ This is a bit harder to coordinate, but the results can feel even more satisfyin
 
 <figure><img src="../../.gitbook/assets/FreedVoid Jumpscare - Dunk POV.gif" alt=""><figcaption><p>freed jumpscare</p></figcaption></figure>
 
+## Bleed Infect
+
+<mark style="color:yellow;">**Zombie Engineers**</mark> and <mark style="color:yellow;">**Zombie Snipers**</mark> have access to the Southern Hospitality & Shiv - which can allow for some cheeky <mark style="color:red;">**bleed damage**</mark> that will allow you to infect Humans **from afar** if they don't have any healing to mitigate it; sometimes destroying an entire defense by just having a spontaneous zombie appear at an objective/door after you've landed a stray hit on them.
+
 ## Extra Demoknight Range
 
 <figure><img src="../../.gitbook/assets/Demo Range Reference.gif" alt=""><figcaption></figcaption></figure>
