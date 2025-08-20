@@ -16,7 +16,7 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 _\*this does not replace ze\_ffxii\_westersand\_skial\_5 (v7), its a big overhaul like mako v5 > v6_
 
-* **ze\_ffxii\_westersand\_v8&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[X Stages]&#x20;**<mark style="color:purple;">**\[LEADER NOM]**</mark>&#x20;
+* **ze\_ffxii\_westersand\_v8&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]&#x20;**<mark style="color:purple;">**\[LEADER NOM]**</mark>&#x20;
 
 ### 7/10/2025 - Ridorana Port
 
