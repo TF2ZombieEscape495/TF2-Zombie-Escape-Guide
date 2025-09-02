@@ -9,14 +9,15 @@ description: Breakdowns of what a Leader does.
 {% hint style="info" %}
 #### Skial's Zombie Escape server offers a leader plugin in the form of...
 
-#### <mark style="color:yellow;">**`/vl [Player Name]for primary Leader`**</mark>&#x20;
+#### <mark style="color:yellow;">**`/vl [Player Name] for Primary Leader`**</mark>&#x20;
 
-#### <mark style="color:yellow;">**`/addleader [Player Name] for mini leaders`**</mark><mark style="color:yellow;">**` `**</mark>_<mark style="color:yellow;">**`via`**</mark>_<mark style="color:yellow;">**` `**</mark><mark style="color:yellow;">**`primary leader.`**</mark>
+#### <mark style="color:yellow;">**`/addleader [Player Name] for Mini Leaders`**</mark><mark style="color:yellow;">**` `**</mark>_<mark style="color:yellow;">**`via`**</mark>_<mark style="color:yellow;">**` `**</mark><mark style="color:yellow;">**`Primary Leader.`**</mark>
+
+#### <mark style="color:yellow;">**`/setleader [Player Name] to transfer Primary Leader`**</mark>
+
+#### <mark style="color:yellow;">**`/quitleader to remove primary leader from self.`**</mark>
 
 You need <mark style="color:yellow;">**5**</mark> <mark style="color:yellow;">**people**</mark> to type this command with the player they would like to vote to be leader so they may have access to the leader commands. In the package comes a neat little tag above their head to indicate that they're in charge of the ~~sh‎it~~show!
-
-\
-Although leader is **immune** to becoming autobalanced; _leader functions other than <mark style="color:yellow;">**!transferleader playername**</mark> are intentionally disabled upon becoming infected/dying to encourage passing the mantle to another Human who can lead the rest of the round._&#x20;
 
 
 {% endhint %}
