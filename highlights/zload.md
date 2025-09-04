@@ -24,10 +24,10 @@ _**Almost any**_ Zombie Escape modified weapon can be zloaded - _albeit if its a
 * Example 2: <mark style="color:yellow;">**!zload Baby**</mark> _(play trigger Scout_ _or grab an item via extra speed) **-**_**>** <mark style="color:yellow;">**!zload Scattergun**</mark> _(switch to general use defense/boss support via overall damage + kb increase)_
 * _Example 3: <mark style="color:yellow;">**!zload Jarate**</mark> (re-buy your slowdown jarate grenade for an incoming teleport) **->****&#x20;**<mark style="color:yellow;">**!zload smg**</mark> (switch to cover/boss option)_
 
+<figure><img src="../.gitbook/assets/2025-09-03 17-51-14.gif" alt=""><figcaption><p>Using a !zload jarate to switch secondaries.</p></figcaption></figure>
+
 ### _Zombie Zloading?_
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Zombies are too dumb to use !zload mechanics, sorry!</p></figcaption></figure>
 
 _No, you can't !zload a minigun as a Spy._
-
-_**\[Pending example gifs of !zload usage]**_
