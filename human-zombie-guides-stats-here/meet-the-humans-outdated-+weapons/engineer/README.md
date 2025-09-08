@@ -4,7 +4,7 @@ description: Brief overview of the Human Engineer
 
 # 🔧 Engineer
 
-![](../../../.gitbook/assets/Icon\_engineer\_blue.jpg)
+![](../../../.gitbook/assets/Icon_engineer_blue.jpg)
 
 **`Class Cap: 8 Slots`**
 
@@ -20,7 +20,8 @@ description: Brief overview of the Human Engineer
 
 <mark style="color:red;">**Cons**</mark>
 
-* Can **only** set up **mini-sentries** and **dispensers.**
+* Can **only** set up **mini-sentries** and **dispensers**
+* **All teleport methods disabled**
 * Buildings are deleted upon jumping on them to prevent jump-height specific exploits
 * May be unable to place buildings in certain areas
   * Buildings easily blocked by having large amounts of teammates

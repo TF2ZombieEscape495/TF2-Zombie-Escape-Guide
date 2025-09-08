@@ -22,7 +22,7 @@ description: Brief overview of the Human Scout
 <mark style="color:red;">**Cons**</mark>
 
 * Subpar defender
-* Unable to double jump on most maps _(TF2-made maps typically enable this)_
+* Unable to double jump on most maps _(TF2-made maps typically\* enable this)_
 
 The fastest class on his team, Scout's main job in Zombie Escape is to get triggers as fast as possible while being able to support his team with speed boosts from [**Bonk! Atomic Punch**](secondaries.md#bonk-atomic-punch) or healing-on-hit with [**Mad Milk**](secondaries.md#mad-milk). He also boasts the second highest DPS allowing him to kill NPCs and bosses the quickest while maintaining his fast speed.\
 \
