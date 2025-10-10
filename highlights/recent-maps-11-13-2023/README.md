@@ -1,4 +1,4 @@
-# Recent Maps 8/9/2025
+# Recent Maps 10/10/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -11,6 +11,13 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 ##
 
 ## 2025:
+
+### 10/10/2025 - Halloween Season
+
+returning for halloween season (wont add these to the full map list page as they are temporary maps)
+
+* ze\_halloween\_house \[1 Stage]
+* ze\_peter\_griffin's\_burger\_emporium \[6 Stages]
 
 ### 8/9/2025 - Westersand (V8)
 
