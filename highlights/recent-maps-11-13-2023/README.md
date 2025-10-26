@@ -19,11 +19,12 @@ returning for halloween season (wont add these to the full map list page as they
 * ze\_halloween\_house \[1 Stage]
 * ze\_peter\_griffin's\_burger\_emporium \[6 Stages]
 
-### 8/9/2025 - Westersand (V8)
+### ~~8/9/2025 - Westersand (V8)~~
 
-_\*this does not replace ze\_ffxii\_westersand\_skial\_5 (v7), its a big overhaul like mako v5 > v6_
+~~_\*this does not replace ze\_ffxii\_westersand\_skial\_5 (v7), its a big overhaul like mako v5 > v6_~~
 
-* **ze\_ffxii\_westersand\_v8&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]&#x20;**<mark style="color:purple;">**\[LEADER NOM]**</mark>&#x20;
+* ~~**ze\_ffxii\_westersand\_v8&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[4 Stages]&#x20;**<mark style="color:purple;">**\[LEADER NOM]**</mark>~~&#x20;
+* removed for issues
 
 ### 7/10/2025 - Ridorana Port
 
