@@ -12,16 +12,20 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ## 2025:
 
+### 1/31/2025 - OBJ Void
+
+* **ze\_obj\_void&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]** <mark style="color:purple;">**\[LEADER NOM]**</mark>&#x20;
+
 ### 10/30/2025 - AOT Return
 
-* AOT\_Trost returned \[4 Stages] <mark style="color:purple;">**\[LEADER NOM]**</mark>&#x20;
+* ze\_aot\_trost <mark style="color:yellow;">**\[CS Map]**</mark> returned \[4 Stages] <mark style="color:purple;">**\[LEADER NOM]**</mark>&#x20;
 
 ### 10/10/2025 - Halloween Season
 
 returning for halloween season (wont add these to the full map list page as they are temporary maps)
 
-* ze\_halloween\_house \[1 Stage]
-* ze\_peter\_griffin's\_burger\_emporium \[6 Stages]
+* ze\_halloween\_house <mark style="color:yellow;">**\[CS Map]**</mark> \[1 Stage]
+* ze\_peter\_griffin's\_burger\_emporium <mark style="color:yellow;">**\[tf2 Map]**</mark> \[6 Stages]
 
 ### ~~8/9/2025 - Westersand (V8)~~
 
