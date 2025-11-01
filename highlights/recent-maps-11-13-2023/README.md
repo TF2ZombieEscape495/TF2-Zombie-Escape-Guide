@@ -12,7 +12,7 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ## 2025:
 
-### 1/31/2025 - OBJ Void
+### 10/31/2025 - OBJ Void
 
 * **ze\_obj\_void&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]** <mark style="color:purple;">**\[LEADER NOM]**</mark>&#x20;
 
