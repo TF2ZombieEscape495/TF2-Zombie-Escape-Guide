@@ -256,7 +256,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 
 [^16]: ![](<../.gitbook/assets/Freezy Win.PNG>)
 
-[^17]: ![](<../.gitbook/assets/202511~1 (1).JPG>)
+[^17]: ![](<../.gitbook/assets/inboxed win.png>)
 
 [^18]: ![](<../.gitbook/assets/italy win.png>)
 
