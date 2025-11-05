@@ -67,12 +67,12 @@ If you don't have any of these hotkeys binded or find it easier to have them all
 {% hint style="info" %}
 <mark style="color:purple;">**Leaders**</mark><mark style="color:purple;">**&#x20;**</mark>_<mark style="color:purple;">**(and mini-leaders)**</mark>_**&#x20;can now customize their own markers via specific text AND&#x20;**<mark style="color:$primary;">**s**</mark><mark style="color:$info;">**p**</mark><mark style="color:$success;">**e**</mark><mark style="color:$warning;">**c**</mark><mark style="color:$danger;">**if**</mark><mark style="color:blue;">**ic**</mark> <mark style="color:purple;">**c**</mark><mark style="color:orange;">**o**</mark><mark style="color:yellow;">**l**</mark><mark style="color:green;">**o**</mark><mark style="color:red;">**r**</mark>**.**&#x20;
 
-~~_**Effectively, you \*could\* make a boss callout centered bind layout for push, pull, etc, but who would dedicate that many bind keys? Haha...**_~~\
+_**Effectively, you \*could\* make a boss callout centered bind layout for really important attacks like insta-kills being labelled, but haha who even reads???**_\
 \
 <mark style="color:red;">**Through chat commands you can't use spaces in custom text - so REALLY recommend using these in your console sm commands;**</mark>
 
-**placeleadermarker markername** <mark style="color:red;">**R**</mark> <mark style="color:green;">**G**</mark> <mark style="color:blue;">**B**</mark> <mark style="color:yellow;">**Duration**</mark>\
-&#xNAN;**`(Console)`** **sm\_placeleadermarker "**<mark style="color:$danger;">**zombie shortcut**</mark>**"** <mark style="color:red;">**255**</mark> <mark style="color:green;">**192**</mark> <mark style="color:blue;">**203**</mark> <mark style="color:yellow;">**10**</mark>&#x20;
+**leadermarker "markername"** <mark style="color:red;">**R**</mark> <mark style="color:green;">**G**</mark> <mark style="color:blue;">**B**</mark> <mark style="color:yellow;">**Duration**</mark>\
+&#xNAN;**`(Console)`** **sm\_leadermarker "**<mark style="color:$danger;">**zombie shortcut**</mark>**"** <mark style="color:red;">**255**</mark> <mark style="color:green;">**192**</mark> <mark style="color:blue;">**203**</mark> <mark style="color:yellow;">**10**</mark>&#x20;
 
 * Quotes " are **required** for console if your custom text has spaces - the above color code example should give you a <mark style="color:$danger;">**pink marker**</mark>- and places the marker for <mark style="color:yellow;">**10 seconds.**</mark>
 * **Duration Default is 5, Minimum is 3, Maximum is 10**
@@ -86,9 +86,6 @@ If you don't have any of these hotkeys binded or find it easier to have them all
 [**(Redirect for a simple RGB color picker site.)**](https://rgbcolorpicker.com/)
 
 [**(Redirect for Custom Symbols that work in TF2.)**](https://steamcommunity.com/sharedfiles/filedetails/?id=3304832814)
-
-\
-&#xNAN;_**\*Selfish note for own edit later that these will soon™ become sm\_leadermarker**_&#x20;
 {% endhint %}
 
 ## Mini Leaders
@@ -99,7 +96,7 @@ If you don't have any of these hotkeys binded or find it easier to have them all
 
 Mini leaders are effectively co-leaders _(cap of 4_) assignable by the main leader that can place markers _(shared on a global cooldown)_ for people to stick around in case the map has several splits.
 
-Mini leaders are not immune to starting auto-infect.
+Mini leaders are not immune to starting auto-infect. Mini leaders are also removed upon the primary leader quitting and must be re-assigned if lost.
 
 ## How do I efficiently lead?
 
@@ -137,7 +134,7 @@ Going on a _<mark style="color:red;">**30 minute rant of how you're evading taxe
 Again though, this isn't like _**"always be silent during leading hours forever"**_ - but is just more another pointer to read the room!&#x20;
 
 {% hint style="info" %}
-### _<mark style="color:yellow;">Note:</mark>_ In the event of problematic vocal players over-speaking leader constantly, you can opt into Leader VC priority - _(this will disable all other mics except leader when they're speaking)_
+### _<mark style="color:yellow;">Note:</mark>_ In the event of problematic vocal players over-speaking leader constantly, you can opt into Leader VC priority - _(this will disable all other mics except the main leader when they're speaking)_
 
 ## _<mark style="color:yellow;">This can function toggled by the leader via the</mark><mark style="color:yellow;">**`!leadermenu`**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">command.</mark>_
 {% endhint %}
