@@ -9,7 +9,7 @@
 
 * **Can shut-down pesky doorway sentries via Enzyme**
 * **Can also completely lock down overdefenders within melee range of Enzyme**
-* **Access to** [**Southern Hospitality**](../meet-the-humans-outdated-+weapons/engineer/melees.md#southern-hospitality) **for Extra Speed&#x20;**_**(and Bleed Infect from range after melee hit)**_
+* **Access to** [**Southern Hospitality**](../meet-the-humans-outdated-+weapons/engineer/melees.md#southern-hospitality) **for Extra Speed&#x20;**_**(and Bleed Infect from range after melee hit)**_![](../../.gitbook/assets/100px-Item_icon_Southern_Hospitality.png)
 
 <mark style="color:red;">**Cons**</mark>
 

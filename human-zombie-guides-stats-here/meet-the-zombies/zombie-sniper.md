@@ -18,6 +18,7 @@
 * **Excellent Zombie Item Candidiate&#x20;**_**(Won't get backstabbed in most cases via**_ [_**Razorback**_](../meet-the-humans-outdated-+weapons/sniper/secondaries.md#razorback) _**equip)**_
 * **Enzyme effectively shuts down&#x20;**_**(reveals)**_**&#x20;cloaked spies/can take out DR spies/overhealed classes**
   * **Enzyme can make Map Hazards/NPCs deal more damage against Humans**
+* **Access to** [**Tribalman's Shiv**](../meet-the-humans-outdated-+weapons/sniper/melees.md#tribalmans-shiv) **for** <mark style="color:red;">**Bleed Infect**</mark>**&#x20;to kill humans from range after a melee hit.**![](<../../.gitbook/assets/100px-Item_icon_Tribalman's_Shiv (1).png>)
 
 <mark style="color:red;">**Cons**</mark>
 
