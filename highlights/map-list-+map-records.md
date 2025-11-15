@@ -53,7 +53,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 9. <mark style="color:red;">**ze\_obj\_void\_sk1**</mark> <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
 10. <mark style="color:red;">**ze\_outlast\_skial\_6**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[2 Stages]**
 11. <mark style="color:red;">**ze\_randomizer\_p2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING ENDING 3/100% CLEAR]**
-12. <mark style="color:red;">**ze\_roof\_adventure\_skial\_2**</mark>**&#x20;\[7 Stages]**
+12. <mark style="color:red;">**ze\_roof\_adventure\_skial\_2**</mark>**&#x20;\[8 Stages]**
 13. <mark style="color:red;">**ze\_santassination\_s4**</mark>**&#x20;\[PENDING EXTREME CLEAR]**
 14. <mark style="color:red;">**ze\_simpsons\_escape\_extreme\_a3\_2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark> **\[4 Stages +&#x20;**<mark style="color:yellow;">**TF2 Bonus Stage**</mark>**]**
 15. <mark style="color:red;">**ze\_star\_wars\_skial\_1**</mark>**&#x20;\[5 Stages]**
@@ -210,7 +210,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 55. <mark style="color:green;">**ze\_quicksand\_v1e**</mark>**&#x20; &#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[4 Stages + Bonus]**&#x20;
 56. <mark style="color:red;">**ze\_randomizer\_p2**</mark>**&#x20;** **\[1 Stage - 3 Endings w/20 Random Levels]**
 57. [<mark style="color:green;">**ze\_rizomata\_skial\_8**</mark>](#user-content-fn-90)[^90] **\[5 Stages]**
-58. <mark style="color:red;">**ze\_roof\_adventure\_skial\_2**</mark>**&#x20;\[7 Stages]**
+58. <mark style="color:red;">**ze\_roof\_adventure\_skial\_2**</mark>**&#x20;\[8 Stages]**
 59. [<mark style="color:green;">**ze\_rush\_b\_skial\_6**</mark>](#user-content-fn-91)[^91] **\[1 Stage]**
 60. [<mark style="color:green;">**ze\_ryujin\_v3**</mark>](#user-content-fn-92)[^92]   _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;** **\[3 Stages]**
 61. [<mark style="color:green;">**ze\_S\_A\_M\_skial\_9**</mark>](#user-content-fn-93)[^93] **\[5 Stages]**
