@@ -224,6 +224,15 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 69. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-100)[^100]**\[6 Stages]**
 70. <mark style="color:red;">**ze\_warlab\_v5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage - 2 Endings]**
 
+## Admin-Only Maps
+
+Header title; are still playable but can only be set on the server by Skial Admins with **`!map`** perms. Not counted in total maps or win records since these are very rarely set on server. _There's a few more floating around the fastdl probably._
+
+* <mark style="color:orange;">**ze\_dodge\_or\_die\_final\_s1fix**</mark> **\[3 Stages]**
+* <mark style="color:orange;">**ze\_eerie\_escape\_redux\_s4fix**</mark>**&#x20;\[7 Stages]**
+* <mark style="color:orange;">**ze\_onahole\_skial\_4**</mark>**&#x20;\[6 Stages]**
+* <mark style="color:orange;">**ze\_realm\_h2**</mark>**&#x20;\[1 Stage]**
+
 [^1]: ![](<../.gitbook/assets/666 Crazy Escape Win (1).jpg>)
 
 [^2]: ![](<../.gitbook/assets/Alien Shooter (1).png>)

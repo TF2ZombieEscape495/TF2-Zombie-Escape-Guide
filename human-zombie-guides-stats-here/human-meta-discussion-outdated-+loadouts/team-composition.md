@@ -43,7 +43,7 @@ Attached to most of these suggestions are dumbed down descriptive notes that exp
 * <mark style="color:yellow;">**Heavies**</mark>**&#x20;can use the** [**Brass Beast**](../meet-the-humans-outdated-+weapons/heavy/primaries.md#brass-beast) **\[380 DPS]**
   * _User must hard commit to rev-ups on defense, risky to deploy if bosses can push or pull you off arena._
 * <mark style="color:yellow;">**Snipers**</mark>**&#x20;can use the** [**Machina**](../meet-the-humans-outdated-+weapons/sniper/primaries.md#machina) **\[300 DPS]**
-  * _User must commit to a full scope-in for 5 second intervals; suspectible to many boss attacks like Brass Beast is._
+  * _User must commit to a full scope-in for 5 second intervals; suspectable to many boss attacks like Brass Beast is._
 * <mark style="color:yellow;">**Spies**</mark>**&#x20;can use the** [**Enforcer**](../meet-the-humans-outdated-+weapons/spy/primaries.md#enforcer) **\[191 DPS]**
   * _**User must repeatedly fully equip a disguise between firing shots for efficient DPS output; may lead to poor DPS if timing isn't precise.**_
 
@@ -55,11 +55,11 @@ Just like in regular TF2, a good team composition is necessary to beat the other
 
 ## Main Points
 
-* You generally want max (8) Heavies
-* A couple healing sources (3-4) from Medics and Engineers are helpful; Concheror and Mad Milk can work just as well.
-* A few (2-3) Pyros for stalling is very helpful.
-* A few (2-3) dedicated Spy and Scout triggerers is fine.
-* Really only need a few (2-3) specialist classes (e.g. Soldier, Demoman, Sniper, Spy) for certain niches like stunning or killing zombies and other various supports.
+* You generally want max _(8)_ [**Heavies**](../meet-the-humans-outdated-+weapons/heavy/) for overall **consistent, long holds.**
+* Several <mark style="color:green;">**healing sources**</mark> _(3-4)_ from [**Medics**](../meet-the-humans-outdated-+weapons/medic/) and [**Engineers** ](../meet-the-humans-outdated-+weapons/engineer/)are helpful; [**Concheror**](../meet-the-humans-outdated-+weapons/soldier/secondaries.md#concheror) and [**Mad Milk**](../meet-the-humans-outdated-+weapons/scout/secondaries.md#mad-milk) can work just as well.
+* A few _(2-3)_ [**Pyros** ](../meet-the-humans-outdated-+weapons/pyro/)for **stalling** is very helpful.
+* A few _(2-3)_ dedicated [**Spy**](../meet-the-humans-outdated-+weapons/spy/) and [**Scout**](../meet-the-humans-outdated-+weapons/scout/) **triggerers** is fine.
+* Really only need a few _(2-3)_ specialist classes _(e.g._ [_**Soldier**_](../meet-the-humans-outdated-+weapons/soldier/)_,_ [_**Demoman**_](../meet-the-humans-outdated-+weapons/demoman/)_,_ [_**Sniper**_](../meet-the-humans-outdated-+weapons/sniper/)_)_ for certain niches like **stunning or killing zombies** and other various supports.
 * Remaining slots should try to fill the above **from top to bottom.**
 
 ## Full Team Compositions
@@ -80,6 +80,8 @@ Leading into the next pages here with this one; unlike in CS ZE, TF2 ZE has clas
 
 * **`Scout Soldier Pyro in Offense`**
 * **`Demoman Heavy Engineer in Defense`**
-* **`Medic Sniper Spy in Support`**\
+* **`Medic Sniper Spy in Support`**
+
+\
 
 

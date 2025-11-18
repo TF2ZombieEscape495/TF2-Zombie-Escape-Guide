@@ -12,7 +12,7 @@ description: >-
 <mark style="color:yellow;">**In the SUBPAGES**</mark> <mark style="color:yellow;">**for each class are the stats & attributes**</mark> <mark style="color:yellow;">**of their respective weapons**</mark> _<mark style="color:yellow;">**(modified for ZE)**</mark>_<mark style="color:yellow;">**.**</mark> If you would like a more in-depth look into specific loadout suggestions, check out the [**Human Strategies**](../human-meta-discussion-outdated-+loadouts/) section of the guide.
 {% endhint %}
 
-Note that in the weapons sections, **all the weapons will be ordered from top to bottom in what we feel are the most useful to the least useful as a Human**. As of the last major overhaul; _most_ weapons are relatively equal in terms of power in the DPS department - so don't sweat it too much on what you actually _**need**_ unless a map specifically calls for the [**highest damage**](../human-meta-discussion-outdated-+loadouts/team-composition.md#optimal-dps-easy-to-use).&#x20;
+Note that in the weapons sections, **all the weapons will be ordered from top to bottom in what we&#x20;**~~_**(the one guy writing this guide now)**_~~**&#x20;feel are the most useful to the least useful as a Human**. As of the last major overhaul; _most_ weapons are relatively equal in terms of power in the DPS department - so don't sweat it too much on what you actually _**need**_ unless a map specifically calls for the [**highest damage**](../human-meta-discussion-outdated-+loadouts/team-composition.md#optimal-dps-easy-to-use).&#x20;
 
 <mark style="color:red;">**Reskins will not be mentioned**</mark>**&#x20;as they will share the same stats as their stock counterpart.**
 

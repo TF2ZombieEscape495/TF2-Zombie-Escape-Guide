@@ -4,7 +4,7 @@ description: Brief overview of the Human Medic
 
 # 🏥 Medic
 
-![](../../../.gitbook/assets/Icon\_medic\_blue.jpg)
+![](../../../.gitbook/assets/Icon_medic_blue.jpg)
 
 **`Class Cap: N/A`**
 
@@ -24,7 +24,7 @@ description: Brief overview of the Human Medic
 
 * Projectile based class
   * Unable to defend behind your teammates _(projectiles often blocked by teammates)_
-  * Projectiles can also kill your teammates on moving objects on some maps
+  * Projectiles can also kill your teammates on moving objects on some maps, eg elevators, carts
 * Healing may be nerfed or entirely disabled during boss fights
 
 \

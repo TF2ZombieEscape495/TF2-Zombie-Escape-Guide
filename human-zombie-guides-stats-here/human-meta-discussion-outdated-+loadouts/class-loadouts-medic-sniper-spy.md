@@ -10,11 +10,7 @@ Most of Medic's gameplay will revolve around constantly healing his teammates. C
 
 ### General Healer
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/General Healer Loadout (2).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/General Healer Loadout (2).png" alt=""><figcaption></figcaption></figure></div>
 
 * <mark style="color:yellow;">**Syringe Gun/Blutsauger**</mark>
 * <mark style="color:yellow;">**Medi Gun/Kritzkrieg**</mark>
@@ -40,11 +36,7 @@ Use this to capitalize on certain map elements or to safeguard straying teammate
 
 ### Pocket Healer
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Pocket Healer (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Pocket Healer (1).png" alt=""><figcaption></figcaption></figure></div>
 
 * <mark style="color:yellow;">**Overdose**</mark>
 * <mark style="color:yellow;">**Vaccinator**</mark>
@@ -56,27 +48,19 @@ This one falls less in line with supporting the entire team and instead puts you
 
 ### Ranged Stall & Stunner
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Ranged Staller and Stunner Loadout (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Ranged Staller and Stunner Loadout (1).png" alt=""><figcaption></figcaption></figure></div>
 
 * <mark style="color:yellow;">**Sniper Rifle/Hitman's Heatmaker/Bazaar Bargain**</mark>
 * <mark style="color:yellow;">**Cleaner's Carbine/SMG**</mark>
 * <mark style="color:yellow;">**Kukri/Bushwhacka**</mark>
 
-Sniper's inherent potential is behind making headshots. In the long run, the damage dealt with headshots will remain insignificant unless zombies are low on health or once your damage scales up. The main appeal is the stun. With targeted stuns, you can stall zombies from any distance. Time it well enough to even save teammates about to be hit by zombies. Play the class smart to be a nuisance at range and in close quarters if you're confident enough.\
+Sniper's inherent potential is behind making headshots. In the long run, the damage dealt with headshots will remain insignificant unless zombies are low on health or once your damage scales up. The main appeal is the long ranged damage. With targeted headshots, you can chip damage important zombies from any distance. Play the class smart to be a nuisance at range and in close quarters if you're confident enough.\
 \
-For secondary weapons, you'll mostly want to consider SMGs for defending and stalling. The stock SMG has a huge clip and a fast firing speed for bosses that are based on bullet-count. However, the Cleaner's Carbine stalls and defends even better with its mini-crits. You'll be a mini Heavy! For melee weapons, it won't matter too much, so feel free to equip the Kukri or use the Bushwhacka to kill off jarated zombies or your team if you get infected.
+For secondary weapons, you'll mostly want to consider **SMGs** for defending and stalling. The stock SMG has a huge clip and a fast firing speed for bosses that are based on bullet-count. However, the Cleaner's Carbine stalls and defends even better with its mini-crits. For melee weapons, it won't matter too much, so feel free to equip the **Kukri** or use the **Bushwhacka** to kill off jarated zombies or your team if you get infected.
 
 ### Boss Assist Sniper
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Boss Assist Sniper (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Boss Assist Sniper (1).png" alt=""><figcaption></figcaption></figure></div>
 
 _**Loadout:**_
 
@@ -88,31 +72,27 @@ With this loadout, the cozy camper's lack of (flinching) can allow you to stay s
 
 You'll be outright useless on DPS checks that prevent scope-ins (laser bosses) if you aren't packing a choice of <mark style="color:yellow;">**SMG**</mark> ~~_(or can't land your shots against zombies lmao idiot)_~~ - which the <mark style="color:yellow;">**Classic**</mark> evens out by being able to roll in some damage without scope-ins hindering your sightline on specific boss attacks.
 
-### Point Farmer
+### Jarate Bomber
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Point Farmer.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Point Farmer.png" alt=""><figcaption></figcaption></figure></div>
 
 * <mark style="color:yellow;">**Sydney Sleeper**</mark>
 * <mark style="color:yellow;">**Jarate**</mark>
 * <mark style="color:yellow;">**Bushwhacka**</mark>
 
-One may notice that Sniper gains a lot of points after repeatedly headshotting. If you're the type to snipe well and care about points, you'll be at the top of the leaderboards for sure. Just combine it with playing smartly to make the most of the class.&#x20;
+Initially this loadout was all about point farming - but actually became MUCH more useful with the addition of the [**!zload**](../../highlights/zload.md) command alleviating its long cooldown; allowing three "re-buys" to repeatedly throw jarate at grouped up zombies once the last one expires.
 
-But, you're point farming... so why bother? Slap on Jarate with whatever melee you have. **Aim your **<mark style="color:yellow;">**Jarate**</mark>** at zombie teleports** and gain points through assisted damage to see funny numbers grow bigger, jarated zombies are passively _slowed down_ too so you can get an easier headshot in; as well as denies them from hopping around a corner at full speed with a zombie item or enzyme at the ready. <mark style="color:yellow;">**Sydney Sleeper**</mark> can't directly deal stuns from headshots but can at least lower the <mark style="color:yellow;">**(60s) cooldown**</mark> of your jarate to spam it again.
+**Aim your&#x20;**<mark style="color:yellow;">**Jarate**</mark>**&#x20;at zombie teleports to** **slow them down by a whole -35% movement reduction AND recieve additional knockback.** <mark style="color:yellow;">**Sydney Sleeper**</mark> headshots lower the <mark style="color:yellow;">**(60s) cooldown**</mark> of your jarate by at least <mark style="color:yellow;">\~1 second</mark> per headshot - so one of the more optimal uses to get that long cooldown recharged is probably just shooting any AFK zombies.
+
+{% hint style="danger" %}
+Note **that you'll be&#x20;**<mark style="color:red;">**almost defenseless**</mark>**&#x20;if caught by yourself with this loadout but you'll provide a lot of value to your team locking down those teleports.**
+{% endhint %}
 
 ## Spy
 
 ### Triggerer & Boss Support
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Triggerer And Boss Killer Loadout.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Triggerer And Boss Killer Loadout.png" alt=""><figcaption></figcaption></figure></div>
 
 _**Loadout:**_
 
@@ -126,7 +106,7 @@ Most of the time, it'll be too dangerous to go for backstabs, especially if the 
 
 You can use the <mark style="color:yellow;">**Sapper**</mark> for a tiny bit of extra speed when held out. To trigger _even faster_, use the <mark style="color:yellow;">**Dead Ringer**</mark> to gain speed boosts upon taking damage, likely through falls. Your knife won't matter too much as long as it's not the Big Earner with its health debuff, but it won't hurt to use the best option of stock.
 
-### Gun-Spy Dopamine
+### Gun-Spy
 
 ![](<../../.gitbook/assets/Diamondback Dopamine.png>)
 
@@ -135,15 +115,11 @@ You can use the <mark style="color:yellow;">**Sapper**</mark> for a tiny bit of 
 * <mark style="color:yellow;">**Knife**</mark>
 * <mark style="color:yellow;">**Dead Ringer**</mark>
 
-Want to feel less of a selfish pick to the team when you're playing Spy? The <mark style="color:yellow;">**Diamondback**</mark> will effectively <mark style="color:red;">**lock you out of your disguise kit**</mark> and penalize you with a large movement debuff for holding _anything_ but the gun out. On the bright side though, this is one of the Spy's best defense tools; as it has a extra bullets per shot and can amass critical hit bursts upon diamondback kills for <mark style="color:yellow;">**\[10] seconds**</mark> worth of extra knockback and damage - this doesn't come to be very practical on maps with high zombie HP values; but excellent against zombie teams that have one too many zombie pyros bombing or items that can lower this value greatly; provided your team doesn't steal the kill. The overall DPS of this loadout doesn't hold up as well as stock, but it's still a fun pick.
+The <mark style="color:yellow;">**Diamondback**</mark> will effectively <mark style="color:red;">**lock you out of your disguise kit**</mark> and penalize you with a large movement debuff for holding anything but the gun out. On the better side though, this is one of the Spy's better defense tools; as it has a extra bullets per shot and can amass critical hit bursts upon diamondback kills for <mark style="color:yellow;">**\[10] seconds**</mark> worth of extra knockback and damage - this only really comes into play against zombie teams that have one too many zombie pyros bombing or when you have items that can lower their HP value greatly; provided your team doesn't steal the kill too. The overall DPS of this loadout doesn't hold up as well as stock, but it's still a fun pick.
 
 ### Aggressive Backstabber
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Aggressive Backstabber (ALT) Loadout.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Aggressive Backstabber (ALT) Loadout.png" alt=""><figcaption></figcaption></figure></div>
 
 * <mark style="color:yellow;">**L'Etranger**</mark>
 * <mark style="color:yellow;">**Red Tape Recorder**</mark>
@@ -157,10 +133,4 @@ Use the <mark style="color:yellow;">**L'Etranger**</mark> for its extra cloak du
 
 Finally to top it all off, the <mark style="color:yellow;">**Cloak and Dagger's**</mark> niche in this situation is that it grants extra base health - so you'll be able to tank at least one more hit if you don't run into bad weapon matchups or get double-tagged on your way out from zombie backlines.
 
-_As long as you play it smart, this type of Spy will be a great asset to the team—assuming you don't die the first minute into the round._ \
-
-
-
-
-
-
+_As long as you play it smart, this type of Spy will be a great asset to the team—assuming you don't die the first minute into the round._&#x20;

@@ -15,13 +15,13 @@ description: Brief overview of the Human Sniper
 
 * High DPS towards zombies from afar.
 * Headshots knock-back zombies.
-* Can pick off low hp Zombies to reset enzymes or kill Zombie item users.
+* Can pick off low hp Zombies to reset enzymes or **kill Zombie item users.**
 
 <mark style="color:red;">**Cons**</mark>
 
 * Hard to play effectively.
 * Low average DPS against NPCs and bosses.
-* <mark style="color:red;">**Is the only**</mark><mark style="color:red;">**&#x20;**</mark>_<mark style="color:red;">**class WITHOUT**</mark>_<mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**any form of movement buffing weapon**</mark> - making him consistently the slowest class at beating other players to items or triggers.
+* <mark style="color:red;">**Is the only**</mark><mark style="color:red;">**&#x20;**</mark>_<mark style="color:red;">**class WITHOUT**</mark>_<mark style="color:red;">**&#x20;**</mark><mark style="color:red;">**any form of movement buffing weapon**</mark> - making him consistently the slowest class at beating other players to items or triggers on maps without bhop.
 * No particular useful niche that he excels at.
 
 \

@@ -77,11 +77,15 @@ _A more relaxed take on the game mode, useful for learning or practicing a map:_
 * **Humans take less damage,** _(**-30% Map Damage Reduction**; Stackable with Battalions.)_
 * Friction is disabled; **tl;dr generally allowing zombies to take more knockback.**
 * Zombies are slowed for much longer, _(**+1 second** to slow duration.)_
-* Even individual _**pellets**_ will slow zombies from afar, granting _**solo-stalling capability almost exponentially.**_
+* Even individual _**pellets**_ will slow zombies from afar, granting **solo-stalling capability.**
 
 _The server will automatically engage a vote for <mark style="color:green;">**Casual Difficulty**</mark> after <mark style="color:yellow;">**(2)**</mark> consecutive losses at the start of the following round; until a win is achieved._
 
 ### <mark style="color:yellow;">**Pandemic Mode**</mark>
+
+{% hint style="warning" %}
+**This was modifier mode was made admin-only for the forseeable future but kept the text mentioning 'voting' for it here in case it comes back.**
+{% endhint %}
 
 **A modifier-based sub-difficulty; you can vote for it after the end of a map vote to apply some 'kickers' to the next map.**&#x20;
 

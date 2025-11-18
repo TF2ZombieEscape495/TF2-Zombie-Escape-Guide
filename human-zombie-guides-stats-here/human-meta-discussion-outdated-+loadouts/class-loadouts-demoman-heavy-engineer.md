@@ -8,11 +8,7 @@ description: Demoman, Heavy, & Engineer Loadouts!
 
 ### AoE Staller
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/AOE STaller2 Loadout.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/AOE STaller2 Loadout.png" alt=""><figcaption></figcaption></figure></div>
 
 * <mark style="color:yellow;">**Grenade Launcher/Loose Cannon/Iron Bomber**</mark>
 * <mark style="color:yellow;">**Stickybomb Launcher/Quickiebomb Launcher**</mark>
@@ -23,11 +19,7 @@ The Demoman's primary job is to AoE stall and slow. His main tool for this throu
 
 ### Point-Farmer Demoman
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Pointfarmer Demo Loadout.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Pointfarmer Demo Loadout.png" alt=""><figcaption></figcaption></figure></div>
 
 * <mark style="color:yellow;">**Loose Cannon**</mark>
 * <mark style="color:yellow;">**Scottish Resistance**</mark>
@@ -58,11 +50,7 @@ As such, this style takes up a very unique niche of **handling Heavy Mutations**
 
 ### Main Defender
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Main Defender Loadout.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Main Defender Loadout.png" alt=""><figcaption></figcaption></figure></div>
 
 * <mark style="color:yellow;">**Minigun/Brass Beast/Natascha**</mark>
 * <mark style="color:yellow;">**Shotgun/Family Business**</mark>
@@ -80,17 +68,13 @@ Heavy is one of the most powerful defenders in TF2 ZE. He's a slow class at base
 
 This one's a little unique to the table in the regard that this setup will base itself around passive movement and the rapid deploy of the <mark style="color:yellow;">**Tomislav,**</mark> letting you get up close and personal before you flee - coupling this up with the <mark style="color:yellow;">**Family Business;**</mark> this loadout can provide Heavy damage output to bosses or NPCs on the run **without committing to a rev-up.**&#x20;
 
-Also depending on whether or not you opted into the <mark style="color:yellow;">**Dalokah's bar**</mark>, the extra HP can offset _\[most]_ zombie weapon one shots; almost _neutralizing_ the <mark style="color:red;">**passive penalty**</mark> of the Eviction Notice. You'll effectively be down a secondary if there's any laser bosses on the latter, but the <mark style="color:yellow;">**Tomislav**</mark> is pretty reliable at delay defenses if you aren't completely alone!
+Also depending on whether or not you opted into the <mark style="color:yellow;">**Dalokah's bar**</mark>, the extra HP can offset _\[most]_ zombie weapon one shots; almost neutralizing the <mark style="color:red;">**passive penalty**</mark> of the Eviction Notice. You'll effectively be down a secondary if there's any laser bosses on the latter, but the <mark style="color:yellow;">**Tomislav**</mark> is pretty reliable at delay defenses if you aren't completely alone!
 
 ## Engineer
 
 ### Supportive Defender
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Supportive Defender Loadout (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Supportive Defender Loadout (1).png" alt=""><figcaption></figcaption></figure></div>
 
 * <mark style="color:yellow;">**Frontier Justice**</mark>
 * <mark style="color:yellow;">**Short Circuit**</mark>
@@ -101,11 +85,7 @@ As an Engineer, much of his support will come from Dispensers and Mini-sentries.
 
 ### Boss Assist
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Boss Asssist Engineer.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Boss Asssist Engineer.png" alt=""><figcaption></figcaption></figure></div>
 
 * <mark style="color:yellow;">**Frontier Justice**</mark>
 * <mark style="color:yellow;">**Wrangler**</mark>
