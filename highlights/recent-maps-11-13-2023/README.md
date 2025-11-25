@@ -1,4 +1,4 @@
-# Recent Maps 10/30/2025
+# Recent Maps 11/24/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -11,6 +11,13 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 ##
 
 ## 2025:
+
+### 11/24/2025 - Banban Stage 2
+
+* ~~**ze\_garten\_of\_banban\_laserdance\_awesomeworld\_taylors\_version\_v2**~~
+* **ze\_garten\_of\_banban\_fat\_baldi\_update\_mario\_64\_sabrina3\_0**&#x20;
+* small fixes for stage 1
+* **Stage 2 Added; map record reset.**
 
 ### 10/31/2025 - OBJ Void
 
