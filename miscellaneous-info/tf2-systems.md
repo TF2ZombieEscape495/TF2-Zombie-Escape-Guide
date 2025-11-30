@@ -30,4 +30,4 @@ With all the modified firing rates of the weapons, it may be helpful to recall h
 
 The videos provided have been created by [**Jane (channel link):**](https://www.youtube.com/channel/UCWTVXUl9bcQkrGcFPy5JVKA) \
 \
-While they may not have any association with TF2 ZE, big thanks to them for compiling this information useful for here and in vanilla TF2.\
+While they may not have any association with TF2 ZE, big thanks to them for compiling this information useful for here and in vanilla TF2.<br>

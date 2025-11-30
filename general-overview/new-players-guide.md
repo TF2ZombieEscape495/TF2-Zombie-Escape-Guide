@@ -16,7 +16,7 @@ The sections of this guide that will be most likely be relevant to you will be t
 
 [**Meet The Zombies**](../human-zombie-guides-stats-here/meet-the-zombies/) _**(Zombie Abilities, Zombie Mechanics)**_
 
-[**Elements of ZE** ](broken-reference)_**(Map-specific factors of the gamemode)**_
+[**Elements of ZE** ](/broken/pages/J6CeEGt5LBJzp6G89njU)_**(Map-specific factors of the gamemode)**_
 
 [**Where to Play**](where-to-play.md) _**(Skial ZE Server IPs)**_
 

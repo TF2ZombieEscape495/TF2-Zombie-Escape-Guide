@@ -10,10 +10,9 @@ Special thanks to **Tranquility** for compiling much of the mechanics and weapon
 \
 These weapon stat changes can be observed in-game with the <mark style="color:yellow;">**Inspect Target**</mark> or Item function `(default key is`` `**`F`**`)` while in Skial ZE servers.
 
-* Other changes are collected from [**TF2 Wiki**](https://wiki.teamfortress.com/wiki/Main\_Page) or in-game observations.
+* Other changes are collected from [**TF2 Wiki**](https://wiki.teamfortress.com/wiki/Main_Page) or in-game observations.
 * Final stats are calculated from each weapon's base TF2 stats in the TF2 Official Wiki
-* As such, treat the DPS calculations as _approximations_ at best; the weapon stats from TF2 Wiki may be inaccurate.\
-
+* As such, treat the DPS calculations as _approximations_ at best; the weapon stats from TF2 Wiki may be inaccurate.<br>
 
 <mark style="color:yellow;">**Notes**</mark> about calculating new stats from weapon base stats:
 

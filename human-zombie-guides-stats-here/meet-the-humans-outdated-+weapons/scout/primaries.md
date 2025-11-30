@@ -41,8 +41,7 @@ The Force-A-Nature in base TF2 is a renowned weapon for its extremely fast shots
 
 Pushing more into the explosive aspect defensive support does come with a cost; this weapon has been modified to be -100% less accurate, with an added flare of successive shots becoming less accurate. You will not hit anything unless you’re up close. The spread can help at a reasonable distance for hitting wider groups of zombies, but for boss fights, this makes the weapon somewhat unreliable to use at times. **You will need to be up close in front of bosses** to land all pellets to take advantage of this weapon's particularly high DPS, which can be dangerous since you’ll also be moving a bit slower _(At a Pyro, Enginer, or Sniper's movement speed when held out.)_
 
-It’s a bit of a high-commitment weapon that encourages Scouts to be up close to push zombies back and dish out massive damage. Compared to the other scatterguns, this offers burst damage to bosses that get too close and serves as an emergency response to defenses about to be lost.\
-
+It’s a bit of a high-commitment weapon that encourages Scouts to be up close to push zombies back and dish out massive damage. Compared to the other scatterguns, this offers burst damage to bosses that get too close and serves as an emergency response to defenses about to be lost.<br>
 
 ## Baby Face's Blaster    ![](<../../../.gitbook/assets/100px-Item_icon_Baby_Face's_Blaster (1).png>)
 

@@ -13,8 +13,7 @@ Much like parkour, you'll encounter different types of lasers. Frequent types an
 
 <figure><img src="../../.gitbook/assets/HorizontalLasers.gif" alt=""><figcaption></figcaption></figure>
 
-These are the most common type of lasers and are fired at you parallel to the ground. When you see a high laser that's aimed at your head, crouch. When you see a laser aimed at your knee caps, be sure to jump. When you see a laser aimed right at your waist, be sure to crouch jump. Sometimes, it'll be hard to differentiate between them all, so that will have to come down to experience with the map.\
-
+These are the most common type of lasers and are fired at you parallel to the ground. When you see a high laser that's aimed at your head, crouch. When you see a laser aimed at your knee caps, be sure to jump. When you see a laser aimed right at your waist, be sure to crouch jump. Sometimes, it'll be hard to differentiate between them all, so that will have to come down to experience with the map.<br>
 
 {% hint style="info" %}
 <mark style="color:yellow;">**Note**</mark>: _**Crouch-jumping**_ is used as a common misnomer for _jumping then holding crouch_ while in the air - not to be confused with the act of _jumping while crouched_ like in CS. You can't do this in TF2.

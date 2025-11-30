@@ -8,11 +8,7 @@ description: Scout, Soldier, & Pyro loadouts!
 
 ### Trigger Scout
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Trigger Scout Loadout (2).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Trigger Scout Loadout (2).png" alt=""><figcaption></figcaption></figure></div>
 
 * <mark style="color:yellow;">**Baby Face's Blaster (BFB)**</mark>
 * <mark style="color:yellow;">**Winger/Bonk! Atomic Punch**</mark>
@@ -25,16 +21,11 @@ This sort of playstyle revolves around doorhugging and getting triggers _as fast
 
 ### Support Scout
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Boss Assist Scout.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Boss Assist Scout.png" alt=""><figcaption></figcaption></figure></div>
 
 * <mark style="color:yellow;">**Shortstop/Scattergun**</mark>
 * <mark style="color:yellow;">**Bonk! Atomic Punch/Mad Milk**</mark>
-* <mark style="color:yellow;">**Stock/Atomizer**</mark>\
-
+* <mark style="color:yellow;">**Stock/Atomizer**</mark><br>
 
 _Typically,_ there only needs to be 1 or 2 people to get triggers, so you may be better off defending or at least stalling rather than doorhugging. Scout may not be the greatest defender compared to other classes like Heavy or Pyro, but he more than makes up for it with his utility of being able to boost his team with Bonk! Atomic Punch or effectively counter Pyro and Medic Mutations with Mad Milk.&#x20;
 
@@ -42,11 +33,7 @@ One of the primary draws of using either the shortstop and scattergun are that t
 
 ### Irritant Scout
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Irritant Scout Loadout (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Irritant Scout Loadout (1).png" alt=""><figcaption></figcaption></figure></div>
 
 * <mark style="color:yellow;">**Soda Popper/Backscatter**</mark>
 * <mark style="color:yellow;">**Crit-a-cola/Flying Guillotine**</mark>
@@ -58,11 +45,7 @@ As an alternative, the <mark style="color:yellow;">**Backscatter**</mark> is a l
 
 ### Glass Cannon
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Glass Cannon Scout Loadout (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Glass Cannon Scout Loadout (1).png" alt=""><figcaption></figcaption></figure></div>
 
 * <mark style="color:yellow;">**Force-A-Nature**</mark>
 * <mark style="color:yellow;">**Pretty Boy's Pocket Pistol**</mark>
@@ -107,11 +90,7 @@ This mostly comes down to matter of preference, as going with the <mark style="c
 
 ### Main Staller
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Main Staller Loadout.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Main Staller Loadout.png" alt=""><figcaption></figcaption></figure></div>
 
 * <mark style="color:yellow;">**Flame Thrower/Degreaser/Dragon's Fury**</mark>
 * <mark style="color:yellow;">**Shotgun/Mannmelter**</mark>
@@ -142,4 +121,4 @@ A more reserved playstyle for Pyro, you can use the <mark style="color:yellow;">
 
 While waiting for the <mark style="color:yellow;">**Backburner**</mark> to recharge, the <mark style="color:yellow;">**Detonator**</mark> can be used as a form of mini-airblast (with the right angling it can _also_ fling zombies off edges) and delay certain zombies enough in instances where you wouldn't risk getting close enough with your flames; though does need a bit more timing to get used to.
 
-### &#x20;
+### <br>

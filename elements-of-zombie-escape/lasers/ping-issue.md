@@ -17,8 +17,7 @@ Just because information is being received much later for those with higher ping
 
 * The top side represents a player with high ping and the bottom represents a player with low ping.&#x20;
 * The <mark style="color:red;">**red**</mark> laser is where it appears on one's screen
-* While the <mark style="color:blue;">**blue**</mark> laser is the actual hitbox of the laser.\
-
+* While the <mark style="color:blue;">**blue**</mark> laser is the actual hitbox of the laser.<br>
 {% endhint %}
 
 ## Viewing your Ping

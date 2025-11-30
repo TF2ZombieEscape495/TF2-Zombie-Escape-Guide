@@ -45,8 +45,7 @@ For example, if a boss were made with a func\_breakable, we could take into cons
 
 Of course, scaling would be adjusted in both scenarios, but it demonstrates a concern for the amount of bullets we can put into an object versus the actual damage a weapon can do depending on the scenario.\
 \
-So, when fighting NPCs or bosses, aside from just straight DPS, **try considering other factors like bullet spread, bullets per shot, and Attack Interval.** You might want a tighter spread if you have to shoot far way, which makes weapons like revolvers actually more effective than Scout's Back Scatter due to its greater precision. This advantage lessens the closer a boss is fought at. If you want to know what damage system the boss is based off of, try asking around on the server as it can vary from map-to-map or even boss-to-boss on the same map.\
-
+So, when fighting NPCs or bosses, aside from just straight DPS, **try considering other factors like bullet spread, bullets per shot, and Attack Interval.** You might want a tighter spread if you have to shoot far way, which makes weapons like revolvers actually more effective than Scout's Back Scatter due to its greater precision. This advantage lessens the closer a boss is fought at. If you want to know what damage system the boss is based off of, try asking around on the server as it can vary from map-to-map or even boss-to-boss on the same map.<br>
 
 {% hint style="info" %}
 <mark style="color:yellow;">**Note:**</mark> There is a custom server plugin that causes math\_counters to subtract health in a fashion similar to func\_breakables. This may or may not be implemented into a map as it depends on the mapper or person who ported the map. In this case, you need only concern yourself with DPS.
