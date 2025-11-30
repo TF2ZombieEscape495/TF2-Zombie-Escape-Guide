@@ -1,4 +1,4 @@
-# Recent Maps 11/24/2025
+# Recent Maps 11/30/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -11,6 +11,10 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 ##
 
 ## 2025:
+
+### 11/30/2025 - 8Bit
+
+* **ze\_8bit\_sk2** <mark style="color:yellow;">\[CS Map]</mark> **\[6 Stages]**
 
 ### 11/24/2025 - Banban Stage 2
 
@@ -25,7 +29,7 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ### 10/30/2025 - AOT Return
 
-* ze\_aot\_trost <mark style="color:yellow;">**\[CS Map]**</mark> returned \[4 Stages] <mark style="color:purple;">**\[LEADER NOM]**</mark>&#x20;
+* ze\_aot\_trost <mark style="color:yellow;">**\[CS Map]**</mark> returned \[4 Stages] <mark style="color:purple;">**\[9LEADER NOM]**</mark>&#x20;
 
 ### 10/10/2025 - Halloween Season
 
