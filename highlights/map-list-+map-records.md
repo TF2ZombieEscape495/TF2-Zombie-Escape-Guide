@@ -46,7 +46,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 2. <mark style="color:red;">**ze\_diddle\_skial\_6**</mark>  <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING EXTREME CLEAR]**
 3. <mark style="color:red;">**ze\_elevator\_escape\_skial\_2**</mark>**&#x20;\[1 Stage]**
 4. <mark style="color:red;">**ze\_ffxii\_ridorana\_cataract\_t2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[4 Stages]**
-5. <mark style="color:red;">**ze\_garten\_of\_banban\_fat\_baldi\_update\_mario\_64\_sabrina3\_0**</mark> <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[2 Stages]**
+5. <mark style="color:red;">ze\_garten\_of\_banbantaylorythmics\_bald67selene\_update\_v3b</mark> <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[2 Stages]**
 6. <mark style="color:red;">**ze\_industrial\_dejavu\_skial\_2**</mark> **\[4 Stages]**
 7. <mark style="color:red;">**ze\_laserheaven\_v2a**</mark>  _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[3 Stages + Bonus]**
 8. <mark style="color:red;">**ze\_laserhell\_v1\_1\_1\_1**</mark>  _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[PENDING MAKO STAGE CLEAR]**
@@ -181,7 +181,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 24. [<mark style="color:green;">**ze\_frostdrake\_tower\_skial\_3**</mark>](#user-content-fn-67)[^67] **\[1 Stage]**
 25. [<mark style="color:green;">**ze\_frozen\_abyss\_skial\_1**</mark>](#user-content-fn-68)[^68] **\[2 Stages]**
 26. <mark style="color:green;">**ze\_frozentemple\_skial\_b1**</mark> **\[1 Stage]**
-27. <mark style="color:red;">**ze\_garten\_of\_banban\_fat\_baldi\_update\_mario\_64\_sabrina3\_0**</mark>  _<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[2 Stages]**
+27. <mark style="color:red;">ze\_garten\_of\_banbantaylorythmics\_bald67selene\_update\_v3b</mark>  _<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[2 Stages]**
 28. <mark style="color:green;">**ze\_grau\_fyb**</mark> **\[3 Stages + 2 Bonus]**
 29. <mark style="color:green;">**ze\_gris\_skial\_5**</mark> **\[4 Stages + 2 Bonus]**
 30. <mark style="color:green;">**ze\_hydroponic\_garden\_s\_2**</mark> **\[4 Stages]**
