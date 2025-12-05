@@ -1,4 +1,4 @@
-# Recent Maps 11/30/2025
+# Recent Maps 12/4/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -8,9 +8,11 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 &#xNAN;_**(Moved this out of being a subheader so its easier to notice new maps via date tag)**_
 {% endhint %}
 
-##
-
 ## 2025:
+
+### 12/4/2025 - Ratescape
+
+* **ze\_ratescape\_sk2** <mark style="color:yellow;">\[CS Map]</mark> **\[3 Stages]**
 
 ### 11/30/2025 - 8Bit
 
