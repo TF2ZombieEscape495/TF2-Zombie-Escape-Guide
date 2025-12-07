@@ -21,7 +21,7 @@ coverY: 0
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-&#x20;[ <mark style="color:yellow;">**`17 Incomplete Maps Remaining...(Added subheader section for these!!!)`**</mark>](map-list-+map-records.md#red-status-uncleared-maps)&#x20;
+&#x20;[ <mark style="color:yellow;">**`16 Incomplete Maps Remaining...(Added subheader section for these!!!)`**</mark>](map-list-+map-records.md#red-status-uncleared-maps)&#x20;
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -56,9 +56,8 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 12. <mark style="color:red;">**ze\_randomizer\_p2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING ENDING 3/100% CLEAR]**
 13. <mark style="color:red;">**ze\_ratescape\_sk2**</mark>**&#x20;\[3 Stages]**
 14. <mark style="color:red;">**ze\_santassination\_s4**</mark>**&#x20;\[PENDING EXTREME CLEAR]**
-15. <mark style="color:red;">**ze\_simpsons\_escape\_extreme\_a3\_2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark> **\[4 Stages +&#x20;**<mark style="color:yellow;">**TF2 Bonus Stage**</mark>**]**
-16. <mark style="color:red;">**ze\_star\_wars\_skial\_1**</mark>**&#x20;\[5 Stages]**
-17. <mark style="color:red;">**ze\_warlab\_v5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING SECRET ENDING CLEAR]**
+15. <mark style="color:red;">**ze\_star\_wars\_skial\_1**</mark>**&#x20;\[5 Stages]**
+16. <mark style="color:red;">**ze\_warlab\_v5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING SECRET ENDING CLEAR]**
 
 ## Non-leader Maps
 
@@ -218,7 +217,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 61. [<mark style="color:green;">**ze\_S\_A\_M\_skial\_9**</mark>](#user-content-fn-93)[^93] **\[5 Stages]**
 62. [<mark style="color:green;">**ze\_sandstone\_v2**</mark>](#user-content-fn-94)[^94]   _<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[4 Stages + Bonus]**
 63. [<mark style="color:green;">**ze\_serpentis\_temple\_skial\_4**</mark>](#user-content-fn-95)[^95] **\[5 Stages]**
-64. <mark style="color:red;">**ze\_simpsons\_escape\_extreme\_a3\_2**</mark>**&#x20;\[4 Stages +&#x20;**<mark style="color:yellow;">**TF2 Bonus Stage**</mark>**]**
+64. [<mark style="color:green;">**ze\_simpsons\_escape\_extreme\_a3\_2**</mark>](#user-content-fn-20)[^20] **\[4 Stages +&#x20;**<mark style="color:yellow;">**TF2 Bonus Stage**</mark>**]**
 65. [<mark style="color:green;">**ze\_sonic\_3\_skial\_3**</mark>](#user-content-fn-96)[^96] **\[2 Stages]**
 66. [<mark style="color:green;">**ze\_street\_fight\_with\_autism\_v5\_s1**</mark>](#user-content-fn-97)[^97] **\[3 Stages]**
 67. [<mark style="color:green;">**ze\_tyranny2\_skial\_6**</mark>](#user-content-fn-98)[^98] **\[5 Stages]**
