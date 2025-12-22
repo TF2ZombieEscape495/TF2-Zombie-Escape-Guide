@@ -16,9 +16,9 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 * **ze\_backrooms\_sk1&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[7 Stages]**
 * **ze\_backrooms\_deathbed\_sk2 &#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
-* **ze\_boatescape888\_v1\_8q&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[3 Stages]**
-* **ze\_ffxii\_mt\_bur\_snow \_s2&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[v6 Version, Winter Themed] \[4 Stages]**
-* **ze\_obj\_rescape\_sk2&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
+* **ze\_boatescape888\_v1\_8q&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[3 Stages]&#x20;**<mark style="color:purple;">**\[LEADER NOM]**</mark>&#x20;
+* **ze\_ffxii\_mt\_bur\_snow \_s2&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[v6 Version, Winter Themed] \[4 Stages]&#x20;**<mark style="color:purple;">**\[LEADER NOM]**</mark>&#x20;
+* **ze\_obj\_rescape\_sk2&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]&#x20;**<mark style="color:purple;">**\[LEADER NOM]**</mark>&#x20;
 
 ### 12/4/2025 - Ratescape
 
