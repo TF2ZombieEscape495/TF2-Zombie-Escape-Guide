@@ -1,4 +1,4 @@
-# Recent Maps 12/4/2025
+# Recent Maps 12/21/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -10,13 +10,23 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ## 2025:
 
+### 12/21/2025 -  5 New Maps
+
+(forgot to update this page tbh but here's a recap of recent maps added)
+
+* **ze\_backrooms\_sk1&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[7 Stages]**
+* **ze\_backrooms\_deathbed\_sk2 &#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
+* **ze\_boatescape888\_v1\_8q&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[3 Stages]**
+* **ze\_ffxii\_mt\_bur\_snow \_s2&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[v6 Version, Winter Themed] \[4 Stages]**
+* **ze\_obj\_rescape\_sk2&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark>**&#x20;\[1 Stage]**
+
 ### 12/4/2025 - Ratescape
 
-* **ze\_ratescape\_sk2** <mark style="color:yellow;">\[CS Map]</mark> **\[3 Stages]**
+* **ze\_ratescape\_sk2** <mark style="color:yellow;">**\[CS Map]**</mark> **\[3 Stages]**
 
 ### 11/30/2025 - 8Bit
 
-* **ze\_8bit\_sk2** <mark style="color:yellow;">\[CS Map]</mark> **\[6 Stages]**
+* **ze\_8bit\_sk2&#x20;**<mark style="color:yellow;">**\[CS Map]**</mark> **\[6 Stages]**
 
 ### 11/24/2025 - Banban Stage 2
 
