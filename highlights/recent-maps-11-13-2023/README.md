@@ -1,4 +1,4 @@
-# Recent Maps 12/21/2025
+# Recent Maps 12/23/2025
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -10,7 +10,12 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ## 2025:
 
-### 12/21/2025 -  5 New Maps
+### 12/23/2025 - 2 New TF2 Maps
+
+* **ze\_mariah\_carey\_christmas\_massacre\_v1&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage]**
+* **ze\_orangetopia\_v1&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[1 Stage]**
+
+### 12/21/2025 -  5 New Map Ports
 
 (forgot to update this page tbh but here's a recap of recent maps added)
 
