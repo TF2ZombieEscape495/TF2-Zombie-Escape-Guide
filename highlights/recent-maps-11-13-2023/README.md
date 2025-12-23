@@ -10,8 +10,9 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ## 2025:
 
-### 12/23/2025 - 2 New TF2 Maps
+### 12/23/2025 - 3 New TF2 Maps
 
+* **ze\_jambled\_v1b&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage w/3 Random Mini-Levels; (**_**12 total mini-levels) & Marathon**_
 * **ze\_mariah\_carey\_christmas\_massacre\_v1&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage]**
 * **ze\_orangetopia\_v1&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[1 Stage]**
 
