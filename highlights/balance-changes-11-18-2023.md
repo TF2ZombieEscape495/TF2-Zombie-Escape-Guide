@@ -1,12 +1,19 @@
 ---
-description: A place to quickly find gamemode to Skial ZE changes by date.
+description: >-
+  A place to quickly find gamemode to Skial ZE changes by date of known changes.
+  Note that some changes under the radar might happen, so the page might
+  stagnate sometimes.
 ---
 
-# Gamemode Changes 7/31/2025
+# Gamemode Changes 12/24/2025
 
 ## 2025&#x20;
 
-### 7/31/2025
+### 12/24/2025 - Bhop Adjustment
+
+Bhop timing made more strict - you can't auto-hop by spacebar spamming it now, you'll have to time it now for consistency.
+
+### 7/31/2025 Leader Rework
 
 _<mark style="color:$danger;">(these weren't done today, just recap of recent stuff)</mark>_
 
@@ -14,7 +21,7 @@ Leaders can now put custom text, color, and duration for their markers. (See [_L
 
 Markers can also be placed on any entity to highlight it a specific color - like a trigger door, zombie flank door, trap, or boss.
 
-Co-leaders (mini leaders) can be assigned by primary Leader via /addleader
+Co-leaders (mini leaders) can be assigned by primary Leader via /addleader (up to 3)
 
 ### 7/11/2025 - Pandemic Mode addition
 
@@ -31,7 +38,7 @@ Co-leaders (mini leaders) can be assigned by primary Leader via /addleader
   * **Faster Bunny Hopping**
 * <mark style="color:red;">**There is a small chance that ALL of the above can be applied to a round simultaneously.**</mark>
 
-### 7/10/2025 - Leader System Changes
+### 7/10/2025 - Leader System Tweak
 
 * Global whistle sound on leader marker placement
 * (ADMIN ONLY) Admin can make another player co-leader
