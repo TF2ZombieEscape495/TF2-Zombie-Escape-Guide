@@ -9,10 +9,10 @@ coverY: 0
 
 # Map List (+Map Records!)
 
-## Maps available to play: 161 maps [_<mark style="color:blue;">(last updated 12/24/2025)</mark>_](recent-maps-11-13-2023/)
+## Maps available to play: 162 maps [_<mark style="color:blue;">(last updated 1/2/2026)</mark>_](recent-maps-11-13-2023/)
 
 * 87 Non-Leader Nominable Maps
-* 74 Leader-Only Nominable Maps - tagged with <mark style="color:purple;">**LEADER**</mark>
+* 75 Leader-Only Nominable Maps - tagged with <mark style="color:purple;">**LEADER**</mark>
 
 {% hint style="success" %}
 #### These are all color coded by all known completions _\[at least once]_ in the community; &#x20;
@@ -21,7 +21,7 @@ coverY: 0
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-&#x20;[ <mark style="color:yellow;">**`25 Incomplete Maps Remaining...(Added subheader section for these!!!)`**</mark>](map-list-+map-records.md#red-status-uncleared-maps)&#x20;
+&#x20;[ <mark style="color:yellow;">**`26 Incomplete Maps Remaining...(Added subheader section for these!!!)`**</mark>](map-list-+map-records.md#red-status-uncleared-maps)&#x20;
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -45,7 +45,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 1. <mark style="color:red;">**ze\_8bit\_sk2**</mark>**&#x20;\[6 Stages]**
 2. <mark style="color:red;">**ze\_backrooms\_sk1**</mark>**&#x20;\[7 Stages]**
 3. <mark style="color:red;">**ze\_backrooms\_deathbed\_sk2**</mark>**&#x20;\[1 Stage]**
-4. <mark style="color:red;">**ze\_boatescape888\_v1\_8q**</mark>**&#x20;\[3 Stages]**
+4. <mark style="color:red;">**ze\_boatescape888\_v1\_8q**</mark>**&#x20;\[3 Stages - clear marathon mode]**
 5. <mark style="color:red;">**ze\_bridge\_v\_z**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage]**
 6. <mark style="color:red;">**ze\_diddle\_skial\_6**</mark>  <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING EXTREME CLEAR]**
 7. <mark style="color:red;">**ze\_ffxii\_mt\_bur\_snow\_s2**</mark> **(v6 Version; Winter Themed) \[4 Stages]&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
@@ -67,6 +67,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 23. <mark style="color:red;">**ze\_santassination\_s4**</mark>**&#x20;\[PENDING EXTREME CLEAR]**
 24. <mark style="color:red;">**ze\_star\_wars\_skial\_1**</mark>**&#x20;\[5 Stages]**
 25. <mark style="color:red;">**ze\_warlab\_v5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING SECRET ENDING CLEAR]**
+26. <mark style="color:red;">**ze\_xenovation\_v3\_5\_d**</mark> <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
 
 ## Non-leader Maps
 
@@ -242,6 +243,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 72. [<mark style="color:green;">**ze\_visualizer\_skial\_3**</mark>](#user-content-fn-99)[^99] **\[6 Stages]**
 73. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-100)[^100]**\[6 Stages]**
 74. <mark style="color:red;">**ze\_warlab\_v5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage - 2 Endings]**
+75. <mark style="color:red;">**ze\_xenovation\_v3\_5\_d**</mark>**&#x20;\[1 Stage + Bonus]**
 
 ## Admin-Only Maps
 

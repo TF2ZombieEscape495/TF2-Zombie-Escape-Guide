@@ -1,4 +1,4 @@
-# Recent Maps 12/24/2025
+# Recent Maps 1/2/2026
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -7,6 +7,14 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 \
 &#xNAN;_**(Moved this out of being a subheader so its easier to notice new maps via date tag)**_
 {% endhint %}
+
+##
+
+## 2026:
+
+### 1/2/2026 - Xenovation
+
+* [**ze\_zenovation\_v3\_5**](https://gamebanana.com/mods/404453) _<mark style="color:yellow;">**(CS map)**</mark>_**&#x20;\[1 Stage]**
 
 ## 2025:
 
