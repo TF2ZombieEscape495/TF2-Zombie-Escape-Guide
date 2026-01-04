@@ -9,10 +9,10 @@ coverY: 0
 
 # Map List (+Map Records!)
 
-## Maps available to play: 162 maps [_<mark style="color:blue;">(last updated 1/2/2026)</mark>_](recent-maps-11-13-2023/)
+## Maps available to play: 163 maps [_<mark style="color:blue;">(last updated 1/4/2026)</mark>_](recent-maps-11-13-2023/)
 
 * 87 Non-Leader Nominable Maps
-* 75 Leader-Only Nominable Maps - tagged with <mark style="color:purple;">**LEADER**</mark>
+* 76 Leader-Only Nominable Maps - tagged with <mark style="color:purple;">**LEADER**</mark>
 
 {% hint style="success" %}
 #### These are all color coded by all known completions _\[at least once]_ in the community; &#x20;
@@ -21,7 +21,7 @@ coverY: 0
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-&#x20;[ <mark style="color:yellow;">**`26 Incomplete Maps Remaining...(Added subheader section for these!!!)`**</mark>](map-list-+map-records.md#red-status-uncleared-maps)&#x20;
+&#x20;[ <mark style="color:yellow;">**`27 Incomplete Maps Remaining...(Added subheader section for these!!!)`**</mark>](map-list-+map-records.md#red-status-uncleared-maps)&#x20;
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -48,26 +48,27 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 4. <mark style="color:red;">**ze\_boatescape888\_v1\_8q**</mark>**&#x20;\[3 Stages - clear marathon mode]**
 5. <mark style="color:red;">**ze\_bridge\_v\_z**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage]**
 6. <mark style="color:red;">**ze\_diddle\_skial\_6**</mark>  <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING EXTREME CLEAR]**
-7. <mark style="color:red;">**ze\_ffxii\_mt\_bur\_snow\_s2**</mark> **(v6 Version; Winter Themed) \[4 Stages]&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
-8. <mark style="color:red;">**ze\_ffxii\_ridorana\_cataract\_t2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[4 Stages]**
-9. <mark style="color:red;">**ze\_garten\_of\_banbantaylorythmics\_bald67selene\_update\_v3b**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[2 Stages]**
-10. <mark style="color:red;">**ze\_industrial\_dejavu\_skial\_2**</mark> **\[4 Stages]**
-11. <mark style="color:red;">**ze\_jambled\_v1b**</mark> _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage]**
-12. <mark style="color:red;">**ze\_laserheaven\_v2a**</mark>  _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[3 Stages + Bonus]**
-13. <mark style="color:red;">**ze\_laserhell\_v1\_1\_1\_1**</mark>  _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[PENDING MAKO STAGE CLEAR]**
-14. <mark style="color:red;">**ze\_mariah\_carey\_christmas\_massacre\_v1**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage]**
-15. <mark style="color:red;">**ze\_night\_cinema\_s1**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[6 Stages]**
-16. <mark style="color:red;">**ze\_obj\_filth\_skial\_3**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
-17. <mark style="color:red;">**ze\_obj\_rescape\_sk2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
-18. <mark style="color:red;">**ze\_obj\_void\_sk1**</mark> <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
-19. <mark style="color:red;">**ze\_orangetopia\_v1**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[1 Stage]**
-20. <mark style="color:red;">**ze\_outlast\_skial\_6**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[2 Stages]**
-21. <mark style="color:red;">**ze\_randomizer\_p2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING ENDING 3/100% CLEAR]**
-22. <mark style="color:red;">**ze\_ratescape\_sk2**</mark>**&#x20;\[3 Stages]**
-23. <mark style="color:red;">**ze\_santassination\_s4**</mark>**&#x20;\[PENDING EXTREME CLEAR]**
-24. <mark style="color:red;">**ze\_star\_wars\_skial\_1**</mark>**&#x20;\[5 Stages]**
-25. <mark style="color:red;">**ze\_warlab\_v5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING SECRET ENDING CLEAR]**
-26. <mark style="color:red;">**ze\_xenovation\_v3\_5\_d**</mark> <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
+7. <mark style="color:red;">**ze\_ffvii\_snow\_cosmo\_v5\_5**</mark> <mark style="color:purple;">**(LEADER)**</mark> **\[4 Stages]**
+8. <mark style="color:red;">**ze\_ffxii\_mt\_bur\_snow\_s2**</mark> **(v6 Version; Winter Themed) \[4 Stages]&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
+9. <mark style="color:red;">**ze\_ffxii\_ridorana\_cataract\_t2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[4 Stages]**
+10. <mark style="color:red;">**ze\_garten\_of\_banbantaylorythmics\_bald67selene\_update\_v3b**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[2 Stages]**
+11. <mark style="color:red;">**ze\_industrial\_dejavu\_skial\_2**</mark> **\[4 Stages]**
+12. <mark style="color:red;">**ze\_jambled\_v1b**</mark> _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage]**
+13. <mark style="color:red;">**ze\_laserheaven\_v2a**</mark>  _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[3 Stages + Bonus]**
+14. <mark style="color:red;">**ze\_laserhell\_v1\_1\_1\_1**</mark>  _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[PENDING MAKO STAGE CLEAR]**
+15. <mark style="color:red;">**ze\_mariah\_carey\_christmas\_massacre\_v1**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage]**
+16. <mark style="color:red;">**ze\_night\_cinema\_s1**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[6 Stages]**
+17. <mark style="color:red;">**ze\_obj\_filth\_skial\_3**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
+18. <mark style="color:red;">**ze\_obj\_rescape\_sk2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
+19. <mark style="color:red;">**ze\_obj\_void\_sk1**</mark> <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
+20. <mark style="color:red;">**ze\_orangetopia\_v1**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[1 Stage]**
+21. <mark style="color:red;">**ze\_outlast\_skial\_6**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[2 Stages]**
+22. <mark style="color:red;">**ze\_randomizer\_p2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING ENDING 3/100% CLEAR]**
+23. <mark style="color:red;">**ze\_ratescape\_sk2**</mark>**&#x20;\[3 Stages]**
+24. <mark style="color:red;">**ze\_santassination\_s4**</mark>**&#x20;\[PENDING EXTREME CLEAR]**
+25. <mark style="color:red;">**ze\_star\_wars\_skial\_1**</mark>**&#x20;\[5 Stages]**
+26. <mark style="color:red;">**ze\_warlab\_v5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING SECRET ENDING CLEAR]**
+27. <mark style="color:red;">**ze\_xenovation\_v3\_5\_d**</mark> <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
 
 ## Non-leader Maps
 
@@ -190,60 +191,61 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 19. [<mark style="color:green;">**ze\_ffvii\_mako\_reactor\_skial\_13**</mark>](#user-content-fn-62)[^62] **(v5, Classic Version) \[4 Stages]**
 20. [<mark style="color:green;">**ze\_ffvii\_mako\_reactor\_v6\_b5**</mark>](#user-content-fn-63)[^63] **(v6, New Version) \[5 Stages]**
 21. [<mark style="color:green;">**ze\_ffvii\_malgo\_reactor\_v5\_s4fix**</mark>](#user-content-fn-64)[^64] **\[6 Stages + 2 Bonus]**
-22. [<mark style="color:green;">**ze\_ffxii\_mt\_bur\_omisace\_b1**</mark>](#user-content-fn-65)[^65] **(v5 Version)** **\[4 Stages]**
-23. <mark style="color:red;">**ze\_ffxii\_mt\_bur\_snow\_s2**</mark> **(v6 Version; Winter Themed) \[4 Stages]**
-24. <mark style="color:red;">**ze\_ffxii\_ridorana\_cataract**</mark>**&#x20;\[4 Stages]**
-25. <mark style="color:green;">**ze\_ffxii\_westersand\_skial\_5**</mark>**&#x20;(v7) \[5 Stages]**
-26. [<mark style="color:green;">**ze\_ffxiv\_wanderers\_palace\_skial\_4**</mark>](#user-content-fn-66)[^66] **(v5)** **\[4 Stages]**
-27. [<mark style="color:green;">**ze\_frostdrake\_tower\_skial\_3**</mark>](#user-content-fn-67)[^67] **\[1 Stage]**
-28. [<mark style="color:green;">**ze\_frozen\_abyss\_skial\_1**</mark>](#user-content-fn-68)[^68] **\[2 Stages]**
-29. <mark style="color:green;">**ze\_frozentemple\_skial\_b1**</mark> **\[1 Stage]**
-30. <mark style="color:green;">**ze\_grau\_fyb**</mark> **\[3 Stages + 2 Bonus]**
-31. <mark style="color:green;">**ze\_gris\_skial\_5**</mark> **\[4 Stages + 2 Bonus]**
-32. <mark style="color:green;">**ze\_hydroponic\_garden\_s\_2**</mark> **\[4 Stages]**
-33. <mark style="color:green;">**ze\_johnny\_nukem\_skial\_6**</mark> **\[3 Stages]**
-34. [<mark style="color:green;">**ze\_l0v0l\_v1**</mark>](#user-content-fn-69)[^69] **\[4 Stages]**&#x20;
-35. <mark style="color:red;">**ze\_laserheaven\_v2a**</mark>  _<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[3 Stages + Bonus]**
-36. [<mark style="color:green;">**ze\_last\_man\_standing\_b1**</mark>](#user-content-fn-70)[^70]  **\[10 Stages]**
-37. [<mark style="color:green;">**ze\_lotr\_minas\_tirith\_skial\_1**</mark>](#user-content-fn-71)[^71]<mark style="color:green;">**4**</mark>**&#x20;\[8 Stages]**
-38. [<mark style="color:green;">**ze\_luciddreams\_b1**</mark>](#user-content-fn-72)[^72] **(New Version)** **\[1 Stage]**
-39. [<mark style="color:green;">**ze\_m0w0m\_b4\_f1**</mark>](#user-content-fn-73)[^73] **\[6 Stages]**
-40. [<mark style="color:green;">**ze\_meatropolis\_skial\_2**</mark>](#user-content-fn-74)[^74] **\[3 Stages]**
-41. [<mark style="color:green;">**ze\_minimal\_skial\_2**</mark>](#user-content-fn-75)[^75] **\[4 Stages]**
-42. [<mark style="color:green;">**ze\_mist\_skial\_3**</mark>](#user-content-fn-76)[^76] **\[1 Stage]**
-43. [<mark style="color:green;">**ze\_neochrome\_b1**</mark>](#user-content-fn-77)[^77] **\[1 Stage]**
-44. [<mark style="color:red;">**ze\_night\_cinema\_s1**</mark>](#user-content-fn-78)[^78] **\[6 Stages]**
-45. [<mark style="color:green;">**ze\_nomada\_h5**</mark> ](#user-content-fn-79)[^79] **\[3 Stages]**
-46. [<mark style="color:red;">**ze\_obj\_filth\_skial\_3**</mark>](#user-content-fn-80)[^80] **\[1 Stage]**
-47. [<mark style="color:green;">**ze\_obj\_npst\_tf2\_f1**</mark> ](#user-content-fn-81)[^81] **\[1 Stage]**&#x20;
-48. [<mark style="color:green;">**ze\_obj\_rampage\_skial\_2**</mark>](#user-content-fn-82)[^82] **\[1 Stage]**
-49. <mark style="color:red;">**ze\_obj\_rescape\_sk2**</mark>**&#x20;\[1 Stage]**
-50. <mark style="color:red;">**ze\_obj\_void\_sk1**</mark>**&#x20;\[1 Stage]**
-51. [<mark style="color:green;">**ze\_offliner\_skial\_1**</mark>](#user-content-fn-83)[^83]  **\[1 Stage]**
-52. <mark style="color:red;">**ze\_orangetopia\_v1**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[1 Stage]**
-53. [<mark style="color:red;">**ze\_outlast\_skial\_**</mark>](#user-content-fn-84)[^84]<mark style="color:red;">**6**</mark>**&#x20;\[2 Stages]**
-54. [<mark style="color:green;">**ze\_oot\_shadowtemple\_skial\_2**</mark>](#user-content-fn-85)[^85]  **\[1 Stage]**
-55. [<mark style="color:green;">**ze\_palace\_of\_minolila\_skial\_**</mark>](#user-content-fn-86)[^86]<mark style="color:green;">**4**</mark>**&#x20;\[5 Stages + Bonus]**
-56. [<mark style="color:green;">**ze\_parkour\_paradise\_v3d**</mark>](#user-content-fn-87)[^87] _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[4 Stages + 3 Bonus]**
-57. [<mark style="color:green;">**ze\_pkmn\_adventure\_s1**</mark> ](#user-content-fn-88)[^88] **\[5 Stages]**
-58. <mark style="color:green;">**ze\_predator\_ultimate\_skial\_3**</mark>**&#x20;** **\[4 Stages]**
-59. <mark style="color:green;">**ze\_quicksand\_v1e**</mark>**&#x20; &#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[4 Stages + Bonus]**&#x20;
-60. <mark style="color:red;">**ze\_randomizer\_p2**</mark>**&#x20;** **\[1 Stage - 3 Endings w/20 Random Levels]**
-61. [<mark style="color:green;">**ze\_rizomata\_skial\_8**</mark>](#user-content-fn-89)[^89] **\[5 Stages]**
-62. [<mark style="color:green;">**ze\_roof\_adventure\_skial\_2**</mark>](#user-content-fn-90)[^90] **\[7 Stages]**
-63. [<mark style="color:green;">**ze\_rush\_b\_skial\_6**</mark>](#user-content-fn-91)[^91] **\[1 Stage]**
-64. [<mark style="color:green;">**ze\_ryujin\_v3**</mark>](#user-content-fn-92)[^92]   _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;** **\[3 Stages]**
-65. [<mark style="color:green;">**ze\_S\_A\_M\_skial\_9**</mark>](#user-content-fn-93)[^93] **\[5 Stages]**
-66. [<mark style="color:green;">**ze\_sandstone\_v2**</mark>](#user-content-fn-94)[^94]   _<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[4 Stages + Bonus]**
-67. [<mark style="color:green;">**ze\_serpentis\_temple\_skial\_4**</mark>](#user-content-fn-95)[^95] **\[5 Stages]**
-68. [<mark style="color:green;">**ze\_simpsons\_escape\_extreme\_a3\_2**</mark>](#user-content-fn-20)[^20] **\[4 Stages +&#x20;**<mark style="color:yellow;">**TF2 Bonus Stage**</mark>**]**
-69. [<mark style="color:green;">**ze\_sonic\_3\_skial\_3**</mark>](#user-content-fn-96)[^96] **\[2 Stages]**
-70. [<mark style="color:green;">**ze\_street\_fight\_with\_autism\_v5\_s1**</mark>](#user-content-fn-97)[^97] **\[3 Stages]**
-71. [<mark style="color:green;">**ze\_tyranny2\_skial\_6**</mark>](#user-content-fn-98)[^98] **\[5 Stages]**
-72. [<mark style="color:green;">**ze\_visualizer\_skial\_3**</mark>](#user-content-fn-99)[^99] **\[6 Stages]**
-73. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-100)[^100]**\[6 Stages]**
-74. <mark style="color:red;">**ze\_warlab\_v5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage - 2 Endings]**
-75. <mark style="color:red;">**ze\_xenovation\_v3\_5\_d**</mark>**&#x20;\[1 Stage + Bonus]**
+22. <mark style="color:red;">**ze\_ffvii\_snow\_cosmo\_v5\_5**</mark> **\[4 Stages]**
+23. [<mark style="color:green;">**ze\_ffxii\_mt\_bur\_omisace\_b1**</mark>](#user-content-fn-65)[^65] **(v5 Version)** **\[4 Stages]**
+24. <mark style="color:red;">**ze\_ffxii\_mt\_bur\_snow\_s2**</mark> **(v6 Version; Winter Themed) \[4 Stages]**
+25. <mark style="color:red;">**ze\_ffxii\_ridorana\_cataract**</mark>**&#x20;\[4 Stages]**
+26. <mark style="color:green;">**ze\_ffxii\_westersand\_skial\_5**</mark>**&#x20;(v7) \[5 Stages]**
+27. [<mark style="color:green;">**ze\_ffxiv\_wanderers\_palace\_skial\_4**</mark>](#user-content-fn-66)[^66] **(v5)** **\[4 Stages]**
+28. [<mark style="color:green;">**ze\_frostdrake\_tower\_skial\_3**</mark>](#user-content-fn-67)[^67] **\[1 Stage]**
+29. [<mark style="color:green;">**ze\_frozen\_abyss\_skial\_1**</mark>](#user-content-fn-68)[^68] **\[2 Stages]**
+30. <mark style="color:green;">**ze\_frozentemple\_skial\_b1**</mark> **\[1 Stage]**
+31. <mark style="color:green;">**ze\_grau\_fyb**</mark> **\[3 Stages + 2 Bonus]**
+32. <mark style="color:green;">**ze\_gris\_skial\_5**</mark> **\[4 Stages + 2 Bonus]**
+33. <mark style="color:green;">**ze\_hydroponic\_garden\_s\_2**</mark> **\[4 Stages]**
+34. <mark style="color:green;">**ze\_johnny\_nukem\_skial\_6**</mark> **\[3 Stages]**
+35. [<mark style="color:green;">**ze\_l0v0l\_v1**</mark>](#user-content-fn-69)[^69] **\[4 Stages]**&#x20;
+36. <mark style="color:red;">**ze\_laserheaven\_v2a**</mark>  _<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[3 Stages + Bonus]**
+37. [<mark style="color:green;">**ze\_last\_man\_standing\_b1**</mark>](#user-content-fn-70)[^70]  **\[10 Stages]**
+38. [<mark style="color:green;">**ze\_lotr\_minas\_tirith\_skial\_1**</mark>](#user-content-fn-71)[^71]<mark style="color:green;">**4**</mark>**&#x20;\[8 Stages]**
+39. [<mark style="color:green;">**ze\_luciddreams\_b1**</mark>](#user-content-fn-72)[^72] **(New Version)** **\[1 Stage]**
+40. [<mark style="color:green;">**ze\_m0w0m\_b4\_f1**</mark>](#user-content-fn-73)[^73] **\[6 Stages]**
+41. [<mark style="color:green;">**ze\_meatropolis\_skial\_2**</mark>](#user-content-fn-74)[^74] **\[3 Stages]**
+42. [<mark style="color:green;">**ze\_minimal\_skial\_2**</mark>](#user-content-fn-75)[^75] **\[4 Stages]**
+43. [<mark style="color:green;">**ze\_mist\_skial\_3**</mark>](#user-content-fn-76)[^76] **\[1 Stage]**
+44. [<mark style="color:green;">**ze\_neochrome\_b1**</mark>](#user-content-fn-77)[^77] **\[1 Stage]**
+45. [<mark style="color:red;">**ze\_night\_cinema\_s1**</mark>](#user-content-fn-78)[^78] **\[6 Stages]**
+46. [<mark style="color:green;">**ze\_nomada\_h5**</mark> ](#user-content-fn-79)[^79] **\[3 Stages]**
+47. [<mark style="color:red;">**ze\_obj\_filth\_skial\_3**</mark>](#user-content-fn-80)[^80] **\[1 Stage]**
+48. [<mark style="color:green;">**ze\_obj\_npst\_tf2\_f1**</mark> ](#user-content-fn-81)[^81] **\[1 Stage]**&#x20;
+49. [<mark style="color:green;">**ze\_obj\_rampage\_skial\_2**</mark>](#user-content-fn-82)[^82] **\[1 Stage]**
+50. <mark style="color:red;">**ze\_obj\_rescape\_sk2**</mark>**&#x20;\[1 Stage]**
+51. <mark style="color:red;">**ze\_obj\_void\_sk1**</mark>**&#x20;\[1 Stage]**
+52. [<mark style="color:green;">**ze\_offliner\_skial\_1**</mark>](#user-content-fn-83)[^83]  **\[1 Stage]**
+53. <mark style="color:red;">**ze\_orangetopia\_v1**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[1 Stage]**
+54. [<mark style="color:red;">**ze\_outlast\_skial\_**</mark>](#user-content-fn-84)[^84]<mark style="color:red;">**6**</mark>**&#x20;\[2 Stages]**
+55. [<mark style="color:green;">**ze\_oot\_shadowtemple\_skial\_2**</mark>](#user-content-fn-85)[^85]  **\[1 Stage]**
+56. [<mark style="color:green;">**ze\_palace\_of\_minolila\_skial\_**</mark>](#user-content-fn-86)[^86]<mark style="color:green;">**4**</mark>**&#x20;\[5 Stages + Bonus]**
+57. [<mark style="color:green;">**ze\_parkour\_paradise\_v3d**</mark>](#user-content-fn-87)[^87] _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[4 Stages + 3 Bonus]**
+58. [<mark style="color:green;">**ze\_pkmn\_adventure\_s1**</mark> ](#user-content-fn-88)[^88] **\[5 Stages]**
+59. <mark style="color:green;">**ze\_predator\_ultimate\_skial\_3**</mark>**&#x20;** **\[4 Stages]**
+60. <mark style="color:green;">**ze\_quicksand\_v1e**</mark>**&#x20; &#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[4 Stages + Bonus]**&#x20;
+61. <mark style="color:red;">**ze\_randomizer\_p2**</mark>**&#x20;** **\[1 Stage - 3 Endings w/20 Random Levels]**
+62. [<mark style="color:green;">**ze\_rizomata\_skial\_8**</mark>](#user-content-fn-89)[^89] **\[5 Stages]**
+63. [<mark style="color:green;">**ze\_roof\_adventure\_skial\_2**</mark>](#user-content-fn-90)[^90] **\[7 Stages]**
+64. [<mark style="color:green;">**ze\_rush\_b\_skial\_6**</mark>](#user-content-fn-91)[^91] **\[1 Stage]**
+65. [<mark style="color:green;">**ze\_ryujin\_v3**</mark>](#user-content-fn-92)[^92]   _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;** **\[3 Stages]**
+66. [<mark style="color:green;">**ze\_S\_A\_M\_skial\_9**</mark>](#user-content-fn-93)[^93] **\[5 Stages]**
+67. [<mark style="color:green;">**ze\_sandstone\_v2**</mark>](#user-content-fn-94)[^94]   _<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[4 Stages + Bonus]**
+68. [<mark style="color:green;">**ze\_serpentis\_temple\_skial\_4**</mark>](#user-content-fn-95)[^95] **\[5 Stages]**
+69. [<mark style="color:green;">**ze\_simpsons\_escape\_extreme\_a3\_2**</mark>](#user-content-fn-20)[^20] **\[4 Stages +&#x20;**<mark style="color:yellow;">**TF2 Bonus Stage**</mark>**]**
+70. [<mark style="color:green;">**ze\_sonic\_3\_skial\_3**</mark>](#user-content-fn-96)[^96] **\[2 Stages]**
+71. [<mark style="color:green;">**ze\_street\_fight\_with\_autism\_v5\_s1**</mark>](#user-content-fn-97)[^97] **\[3 Stages]**
+72. [<mark style="color:green;">**ze\_tyranny2\_skial\_6**</mark>](#user-content-fn-98)[^98] **\[5 Stages]**
+73. [<mark style="color:green;">**ze\_visualizer\_skial\_3**</mark>](#user-content-fn-99)[^99] **\[6 Stages]**
+74. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-100)[^100]**\[6 Stages]**
+75. <mark style="color:red;">**ze\_warlab\_v5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage - 2 Endings]**
+76. <mark style="color:red;">**ze\_xenovation\_v3\_5\_d**</mark>**&#x20;\[1 Stage + Bonus]**
 
 ## Admin-Only Maps
 

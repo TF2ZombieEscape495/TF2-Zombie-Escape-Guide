@@ -1,4 +1,4 @@
-# Recent Maps 1/2/2026
+# Recent Maps 1/4/2026
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -11,6 +11,10 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 ##
 
 ## 2026:
+
+### **1/4/2026 - Snow Cosmo**&#x20;
+
+* **ze\_ffvii\_snow\_cosmo\_v5\_5** _<mark style="color:yellow;">**(CS map)**</mark>_**&#x20;\[4 Stages]**
 
 ### 1/2/2026 - Xenovation
 
