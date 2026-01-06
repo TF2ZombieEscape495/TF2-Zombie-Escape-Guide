@@ -49,7 +49,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 5. <mark style="color:red;">**ze\_bridge\_v\_z**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage]**
 6. <mark style="color:red;">**ze\_diddle\_skial\_6**</mark>  <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING EXTREME CLEAR]**
 7. <mark style="color:red;">**ze\_ffvii\_snow\_cosmo\_v5\_5**</mark> <mark style="color:purple;">**(LEADER)**</mark> **\[4 Stages]**
-8. <mark style="color:red;">**ze\_ffxii\_mt\_bur\_snow\_s2**</mark> **(v6 Version; Winter Themed) \[4 Stages]&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
+8. <mark style="color:red;">**ze\_ffxii\_mt\_bur\_snow\_s2**</mark> **(v6 Version; Winter Themed) \[5 Stages]&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
 9. <mark style="color:red;">**ze\_ffxii\_ridorana\_cataract\_t2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[4 Stages]**
 10. <mark style="color:red;">**ze\_garten\_of\_banbantaylorythmics\_bald67selene\_update\_v3b**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[2 Stages]**
 11. <mark style="color:red;">**ze\_industrial\_dejavu\_skial\_2**</mark> **\[4 Stages]**
@@ -191,7 +191,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 19. [<mark style="color:green;">**ze\_ffvii\_mako\_reactor\_skial\_13**</mark>](#user-content-fn-62)[^62] **(v5, Classic Version) \[4 Stages]**
 20. [<mark style="color:green;">**ze\_ffvii\_mako\_reactor\_v6\_b5**</mark>](#user-content-fn-63)[^63] **(v6, New Version) \[5 Stages]**
 21. [<mark style="color:green;">**ze\_ffvii\_malgo\_reactor\_v5\_s4fix**</mark>](#user-content-fn-64)[^64] **\[6 Stages + 2 Bonus]**
-22. <mark style="color:red;">**ze\_ffvii\_snow\_cosmo\_v5\_5**</mark> **\[4 Stages]**
+22. <mark style="color:red;">**ze\_ffvii\_snow\_cosmo\_v5\_5**</mark> **\[5 Stages]**
 23. [<mark style="color:green;">**ze\_ffxii\_mt\_bur\_omisace\_b1**</mark>](#user-content-fn-65)[^65] **(v5 Version)** **\[4 Stages]**
 24. <mark style="color:red;">**ze\_ffxii\_mt\_bur\_snow\_s2**</mark> **(v6 Version; Winter Themed) \[4 Stages]**
 25. <mark style="color:red;">**ze\_ffxii\_ridorana\_cataract**</mark>**&#x20;\[4 Stages]**

@@ -14,7 +14,7 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 ### **1/4/2026 - Snow Cosmo**&#x20;
 
-* **ze\_ffvii\_snow\_cosmo\_v5\_5** _<mark style="color:yellow;">**(CS map)**</mark>_**&#x20;\[4 Stages]**
+* **ze\_ffvii\_snow\_cosmo\_v5\_5** _<mark style="color:yellow;">**(CS map)**</mark>_**&#x20;\[5 Stages]**
 
 ### 1/2/2026 - Xenovation
 
