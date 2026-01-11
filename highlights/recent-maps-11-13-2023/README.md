@@ -1,4 +1,4 @@
-# Recent Maps 1/4/2026
+# Recent Maps 1/11/2026
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -11,6 +11,10 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 ##
 
 ## 2026:
+
+### 1/11/2026 - Metro World
+
+* [**ze\_metro\_world**](https://gamebanana.com/mods/643460) added _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage]**
 
 ### **1/4/2026 - Snow Cosmo**&#x20;
 
