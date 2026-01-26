@@ -21,7 +21,7 @@ coverY: 0
 
 _**Got a new****&#x20;**<mark style="color:green;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
 
-&#x20;[ <mark style="color:yellow;">**`27 Incomplete Maps Remaining...(Added subheader section for these!!!)`**</mark>](map-list-+map-records.md#red-status-uncleared-maps)&#x20;
+&#x20;[ <mark style="color:yellow;">**`26 Incomplete Maps Remaining...(Added subheader section for these!!!)`**</mark>](map-list-+map-records.md#red-status-uncleared-maps)&#x20;
 
 <mark style="color:red;">**RED**</mark>**&#x20;= `Incomplete/Partially Completed - annotated with run records, (click on names!)`**
 
@@ -57,18 +57,17 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 13. <mark style="color:red;">**ze\_laserhell\_v1\_1\_1\_1**</mark>  _<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[PENDING MAKO STAGE CLEAR]**
 14. <mark style="color:red;">**ze\_mariah\_carey\_christmas\_massacre\_v1**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage]**
 15. <mark style="color:red;">**ze\_metro\_world\_skial\_3**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage]**
-16. <mark style="color:red;">**ze\_night\_cinema\_s1**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[6 Stages]**
-17. <mark style="color:red;">**ze\_obj\_filth\_skial\_3**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
-18. <mark style="color:red;">**ze\_obj\_rescape\_sk2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
-19. <mark style="color:red;">**ze\_obj\_void\_sk1**</mark> <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
-20. <mark style="color:red;">**ze\_orangetopia\_v1**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[1 Stage]**
-21. <mark style="color:red;">**ze\_outlast\_skial\_6**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[2 Stages]**
-22. <mark style="color:red;">**ze\_randomizer\_p2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING ENDING 3/100% CLEAR]**
-23. <mark style="color:red;">**ze\_ratescape\_sk2**</mark>**&#x20;\[3 Stages]**
-24. <mark style="color:red;">**ze\_santassination\_s4**</mark>**&#x20;\[PENDING EXTREME CLEAR]**
-25. <mark style="color:red;">**ze\_star\_wars\_skial\_1**</mark>**&#x20;\[5 Stages]**
-26. <mark style="color:red;">**ze\_warlab\_v5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING SECRET ENDING CLEAR]**
-27. <mark style="color:red;">**ze\_xenovation\_v3\_5\_d**</mark> <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
+16. <mark style="color:red;">**ze\_obj\_filth\_skial\_3**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
+17. <mark style="color:red;">**ze\_obj\_rescape\_sk2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
+18. <mark style="color:red;">**ze\_obj\_void\_sk1**</mark> <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
+19. <mark style="color:red;">**ze\_orangetopia\_v1**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_ **\[1 Stage]**
+20. <mark style="color:red;">**ze\_outlast\_skial\_6**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[2 Stages]**
+21. <mark style="color:red;">**ze\_randomizer\_p2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING ENDING 3/100% CLEAR]**
+22. <mark style="color:red;">**ze\_ratescape\_sk2**</mark>**&#x20;\[3 Stages]**
+23. <mark style="color:red;">**ze\_santassination\_s4**</mark>**&#x20;\[PENDING EXTREME CLEAR]**
+24. <mark style="color:red;">**ze\_star\_wars\_skial\_1**</mark>**&#x20;\[5 Stages]**
+25. <mark style="color:red;">**ze\_warlab\_v5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING SECRET ENDING CLEAR]**
+26. <mark style="color:red;">**ze\_xenovation\_v3\_5\_d**</mark> <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[1 Stage]**
 
 ## Non-leader Maps
 
@@ -215,7 +214,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 43. [<mark style="color:green;">**ze\_minimal\_skial\_2**</mark>](#user-content-fn-76)[^76] **\[4 Stages]**
 44. [<mark style="color:green;">**ze\_mist\_skial\_3**</mark>](#user-content-fn-77)[^77] **\[1 Stage]**
 45. [<mark style="color:green;">**ze\_neochrome\_b1**</mark>](#user-content-fn-78)[^78] **\[1 Stage]**
-46. [<mark style="color:red;">**ze\_night\_cinema\_s1**</mark>](#user-content-fn-79)[^79] **\[6 Stages]**
+46. [<mark style="color:green;">**ze\_night\_cinema\_s1**</mark> ](#user-content-fn-79)[^79]**\[6 Stages]**
 47. [<mark style="color:green;">**ze\_nomada\_h5**</mark> ](#user-content-fn-80)[^80] **\[3 Stages]**
 48. [<mark style="color:red;">**ze\_obj\_filth\_skial\_3**</mark>](#user-content-fn-81)[^81] **\[1 Stage]**
 49. [<mark style="color:green;">**ze\_obj\_npst\_tf2\_f1**</mark> ](#user-content-fn-82)[^82] **\[1 Stage]**&#x20;
@@ -290,7 +289,7 @@ Header title; are still playable but can only be set on the server by Skial Admi
 
 [^15]: ![](../.gitbook/assets/20241124092444_1.jpg)
 
-[^16]: ![](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
+[^16]: ![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
 
 [^17]: ![](<../.gitbook/assets/Freezy Win.PNG>)
 
@@ -434,10 +433,9 @@ Header title; are still playable but can only be set on the server by Skial Admi
 
 [^78]: ![](<../.gitbook/assets/Neochrome Win (2).png>)
 
-[^79]: <mark style="color:yellow;">**Run Record:**</mark>\
-    <mark style="color:orange;">**\[Stage 1/6]**</mark>
+[^79]: 
 
-    **\~Pending record...**
+    <img src="../.gitbook/assets/night cinema win (1).jpg" alt="" data-size="original">
 
 [^80]: ![](<../.gitbook/assets/Nomada Win.png>)
 

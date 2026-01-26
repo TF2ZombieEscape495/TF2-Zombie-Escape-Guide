@@ -45,7 +45,7 @@ Co-leaders (mini leaders) can be assigned by primary Leader via /addleader (up t
 
 ### 6/30/2025 KB + Scorch Shot Adjust
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### 6/25/2025 Legacy Anti-Boosting code re-added
 
@@ -97,7 +97,7 @@ tl;dr this is your weapon buy system integrated into TF2 ZE and will mitigate yo
 * <mark style="color:red;">**You have a limited use of 3 !zload usages in a round.**</mark>
 *
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endhint %}
 
 * <mark style="color:yellow;">**!bhop**</mark> made opt-in **and now is off by default for everyone** unless they !bhop or sm\_bhop bind
