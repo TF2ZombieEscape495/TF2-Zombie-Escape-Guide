@@ -47,7 +47,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 3. <mark style="color:red;">**ze\_boatescape888\_v1\_8q**</mark>**&#x20;\[3 Stages - clear marathon mode]**
 4. <mark style="color:red;">**ze\_bridge\_v\_z**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage]**
 5. <mark style="color:red;">**ze\_diddle\_skial\_6**</mark>  <mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[PENDING EXTREME CLEAR]**
-6. <mark style="color:red;">**ze\_ffvii\_snow\_cosmo\_v5\_5**</mark> <mark style="color:purple;">**(LEADER)**</mark> **\[4 Stages]**
+6. <mark style="color:red;">**ze\_ffvii\_snow\_cosmo\_v5\_5**</mark> <mark style="color:purple;">**(LEADER)**</mark> **\[5 Stages]**
 7. <mark style="color:red;">**ze\_ffxii\_mt\_bur\_snow\_s2**</mark> **(v6 Version; Winter Themed) \[5 Stages]&#x20;**<mark style="color:purple;">**(LEADER)**</mark>
 8. <mark style="color:red;">**ze\_ffxii\_ridorana\_cataract\_t2**</mark>**&#x20;**<mark style="color:purple;">**(LEADER)**</mark>**&#x20;\[4 Stages]**
 9. <mark style="color:red;">**ze\_garten\_of\_banbantaylorythmics\_bald67selene\_update\_v3b**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[2 Stages]**
