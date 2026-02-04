@@ -19,7 +19,7 @@ coverY: 0
 
 #### <mark style="color:red;">\~At least have a Relatively Full</mark> <mark style="color:red;"></mark>_<mark style="color:red;">(Usually 30-ish), Non-Friendly S</mark>_<mark style="color:red;">erver. Usually on Normal; might exempt for very casual maps.</mark>
 
-_**Got a new****&#x20;**<mark style="color:$success;">**win**</mark>**&#x20;****screenshot that fulfills this? Send it to****&#x20;**<mark style="color:green;">**@not\_pickles (Myuri)**</mark>**&#x20;****in the Skial Discord!**_
+_**2**_
 
 &#x20;[ <mark style="color:yellow;">**`26 Incomplete Maps Remaining...(Added subheader section for these!!!)`**</mark>](map-list-+map-records.md#red-status-uncleared-maps)&#x20;
 
@@ -245,7 +245,7 @@ _<mark style="color:yellow;">**Note:**</mark>_ You can find your custom maps fol
 72. [<mark style="color:green;">**ze\_street\_fight\_with\_autism\_v5\_s1**</mark>](#user-content-fn-99)[^99] **\[3 Stages]**
 73. [<mark style="color:green;">**ze\_tyranny2\_skial\_6**</mark>](#user-content-fn-100)[^100] **\[5 Stages]**
 74. [<mark style="color:green;">**ze\_visualizer\_skial\_3**</mark>](#user-content-fn-101)[^101] **\[6 Stages]**
-75. [<mark style="color:green;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-102)[^102]**\[6 Stages]**
+75. [<mark style="color:$success;">**ze\_v0u0v\_b2**</mark>](#user-content-fn-102)[^102]**\[6 Stages]**
 76. <mark style="color:red;">**ze\_warlab\_v5**</mark>**&#x20;**_<mark style="color:yellow;">**(TF2 map)**</mark>_**&#x20;\[1 Stage - 2 Endings]**
 77. [<mark style="color:$success;">**ze\_xenovation\_v3\_5\_d**</mark>](#user-content-fn-22)[^22] **\[1 Stage + Bonus]**
 

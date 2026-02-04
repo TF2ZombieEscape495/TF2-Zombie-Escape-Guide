@@ -15,8 +15,6 @@ coverY: 87.4888558692422
 <mark style="color:yellow;">**Note 2:**</mark> Try to copy the link as shown below when sharing this main page redirect - it's a lot shorter than the default address handle!
 
 [**tf2zombieescape.gitbook.io**](https://tf2zombieescape.gitbook.io)
-
-<mark style="color:green;">**Currently being managed by \[Discord] @ not\_pickles -**</mark> [<mark style="color:green;">**\[Steam\] Myuri**</mark>](https://steamcommunity.com/id/literallynotpickles/) <mark style="color:green;">**if you need to get in contact.**</mark>
 {% endhint %}
 
 Ever play CS or GMod Zombie Escape and wonder how it might translate to TF2? Ever play TF2 and wonder how classes might fit into ZE? The aim of the game is the same, but, in TF2, things can get a bit interesting...\
