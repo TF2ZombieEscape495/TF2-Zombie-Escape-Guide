@@ -1,4 +1,4 @@
-# Recent Maps 2/1/2026
+# Recent Maps 2/8/2026
 
 {% hint style="info" %}
 Another page to <mark style="color:yellow;">**highlight**</mark> when new maps are added to the server _\[and maybe mention significant enough versions with changelogs]_
@@ -13,6 +13,10 @@ If you're looking for the [**entire map list (or dying to know what maps&#x20;**
 
 
 ## 2026:
+
+### 2/8/2026 - Arcana Heart
+
+* [**ze\_arcana\_heart\_sk1**](https://gamebanana.com/mods/427427) _<mark style="color:yellow;">**(CS map)**</mark>_**&#x20;\[5 Stages]**
 
 ### 2/1/2026 - Lego
 
